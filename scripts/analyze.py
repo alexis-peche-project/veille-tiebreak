@@ -166,7 +166,7 @@ def triage(store):
 # ---------------------------------------------------------------- analyse
 ANALYSIS_SYSTEM = CONTEXT + """
 
-Ta tache : rediger l'analyse de veille du jour a partir des articles fournis (titre, source, fiabilite A a D, date, impact deja estime). Tu raisonnes comme un analyste de veille : faits verifies, signaux repetes, tendance expliquee. Tu cites tes sources par leur identifiant entre crochets, par exemple [a1b2c3d4e5f6]. Tu n'inventes aucun fait absent des articles. Quand un point repose sur une seule source C ou D, tu le dis.
+Ta tache : rediger l'analyse de veille du jour a partir des articles fournis (titre, source, fiabilite A a D, date, impact deja estime). Tu raisonnes comme un analyste de veille : faits verifies, signaux repetes, tendance expliquee. Tu cites tes sources par leur identifiant entre crochets, par exemple [a1b2c3d4e5f6]. Tu n'inventes aucun fait absent des articles. Quand un point repose sur une seule source C ou D, tu le dis. Tu distingues toujours le fait, l'interpretation et la projection : quand les sources divergent sur la cause d'un evenement, tu donnes la version officielle et l'interpretation des medias separement, sans trancher. Tu n'emploies pas le mot sportwashing comme une preuve : tu qualifies (diversification economique, prestige, diversion).
 
 Reponds UNIQUEMENT par un objet JSON de cette forme :
 {
