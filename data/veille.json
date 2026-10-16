@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T14:51:35Z",
+ "updated": "2026-10-16T19:33:35Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
+  "added_last_run": 5,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 415
+  "rejected_last_run": 395
  },
  "items": [
+  {
+   "id": "b8968fe6f790",
+   "title": "En raison du report du Six Kings Slam, Novak Djokovic a reçu une wild card pour l'ATP 500 de Bâle",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbEJkSlRIVmNLSHVZMURISGVnZHBrV0NJWm9RNmFMaU1XYnppWTNVZ2Naa1VacUdST21GUHRCNXRaZHZ0aFdTRjRTWDJxV3djV2JVX2ZoZGdxQlJoLUVtbktPZTNmd2ZKSFNQY1owSEszclpua2RRQ3dBRWEzZGlCeTJTR0RlV3E4Y01ubmg3Q2paLVRnY2FTcVZxY0dNOTNmZzdEY21zTDVfUlNfRmNfTHBRN0xWczAyc1QwSk9jN3VSVVI3TkVXX1QwLUpIc2IwU3hwcmprejFFRGc1c3c?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-16T15:38:40Z",
+   "first_seen": "2026-10-16T19:33:35Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Ne mentionne pas Nike. Signal lié au calendrier tennis : report du Six Kings Slam et wild card de Djokovic à Bâle, sans effet direct sur l'offre Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "25ead8ac1aed",
+   "title": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLXM3eExuTjFRbUZsQVNrS2pSem1haWFELVVaNDRhOGpSNHNYdVYyb2NRZjZ1anZ1X2JOenN2c1FRYi1RYk5SeGo5S1hUY2pYR3VqZjdTVXp0dFBSSTZsYnM3S1I3UXFoQmVkMmVBZUtWQ0ZjZnJ4cHZrWEYzRFlleC0wN3hSLVY2MDM5MUpTb1BpSmtuSEpYZG1BdDJkMVhMMERVVHc5ZXV4UDlEVlNablVEX2tCZXA4MmZoWFl2V1pCczZlLTd4aDNJWkgtN3k1VkN5bW84V2lzQjVCMjFGNzB3?oc=5",
+   "source": "MarketWatch",
+   "domain": "marketwatch.com",
+   "date": "2026-10-16T14:28:00Z",
+   "first_seen": "2026-10-16T19:33:35Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike stock shares",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Opinion d'un analyste sur un possible redressement boursier de Nike après une chute. Le titre ne donne ni chiffres ni calendrier ; à vérifier avec les résultats.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "55063a843b3b",
    "title": "5 things to know before the stock market opens Friday",
@@ -4665,6 +4709,51 @@
    "axis_original": "E1"
   },
   {
+   "id": "123ea0f8ef48",
+   "title": "Air Max 90 x Léon Marchand : Nike ravit les fans avec ce drop inédit, voici l’astuce pour se le procurer",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDZSTXdoWm9FS21XcHBqTkVqQzRLelFRVWtGOHh6aEJxTkZmc1FycHplVTdtbURYWWhVZU1ROTV0bkE0cmJhOEEwa3czU0dTRHJiNmFBY0RHa0RnLTQwUlNCcXZodUFzX2JjWXRCXzJoRUdMd3BmSFJEUzRtMDhLUklJZ211a1J1WFI1YmhTMHlZd1NsMU5tTlZOczU5aWpYZ0FqZG9DU0lpc2p5X3pxZFJWNU9PT2lNT3h2bEw0dlFkWVJESW9IVl9VMFc5UmZGWHhla09OLTVDTnRU?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-09-27T07:00:00Z",
+   "first_seen": "2026-10-16T19:33:35Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Drop lifestyle hors tennis (Air Max 90 x Léon Marchand). Peu de lien avec la gamme tennis de Tie Break, mais exemple de drops à distribution limitée.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "4083cb589d59",
+   "title": "ATP, Laver Cup > Carlos Alcaraz : \"Des petits problèmes finissent par apparaître...\"",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGtMR3BzZHlCek5lUGFoRmFpU0NzLXJZa1FlV3JLakpVMXdqWUhEWnRsVXZLQUxtR3E0dHdIcHR4c3dQUmEwSE12bzNlUlVzejN1LTFyaUhuTWJ3V0owakx0VjMzNS1XVUJXSk9MY2NnRzJpd3dTdXlHeVY2VFpnZmFLczdPR1UycFFzT185OFFwdmMxQVN3?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-09-27T07:00:00Z",
+   "first_seen": "2026-10-16T19:33:35Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Carlos Alcaraz, athlète Nike, évoque de petits problèmes apparus après la Laver Cup. Possible effet sur sa visibilité et la demande pour ses produits, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "74ed42b0f1db",
    "title": "Derrière le transfert de Kylian Mbappé chez l’équipementier On, la dégringolade de Nike",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUxiUWdTV2xacVF1X3FXejhkMGxlMVRNemkxaGY2MEU1SlE0eVM5bUxWYWJPa2VEQ2pERGdMZEo3YTh2YWIteFN6aVo2MWdNS3NHMTNXREllTnZ6NV8wZjRDcmlld0dBTEZDallxWEZSR3hKRlJacElmRVFQdXUxLUNJUnJWbS03MkI5ZFhmeWMyRUlDYnZyRDdvMDgwNVB5UjQ1dVBucjB6WTQ5VVNvNHdTaUxrTDNGdW8tRG1lVklPdDhYWmJWOXNsT1d0NzdseURlZHVvNzN6SEVjMnVRdHdHSkFwUFB4Z1dN?oc=5",
@@ -5476,6 +5565,30 @@
    }
   },
   {
+   "id": "07467e90dcc2",
+   "title": "Converse : polémique autour d'une publicité qui évoquerait le Ku Klux Klan",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObWZ6RWpQLW56NTJacTBXbXJfNUxPaTZoNEYxZDhJZWcwTUVEOEl1VkU0U3cwems5Mm5YRFN2REt5UWE0TEFtR1cwZXhVUnVUcTN6YXhlTThFR0pDTWhUNkNFeWE4Z2FQMEFwT19yd2FEdmlrdXlLLTctWVFTeFVSanVkM3g1MDBTUTU2YkZWOHFrTzY3MXBhZGVueE96MGJVbEFCOVV1c3YyZ3doQW90QzVHYU1KS0V4SGlaTA?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "fr.fashionnetwork.com",
+   "date": "2026-09-21T07:00:00Z",
+   "first_seen": "2026-10-16T19:33:35Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Polémique sur une publicité Converse, filiale de Nike, accusée d'évoquer le Ku Klux Klan. Risque d'image pour le groupe ; effet direct limité sur la gamme tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "cd307d63ef7a",
    "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tSFktLURlZVExWDQzOVFQOFdwUVJCVGJfNkNCM0hOcllfazNOU2hEb0tIMVhPT2R0REtPRGdkcGpObS1ULWVrd3RRLXdiWmY5M1IzRE91RUQ0RzloYVNqdXRmcFJkUmVNakg0cVln?oc=5",
@@ -6100,5 +6213,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-16T14:56:26Z"
+ "ai_updated": "2026-10-16T19:38:01Z"
 }
