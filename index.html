@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Veille Tie Break</title>
+<meta name="description" content="Veille géopolitique automatisée pour Tie Break, revendeur officiel Nike Tennis à Nice.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23D8F04A'/%3E%3Cpath d='M5 9c6 3 6 11 0 14M27 9c-6 3-6 11 0 14' stroke='%231F4E8C' stroke-width='2' fill='none'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="masthead">
+  <div class="wrap masthead-inner">
+    <div class="brand">
+      <h1>Veille Tie Break</h1>
+      <p class="question">Dans quelle mesure l'exposition géopolitique et médiatique de Nike et de ses athlètes crée-t-elle des risques et des opportunités pour les ventes de Tie Break d'ici 2028&nbsp;?</p>
+    </div>
+    <div class="status">
+      <p id="updated" class="updated">Chargement des données…</p>
+      <button id="export" class="btn btn-ghost" type="button">Exporter les articles retenus</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="board" aria-labelledby="board-title">
+    <h2 id="board-title" class="board-title">Tableau des axes, 7 derniers jours</h2>
+    <div class="board-scroll">
+      <table class="scoreboard" id="scoreboard">
+        <thead>
+          <tr>
+            <th scope="col" class="col-axis">Axe de veille</th>
+            <th scope="col" title="Articles parus ces 7 derniers jours">Articles</th>
+            <th scope="col" title="Sources primaires officielles">A</th>
+            <th scope="col" title="Agences et grands médias">B</th>
+            <th scope="col" title="Médias spécialisés, à recouper">C</th>
+            <th scope="col" title="Acteurs engagés, opinion">D</th>
+            <th scope="col" class="col-hot" title="Articles contenant un mot-signal (boycott, droits de douane, retard…)">Signaux</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="board-note">Cliquez sur une ligne pour filtrer le fil. Les axes E1 à E3 sont géopolitiques&nbsp;; T4 et T5 sont des tendances sportives et commerciales.</p>
+  </section>
+
+  <nav class="tabs" role="tablist" aria-label="Vues">
+    <button role="tab" class="tab is-active" data-view="feed" aria-selected="true">Fil de veille</button>
+    <button role="tab" class="tab" data-view="kept" aria-selected="false">Retenus <span id="kept-count" class="count">0</span></button>
+    <button role="tab" class="tab" data-view="refs" aria-selected="false">Sources de référence</button>
+    <button role="tab" class="tab" data-view="method" aria-selected="false">Méthode</button>
+  </nav>
+
+  <section id="view-feed" class="view" role="tabpanel">
+    <form class="filters" id="filters" onsubmit="return false">
+      <label class="search">
+        <span class="sr">Rechercher</span>
+        <input id="q" type="search" placeholder="Rechercher un mot, un joueur, une source…" autocomplete="off">
+      </label>
+      <div class="filter-group" id="axis-filter" aria-label="Axe"></div>
+      <div class="filter-row">
+        <div class="filter-group" aria-label="Fiabilité">
+          <span class="filter-label">Fiabilité</span>
+          <label class="check"><input type="checkbox" name="rel" value="A" checked> A</label>
+          <label class="check"><input type="checkbox" name="rel" value="B" checked> B</label>
+          <label class="check"><input type="checkbox" name="rel" value="C" checked> C</label>
+          <label class="check"><input type="checkbox" name="rel" value="D" checked> D</label>
+        </div>
+        <label class="select">
+          <span class="filter-label">Période</span>
+          <select id="period">
+            <option value="1">24 heures</option>
+            <option value="7" selected>7 jours</option>
+            <option value="30">30 jours</option>
+            <option value="0">Tout</option>
+          </select>
+        </label>
+        <label class="select">
+          <span class="filter-label">Tri</span>
+          <select id="sort">
+            <option value="date">Plus récents</option>
+            <option value="score">Signal le plus fort</option>
+          </select>
+        </label>
+        <label class="check"><input type="checkbox" id="hot"> Signaux seulement</label>
+      </div>
+    </form>
+    <p id="result-count" class="result-count"></p>
+    <ol id="feed" class="feed"></ol>
+  </section>
+
+  <section id="view-kept" class="view" role="tabpanel" hidden>
+    <p class="lead">Les articles que vous retenez sont gardés dans ce navigateur. Ajoutez une note sur l'impact pour Tie Break, puis exportez la liste en CSV pour vos annexes.</p>
+    <ol id="kept" class="feed"></ol>
+  </section>
+
+  <section id="view-refs" class="view" role="tabpanel" hidden>
+    <p class="lead">Les 20 sources vérifiées à la main pour le dossier (étape 2, Sourcer).</p>
+    <div class="table-scroll">
+      <table class="refs" id="refs">
+        <thead><tr><th>N°</th><th>Source</th><th>Famille</th><th>Ce qu'elle établit</th><th>Axe</th><th>Fiab.</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="view-method" class="view prose" role="tabpanel" hidden>
+    <h2>Comment fonctionne cette veille</h2>
+    <h3>Collecte</h3>
+    <p>Toutes les deux heures, un programme hébergé sur GitHub interroge deux sources&nbsp;: Google Actualités (requêtes en français et en anglais) et GDELT, une base mondiale d'actualités conçue pour l'analyse géopolitique. Chaque axe a ses propres mots-clés. Les doublons sont supprimés et l'historique est conservé 120 jours.</p>
+    <h3>Classement</h3>
+    <ul>
+      <li><strong>Axe&nbsp;:</strong> déterminé par la requête qui a trouvé l'article.</li>
+      <li><strong>Fiabilité&nbsp;:</strong> A pour une source primaire officielle (Nike, ATP, WTA, institutions), B pour une agence ou un grand média, C pour un média spécialisé ou inconnu, à recouper, D pour un acteur engagé ou une opinion.</li>
+      <li><strong>Signal&nbsp;:</strong> un score qui augmente avec la fiabilité et la présence de mots-signaux (boycott, droits de douane, retard, blessure, sportswashing…).</li>
+    </ul>
+    <h3>Limites</h3>
+    <p>Le classement est automatique&nbsp;: un article peut être mal rangé ou une source mal notée. Rien n'entre dans le dossier sans avoir été ouvert, lu et recoupé. L'outil fait gagner du temps de repérage&nbsp;; la qualification reste humaine.</p>
+    <h3>Diffusion</h3>
+    <ul>
+      <li><strong>Alerte immédiate au gérant</strong> pour une polémique Nike, une rupture d'approvisionnement ou un appel au boycott relayé par une source A ou B.</li>
+      <li><strong>Point mensuel d'une page</strong> avant les commandes, à partir des articles retenus.</li>
+      <li><strong>Synthèse avant chaque Grand Chelem</strong>&nbsp;: tenues des joueurs Nike, état des livraisons, risques d'image.</li>
+    </ul>
+  </section>
+</main>
+
+<footer class="foot wrap">
+  <p>Projet de veille, M2 AMOS ACE, module Sport et géopolitique. Données&nbsp;: Google Actualités, GDELT Project.</p>
+</footer>
+
+<template id="item-tpl">
+  <li class="item">
+    <div class="item-meta">
+      <span class="axis-tag"></span>
+      <span class="rel"></span>
+      <time class="when"></time>
+      <span class="new-dot" title="Nouveau depuis votre dernière visite" hidden></span>
+    </div>
+    <div class="item-body">
+      <a class="item-title" target="_blank" rel="noopener"></a>
+      <p class="item-source"></p>
+      <p class="item-signals"></p>
+      <label class="note-wrap" hidden>
+        <span class="sr">Note sur l'impact pour Tie Break</span>
+        <textarea class="note" rows="2" placeholder="Impact pour Tie Break : risque, opportunité, action…"></textarea>
+      </label>
+    </div>
+    <button class="keep" type="button" aria-pressed="false">Retenir</button>
+  </li>
+</template>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
