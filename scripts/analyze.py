@@ -9,6 +9,7 @@
    matrice de priorite, recommandations. Modele plus puissant (Claude Sonnet).
 
 Sans cle ANTHROPIC_API_KEY, le script ne fait rien et le site reste fonctionnel.
+La cle est stockee dans les secrets GitHub du depot (jamais dans le site).
 """
 import datetime as dt
 import json
