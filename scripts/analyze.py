@@ -26,7 +26,7 @@ AN_DIR = os.path.join(ROOT, "data", "analyses")
 API_URL = "https://api.anthropic.com/v1/messages"
 TRIAGE_MODEL = os.environ.get("TRIAGE_MODEL", "claude-haiku-5-5")
 ANALYSIS_MODEL = os.environ.get("ANALYSIS_MODEL", "claude-sonnet-5-5")
-TRIAGE_BATCH = 40
+TRIAGE_BATCH = 20
 TRIAGE_MAX_PER_RUN = 240
 ANALYSIS_EVERY_HOURS = 20
 ANALYSIS_WINDOW_DAYS = 14
@@ -94,6 +94,17 @@ def extract_json(text):
     return None
 
 
+def salvage_objects(text):
+    """Recupere les objets JSON complets d'un tableau tronque ou mal forme."""
+    out = []
+    for m in re.finditer(r"\{[^{}]*\}", text or ""):
+        try:
+            out.append(json.loads(m.group(0)))
+        except ValueError:
+            continue
+    return out
+
+
 # ---------------------------------------------------------------- tri
 TRIAGE_SYSTEM = CONTEXT + """
 
@@ -120,11 +131,15 @@ def triage(store):
         batch = todo[i:i + TRIAGE_BATCH]
         lines = ["%s | axe propose %s | %s | %s | %s" % (
             it["id"], it["axis"], it["source"], it["date"][:10], it["title"]) for it in batch]
-        text = call_claude(TRIAGE_MODEL, TRIAGE_SYSTEM, "Articles :\n" + "\n".join(lines), 4000)
+        text = call_claude(TRIAGE_MODEL, TRIAGE_SYSTEM, "Articles :\n" + "\n".join(lines), 6000)
         result = extract_json(text)
         if not isinstance(result, list):
-            print("  ! reponse illisible pour ce lot, il sera retente au prochain passage", file=sys.stderr)
-            continue
+            result = salvage_objects(text)
+            print("  lot partiellement lisible : %d objets recuperes" % len(result))
+            if not result:
+                print("  ! reponse illisible : %s" % (text or "")[:200].replace("\n", " "), file=sys.stderr)
+                continue
+        time.sleep(3)
         for row in result:
             it = by_id.get(str(row.get("id", "")))
             if not it:
@@ -193,6 +208,9 @@ def analyse(store, force):
     pool = [it for it in store["items"] if it["date"] >= since and it.get("ai", {}).get("r", 0) >= 2]
     pool.sort(key=lambda x: (x["ai"]["r"], {"A": 3, "B": 2, "C": 1, "D": 1}[x["reliability"]], x["date"]), reverse=True)
     pool = pool[:160]
+    if len(pool) < 15:
+        since30 = (now - dt.timedelta(days=30)).strftime("%Y-%m-%dT%H:%M:%SZ")
+        pool = [it for it in store["items"] if it["date"] >= since30 and it.get("ai", {}).get("r", 0) >= 2][:160]
     if len(pool) < 5:
         print("Analyse : trop peu d'articles pertinents (%d) pour une analyse." % len(pool))
         return
@@ -202,9 +220,10 @@ def analyse(store, force):
         it["title"], it["ai"].get("impact", "")) for it in pool]
     user = "Date du jour : %s. Periode couverte : %d derniers jours.\nArticles :\n%s" % (
         now.strftime("%Y-%m-%d"), ANALYSIS_WINDOW_DAYS, "\n".join(lines))
-    result = extract_json(call_claude(ANALYSIS_MODEL, ANALYSIS_SYSTEM, user, 8000))
+    raw = call_claude(ANALYSIS_MODEL, ANALYSIS_SYSTEM, user, 16000)
+    result = extract_json(raw)
     if not isinstance(result, dict) or "synthese" not in result:
-        print("  ! analyse illisible, nouvelle tentative au prochain passage", file=sys.stderr)
+        print("  ! analyse illisible : %s" % (raw or "")[-300:].replace("\n", " "), file=sys.stderr)
         return
     valid = {it["id"] for it in pool}
     sources = {it["id"]: {"title": it["title"], "url": it["url"], "source": it["source"],
