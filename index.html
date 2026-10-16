@@ -49,6 +49,7 @@
 
   <nav class="tabs" role="tablist" aria-label="Vues">
     <button role="tab" class="tab is-active" data-view="feed" aria-selected="true">Fil de veille</button>
+    <button role="tab" class="tab" data-view="analyses" aria-selected="false">Analyses</button>
     <button role="tab" class="tab" data-view="kept" aria-selected="false">Retenus <span id="kept-count" class="count">0</span></button>
     <button role="tab" class="tab" data-view="refs" aria-selected="false">Sources de référence</button>
     <button role="tab" class="tab" data-view="method" aria-selected="false">Méthode</button>
@@ -79,9 +80,19 @@
           </select>
         </label>
         <label class="select">
+          <span class="filter-label">Pertinence</span>
+          <select id="relevance">
+            <option value="1" selected>Masquer les hors-sujet</option>
+            <option value="2">Utiles et importants</option>
+            <option value="3">Importants seulement</option>
+            <option value="0">Tout afficher</option>
+          </select>
+        </label>
+        <label class="select">
           <span class="filter-label">Tri</span>
           <select id="sort">
             <option value="date">Plus récents</option>
+            <option value="relevance">Plus pertinents</option>
             <option value="score">Signal le plus fort</option>
           </select>
         </label>
@@ -90,6 +101,17 @@
     </form>
     <p id="result-count" class="result-count"></p>
     <ol id="feed" class="feed"></ol>
+  </section>
+
+  <section id="view-analyses" class="view" role="tabpanel" hidden>
+    <div class="an-head">
+      <p id="an-meta" class="lead">Chargement de l'analyse…</p>
+      <label class="select" id="an-pick-wrap" hidden>
+        <span class="filter-label">Analyse du</span>
+        <select id="an-pick"></select>
+      </label>
+    </div>
+    <div id="an-body"></div>
   </section>
 
   <section id="view-kept" class="view" role="tabpanel" hidden>
@@ -110,12 +132,19 @@
   <section id="view-method" class="view prose" role="tabpanel" hidden>
     <h2>Comment fonctionne cette veille</h2>
     <h3>Collecte</h3>
-    <p>Toutes les deux heures, un programme hébergé sur GitHub interroge deux sources&nbsp;: Google Actualités (requêtes en français et en anglais) et GDELT, une base mondiale d'actualités conçue pour l'analyse géopolitique. Chaque axe a ses propres mots-clés. Les doublons sont supprimés et l'historique est conservé 120 jours.</p>
+    <p>Toutes les deux heures, un programme hébergé sur GitHub interroge deux sources&nbsp;: Google Actualités (requêtes en français et en anglais) et l'API GDELT, une base mondiale d'actualités conçue pour l'analyse géopolitique. Chaque axe a ses propres mots-clés. Les doublons sont supprimés et l'historique est conservé 120 jours.</p>
+    <p><strong>Liste blanche&nbsp;:</strong> seuls les articles publiés par un site reconnu sont conservés (environ 140 sites&nbsp;: institutions, agences de presse, grands médias, presse spécialisée tennis, sport business, mode, logistique, think tanks géopolitiques). Les blogs, agrégateurs et sites inconnus sont écartés automatiquement.</p>
     <h3>Classement</h3>
     <ul>
       <li><strong>Axe&nbsp;:</strong> déterminé par la requête qui a trouvé l'article.</li>
       <li><strong>Fiabilité&nbsp;:</strong> A pour une source primaire officielle (Nike, ATP, WTA, institutions), B pour une agence ou un grand média, C pour un média spécialisé ou inconnu, à recouper, D pour un acteur engagé ou une opinion.</li>
       <li><strong>Signal&nbsp;:</strong> un score qui augmente avec la fiabilité et la présence de mots-signaux (boycott, droits de douane, retard, blessure, sportswashing…).</li>
+    </ul>
+    <h3>Tri et analyse par Claude</h3>
+    <ul>
+      <li><strong>Tri&nbsp;:</strong> chaque nouvel article est lu par Claude (modèle Haiku), qui lui donne une pertinence de 0 à 3, corrige l'axe si besoin, estime l'impact pour Tie Break en une phrase et qualifie le signal (fort ou faible). Les articles notés 0 sont masqués par défaut.</li>
+      <li><strong>Analyse&nbsp;:</strong> une fois par jour, Claude (modèle Sonnet) rédige une synthèse des articles pertinents des 14 derniers jours&nbsp;: tendance par axe, faits sourcés, signaux faibles, matrice de priorité et recommandations. Chaque affirmation renvoie aux articles cités.</li>
+      <li>Claude ne voit que le titre, la source et la date des articles, pas leur texte intégral&nbsp;: ses analyses sont des pistes à vérifier, pas des conclusions.</li>
     </ul>
     <h3>Limites</h3>
     <p>Le classement est automatique&nbsp;: un article peut être mal rangé ou une source mal notée. Rien n'entre dans le dossier sans avoir été ouvert, lu et recoupé. L'outil fait gagner du temps de repérage&nbsp;; la qualification reste humaine.</p>
@@ -138,11 +167,13 @@
       <span class="axis-tag"></span>
       <span class="rel"></span>
       <time class="when"></time>
+      <span class="relev" hidden></span>
       <span class="new-dot" title="Nouveau depuis votre dernière visite" hidden></span>
     </div>
     <div class="item-body">
       <a class="item-title" target="_blank" rel="noopener"></a>
       <p class="item-source"></p>
+      <p class="item-impact" hidden></p>
       <p class="item-signals"></p>
       <label class="note-wrap" hidden>
         <span class="sr">Note sur l'impact pour Tie Break</span>

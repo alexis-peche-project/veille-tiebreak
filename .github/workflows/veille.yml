@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 */2 * * *"   # toutes les 2 heures
   workflow_dispatch:          # bouton "Run workflow" pour lancer à la main
+    inputs:
+      force_analysis:
+        description: "Refaire l'analyse Claude maintenant"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: ["scripts/**", ".github/workflows/**"]
@@ -23,13 +28,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Collecter les actualités
+      - name: Collecter les actualités (sites de la liste blanche)
         run: python scripts/fetch.py
+      - name: Trier et analyser avec Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE_ANALYSIS: ${{ github.event.inputs.force_analysis || (github.event_name == 'push' && 'true') || 'false' }}
+        run: python scripts/analyze.py
       - name: Enregistrer les nouvelles données
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
-          git add data/veille.json
+          git add data/
           if git diff --cached --quiet; then
             echo "Aucune nouvelle donnée."
           else

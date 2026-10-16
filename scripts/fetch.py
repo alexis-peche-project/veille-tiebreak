@@ -17,6 +17,9 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from sources import grade_source, domain_of  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "veille.json")
 KEEP_DAYS = 120
@@ -103,32 +106,6 @@ AXES = {
     },
 }
 
-# Fiabilite : A = source primaire officielle, B = agence / grand media,
-# C = media specialise (a recouper), D = acteur engage / opinion.
-RELIABILITY = [
-    ("A", ["nike", "sec.gov", "atp tour", "atptour", "wta", "wtatennis", "itf", "fft",
-           "fédération française de tennis", "wada", "agence mondiale antidopage",
-           "commission européenne", "european commission", "gouvernement",
-           "ministère", "white house", "maison blanche", "ustr", "wto", "omc"]),
-    ("D", ["amnesty", "human rights watch", "hrw", "greenpeace", "blog",
-           "opinion", "tribune", "medium", "substack"]),
-    ("B", ["reuters", "afp", "agence france-presse", "associated press", "ap news",
-           "le monde", "les echos", "le figaro", "franceinfo", "france info",
-           "france 24", "france24", "rfi", "radio france", "libération",
-           "liberation", "l'équipe", "lequipe", "ouest-france", "nice-matin",
-           "nice matin", "bfm", "the guardian", "bbc", "cnn", "new york times",
-           "washington post", "financial times", "bloomberg", "wall street journal",
-           "cnbc", "the economist", "le parisien", "20 minutes", "challenges",
-           "la tribune", "l'express", "le point", "nikkei", "south china morning post",
-           "al jazeera", "politico", "euronews", "lloyd's list",
-           # domaines (articles issus de GDELT)
-           "lemonde.fr", "lesechos.fr", "lefigaro.fr", "francetvinfo.fr",
-           "liberation.fr", "nicematin.com", "leparisien.fr", "20minutes.fr",
-           "bfmtv.com", "theguardian.com", "nytimes.com", "washingtonpost.com",
-           "ft.com", "wsj.com", "apnews.com", "aljazeera.com", "scmp.com",
-           "lloydslist", "ouest-france.fr", "latribune.fr", "lexpress.fr", "lepoint.fr"]),
-]
-
 SIGNAL_WORDS = [
     "boycott", "droits de douane", "tarif", "tariff", "sanction", "suspension",
     "suspendu", "polémique", "controverse", "controversy", "retard", "delay",
@@ -138,18 +115,6 @@ SIGNAL_WORDS = [
     "strike", "hausse des prix", "price increase", "rappel", "recall",
     "revendeur", "wholesale", "licenciement", "layoff",
 ]
-
-
-def classify_reliability(source):
-    s = (source or "").lower()
-    for grade, keys in RELIABILITY:
-        for k in keys:
-            if len(k) <= 4:
-                if re.search(r"(^|[^a-z])" + re.escape(k) + r"($|[^a-z])", s):
-                    return grade
-            elif k in s:
-                return grade
-    return "C"
 
 
 def feed_url(query, lang):
@@ -269,17 +234,29 @@ def main():
             store = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         store = {"items": []}
-    existing = {it["id"]: it for it in store.get("items", [])}
+    existing = {}
+    for it in store.get("items", []):
+        if it.get("query") == "sélection vérifiée":
+            existing[it["id"]] = it
+            continue
+        g = grade_source(it.get("source", ""), it.get("domain", ""))
+        if g is None:
+            continue
+        it["reliability"] = g
+        existing[it["id"]] = it
     seen_titles = {norm_key(it["title"]) for it in existing.values()}
 
-    counters = {"added": 0, "errors": 0}
+    counters = {"added": 0, "errors": 0, "rejected": 0}
 
     def ingest(entries, axis, lang, q, origin):
         for it in entries:
             key = norm_key(it["title"])
             if not key or key in seen_titles:
                 continue
-            grade = classify_reliability(it["source"] + " " + it["source_url"])
+            grade = grade_source(it["source"], it["source_url"])
+            if grade is None:
+                counters["rejected"] += 1
+                continue
             sc, hits = score(it, grade)
             iid = hashlib.sha1(key.encode("utf-8")).hexdigest()[:12]
             existing[iid] = {
@@ -287,6 +264,7 @@ def main():
                 "title": it["title"],
                 "url": it["url"],
                 "source": it["source"],
+                "domain": domain_of(it["source_url"]),
                 "date": it["date"].strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "first_seen": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "axis": axis,
@@ -329,13 +307,14 @@ def main():
     out = {
         "updated": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
         "axes": {k: v["label"] for k, v in AXES.items()},
-        "stats": {"added_last_run": added, "feed_errors_last_run": errors},
+        "stats": {"added_last_run": added, "feed_errors_last_run": errors,
+                  "rejected_last_run": counters["rejected"]},
         "items": items,
     }
     os.makedirs(os.path.dirname(DATA), exist_ok=True)
     with open(DATA, "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
-    print("Termine : %d nouveaux articles, %d au total, %d flux en erreur." % (added, len(items), errors))
+    print("Termine : %d nouveaux articles, %d rejetes (hors liste), %d au total, %d flux en erreur." % (added, counters["rejected"], len(items), errors))
 
 
 if __name__ == "__main__":
