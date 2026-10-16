@@ -159,12 +159,12 @@ def feed_url(query, lang):
     return "https://news.google.com/rss/search?q=%s&hl=en-US&gl=US&ceid=US:en" % q
 
 
-def fetch(url, tries=3):
+def fetch(url, tries=3, timeout=25):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (veille-tiebreak; +https://github.com)"})
     for i in range(tries):
         try:
-            with urllib.request.urlopen(req, timeout=25) as r:
+            with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except Exception as exc:  # noqa: BLE001
             print("  ! essai %d echoue : %s" % (i + 1, exc), file=sys.stderr)
@@ -217,11 +217,11 @@ def parse_feed(xml_bytes):
 
 # GDELT (base mondiale d'actualites, API gratuite sans cle) : une requete par axe.
 GDELT_QUERIES = {
-    "E1": '(Nike boycott OR "boycott American brands" OR "Nike tariffs Europe")',
-    "E2": '("Nike" (Vietnam OR Xinjiang OR "supply chain")) OR ("Red Sea" shipping containers)',
-    "E3": '(tennis ("Saudi Arabia" OR PIF OR Riyadh OR sportswashing))',
-    "T4": '((Sinner OR Alcaraz OR Sabalenka) Nike)',
-    "T5": '(Nike (wholesale OR retailers OR earnings OR "tennis collection"))',
+    "E1": 'Nike (boycott OR tariffs OR controversy)',
+    "E2": 'Nike (Vietnam OR Xinjiang OR factories OR "supply chain")',
+    "E3": 'tennis ("Saudi Arabia" OR Riyadh OR sportswashing)',
+    "T4": 'Nike (Sinner OR Alcaraz OR Sabalenka)',
+    "T5": 'Nike (wholesale OR retailers OR earnings)',
 }
 
 
@@ -230,7 +230,7 @@ def gdelt_items(query):
         "query": query, "mode": "artlist", "format": "json",
         "maxrecords": "50", "timespan": "7d", "sort": "datedesc",
     })
-    raw = fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + params)
+    raw = fetch("https://api.gdeltproject.org/api/v2/doc/doc?" + params, timeout=60)
     if raw is None:
         return None
     try:
