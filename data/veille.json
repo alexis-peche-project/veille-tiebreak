@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:40:14Z",
+ "updated": "2026-10-16T09:46:21Z",
  "axes": {
   "E1": "Nike et la puissance americaine",
   "E2": "Production et routes d'approvisionnement",
@@ -8,9 +8,9 @@
   "T5": "Distribution Nike et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
+  "added_last_run": 0,
   "feed_errors_last_run": 0,
-  "rejected_last_run": 400
+  "rejected_last_run": 403
  },
  "items": [
   {
@@ -26,7 +26,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Réformes ATP annoncées pour 2028 pouvant modifier calendrier et format des tournois, donc le temps d'exposition des athlètes Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d96469c20c81",
@@ -41,7 +47,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "4206098e6312",
@@ -57,7 +69,13 @@
    "origin": "GDELT",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "efe9207fd4e6",
@@ -72,7 +90,13 @@
    "origin": "GDELT",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Évolution des attentes des adolescents en chaussures : tendance à suivre pour l'assortiment chaussures, catégorie qui représente une part des ventes Nike de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "08cc438ca734",
@@ -87,7 +111,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Difficultés financières du circuit WTA signalées par sa présidente : risque sur calendrier et dotations, donc sur l'attractivité des tournois pour les joueuses Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b68449e43d78",
@@ -104,7 +134,13 @@
    "score": 3,
    "signals": [
     "red sea"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Drone menaçant un porte-conteneurs CMA CGM abattu en mer Rouge : risque accru de retards et de hausse du fret sur les collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "16d495845963",
@@ -119,7 +155,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Interrogation sur la vulnérabilité de l'Arabie saoudite face aux Houthis : risque pour les tournois financés par Riyad et leur calendrier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7ab0f3a1f5c2",
@@ -137,7 +179,13 @@
    "score": 4,
    "signals": [
     "mer rouge"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Drone survolant un porte-conteneurs CMA CGM abattu en mer Rouge : risque accru de retards et de hausse du fret sur les collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "221330f4a5f6",
@@ -146,13 +194,20 @@
    "source": "WTA Tennis",
    "date": "2026-10-15T15:45:03Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "en",
    "query": "WTA Finals Riyadh",
    "origin": "Google Actualités",
    "reliability": "A",
    "score": 3,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Préparation des joueuses aux WTA Finals : information sur la performance, sans lien direct avec les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "a74a81406501",
@@ -162,7 +217,7 @@
    "domain": "aljazeera.com",
    "date": "2026-10-15T14:30:00Z",
    "first_seen": "2026-10-16T09:40:14Z",
-   "axis": "E3",
+   "axis": "E2",
    "lang": "en",
    "query": "tennis (\"Saudi Arabia\" OR Riyadh OR sportswashing)",
    "origin": "GDELT",
@@ -170,7 +225,14 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Intensification des combats au Yémen : maintien d'un risque sécuritaire en mer Rouge, route clé des approvisionnements vers l'Europe.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "6bc4824dab61",
@@ -185,7 +247,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Frégate française abattant un drone près de Bab Al-Mandab : tensions sur la sécurité des routes d'approvisionnement et inquiétude des équipages, délais possibles.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "61d64f463c21",
@@ -200,7 +268,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Révolution annoncée du classement, du calendrier et des primes ATP : impact potentiel sur la programmation des joueurs Nike et leur exposition.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0063ea54ca58",
@@ -215,7 +289,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz jouera l'ATP 500 de Vienne en compensation du report du Six Kings Slam : calendrier modifié, visibilité du joueur Nike à suivre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "bf187b556a89",
@@ -230,7 +310,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz jouera Vienne après le report du Six Kings Slam : calendrier de fin de saison modifié, visibilité du joueur Nike à suivre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b4ce3dbb13a7",
@@ -245,7 +331,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour d'Alcaraz à Vienne fin octobre après le report du Six Kings Slam : programme modifié, visibilité du joueur Nike à réajuster.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f6cdac1626b6",
@@ -260,7 +352,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz revoit son programme après le report du Six Kings Slam : calendrier de la fin de saison à réajuster pour les campagnes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c7455b64ebd3",
@@ -277,7 +375,13 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Report d'un tournoi exhibition saoudien après des attaques houthies : la géopolitique régionale fragilise concrètement l'agenda tennis financé par Riyad.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "1eb8a11e8955",
@@ -286,13 +390,20 @@
    "source": "Ouest-France",
    "date": "2026-10-15T07:48:26Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Abandon d'Arthur Gea en quarts de finale à Shanghai : résultat ponctuel, intérêt limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "5a90c79f87de",
@@ -310,7 +421,13 @@
    "signals": [
     "tarif",
     "tariff"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Droits de douane modifiant les prix et l'offre en magasin : répercussion probable sur les tarifs textile et chaussures Nike à anticiper.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d53699c9009f",
@@ -342,7 +459,13 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Report d'un tournoi d'exhibition saoudien majeur après des attaques houthistes : calendrier d'Alcaraz et Djokovic perturbé, image d'un événement à risque sécuritaire.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "4306161eccb6",
@@ -357,7 +480,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le Six Kings Slam est reporté après des attaques visant l'aéroport de Riyad : risque sécuritaire direct sur les événements soutenus par le PIF.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7e1055070a79",
@@ -374,7 +503,13 @@
    "score": 3,
    "signals": [
     "red sea"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour des porte-conteneurs en mer Rouge progresse plus vite que les alertes : possible détente des délais et du fret Asie-Europe, à confirmer.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0b447c44d571",
@@ -391,7 +526,13 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Report du tournoi saoudien avec Alcaraz et Djokovic lié aux attaques houthistes : impact possible sur le calendrier et la communication des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "dc822eaa6dbd",
@@ -406,7 +547,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "La BBC relie le report du Six Kings Slam, avec Alcaraz et Djokovic, à des attaques meurtrières en Arabie saoudite : exposition réputationnelle des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "54ecbe1c6223",
@@ -423,7 +570,13 @@
    "score": 4,
    "signals": [
     "strike"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le New York Times cite des raisons logistiques pour le report, malgré des frappes à Riyad : motif officiel et contexte sécuritaire à distinguer.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d244eef75143",
@@ -440,7 +593,13 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Report de l'exhibition saoudienne très lucrative après les attaques houthies : calendrier des joueurs Nike modifié, effet commercial direct limité.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "458716c091f0",
@@ -457,7 +616,13 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le Figaro relie le report du tournoi saoudien aux attaques houthistes : risque sécuritaire qui pèse sur les tournois financés par l'Arabie saoudite.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "9cad56753c5d",
@@ -475,7 +640,13 @@
    "score": 4,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Ouest-France confirme le report du Six Kings Slam après les attaques houthies : exposition des athlètes Nike à des événements en zone à risque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "111d79f9a593",
@@ -493,7 +664,13 @@
    "signals": [
     "tarif",
     "tariff"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Moody's relève ses perspectives sur le retail et l'habillement avec la baisse des droits de douane : contexte financier plus favorable pour les achats.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "35b68d660de4",
@@ -510,7 +687,13 @@
    "score": 3,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Eurosport confirme le report du Six Kings Slam après les attaques houthies : calendrier d'exhibition modifié pour les joueurs Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "714a0f2991cb",
@@ -525,7 +708,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Report du Six Kings Slam à fin décembre : calendrier des joueurs Nike décalé, effet direct limité sur les ventes de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "687c16278ff8",
@@ -540,7 +729,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le tournoi est officiellement reporté à décembre : confirmation d'un changement de calendrier pour les athlètes, à suivre pour la saison 2027.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e04797d9ff71",
@@ -555,7 +750,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Report du Six Kings Slam en Arabie saoudite : signal sur le calendrier des événements saoudiens ; la partie AFC/Coupe d'Asie est hors sujet.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d6d2c29aa023",
@@ -570,7 +771,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Changement de programme pour Alcaraz, Djokovic et Zverev après le report du Six Kings Slam : calendrier des têtes d'affiche à croiser avec les athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "8e6a8f4be838",
@@ -585,7 +792,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "73355b832a82",
@@ -600,7 +813,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le Figaro s'interroge sur la tenue du Six Kings Slam malgré les attaques à Riyad : incertitude sur le calendrier des athlètes Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e0c6a990b5d5",
@@ -618,7 +837,13 @@
    "signals": [
     "tarif",
     "tariff"
-   ]
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Données d'importations américaines d'habillement très volatiles sous l'effet des tarifs : indicateur lointain, peu d'effet direct sur un magasin niçois.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b7c5412d19c0",
@@ -633,7 +858,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le plan de 2,5 Md$ de Nike pourrait peser sur certains fournisseurs asiatiques : risque de tensions sur les délais de livraison vers Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "570a2e24536e",
@@ -642,13 +873,20 @@
    "source": "France 24",
    "date": "2026-10-14T10:05:50Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "T5",
+   "axis": "T4",
    "lang": "fr",
    "query": "marché du tennis France",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Retraite d'un joueur français connu, sans lien avec Nike dans le titre : effet commercial indirect possible sur l'intérêt pour le tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "bfa20c6d390e",
@@ -665,7 +903,13 @@
    "score": 4,
    "signals": [
     "suez"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour discret du trafic dans le canal de Suez peut réduire les délais de fret vers l'Europe et soulager les retards de livraison Nike de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "be9a1d84a380",
@@ -674,7 +918,7 @@
    "source": "France 24",
    "date": "2026-10-14T08:43:49Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
@@ -683,7 +927,14 @@
    "signals": [
     "dopage",
     "retrait"
-   ]
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Retraite administrative d'un joueur français pour raison antidopage ; lien direct limité avec les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "1aec5f79ed0f",
@@ -692,7 +943,7 @@
    "source": "franceinfo",
    "date": "2026-10-14T08:37:18Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "T5",
+   "axis": "T4",
    "lang": "fr",
    "query": "marché du tennis France",
    "origin": "Google Actualités",
@@ -701,7 +952,14 @@
    "signals": [
     "dopage",
     "retrait"
-   ]
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Même affaire antidopage que l'article précédent ; effet indirect sur la visibilité du tennis français, sans impact commercial direct pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "8f4aa269f730",
@@ -716,7 +974,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nouvelles dates et diffusion du Six Kings Slam en Arabie saoudite : exposition médiatique supplémentaire des joueurs, dont certains peuvent porter Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e50633f7425d",
@@ -725,13 +989,20 @@
    "source": "France 24",
    "date": "2026-10-14T06:05:44Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "E2",
    "lang": "fr",
    "query": "guerre commerciale États-Unis Union européenne textile",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un excédent commercial chinois record suggère une forte dépendance des flux asiatiques et une pression possible sur les mesures commerciales touchant les produits importés.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "a54490f7b550",
@@ -746,7 +1017,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Attribution d'un Grand Prix africain controversée ; exemple de sportswashing sans effet direct établi sur le tennis ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "690b633462ab",
@@ -761,7 +1038,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Analyse de la controverse autour du Grand Prix africain de F1 ; contexte de géographie du sport, sans lien direct avec Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "538eb1225247",
@@ -776,7 +1059,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Critique sur les matchs d'exhibition d'Alcaraz, joueur Nike ; débat d'image pouvant influencer la perception de l'athlète et de la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "aa597988c34d",
@@ -793,7 +1082,13 @@
    "score": 3,
    "signals": [
     "blessure"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure au genou de Sinner, athlète Nike majeur : risque sur sa présence en tournois, sur la visibilité de la marque et sur la demande en textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c677f9283c37",
@@ -808,7 +1103,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Accord décennal de rwanda pour le Grand Prix de F1 ; géopolitique du sport sans effet direct identifiable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "309e30e0a7ea",
@@ -823,7 +1124,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "859a0715f269",
@@ -838,7 +1145,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Doute sur la tenue du Six Kings Slam 2026 en Arabie saoudite : incertitude sur le calendrier d'exhibitions des athlètes Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e97eae5b6eec",
@@ -853,7 +1166,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Élimination d'Alcaraz dès le troisième tour à Shanghai : résultat qui peut peser sur la visibilité de Nike et la course au Masters de Turin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2cd386093708",
@@ -868,7 +1187,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Élimination d'Alcaraz à Shanghai et Zverev numéro un mondial : changement de hiérarchie qui influence la visibilité des athlètes dans les ventes de fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "facebd0781ca",
@@ -877,13 +1202,20 @@
    "source": "Tennis Actu",
    "date": "2026-10-12T13:08:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "PIF ATP WTA",
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Zverev terminera 2026 numéro un mondial ; effet sur la visibilité du tennis, sans lien établi avec les athlètes Nike de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "bfaa53bd5549",
@@ -901,7 +1233,13 @@
    "signals": [
     "suez",
     "red sea"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Les expéditeurs redoutent les risques liés au canal de Suez et à la mer Rouge : possibles retards et hausses de coûts sur les livraisons Nike vers la France.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "1b6fb9d20670",
@@ -910,13 +1248,20 @@
    "source": "20 Minutes",
    "date": "2026-10-12T10:12:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike polémique",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Engouement annoncé pour un modèle de chaussures d'entraînement Nike : demande possible sur ce modèle, à confirmer par les volumes de vente.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "ebc1e8e154ae",
@@ -931,7 +1276,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Structure de gouvernance du club de Newcastle après la prise de contrôle saoudienne ; contexte de l'investissement des fonds du Golfe dans le sport.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c9e4ccee21aa",
@@ -946,7 +1297,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "83f3ebbd9eb4",
@@ -955,13 +1312,20 @@
    "source": "Eurosport",
    "date": "2026-10-11T09:22:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'un joueur français à Shanghai ; lien avec les athlètes Nike non établi par le titre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "376ce7560c47",
@@ -976,7 +1340,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le Six Kings Slam, tournoi saoudien, s'ajoute au calendrier 2026 : il peut attirer des athlètes Nike et modifier l'attention médiatique du tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "dd11aab0bd95",
@@ -991,7 +1361,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une nouvelle attaque à Riyad avant le tournoi fait peser un risque sécuritaire sur l'événement et sur la visibilité des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "096c4ba07d41",
@@ -1006,7 +1382,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Entrée en lice d'Alcaraz à Shanghai : résultat sportif sans effet direct mesurable sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b5f4cccb23b5",
@@ -1021,7 +1403,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Victoire d'Alcaraz au deuxième tour de Shanghai : information sportive ponctuelle, lien faible avec l'activité du magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "591f432a6770",
@@ -1030,13 +1418,20 @@
    "source": "France 24",
    "date": "2026-10-10T12:57:46Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Doublon de l'entrée en lice d'Alcaraz à Shanghai : information sportive ponctuelle, sans effet direct sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "958a75ac2e38",
@@ -1045,13 +1440,20 @@
    "source": "Univers Tennis",
    "date": "2026-10-10T12:55:02Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La série de victoires d'Alcaraz peut renforcer la demande en articles Nike liés à ce joueur, sous réserve de sa confirmation dans la durée.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "421240a87ef5",
@@ -1060,13 +1462,20 @@
    "source": "Tennis Actu",
    "date": "2026-10-10T08:18:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "PIF ATP WTA",
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Qualification de joueuses au Masters WTA, dont Sabalenka, athlète Nike : lien indirect avec la demande de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "e35d0921fab1",
@@ -1081,7 +1490,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e052ee2ea539",
@@ -1096,7 +1511,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un accord Pékin-UE de réduction d'exports change le contexte tarifaire et peut influencer les coûts d'approvisionnement de Nike en Europe.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0093af597cd9",
@@ -1111,7 +1532,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike rejoint une initiative contre la pollution microfibre : signal d'une pression réglementaire future sur les textiles vendus par Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2029a4e3c82f",
@@ -1128,7 +1555,13 @@
    "score": 4,
    "signals": [
     "strike"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Un accord intérimaire UE-Chine sur les échanges peut modifier les droits et flux commerciaux touchant les chaînes d'approvisionnement asiatiques.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "dc7cfa2aa9f9",
@@ -1143,7 +1576,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "28713dc8828a",
@@ -1152,13 +1591,20 @@
    "source": "Bloomberg.com",
    "date": "2026-10-09T13:13:18Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "en",
    "query": "Nike supply chain",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La baisse de la marque Jordan fragilise la santé financière de Nike, dont dépend 70 % du chiffre d'affaires de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "8adb9fa577d6",
@@ -1167,13 +1613,20 @@
    "source": "France 24",
    "date": "2026-10-09T12:05:51Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Élimination de Djokovic à Shanghai : actualité tennis sans lien direct avec les marques Nike suivies par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "fb2e13d36939",
@@ -1189,7 +1642,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Près de 192 milliards de dollars d'échanges exposés aux passages maritimes en tension : risque direct de retards et de hausse du fret pour les livraisons Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3b1599583eb0",
@@ -1204,7 +1663,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une analyse évoque un danger d'attentats pour le Six Kings Slam, ce qui peut affecter le calendrier et l'intérêt pour les athlètes Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "40fe6fb51171",
@@ -1219,7 +1684,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Trois morts dans des attaques à l'aéroport de Riyad, moins de deux semaines avant le Six Kings Slam : risque sécuritaire avéré pour les événements saoudiens.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "278e801d8a6a",
@@ -1234,7 +1705,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les revenus publicitaires d'Alcaraz, environ 38 millions de dollars, montrent le poids commercial de l'athlète Nike, moteur possible de demande.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "dc8b039f29de",
@@ -1251,7 +1728,13 @@
    "score": 3,
    "signals": [
     "dopage"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une rumeur de test antidopage raté concernant Sinner, athlète Nike, peut affecter l'image de la marque si elle prend de l'ampleur.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "be39373bc871",
@@ -1268,7 +1751,13 @@
    "score": 3,
    "signals": [
     "blessure"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "La blessure de Sinner, athlète Nike, peut réduire sa présence en compétition et donc la visibilité des produits associés.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2623593a073d",
@@ -1283,7 +1772,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une nouvelle voie maritime arctique entre la Chine et l'Europe pourrait, à terme, modifier les délais et coûts du fret Asie-Europe pour les livraisons Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f9d377a8c435",
@@ -1292,13 +1787,20 @@
    "source": "20 Minutes",
    "date": "2026-10-08T05:42:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike polémique",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Engouement pour un modèle Nike lifestyle hors tennis ; effet limité sur les ventes de chaussures de tennis du magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "fbd8efcead24",
@@ -1313,7 +1815,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f5b9fc63e395",
@@ -1329,7 +1837,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Commentaire sur un geste de Jannik Sinner, sans effet direct identifiable sur les ventes ou l'approvisionnement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "8bc7c6bbde8e",
@@ -1344,7 +1858,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Victoire d'Alcaraz à Tokyo, athlète Nike : peut soutenir la demande pour les modèles et textiles Nike de tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ca836374c56e",
@@ -1353,13 +1873,20 @@
    "source": "Reuters",
    "date": "2026-10-07T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "E1",
    "lang": "en",
    "query": "Nike supply chain",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Lululemon recrute un ancien de Nike pour piloter ses produits : signe de concurrence accrue sur le textile sportif, impact direct faible pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "238e0bbf26ae",
@@ -1376,7 +1903,13 @@
    "score": 3,
    "signals": [
     "red sea"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Tirs contre un porte-conteneurs chinois en mer Rouge : risque de retards et de hausse du fret sur les collections Nike déjà fragiles.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "efd0d37cc086",
@@ -1391,7 +1924,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Remplacement de Sinner au Six Kings Slam, tournoi soutenu par l'Arabie saoudite : illustre la nouvelle géographie du tennis, sans effet direct sur Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f73075e22c82",
@@ -1406,7 +1945,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Bilan de cinq ans de propriété saoudienne de Newcastle : contexte du sportswashing, hors tennis et sans lien direct avec Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e44e4e7f584f",
@@ -1423,7 +1968,13 @@
    "score": 4,
    "signals": [
     "suez"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Dépendance du commerce mondial à Bab el-Mandeb, Suez et Taïwan : rappelle la fragilité des routes d'approvisionnement des collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a197c7dc486a",
@@ -1438,7 +1989,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Changements de plateau au Six Kings Slam : information de calendrier peu utile pour les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7fb2417557f8",
@@ -1453,7 +2010,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner, athlète Nike majeur, absent du reste de 2026 : moins de visibilité et de demande pour les produits Nike de tennis à court terme.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "16e7573ad68f",
@@ -1470,7 +2033,13 @@
    "score": 3,
    "signals": [
     "blessure"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner, athlète Nike majeur, renonce au reste de 2026 : baisse probable de visibilité et de demande pour les produits Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "93f0cd19ae63",
@@ -1487,7 +2056,13 @@
    "score": 3,
    "signals": [
     "blessure"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz remercie son équipe après son sacre malgré une blessure : signal de retour en forme favorable à l'image de la marque Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d5e0bdf74166",
@@ -1502,7 +2077,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner absent de la compétition en 2027 selon Le Monde : risque durable pour la demande Nike si confirmé, à vérifier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7ab24987b16c",
@@ -1517,7 +2098,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner met fin à sa saison et cède la place de numéro un mondial à Zverev : recomposition de l'image et de la demande autour des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3c72e27890db",
@@ -1532,7 +2119,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner fait l'impasse sur la fin de saison : moins de visibilité pour les produits Nike à l'approche de la fin 2026.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d210583e683c",
@@ -1547,7 +2140,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Fin de saison de Sinner ouvre une place aux Masters pour Arthur Fils : recomposition du classement, effet indirect sur la demande.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "64cae7ab9130",
@@ -1562,7 +2161,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Zverev assuré de terminer 2026 numéro un mondial après l'arrêt de Sinner : changement de référence pour la visibilité du tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a0f2aa19d90e",
@@ -1577,7 +2182,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner met un terme à sa saison 2026 : impact direct sur la visibilité de la marque Nike en tennis à l'automne.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2793c2772d32",
@@ -1594,7 +2205,13 @@
    "score": 3,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Forfait de Sinner pour la fin de saison 2026 : moins de visibilité pour la marque sur les derniers mois, à anticiper dans le calendrier promotionnel et les ventes de textile.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "33271987f520",
@@ -1609,7 +2226,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner annonce ne pas revenir en 2026 après sa blessure au genou : un athlète Nike majeur absent du circuit, impact probable sur la demande pour ses articles.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ecd33bfce88c",
@@ -1624,7 +2247,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Zverev assuré de finir n°1 mondial après le forfait de Sinner : changement de hiérarchie qui peut redistribuer l'attention médiatique entre les athlètes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "119b74e7a296",
@@ -1639,7 +2268,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Investissement potentiel de 300 M$ dans LIV Golf, financement associé à des fonds du Golfe : indice du poids des capitaux saoudiens dans le sport, à suivre.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7bf4ea83a107",
@@ -1655,7 +2290,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le forfait de Sinner oblige le Six Kings Slam, tournoi soutenu par l'Arabie saoudite, à trouver un remplaçant : effet direct sur la visibilité des athlètes Nike dans cette compétition.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2848d77dfaa8",
@@ -1664,13 +2305,20 @@
    "source": "Le Grand Continent",
    "date": "2026-10-05T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "E2",
    "lang": "fr",
    "query": "guerre commerciale États-Unis Union européenne textile",
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Tribune sur la Chine et le commerce mondial ouvert : contexte de tension qui peut peser sur les coûts et la fiabilité des chaînes d'approvisionnement asiatiques.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "3d7737dcdc2b",
@@ -1687,7 +2335,13 @@
    "score": 4,
    "signals": [
     "xinjiang"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Starbucks s'implante au Xinjiang malgré les risques : signal d'une pression sur les marques occidentales présentes en Chine, dont Nike, sur leur image et leur sourcing.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3e499ff02226",
@@ -1704,7 +2358,13 @@
    "score": 3,
    "signals": [
     "blessure"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz de retour de blessure avec un objectif encore ouvert : performance d'un athlète Nike susceptible de soutenir la demande en produits de la marque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "81834f6d2478",
@@ -1720,7 +2380,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Migration des joueurs de LIV Golf en cours : mouvement de capitaux sportifs lointain du tennis, mais révélateur de la recomposition du sport de haut niveau.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a9e8ba599dc4",
@@ -1735,7 +2401,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Article sur la chute de Nike attribuée à sa stratégie politique : risque de réputation et de boycott qui peut affecter l'image de la marque auprès des clients de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ad42fbe704f1",
@@ -1750,7 +2422,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz qualifié en demi-finale à Tokyo après l'abandon de Shapovalov : résultat sportif favorable à la visibilité des athlètes Nike en fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "948be117d2ba",
@@ -1765,7 +2443,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz qualifié en demi-finale à Tokyo sur abandon de Shapovalov, après une victoire difficile : résultat favorable à la visibilité de la marque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a47fc33759fc",
@@ -1782,7 +2466,13 @@
    "score": 3,
    "signals": [
     "blessure"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure au genou de Sinner jugée inquiétante : incertitude sur son retour, donc sur l'exposition de la marque Nike en fin de saison et au printemps 2027.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7daca0e7d5ce",
@@ -1799,7 +2489,13 @@
    "score": 3,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner déclare à nouveau forfait : absence prolongée d'un athlète Nike phare, ce qui pèse sur la visibilité et la demande pour la marque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "9dcf0a1d8b61",
@@ -1814,7 +2510,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Calendrier et matchs du Six Kings Slam révélés : évènement soutenu par l'Arabie saoudite, dont l'affiche dépend des forfaits des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3bd06c409fa7",
@@ -1823,13 +2525,20 @@
    "source": "We Love Tennis",
    "date": "2026-10-03T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le silence de Sinner sur sa blessure alimente les spéculations : risque de défiance du public et des médias, à surveiller pour l'image de l'athlète et de la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "a59455dc2ba1",
@@ -1846,7 +2555,13 @@
    "score": 4,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner déclare forfait pour le Masters 1000 de Shanghai : absence confirmée d'un athlète Nike sur un tournoi majeur, avec effet possible sur la demande.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "67abbb697868",
@@ -1863,7 +2578,13 @@
    "score": 4,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Forfait de Sinner pour le Masters 1000 de Shanghai : coup dur pour la visibilité de Nike sur les tournois de fin de saison en Asie.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0d493ab6e2fa",
@@ -1880,7 +2601,13 @@
    "score": 3,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Numéro 1 mondial toujours blessé et forfait pour Shanghai : absence prolongée qui réduit la présence de Nike sur le circuit à court terme.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3edee33e2b63",
@@ -1898,7 +2625,13 @@
    "signals": [
     "injury",
     "withdraw"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retrait du n°1 mondial de Shanghai pour une blessure au genou persistante : information internationale confirmant l'absence de Sinner en fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "beaa928896a2",
@@ -1907,7 +2640,7 @@
    "source": "franceinfo",
    "date": "2026-10-03T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "T5",
+   "axis": "T4",
    "lang": "fr",
    "query": "marché du tennis France",
    "origin": "Google Actualités",
@@ -1915,7 +2648,14 @@
    "score": 4,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Forfait de Sinner à Shanghaï : moins de visibilité pour les produits Nike à court terme, sans effet direct sur les livraisons.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "72475a21e9b8",
@@ -1930,7 +2670,13 @@
    "origin": "Google Actualités",
    "reliability": "A",
    "score": 3,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Communication RSE de Nike sur la nature ; contexte lointain pour Tie Break, sans effet commercial identifiable.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "630bb4d431bf",
@@ -1945,7 +2691,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le Six Kings Slam remplace Sinner ; la visibilité d'un athlète Nike sur cet événement saoudien change, effet limité pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "177f17acab14",
@@ -1961,7 +2713,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Tactiques de redressement de Nike (sportswear, Chine, Jordan) : orientent l'assortiment et la distribution que reçoit Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "baebb26aa66f",
@@ -1970,13 +2728,20 @@
    "source": "Le Figaro",
    "date": "2026-10-02T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike droits de douane Europe",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Suppressions d'emplois chez Nike après résultats contrastés : risque de réorganisation des équipes commerciales et logistiques dont dépend Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "d8127f0cdc20",
@@ -1985,7 +2750,7 @@
    "source": "Retail Dive",
    "date": "2026-10-02T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "en",
    "query": "Nike supply chain",
    "origin": "Google Actualités",
@@ -1993,7 +2758,14 @@
    "score": 3,
    "signals": [
     "layoff"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Redressement de Nike rallongé et baisse des ventes : allongement possible du calendrier de retour à la normale pour les revendeurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "52973690d18f",
@@ -2008,7 +2780,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike veut relocaliser une part de sa production plus près des marchés : pourrait raccourcir les délais de livraison vers l'Europe.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "9076291ceeb7",
@@ -2023,7 +2801,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultats du Six Kings Slam, exhibition saoudienne : lien indirect avec les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "20a25bc8c409",
@@ -2032,13 +2816,20 @@
    "source": "France 24",
    "date": "2026-10-02T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "Masters 1000 Arabie saoudite",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultat d'un ATP 500 à Tokyo, sans athlète Nike identifié dans le titre ; impact direct limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "3bdcd726ba93",
@@ -2053,7 +2844,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a7fe9e9ed498",
@@ -2068,7 +2865,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Doutes des investisseurs sur le redressement de Nike : signal de fragilité du fournisseur principal de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "13e454610e95",
@@ -2083,7 +2886,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nouvelles suppressions de postes et forte baisse de chiffre d'affaires prévue : risque de ruptures ou de collections réduites pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "6b5980df58bf",
@@ -2100,7 +2909,13 @@
    "score": 4,
    "signals": [
     "layoff"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Chute du cours de Nike après des prévisions de revenus faibles : indice de tensions possibles sur la politique commerciale vers les revendeurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "20562af5c6ee",
@@ -2116,7 +2931,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le PIF réduit son implication dans le tennis : recomposition du financement des tournois, dont dépend la visibilité des athlètes Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0e1c4192971c",
@@ -2131,7 +2952,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "12b3b053452e",
@@ -2140,13 +2967,20 @@
    "source": "20 Minutes",
    "date": "2026-10-01T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike polémique",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Baisse du prix d'une chaussure running Nike : pression sur les marges et les prix de vente en magasin pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "f90d57240611",
@@ -2155,13 +2989,20 @@
    "source": "About Nike",
    "date": "2026-10-01T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "en",
    "query": "Nike supply chain",
    "origin": "Google Actualités",
    "reliability": "A",
    "score": 3,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike modifie son modèle opérationnel : impact probable sur la distribution, les délais et les interlocuteurs des revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "57c1d3e1cb3c",
@@ -2170,7 +3011,7 @@
    "source": "Sportico.com",
    "date": "2026-10-01T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "en",
    "query": "Nike supply chain",
    "origin": "Google Actualités",
@@ -2178,7 +3019,14 @@
    "score": 3,
    "signals": [
     "layoff"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Licenciements et changements géographiques chez Nike : possibles modifications des zones de service et des priorités commerciales en Europe.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "aa6d2ac0a220",
@@ -2187,13 +3035,20 @@
    "source": "About Nike",
    "date": "2026-10-01T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "en",
    "query": "Nike supply chain",
    "origin": "Google Actualités",
    "reliability": "A",
    "score": 3,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Résultats du premier trimestre de l'exercice 2027 de Nike : indicateur clé pour anticiper les livraisons et collections à venir.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "47f41991b881",
@@ -2210,7 +3065,13 @@
    "score": 3,
    "signals": [
     "suez"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Un transporteur prépare le retour de ses services Asie-Nord Europe par Suez : pourrait réduire délais et coûts de fret pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d18bcc433cf4",
@@ -2228,7 +3089,13 @@
    "signals": [
     "sanction",
     "xinjiang"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les sanctions américaines sur le coton du Xinjiang obligent la filière à s'adapter, ce qui peut peser sur la traçabilité et les coûts du textile Nike vendu en magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e85c6ab13061",
@@ -2243,7 +3110,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Exhibition soutenue par l'Arabie saoudite où Alcaraz, Djokovic et Sinner sont en lice; met en lumière le calendrier et les athlètes Nike sans effet direct connu sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "6aada29dd4c5",
@@ -2260,7 +3133,13 @@
    "score": 4,
    "signals": [
     "layoff"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Ventes décevantes et licenciements dans le cadre d'une restructuration de Nike : risque sur les allocations, les collections et le niveau de service aux revendeurs indépendants.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "90008037890a",
@@ -2275,7 +3154,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La faiblesse des ventes en Chine de Nike pourrait réorienter la stratégie produits et distribution, avec des effets possibles sur les gammes proposées en France.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "bdd9e3bfd4c3",
@@ -2290,7 +3175,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article de prévisualisation des résultats de Nike; intérêt limité pour Tie Break hors contexte des résultats publiés.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "596a9e5f7821",
@@ -2305,7 +3196,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Chiffre d'affaires inférieur aux attentes annoncé après clôture : confirme la fragilité financière de Nike, à suivre pour les volumes de collections attribuées aux revendeurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "136720fae016",
@@ -2320,7 +3217,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Format vidéo commentant les résultats décevants de Nike; redondant avec les articles financiers, intérêt faible pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d4ccb9c410a6",
@@ -2329,13 +3232,20 @@
    "source": "Nikkei Asia",
    "date": "2026-09-30T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "E2",
    "lang": "en",
    "query": "EU US trade war tariffs apparel",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Des achats américains accrus ne se traduisent pas par des gains d'exportation pour le Bangladesh; signal possible de fragilité des flux de confection asiatique dont dépend le textile Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "bd3465ec47d3",
@@ -2350,7 +3260,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "831812a6cdb8",
@@ -2365,7 +3281,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Initiative locale d'un club de tennis en Vendée ou ailleurs (Le Feneu) autour d'Octobre rose; contexte communautaire sans lien direct avec les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3411062f4c78",
@@ -2380,7 +3302,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Un retrait saoudien du financement sportif pourrait réduire les tournois et exhibitions financés par le PIF, donc les opportunités de visibilité et le calendrier du tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c7f8e85a4f84",
@@ -2389,13 +3317,20 @@
    "source": "Le Soir",
    "date": "2026-09-28T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E1",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike droits de douane Europe",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le déclassement boursier et la perte d'image de Nike, évoqués par la presse, peuvent affecter la désirabilité de la marque auprès des clients de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "1fc552ac6e6e",
@@ -2410,7 +3345,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre trop vague pour établir un lien avec Nike, le tennis ou le commerce; à vérifier à la lecture avant tout usage.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7ef40a971465",
@@ -2427,7 +3368,13 @@
    "score": 3,
    "signals": [
     "houthi"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Les Houthis cherchent à contrôler la mer Rouge; un blocage prolongé allongerait les routes Asie-Europe et renchérirait les délais et le fret des collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "fd66dc96e5dc",
@@ -2444,7 +3391,13 @@
    "score": 3,
    "signals": [
     "suez"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le retour par Suez réduit de 10 à 14 jours certains transits, indice d'une normalisation possible du fret, mais la liaison concernée ne relie pas l'Europe.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "82c381d95db2",
@@ -2459,7 +3412,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le PIF coupe une série de 15 M$ sur le circuit féminin de golf; signal d'un recul du soutien saoudien au sport féminin, pouvant toucher le financement du tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "74ed42b0f1db",
@@ -2468,13 +3427,20 @@
    "source": "Le Monde.fr",
    "date": "2026-09-26T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike usine Vietnam",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le transfert de Mbappé chez On, concurrent sur le tennis, illustre la perte de terrain de Nike; enjeu d'image et de positionnement pour les revendeurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "25b24fd4023a",
@@ -2489,7 +3455,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Selon la presse, Nike aurait annulé une campagne avec Benzema pour des raisons d'image; illustre la sensibilité de la marque aux controverses de ses ambassadeurs.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "846292fc318a",
@@ -2504,7 +3476,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hypothèse journalistique sur un lien entre le passé judiciaire de Benzema et la décision de Nike; spéculatif et lointain du tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "bc248f35df81",
@@ -2519,7 +3497,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Selon L'Équipe, Nike aurait annulé en dernière minute un tournage avec Benzema à cause de son image; indicateur de la gestion des risques réputationnels.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "00b320a6ca6c",
@@ -2536,7 +3520,13 @@
    "score": 4,
    "signals": [
     "sanction"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Enquête sur des entreprises liées à un groupe cotonnier chinois sanctionné : pourrait renforcer les contrôles de traçabilité du coton dans la chaîne textile de Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "92371bb21f82",
@@ -2553,7 +3543,13 @@
    "score": 3,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Forfait de Sinner, joueur Nike, à Pékin pour blessure au genou : pourrait peser sur la visibilité de la marque et la demande liée au joueur.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "19e170b4e79f",
@@ -2570,7 +3566,13 @@
    "score": 4,
    "signals": [
     "forfait"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Même forfait de Sinner que la dépêche de rts.ch, avec inquiétude sur l'état du genou ; à suivre pour la demande liée au joueur.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "4f9f400af43b",
@@ -2587,7 +3589,13 @@
    "score": 3,
    "signals": [
     "suez"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Hausse de 27 % des transits par Suez en août : indice d'un retour progressif des flux, susceptible d'améliorer délais et coûts vers l'Europe.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ba729cb70078",
@@ -2604,7 +3612,13 @@
    "score": 3,
    "signals": [
     "suez"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Baisse des tarifs de fret conteneurs avec le retour du trafic par Suez : allègement possible des coûts d'approvisionnement, effet sur les délais à confirmer.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a1c479ec27e3",
@@ -2613,13 +3627,20 @@
    "source": "About Nike",
    "date": "2026-09-23T11:03:30Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "T5",
+   "axis": "E2",
    "lang": "fr",
    "query": "Nike revendeurs distribution",
    "origin": "Google Actualités",
    "reliability": "A",
    "score": 3,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Engagement de Nike sur les émissions de sa chaîne de valeur : pourrait à terme modifier les exigences imposées aux fournisseurs, sans effet immédiat identifié.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "40e70e0202aa",
@@ -2634,7 +3655,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Rencontre Xi-Trump sur la guerre commerciale : une issue modifierait droits de douane et coûts de production en Asie, donc les prix d'approvisionnement Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "cf8fdfcbc677",
@@ -2845,7 +3872,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ab7e7bcc2d04",
@@ -2860,7 +3893,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Typhons prolongés en Asie pouvant retarder les conteneurs de vêtements et chaussures, ce qui aggraverait les retards de livraison Nike déjà subis par Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2deb46d28c8f",
@@ -2876,7 +3915,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike perd Mbappé au profit d'On, marque suisse en progression ; pour Tie Break, signal d'une concurrence accrue entre équipementiers sur textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "cd307d63ef7a",
@@ -2891,7 +3936,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse, filiale de Nike, s'excuse et retire une publicité jugée raciste ; risque d'image pour la marque et le groupe Nike auprès des clients.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "1cdea3c241e5",
@@ -2906,7 +3957,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Élimination des Bleus en Coupe Davis face au Canada ; effet possible sur l'engouement du tennis français, sans impact direct démontré sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "cfe224d29fc0",
@@ -2922,7 +3979,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Élimination des Bleus en Coupe Davis face au Canada ; effet possible sur l'engouement du tennis français, sans impact direct démontré sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "05721b9fe5fa",
@@ -2937,7 +4000,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Analyse du départ de Mbappé vers On et de ses conséquences pour Nike ; pour Tie Break, lecture du rapport de force entre marques dans le sport.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d8fccf069d69",
@@ -2952,7 +4021,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse retire une publicité après une vive polémique ; risque d'image pour la marque Nike, à surveiller dans la communication vers les clients.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "4c5c20b13fa8",
@@ -2967,7 +4042,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse retire une publicité comparée à l'imagerie du Ku Klux Klan ; risque réputationnel pour le groupe Nike, à suivre pour l'image de la marque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "4a62b04336cf",
@@ -2976,13 +4057,20 @@
    "source": "L'Équipe",
    "date": "2026-09-19T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "PIF ATP WTA",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultat d'un joueur français en Challenger ; contexte lointain pour le magasin, sans lien direct établi avec les gammes Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "e3bbd93a7e9f",
@@ -2997,7 +4085,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Projet d'un Six Kings Slam féminin en fin de saison ; à confirmer, il pourrait élargir le calendrier et l'offre d'exhibitions tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f33d61ac0e6a",
@@ -3012,7 +4106,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Comparaison des gains de Sinner et Alcaraz, athlètes Nike ; contexte d'image des joueurs, sans effet direct établi sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c144f01cd9fd",
@@ -3027,7 +4127,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Équipe de France de Coupe Davis en difficulté face au Canada ; contexte d'audience du tennis français, sans effet direct établi sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ba670129b2b5",
@@ -3042,7 +4148,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e4d596659006",
@@ -3057,7 +4169,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike perd Mbappé au profit d'On, marque suisse en progression ; pour Tie Break, signal d'une concurrence accrue entre équipementiers sur textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "acc86a404da0",
@@ -3072,7 +4190,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike perd Mbappé au profit d'On, marque suisse en progression ; pour Tie Break, signal d'une concurrence accrue entre équipementiers sur textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "1bf05b4b360d",
@@ -3087,7 +4211,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike perd Mbappé au profit d'On, marque suisse en progression ; pour Tie Break, signal d'une concurrence accrue entre équipementiers sur textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c4ee7da714c5",
@@ -3102,7 +4232,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike perd Mbappé au profit d'On, marque suisse en progression ; pour Tie Break, signal d'une concurrence accrue entre équipementiers sur textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "a28c5a9b9930",
@@ -3117,7 +4253,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse s'excuse après une publicité comparée au Ku Klux Klan et au lynchage ; risque réputationnel pour la marque Nike, à surveiller.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "41708ab0719b",
@@ -3132,7 +4274,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse s'excuse après une publicité jugée proche de l'imagerie du Ku Klux Klan ; risque réputationnel pour le groupe Nike, à suivre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c0931f0627e1",
@@ -3355,5 +4503,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-16T09:45:25Z"
+ "ai_updated": "2026-10-16T09:54:00Z"
 }
