@@ -2,11 +2,11 @@
   "use strict";
 
   var AXES = {
-    E1: { label: "Nike et la puissance américaine", kind: "Géopolitique : guerre commerciale, boycotts", color: "var(--e1)" },
-    E2: { label: "Production et routes d'approvisionnement", kind: "Géopolitique : Asie, droits de douane, mer Rouge", color: "var(--e2)" },
-    E3: { label: "Athlètes Nike et nouvelle géographie du tennis", kind: "Géopolitique : Arabie saoudite, sportswashing", color: "var(--e3)" },
+    E1: { label: "Guerre commerciale et image américaine de Nike", kind: "Géopolitique : tensions États-Unis / UE, boycotts", color: "var(--e1)" },
+    E2: { label: "Chaîne de valeur, RSE et normes européennes", kind: "Géopolitique : Asie, travail forcé, CSRD, mer Rouge", color: "var(--e2)" },
+    E3: { label: "Tennis : sport power saoudien et gouvernance", kind: "Géopolitique : PIF, ATP/WTA, ITIA, AMA, TAS", color: "var(--e3)" },
     T4: { label: "Performances et polémiques des joueurs", kind: "Tendance sportive", color: "var(--t4)" },
-    T5: { label: "Distribution Nike et marché du tennis", kind: "Tendance commerciale", color: "var(--t5)" }
+    T5: { label: "Nike en bourse, distribution et marché", kind: "Tendance économique et commerciale", color: "var(--t5)" }
   };
   var AXIS_KEYS = ["E1", "E2", "E3", "T4", "T5"];
   var DAY = 86400000;

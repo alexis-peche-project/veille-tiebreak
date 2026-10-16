@@ -38,11 +38,11 @@ Clientele : joueurs de club, competiteurs, loisirs, touristes et clientele inter
 Probleme operationnel : livraisons Nike en retard, collections recues apres les Grands Chelems. Site e-commerce en construction.
 Question de veille : dans quelle mesure l'exposition geopolitique et mediatique de Nike et de ses athletes cree-t-elle des risques et des opportunites pour les ventes de Tie Break d'ici 2028, et comment le magasin doit-il y repondre ?
 Axes :
-E1 Nike et la puissance americaine (guerre commerciale Etats-Unis/UE, boycotts, prises de position de Nike)
-E2 Production et routes d'approvisionnement (usines en Asie, droits de douane, Xinjiang, mer Rouge, fret)
-E3 Athletes Nike et nouvelle geographie du tennis (Arabie saoudite, PIF, sportswashing, gouvernance du tennis)
+E1 Guerre commerciale et image americaine de Nike (tensions Etats-Unis/UE, droits de douane, appels au boycott, prises de position de Nike)
+E2 Chaine de valeur, RSE et normes europeennes (usines en Asie, travail force, salaires des sous-traitants, Xinjiang, engagements climat de Nike, reglementation UE : CSRD, devoir de vigilance, reglement travail force ; fret et mer Rouge)
+E3 Tennis : sport power saoudien et gouvernance (PIF, Arabie saoudite, sportswashing, ATP/WTA/ITF, ITIA, AMA, TAS, plainte PTPA)
 T4 Performances et polemiques des joueurs Nike (Sinner, Alcaraz, Sabalenka...) : victoires, blessures, affaires
-T5 Distribution Nike et marche du tennis (strategie wholesale, resultats, collections, marche francais)"""
+T5 Nike en bourse, distribution et marche du tennis (cours et capitalisation, resultats, strategie wholesale, collections, marche francais)"""
 
 
 def call_claude(model, system, user, max_tokens):

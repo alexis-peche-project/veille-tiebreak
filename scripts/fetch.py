@@ -28,7 +28,7 @@ MAX_ITEMS = 1500
 # Axes de veille : 3 enjeux geopolitiques + 2 tendances non geopolitiques.
 AXES = {
     "E1": {
-        "label": "Nike et la puissance americaine",
+        "label": "Guerre commerciale et image americaine de Nike",
         "queries_fr": [
             "Nike boycott",
             "boycott marques américaines",
@@ -43,36 +43,37 @@ AXES = {
         ],
     },
     "E2": {
-        "label": "Production et routes d'approvisionnement",
+        "label": "Chaine de valeur, RSE et normes europeennes",
         "queries_fr": [
+            "Nike RSE",
             "Nike usine Vietnam",
-            "Nike Chine Xinjiang",
+            "Nike travail forcé",
+            "règlement européen travail forcé textile",
+            "devoir de vigilance textile CSRD omnibus",
             "mer Rouge conteneurs Suez",
-            "fret maritime Asie Europe retards",
-            "droits de douane Vietnam chaussures",
         ],
         "queries_en": [
+            "Nike sustainability",
+            "Nike supply chain workers wages",
             "Nike tariffs",
-            "Nike supply chain",
             "Red Sea shipping Suez containers",
-            "Vietnam footwear tariffs",
             "Xinjiang cotton brands",
         ],
     },
     "E3": {
-        "label": "Athletes Nike et nouvelle geographie du tennis",
+        "label": "Tennis : sport power saoudien et gouvernance",
         "queries_fr": [
             "Arabie saoudite tennis",
             "PIF ATP WTA",
             "Six Kings Slam",
-            "Masters 1000 Arabie saoudite",
-            "sportswashing tennis",
+            "ITIA dopage tennis",
+            "PTPA procès ATP WTA",
         ],
         "queries_en": [
             "Saudi Arabia tennis PIF",
             "Six Kings Slam",
-            "WTA Finals Riyadh",
-            "tennis sportswashing",
+            "PTPA lawsuit ATP WTA",
+            "tennis governance premium tour",
         ],
     },
     "T4": {
@@ -91,17 +92,18 @@ AXES = {
         ],
     },
     "T5": {
-        "label": "Distribution Nike et marche du tennis",
+        "label": "Nike en bourse, distribution et marche du tennis",
         "queries_fr": [
-            "Nike revendeurs distribution",
+            "Nike action bourse",
             "Nike résultats trimestriels",
+            "Nike revendeurs distribution",
             "marché du tennis France",
-            "magasin tennis Nice",
         ],
         "queries_en": [
+            "Nike stock shares",
+            "Nike market value",
+            "Nike earnings guidance",
             "Nike wholesale partners",
-            "Nike earnings",
-            "Nike tennis collection",
         ],
     },
 }
@@ -183,10 +185,10 @@ def parse_feed(xml_bytes):
 # GDELT (base mondiale d'actualites, API gratuite sans cle) : une requete par axe.
 GDELT_QUERIES = {
     "E1": 'Nike (boycott OR tariffs OR controversy)',
-    "E2": 'Nike (Vietnam OR Xinjiang OR factories OR "supply chain")',
+    "E2": 'Nike (sustainability OR Vietnam OR Xinjiang OR factories OR workers)',
     "E3": 'tennis ("Saudi Arabia" OR Riyadh OR sportswashing)',
     "T4": 'Nike (Sinner OR Alcaraz OR Sabalenka)',
-    "T5": 'Nike (wholesale OR retailers OR earnings)',
+    "T5": 'Nike (shares OR stock OR wholesale OR earnings)',
 }
 
 

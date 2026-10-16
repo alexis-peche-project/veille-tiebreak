@@ -20,11 +20,14 @@ SOURCES = {
             "fft.fr", "rolandgarros.com", "wada-ama.org", "itia.tennis", "olympics.com",
             "europa.eu", "ustr.gov", "whitehouse.gov", "wto.org", "economie.gouv.fr",
             "douane.gouv.fr", "sports.gouv.fr", "elysee.fr", "imf.org", "unctad.org",
+            "legifrance.gouv.fr", "ecologie.gouv.fr", "ademe.fr", "tas-cas.org", "ilo.org",
+            "investors.nike.com", "oecd.org",
         ],
         "names": [
             "nike news", "nike, inc", "about nike", "atp tour", "wta", "itf", "fédération française de tennis",
             "roland-garros", "world anti-doping agency", "itia", "european commission",
             "commission européenne", "ustr", "white house", "wto", "ministère",
+            "court of arbitration for sport", "tribunal arbitral du sport", "ademe", "oit", "ocde", "oecd",
         ],
     },
     "B": {
@@ -78,6 +81,9 @@ SOURCES = {
             "iris-france.org", "ifri.org", "chathamhouse.org", "csis.org", "brookings.edu",
             "aspi.org.au", "carnegieendowment.org", "lowyinstitute.org", "legrandcontinent.eu",
             "diploweb.com", "theconversation.com", "arabnews.com", "thenationalnews.com",
+            # finance et RSE
+            "zonebourse.com", "boursorama.com", "marketwatch.com", "barrons.com", "morningstar.com",
+            "morningstar.fr", "novethic.fr", "esgtoday.com", "edie.net", "theathletic.com",
         ],
         "names": [
             "tennis majors", "tennis.com", "tennisactu", "tennis actu", "we love tennis", "punto de break",
@@ -91,6 +97,8 @@ SOURCES = {
             "journal de la marine marchande", "gcaptain", "iris", "ifri", "chatham house",
             "csis", "brookings", "aspi", "carnegie", "lowy institute", "le grand continent",
             "diploweb", "the conversation", "arab news", "the national",
+            "zonebourse", "boursorama", "marketwatch", "barron's", "morningstar", "novethic",
+            "esg today", "edie", "the athletic",
         ],
     },
     "D": {
