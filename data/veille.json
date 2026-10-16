@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:12:35Z",
+ "updated": "2026-10-16T13:31:12Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 58,
+  "added_last_run": 2,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 399
+  "rejected_last_run": 371
  },
  "items": [
   {
@@ -77,6 +77,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "d79edf7f83ec",
+   "title": "Oubliez le marron : Nike a le coloris d’Air Force 1 pour lequel craquer cette saison (à -30 %)",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRWhwaEFGVm5YeVA3T0JLWU5RYjBYblZWWnB3T3p1V3g3eEJBNTVLcnBMMmhqempHWGZkRXRsU05GR3c2S0lSRnhnb1RRdFFHV3lWeUs4YXJGakxBSnRHaHV5b3p1MkJia3RwbTRTNHg3UHF6ZHJrWC15X3JZWnNNcDFVckdhSVlzOWs2Nl9yclpuOXhqSmxJRjhPbjFMTHk4TW5MdGRoSjFMRHhxVkJQeEktV2ZNRG9OZjJBN2dJSE9IeEZQLU9DTXQwN0g?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-16T05:47:00Z",
+   "first_seen": "2026-10-16T13:31:12Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Promotion Nike de -30 % sur l'Air Force 1 en ligne : signal de pression tarifaire sur les revendeurs et de concurrence prix pour le futur site de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "d96469c20c81",
@@ -697,6 +720,28 @@
     "r": 2,
     "impact": "Relèvement de recommandation d'HSBC sur Nike : signal positif pour le titre, sans effet direct sur les approvisionnements ou la marge de Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "88c18dffb089",
+   "title": "Six Kings Slam Postponed to December Following Saudi Airport Attack",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzdZX3NLRWlIOGxDMEU4UW9nYWkyV2V4UkpSVHpTSWdpbTdXNFRMUU13cGUzOXdkVzgyRVRXQjZZckhsRE01RDFnQ3d6SUxGb2dQSUVIcWtHTzJ0YldFdGJya1JjaGFMNUk4aWxPaGN0cVlUZDlHUWladkdxTGpmVlFGak50WlVvcldsTE5QMy1YbUJRZVVBVU1POERKd1E1QW5LaGp3?oc=5",
+   "source": "Front Office Sports",
+   "domain": "frontofficesports.com",
+   "date": "2026-10-14T16:40:23Z",
+   "first_seen": "2026-10-16T13:31:12Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Report du Six Kings Slam à décembre après une attaque sur un aéroport saoudien : illustre le risque sécuritaire des événements du tennis financés par l'Arabie saoudite.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1358,7 +1403,7 @@
    "domain": "leparisien.fr",
    "date": "2026-10-14T06:32:42Z",
    "first_seen": "2026-10-16T13:12:35Z",
-   "axis": "E3",
+   "axis": "T4",
    "lang": "fr",
    "query": "ITIA dopage tennis",
    "origin": "Google Actualités",
@@ -1366,7 +1411,14 @@
    "score": 4,
    "signals": [
     "retrait"
-   ]
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Gaël Monfils pourrait être retraité et absent du Rolex Paris Masters ; le titre ne établit aucun lien avec Nike ni avec les ventes de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "e50633f7425d",
@@ -1699,13 +1751,20 @@
    "domain": "lefigaro.fr",
    "date": "2026-10-11T17:32:00Z",
    "first_seen": "2026-10-16T13:12:35Z",
-   "axis": "E2",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike travail forcé",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Baisse de 30 % de l'Air Force 1 sur le site officiel Nike : risque de pression sur les prix et les marges des revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "83f3ebbd9eb4",
@@ -2102,13 +2161,20 @@
    "domain": "20minutes.fr",
    "date": "2026-10-09T05:32:00Z",
    "first_seen": "2026-10-16T13:12:35Z",
-   "axis": "E1",
+   "axis": "T5",
    "lang": "fr",
    "query": "Nike polémique",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Air Force 1 vendues sous 100 € avec forte demande : indice d'un déstockage promotionnel pouvant peser sur les prix pratiqués par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "b8425f26d3fc",
@@ -2124,7 +2190,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Saisie d'un million de dollars de produits Nike volés dans un magasin de Los Angeles : vols organisés sur la chaîne de distribution, impact indirect pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "278e801d8a6a",
@@ -5891,5 +5963,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-16T13:19:12Z"
+ "ai_updated": "2026-10-16T13:36:33Z"
 }
