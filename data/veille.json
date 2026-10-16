@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T19:33:35Z",
+ "updated": "2026-10-16T22:52:00Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,35 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 2,
+  "added_last_run": 6,
+  "feed_errors_last_run": 4,
   "rejected_last_run": 395
  },
  "items": [
+  {
+   "id": "4ac5954b8cc7",
+   "title": "Regional armed conflict leads to the suspension",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclJhekN5c1F4LXozUHpKaWZ0VkdmVWhvZjFMMi04VDNnYnN4U3FVWHBNcEFqWFAtTUhCQXFfVUc3UXlGYV9aSGpuc3ljYXN1aEdodUxzTkhGQkdHbU5yU2xkY2ZGSnBmdmIyQV9ZeE5JczV1TjB6T2JqQmItTm50c2V1VmZXUXV6dGtzZUF2Q0ZidzYwVDlwX1Q1YVdpR1dkNXVJNA?oc=5",
+   "source": "Tennis World USA",
+   "domain": "tennisworldusa.org",
+   "date": "2026-10-16T22:32:25Z",
+   "first_seen": "2026-10-16T22:52:00Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suspension"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne précise ni l'événement suspendu ni le lieu. À vérifier avant d'évaluer un effet sur le calendrier tennis ou les approvisionnements.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "b8968fe6f790",
    "title": "En raison du report du Six Kings Slam, Novak Djokovic a reçu une wild card pour l'ATP 500 de Bâle",
@@ -31,6 +55,28 @@
    "ai": {
     "r": 1,
     "impact": "Ne mentionne pas Nike. Signal lié au calendrier tennis : report du Six Kings Slam et wild card de Djokovic à Bâle, sans effet direct sur l'offre Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5baeaa63b4f0",
+   "title": "NYダウは続伸で始まる 、 米利上げ観測後退 消費関連に買い",
+   "url": "https://www.nikkei.com/article/DGXZQOFL16BNV0W6A011C2000000/",
+   "source": "nikkei.com",
+   "domain": "nikkei.com",
+   "date": "2026-10-16T15:30:00Z",
+   "first_seen": "2026-10-16T22:52:00Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -1556,6 +1602,30 @@
    "axis_original": "E1"
   },
   {
+   "id": "95af265a45c0",
+   "title": "Suez Canal Highlights Continued Return of Containerships",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW1mSnltNWJ2VE5GZm5MejFNZGlwSFBFWVp6aUhyejF4OFctU1ZpY3FaOFJfQ25TSGM5dzRxR0owUUJSZmcxYlVmdUdIWkVlQllBeHFBT3dwYlNHa3ZUZHlzRnpjRlJfYk14bF9IU0pDQTdTbXdjLTYwV2M4Y21rcVdiQXFrZDlBYVh1XzMyUUxMRkVYYWdQTzNZQQ?oc=5",
+   "source": "The Maritime Executive",
+   "domain": "maritime-executive.com",
+   "date": "2026-10-14T00:25:49Z",
+   "first_seen": "2026-10-16T22:52:00Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le retour des porte-conteneurs à Suez peut réduire les délais et le coût du fret Asie-Europe, ce qui pourrait alléger les retards de livraison Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a54490f7b550",
    "title": "‘Morally tone-deaf’ F1 gives Africa race to Rwanda",
    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUlpRVExMjdrSzI5YmI2ZUhSeXU3T3JKOEROY0VuVU9NTm5RaTdYbGx2X0tZWnR2cTZEX0lJRFF6M0JJUzJ2Vi1HR2J0Mk9STUhTdFo5SXJ5WWFBUTJRWUJqaFlOSjZYdDBVLTFuQ0Q1d0Z1YVR6OC1zb3JrVklRVjBoUHlYWlF6c3VaSXRLT0pKcDc3UndaMjdYZXplQ1VsSEVoXzBEVXBDY0tIZ3c?oc=5",
@@ -1964,6 +2034,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "6318bcc548e7",
+   "title": "Ce modèle Jodan Spizike Low est le plus prisé des fans de Nike",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTVBvaThMb1VBUkhEWVZISmxoaTBMMkZGc0FkNVRIczlDaHFINjJLaVB5b0RBd1pjR1lTTGpuOG5mbFo4c3JkdC1MWjZUTEFkX3JjZHQ1NmpaZkZ3dG9OeGtwcThQdzJDUGkxOHAwN2Vic3V1NjJSSkMwMURPeFBZRThSeTg5UFlxWlJUbW1GbnNFdWdPRTBNaV9xcndPbFg5MlRPR0U0Nzc4bXBveWZ4cTlRWjNVLTNITFdrU2xMOWUtMWhUdV9WVmdBcTNGblYtVWRNZ0JjNA?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-10T16:07:00Z",
+   "first_seen": "2026-10-16T22:52:00Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Alcaraz Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Modèle de basket lifestyle Jordan, hors tennis. Indique une demande sneakers Nike, peu transposable au rayon tennis de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T4"
   },
   {
    "id": "096c4ba07d41",
@@ -5589,6 +5682,29 @@
    }
   },
   {
+   "id": "84d50a6a0218",
+   "title": "La raison pour laquelle Kouamé est directement entré dans le tableau d'un tournoi ATP",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkkzcjktVUhYZFFGbExzU255cjg3OWY4WkVoZ0YxM3VLWmdGSVhMNHR6RDFReDlTdnFCVnVBT1NQVkhycC1VUU1zNWhCbkZIODVMWmlKNlJpS2xEbmdKM2NVYnBCb2EtWWFNaWJFcWo1RUpNZ2FiMkdyR2EzZ1lEYURwODgwRVNxWnUtOUEybUZ1UTZhQ0lDd05HY0Y2elhrN0dZUTBHV2piRlliX2hnOFFSd1g1aEJRdHc?oc=5",
+   "source": "Puntodebreak",
+   "domain": "puntodebreak.com",
+   "date": "2026-09-21T07:00:00Z",
+   "first_seen": "2026-10-16T22:52:00Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Entrée directe dans un tableau ATP, sujet tennis sans lien Nike établi dans le titre. Utile seulement si ce joueur est sponsorisé Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "cd307d63ef7a",
    "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tSFktLURlZVExWDQzOVFQOFdwUVJCVGJfNkNCM0hOcllfazNOU2hEb0tIMVhPT2R0REtPRGdkcGpObS1ULWVrd3RRLXdiWmY5M1IzRE91RUQ0RzloYVNqdXRmcFJkUmVNakg0cVln?oc=5",
@@ -6193,6 +6309,28 @@
    }
   },
   {
+   "id": "017d6ca4b919",
+   "title": "La chute de l'action Nike fragilise sa place au sein du Dow Jones",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkhrRG5hY1BEeVZVa1NzQk55OVFVM0wyR1NlUzllaWlmTFpvQUQ4ZnEwcU1FYzVlTHNGbkNNMHk0U0U1YVRIMzhsZXY2TmRMWWplQV81XzAtdTExRExXMGJHV2JOYUh6VGM2YXhEd0RjUjg2UVVHRlNrWFdJNlRmQVdtOVFfeHo5ZmUza1lBTXc0a1pfY0tRNG5yWlVxNzAxaGx3RkZKZTV4RFZ1VjlCR1pyYlF1Rl9XRkJLd1dGeU1PUmJp?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-09-17T07:00:00Z",
+   "first_seen": "2026-10-16T22:52:00Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La baisse du cours Nike remet en question sa place dans le Dow Jones. À relier aux résultats et à la stratégie wholesale qui conditionnent les collections reçues par Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "02b330a204f3",
    "title": "Nike, résultats du T4 de l'exercice 2026",
    "url": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000076/q4fy26exhibit991er.htm",
@@ -6213,5 +6351,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-16T19:38:01Z"
+ "ai_updated": "2026-10-16T22:56:52Z"
 }
