@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T09:24:30Z",
+ "updated": "2026-10-16T09:40:14Z",
  "axes": {
   "E1": "Nike et la puissance americaine",
   "E2": "Production et routes d'approvisionnement",
@@ -8,9 +8,9 @@
   "T5": "Distribution Nike et marche du tennis"
  },
  "stats": {
-  "added_last_run": 10,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 367
+  "added_last_run": 2,
+  "feed_errors_last_run": 0,
+  "rejected_last_run": 400
  },
  "items": [
   {
@@ -39,6 +39,22 @@
    "lang": "fr",
    "query": "marché du tennis France",
    "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": []
+  },
+  {
+   "id": "4206098e6312",
+   "title": "NYダウ 、 反発し556ドル高 消費関連やヘルスケアに買い",
+   "url": "https://www.nikkei.com/article/DGXZQOFL1600K0W6A011C2000000/",
+   "source": "nikkei.com",
+   "domain": "nikkei.com",
+   "date": "2026-10-15T21:45:00Z",
+   "first_seen": "2026-10-16T09:40:14Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (wholesale OR retailers OR earnings)",
+   "origin": "GDELT",
    "reliability": "B",
    "score": 2,
    "signals": []
@@ -137,6 +153,24 @@
    "reliability": "A",
    "score": 3,
    "signals": []
+  },
+  {
+   "id": "a74a81406501",
+   "title": "Fighting in Yemen intensifies : What the latest on the battlefield ? | Houthis News",
+   "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield",
+   "source": "aljazeera.com",
+   "domain": "aljazeera.com",
+   "date": "2026-10-15T14:30:00Z",
+   "first_seen": "2026-10-16T09:40:14Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "tennis (\"Saudi Arabia\" OR Riyadh OR sportswashing)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "houthi"
+   ]
   },
   {
    "id": "6bc4824dab61",
@@ -3107,13 +3141,20 @@
    "source": "TennisTemple",
    "date": "2026-09-18T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "T4",
+   "axis": "T5",
    "lang": "en",
    "query": "Sabalenka Nike",
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike perd un ambassadeur football majeur au profit d'On, marque tennis fondée avec Federer ; signal de concurrence sur l'image des équipementiers.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T4"
   },
   {
    "id": "0ecfdaa24e95",
@@ -3128,7 +3169,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Comparatif de gains de Sabalenka et Swiatek ; le titre ne mentionne pas Nike et n'apporte pas d'information directe sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "258ef9a22c5d",
@@ -3143,7 +3190,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Diffusion de la Coupe Davis France-Canada : événement tennis ponctuel pouvant soutenir l'intérêt du public français pour le tennis en septembre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "ee1398eaa657",
@@ -3161,7 +3214,13 @@
    "signals": [
     "tarif",
     "tariff"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Menace de droits de douane américains sur l'UE liée à un rapprochement UE-Canada ; risque indirect de hausse des coûts ou de tensions commerciales sur les produits importés.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "04ab2b3eec06",
@@ -3179,7 +3238,13 @@
    "signals": [
     "tarif",
     "tariff"
-   ]
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Même sujet vu par WWD : menace de tarifs américains si le Canada approfondit ses liens commerciaux avec l'UE, avec effets incertains sur les échanges transatlantiques.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "8abcfcff0e30",
@@ -3194,7 +3259,13 @@
    "origin": "Google Actualités",
    "reliability": "A",
    "score": 3,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Initiatives RSE et services de reprise de Nike à New York ; contexte lointain, sans lien direct avec le réseau de revendeurs français ni l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "40442bf34031",
@@ -3212,7 +3283,13 @@
    "signals": [
     "houthi",
     "red sea"
-   ]
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour lent des porte-conteneurs en mer Rouge : les délais et coûts de fret Asie-Europe restent tendus, ce qui peut prolonger les retards de livraison Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "5d62b50699ff",
@@ -3227,7 +3304,13 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Déplacement des WTA Finals en Caroline du Nord dès 2027 : modification de la géographie du calendrier féminin, à anticiper pour les campagnes de fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2eba9a79ea85",
@@ -3236,13 +3319,20 @@
    "source": "franceinfo",
    "date": "2026-09-17T07:00:00Z",
    "first_seen": "2026-10-16T09:07:43Z",
-   "axis": "T5",
+   "axis": "T4",
    "lang": "fr",
    "query": "marché du tennis France",
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Anna Blinkova naturalisée française et nouvelle n°2 tricolore : possible relais de notoriété du tennis féminin français ; le titre ne cite pas Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "02b330a204f3",
@@ -3256,7 +3346,14 @@
    "query": "sélection vérifiée",
    "reliability": "A",
    "score": 5,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Résultats trimestriels Nike publiés : indicateurs utiles pour anticiper la stratégie wholesale, les allocations de collections et la négociation avec Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   }
- ]
+ ],
+ "ai_updated": "2026-10-16T09:45:25Z"
 }
