@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T13:31:12Z",
+ "updated": "2026-10-16T14:51:35Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
+  "added_last_run": 6,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 371
+  "rejected_last_run": 415
  },
  "items": [
+  {
+   "id": "55063a843b3b",
+   "title": "5 things to know before the stock market opens Friday",
+   "url": "https://www.cnbc.com/2026/10/16/5-things-to-know-before-the-stock-market-opens.html",
+   "source": "cnbc.com",
+   "domain": "cnbc.com",
+   "date": "2026-10-16T13:30:00Z",
+   "first_seen": "2026-10-16T14:51:35Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "6d8f0c43c010",
    "title": "TESLA Cours Action TSLA, Cotation Bourse NASDAQ",
@@ -32,6 +54,28 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6df9ec88d84c",
+   "title": "Asian Cup football on track but golf, cycling events affected after Saudi attack",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXFOVGNEX19rbXhiRVozSzU1MnVNV3hfTzBhZ3Z0azV3RXRXaUZlNXFvRFlqVWNDeDdDajFtbkY0V3FhR2xZUzRDenQ0NEpYSVVkNjB5MU5lZlVxeVZ2MmhLNlNWVDBOV1RUMThYWU5ic1lXM29KaE11NmF6MG1qdXlNNEQ5OGNGVG5wWXFkS1ZuMVNtbWNGZTJ3RXljeEVseDRoY1hSaWo0R0JnMXl3Z0pJR3BsdlRacjk5LWJONnVDcENVRzY5R01XbmvSAcwBQVVfeXFMTVVxTlRjRF9fa214YkVaM0s1NTJ1TVd4X08wYWd2dGs1d0V0V2lGZTVxb0RZalVjQ3g3Q2oxbW5GNFdxYUdsWVM0Q3p0NDRKWElVZDYweTFOZWZVcXlWdjJoSzZTVlQwTldUVDE4WFlOYnNZVzNvSmhNdTZhejBtanV5TTREOThjRlRucFlxZEtWbjFTbW1jRmUyd0V5Y3hFbHg0aGNYUmlqNEdCZzF5d2dKSUdwbHZUWnI5OS1iTjZ1Q3BDVUc2OUdNV25r?oc=5",
+   "source": "South China Morning Post",
+   "domain": "amp.scmp.com",
+   "date": "2026-10-16T12:01:07Z",
+   "first_seen": "2026-10-16T14:51:35Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Attaque en Arabie saoudite ayant touché des événements sportifs : risque sécuritaire possible pour les calendriers organisés dans le royaume, à surveiller.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -164,6 +208,31 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "47f887dbe032",
+   "title": "Attaque meurtrière des Houthis pro - iraniens contre le siège du gouvernement yéménite - 15 / 10 / 2026 à 21 : 57",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/attaque-meurtriere-des-houthis-pro-iraniens-contre-le-siege-du-gouvernement-yemenite-7b43999ad8f704552448d466a5617d38",
+   "source": "boursorama.com",
+   "domain": "boursorama.com",
+   "date": "2026-10-15T20:15:00Z",
+   "first_seen": "2026-10-16T14:51:35Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "tennis (\"Saudi Arabia\" OR Riyadh OR sportswashing)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "houthi"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne pas le transport maritime ; contexte géopolitique lointain pour la sécurité de la mer Rouge et les délais de fret.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "08cc438ca734",
@@ -1592,6 +1661,28 @@
    }
   },
   {
+   "id": "c9ddba07673a",
+   "title": "Exhibition: Le Six Kings Slam en Arabie Saoudite est-il en danger ?",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVAycXF1bXFHZ2VhaEJ6UnBMNlVBeTByNWg1U1FRMmpqOVFhUUZSR0QxN0dFd1RGNWMzaEFMTUlQcFlSR3ppZzludThuVk44a09pZzAzbXNlQ243eEhLOEZHWWI5VF94cXdTUUR2aFVIUloxRng2cDAyWUR0bVdxVFNmRlU3MnR4anlKZFJkUGJGdF82bXVJLU5vSDhnVDA5OGFrbWlfWVNwUjg10gGsAUFVX3lxTE4xWkRHQWYza1Y3ZmFuWGlqejNOaFQyckNhaE4tVFJ4TTgtYmlTcXpPUENRN0ZJVGFwVTJVaXE0U2Q1dHNRZkFiZEJWbnJsV1hvRm9SXzFkcDNrZmp4LXRZUHJVTVRRTTB4MEpWem9OR1M1RkI5UzJtdUt6V2Q3d0hWLXJCT3hzZUJKQ0lRT2FCN2pQc2xKUEJiM0tiam83eG1OSmJVeE5FdlM5bl8?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-12T13:57:00Z",
+   "first_seen": "2026-10-16T14:51:35Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Interrogation sur la pérennité d'une exhibition soutenue par l'Arabie saoudite ; indice sur l'attractivité du calendrier saoudien pour les joueurs Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e97eae5b6eec",
    "title": "Masters 1000 de Shanghai : Alcaraz tombe dès le troisième tour, coup d’arrêt pour Fils dans la course au Masters de Turin",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN2pya0N5RURwTnE0WWVuZ1pjMjloYzg1dVJZWTRvbGJRa0RGek1jdTFrMnZBTTVNSkFOeGVBOS0xZF9TSTh4WFFMcXFiQzhZMU8wUmwzNGNYZlJpZXRFSE5vRUdyYmpHVTJfMDc1REZDb0FLV0xaazlJUUJJVlpMZXNkampvekQzeUFCVWJtZnNPZGREODNVTnNaOGl6WlNjYmJFWTdNNUVLMGxLaXNiX1pBNFYtcHpVaXVkN3FLM0Jyc2xzRldIS3ZXaHd5OGg2YVhWeWVzMWpsV2daOVFpbkNlM0FwbjJrb2tqb21oYVV4TmlzYldNRl9JZ3c?oc=5",
@@ -2394,6 +2485,30 @@
     "r": 1,
     "impact": "Commentaire sur un geste de Jannik Sinner, sans effet direct identifiable sur les ventes ou l'approvisionnement.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b1df3ea5a150",
+   "title": "Alcaraz lance un message émouvant à Sinner après sa blessure",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQi0tUndfVElIenNIVlhNX2FBNEdhOTg2VTNPcEFOWkdOY2ZyRHFfRGh2Z1hoNGJaSkFZS1dZdnFoejNjMnE3MGZMQUFkc0I2emNhOWEwTjVIMEw1bWY2RmlXaHVMRzJyb3M3RFFOblBUbDQ5VVowVlEteERIb3c1S0ladXdBWUJ2M19mWFRUbDY0NTBGVjJ6VVVoZWx0cjQ?oc=5",
+   "source": "Puntodebreak",
+   "domain": "puntodebreak.com",
+   "date": "2026-10-07T11:00:04Z",
+   "first_seen": "2026-10-16T14:51:35Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "La blessure de Sinner, athlète Nike, peut peser sur l'intérêt médiatique et les ventes de ses modèles et sur la visibilité de la marque en magasin.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -4796,6 +4911,28 @@
    "axis_original": "T5"
   },
   {
+   "id": "fbe75cf2d6a3",
+   "title": "La série noire continue pour Nike, BofA dégrade son opinion",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZF90MV9zR1NnX1hrUnFwNHFkU2JPY2RraFd3WlJrNFY2ZE1DN3hKVW9tLUxXVElQN1B4MXBZNHNVZlUyeXhpUVV6MDNpcE9HMmF3MWtGSmxWbThxTnd5QTE0UEhnY0xELTdzc1dnb1pZNG1Cb0xwVVVjcFR6NFNFazNrWWFyU1BhVmNXTnNSSzF5R3Z0ZkNvSzBsWnB0cFRwN0ZxMnZRUVVldExVNk11cERlcHBodVZXUzVR?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-16T14:51:35Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "La dégradation de BofA et la série noire boursière de Nike signalent une pression sur la stratégie, les marges et potentiellement les allocations wholesale vers Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4f9f400af43b",
    "title": "New data shows Suez route transits rose 27% in August",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHhPZDI2VGpoVXZndC1uN0JhbzEtWVJ3aWlsOVZFT2Q1ZDcxeGNadnY4VDRjeFJqbzFoMGxjZFVGQlZhMVB3dzhORDh6bUowTjk0NFZtZkZ0S0ZMb2xMdTcycmhDTUZXY1M1NHlQbmMxV191YXEzbmItT3dKclU1SkVCU2dGSmJPeHFHVW02dw?oc=5",
@@ -5963,5 +6100,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-16T13:36:33Z"
+ "ai_updated": "2026-10-16T14:56:26Z"
 }
