@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T22:52:00Z",
+ "updated": "2026-10-17T04:26:43Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 395
+  "added_last_run": 3,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 394
  },
  "items": [
   {
@@ -1266,6 +1266,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "f1b68fa82232",
+   "title": "Nike, Inc. : Berenberg maintient son opinion vendeuse",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlFqeFBneldZc2Yzd1U0b1RZeHpUbWVjZHlEeENaelJacngta0NBNl9ZamdtOUFIbXhGbXUtUEFKLVN3Tl9BTWZJNFhFRFpiM0psbjV0Y0dhR0lKNjgzREcydjBrNmxHTWlqWHgxaVJTWHNtYncwWnlHekdjVWk5ZTZNMkdmTks2OWtpRm5PLTlwVVQ5U01qbkwyWnZDTHliQXY5ejdwVG5maXc5YUE?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-14T11:23:21Z",
+   "first_seen": "2026-10-17T04:26:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une opinion vendeuse d'analyste sur Nike peut signaler des doutes sur sa trajectoire financière et sa stratégie de distribution, à surveiller pour les délais de collections.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b7c5412d19c0",
@@ -2534,6 +2556,28 @@
    "ai": {
     "r": 2,
     "impact": "Une nouvelle voie maritime arctique entre la Chine et l'Europe pourrait, à terme, modifier les délais et coûts du fret Asie-Europe pour les livraisons Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0f400dfaf39f",
+   "title": "US' TNC unites Nike, Patagonia, Lululemon to curb microfibre pollution",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaG04TkNKRXRIb3RiMGFjeUlKYjJqUFVrd1NIVk5SWi00V3BrX2hycGREQ3pxSEp5UmFMeldGSGh2Q0stUTluYjRDQWNndmRKMC1leEM3aDgyMjV5cEpEMEtZZnJpakh0bFh3NUdfV2hwQWEyVnhwSXp3ZVg1MWw5U2dLSm14THo1dEcxWG5qcFZROFdwcW8teEZKOEJ3YzMwWFFJZkoycmZMVWNJTW1raW9naGRwa1d4cWtQREluM3hhWDVITHJEbmQ2dmo0TUJrM3JXNA?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-08T07:00:00Z",
+   "first_seen": "2026-10-17T04:26:43Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Coalition Nike, Patagonia et Lululemon sur les microfibres : enjeu RSE pour les textiles Nike de Tie Break, effet commercial direct peu probable.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -5769,6 +5813,28 @@
    }
   },
   {
+   "id": "572ef055c666",
+   "title": "PIF launches Tawrid platform to expand supply-chain financing",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWFh3TVdkcGhWN0dEVVN4VHZSQjR0MlZqM3dLU2dRNkFwTEpkZ1ZWazdGOEZsMzZ4WDgxclFMWUxnWTVfMVdwZV9jWEUxNUNqWVFHTDlOOUk3aEdocTZkNVBJaEtKbXRmRnEyektydjNJTlRSVnNVWkJEamtKUWI2a2pZVzgxLWJleTBLSGJiQ3otSnlRQlFrazNzVzZhMWozVW9ieWFn?oc=5",
+   "source": "Arab News",
+   "domain": "arabnews.com",
+   "date": "2026-09-20T07:00:00Z",
+   "first_seen": "2026-10-17T04:26:43Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Plateforme de financement de chaîne d'approvisionnement du PIF : lien indirect avec le sport-power saoudien, sans effet identifiable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "05721b9fe5fa",
    "title": "Kylian Mbappé chez On, ce que ça change pour Nike et les Bleus",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdmZQTlpicG10bmMyUjNNTDc2R0hxTVVNNmtXcnZyeVM1M0UtMS1MVjBtOVJDck5UZGp1MlR5WTBVZ3dCSnQ2SWFqT0dISVgyd3AxODM5QkI1c2kzcHIyZUFqMmkwTHUwRGIyWW5PaWEzZXB6VWdHLWFISXNVbXhsbmdoZFNLcXBvZmRwV2ppV0sxYUJmazFIWmZLQzUyQmJsTG1QOXk3S2lIWC1SUm9XYjJaRnNubVNMX2R6UU1DSjg1dHhDUHV3SW9zbzMwemFtMDlj?oc=5",
@@ -6351,5 +6417,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-16T22:56:52Z"
+ "ai_updated": "2026-10-17T04:31:37Z"
 }
