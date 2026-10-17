@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:26:43Z",
+ "updated": "2026-10-17T10:45:01Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,85 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 394
+  "added_last_run": 10,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 414
  },
  "items": [
+  {
+   "id": "14ff07c8fe7b",
+   "title": "Dopage: Marketa Vondrousova, suspendue, raconte : «J'ai pleuré...»",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzVmV0NZX1Vnb0lFMTY0Tm9iaUtiSDJGTldYUkp4NWpzQjVBUmNyUmNyNXBJX1BGMUpyT1ZmX3ZBX2hER24wMlJGc1hfY0lGakNTV191MTMzZFhVeFE4R3lnRWNBZWROTFpqT0NWUWx1Vk5wWF92V29WNEVJc1AxWWlEWEtpM1k0M2dSd0F4NE5uWGV3QW0yMlo3UVZVMk5xZ3fSAaIBQVVfeXFMTnY4dEVVUlQwV1ZvYXd5YlJuajhzQ2tKZ2lTS1kyRnFJcjZYT2lZem92SVNrWFYzeUVfaEM5MHRXUGtkeEs0a0M5RzdvSFNjbW5fZWE2UWR5MzVLZHYzdmxRdHFDMW1PNm94bUlvbGF4cUlrTTZZY2FUOXk0WXMwbS0yY1lTajhMSlJ0RDRRX0o2N01nM2hTci1KZDdoZThuOG1B?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-17T07:28:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspendu",
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Suspension antidopage d'une joueuse : impact direct limité sur l'offre, mais alimente les doutes sur la gouvernance antidopage et l'image du circuit.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "8c9f17200fe5",
+   "title": "Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeThKTnpfbXp5UnI4RXVoWEVIU0FYem50WTRETlRWSHJPbTIxa2pIRXRhb1lFOWNOYUtxWGdHQVl4VGxkR2l4T0trUWVUTm5YMTNKbHJYTGNsYWtfNGROUkpIemZPNVBPN1NudnR6M0Fxa1RPTkM0Z2g2ZTdLcXBMMGdYUW1KanRGZjgxaEM4eXgyQ25YVDJWVUZ1ZWRTRjVRM2ZSQk5VMkZKOGhha2pSdW10M1cyVERZSld1MU9IQkI?oc=5",
+   "source": "The Guardian",
+   "domain": "theguardian.com",
+   "date": "2026-10-17T07:00:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "houthi"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Recul saoudien sur ses ambitions sportives et tensions Houthis en mer Rouge : moins d'événements à Riyad et risques sur le fret Asie-Europe.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8fbceb3564d9",
+   "title": "ATP > Jessica Pegula : \"Avant les blessures de Carlos Alcaraz et Jannik Sinner, on ne pensait probablement pas qu'Alexander Zverev décrocherait la première place mondiale en fin d'année. C'est fou\"",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPTXcxdlpjbG9DZUlmTWJ0YVNzcXA5cmxFbkFLeGNCWFVFdHpFeE55NC15MnlqdGxKSm83a0xFUUFqRGxuRmVNSlpRai1ZSDlwRWxlREZHWEdiWHl5WlhQS2pNV0xLdEJrWEVpYUZUM3MzUkR2eGtsM0UzWHhjclMyNm0tbU5GX1ZOXzR6Rml3Xy1ZNkR2WThuVkxOclVqQm1ic2RCU183X3lHeDFPV0NLMlltLS16bVlRb3lCVU9MU01EWl8yelR5UTBxYUwzRzZ6N2FWa3NURTNJTThkdUhiTlhGcDNUZjZwLTBzYTdWemJpcm9aQ2VMM2pPLWdLOGV2Y082LW1CU2xNRlcyWHdNdGttOVdWV3BuenMwYjEwTHNoYUtEVF9YOUpNbkxEZXd4cWowVXBNNk8xUQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-17T06:16:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessures de Sinner et Alcaraz laissent Zverev en tête : deux athlètes Nike absents, ce qui peut freiner la demande pour leurs modèles.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "4ac5954b8cc7",
    "title": "Regional armed conflict leads to the suspension",
@@ -815,6 +889,28 @@
    }
   },
   {
+   "id": "f683f40bf296",
+   "title": "Exhibition: Le Six Kings Slam reporté après les attaques à Riyad",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVEoyYWxsOGJmam5WN0hYejNtSUNtZUxQYVB2QmRGU1IzN2dWZVdNRjY5c2k4RHBvLVVFbWtPbGYxeDVlMndfLWRYU1huR3RGZEFrMmRySjB0bE5DMHlkdFlWM21kMkJudFFGUzNaZzBjOHZzcmEzZTVIRnY1M3BucGVYQmQzVWhVcnc4OVp4bDVUVXhadldDc09wMWZEU0s4S0RpNzlna3lGcmPSAasBQVVfeXFMTmtoWjJrenZJMHplVFBiN2Fkc25mZ2tPdjB1UEdXVHhRMm92ZHl2RU9OTmJwSWVOdDc0a2ZRZ3Yzal9GVmN1LVVqb25kanZrX1dwUDlTcnl0dHp1U0E0cl8yYXNVNi1iSFNlSUM3N0FSd19DRFNJb2NFQUFhTzhRWjc3VFZyelFYUWxsY0hrUnNsVmFDd3FncDRKS2hzUzB3U1ltRTB1bXNJYXhj?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-14T18:16:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Report du Six Kings Slam après attaques à Riyad : calendrier d'exhibitions saoudiennes instable, risque sécuritaire pour l'image du tennis saoudien.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "7e1055070a79",
    "title": "Container Shipping’s Red Sea Comeback is Outpacing the Risk Warnings",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVV9wRGc3RWI1MWRGY29HNFNWQ2dVNHlWelpXMWpOU2tWdnNHd0w1SjNBNUxWelV1dktGVzRkQ1FUQVg0YjAzcmdLZ20zcUtQQmdQTldzSmRxc0dXZXpRWkNPX29vU3FFUkdOb2JBM0kwMXZRS3pncmhlMGVNeFlsNmpVNjc0VlJsb2tKR1JOS1lxQUF6ZVp3ejNoYXFvZDZwU2p4bFk1c1haZ1FXNFdIVkNjb09hX0s5eDZybEdn?oc=5",
@@ -1014,6 +1110,28 @@
    "ai": {
     "r": 3,
     "impact": "Ouest-France confirme le report du Six Kings Slam après les attaques houthies : exposition des athlètes Nike à des événements en zone à risque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9cbffff051b0",
+   "title": "'Six Kings Slam' tennis tournament in Riyadh postponed until December",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdTljSi10RXlzNmx4OWtqclQ0YWV2MWFKNFltTEVicFJOdDNpdWpVUFZFMEVWZGhEVXA4VzZZV2RiMHgwQzFTTE9KMjdmWjlETkRfWWQ2Q0hEZ1pyU2dZUlpsQ3owOW5EbzNTc081cjhzeFJFNnhGMzd0Zk1MVU5HblItaVJuSTMzallEeGNEN3FQS3ZPTm9oV3M1clRhUTUyMFFPODdXNEdJeDQ?oc=5",
+   "source": "Arab News",
+   "domain": "arabnews.com",
+   "date": "2026-10-14T16:02:54Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Six Kings Slam reporté à décembre : calendrier d'exhibitions saoudiennes décalé, sans effet direct attendu sur les ventes en France.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -2891,6 +3009,30 @@
    }
   },
   {
+   "id": "05cb9b1e527a",
+   "title": "Tennis: Alcaraz remporte à Tokyo son premier tournoi depuis son retour de blessure",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMW9iX0JjYnlWM21OLXUzLW5iTUIwN3VhLUZjUkFJd0dTU2ZvVk1xLTlhSWxaSUc4TUx1RlRoanU5Z1V6LXhqN2FVUk5vT1BqWDVLQXBiMHduUk5CWDNVXzNMLWtRb2Vlb3NBYUdGVmJDdVVDM3FUelhzelZKeFZCamw3ejl2ZEVPZVFza2s1QjhDLW9TN0lOVzN5d1dycnR5SWEtSENPNDY4XzJkdnhfMmNHMWZEUGlBNmVJUG9ySV9PQV9PTmc2aTFrLWg4eXF0bFd6Z1VR?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-06T11:28:57Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Premier titre d'Alcaraz depuis son retour de blessure : regain de visibilité pour un athlète Nike, favorable à la demande en raquettes et textile.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "7063e3471ff1",
    "title": "Tennis: Blessé au genou, Sinner met fin à sa saison",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNEtINTJHUTEtc2g1bGU4b2JIangtSlRsazFsWjNBVmxpb3FrUkh4RmtsZnJBUldmWU1jZ0hkYW9Hbkx2NnNiWXBKdERNQUlUdmYyMlZTUWl4d3V5NmowZlRZaVhVOGZSTmJTTWFzOHVSU0JtUm5TVzVad1Y5aDg1MUgwSWVmQzF3U3c5dzYySlJXb05VSUgxdm41OVlIVUU0ejBCX1d6a3c5NWNrbFBZVElCU25qZFAwTnZCcy1udVFwRmJ5cmRRQVhPbWNyUWVTUDE1NGNESjHSAd4BQVVfeXFMTUliNm9JSTRJa2FBTDZkb2plQzM4dHpBX2lCSEk1ZUNVNXdKM3dzX0tPVmIzeU5ZeUNBRWhIVGdrdWF5bmp4RnZQOExWaWFuTFFFV05DZ3Y0cm4xY1lOMmtodVlzbl9Canp2TmZyRW95VGloendwaUlCMVF5d3llcVNKekg2NFZYR1MzU3gtbDlIY2xicWZZMnk1VEwwelM2dFk1SGhBV0gwNlJJMUd2UWJxS21RWmRCcUxiaTZySzQzZ2xLZ0Q4bnhDMDBIbmhKZzVuT0dPYnFRVnN5bTF3?oc=5",
@@ -4298,6 +4440,28 @@
    }
   },
   {
+   "id": "54da256b7517",
+   "title": "Open de tennis, festival de BD, Joséphine… Cinq idées pour sortir ce week-end en Vendée",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWjNmN2Y1X1hYMGlPTWJwalZ6NmhCVXJGUGNCUU9KZ0Y4M3lzTWNQM1d2TjRIZVdzQjNsRTR5Qm81a1BySmxreGxxbHdabzdiWEhvT2lKREdqYTM5Y0pBckprbFlVN0ExWW5yRHB2TXRZTnZucjdhWnF2eVRyU29qaUNiWEFDQXpxOTVfQW9Yc2hLbjRNdFBzQk13UGhIcDU3U0tySTFDUm5zYVRaSjRoVHhHRUdNQzg0V1E1QUdqbF9mZ1dkdzN2aEtjRXUwclo3WTJQR3czWDJBTXdLeUpKYVhiM0V2VDM0dGpyV0JENlRKWW52X19yeEFCVW5VSGpEVmUw?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -4713,6 +4877,30 @@
    }
   },
   {
+   "id": "cc01f2e9d065",
+   "title": "ATP > Diego Nargiso (ex-67e) sur la blessure de Jannik Sinner : \"Si, au bout de deux mois et demi, nous en sommes toujours là, cela signifie qu'il y a quelque chose de plus : soit c'est chronique, soit c'est structurel\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QUGx5elJwWGFaSy1JTTU3Ym12aDZ2VVVhM1habFhCUllNMElxQUFMWDF2VHkxWjE1ZC1lTnMyS0VJVlNPcHc5V1dyaTBRQQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-09-29T07:00:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure de Sinner prolongée depuis plus de deux mois : absence prolongée d'une figure Nike, risque de baisse d'intérêt pour ses modèles.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "c7f8e85a4f84",
    "title": "Abandonné par Kylian Mbappé, déclassé à Wall Street : le géant Nike ne fait plus rêver",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEQ5dGNnXy1MREYza2ZiNndvZTNLRkpKVG55NEtvUFBFcU02T3JpTmlGVEs5QlFRNjlOOTJWb1gwbGRXZzFtNDJ1aVpfMUdES0lDVFp1TnpJTDJYS3U0LWd3T2FEcW5CUFRZV3JwOVY4TFFxb3M4Nm9XczgzUXZvMVo2Z3p2M2VyVENyWlF2SzRMT01kSTU0cU9SZzVhSkVCc08xdUE3bHVyeXJGQkRNT0M3ZXg3UndXZkNtdEFrdk4?oc=5",
@@ -4844,6 +5032,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "2e4c963047d1",
+   "title": "Mauges-sur-Loire. À la découverte de la marche nordique",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSXVZeGs1YjdRM1M2R0N5V0htWEF3bHlaZG5PWWx1RGU1Q1pjeFdwd253ZnAwaVJNQ1pCMnJpNEhCeFo3Q29fcjFsTTM2QjRMRWpOcmdaSlVsOUVNbnY1TXRBZ0Y1RjFlTHRwRnp6dkRxUTZBbi1yemJWbHpnNHBxcFQ3ZVRRZjFESFFmNzcyY2dnYWRYM2hEd1ZGS2RmYUI4NVBJdm1nWWh5NU95SWxpOV9lWF9JZl9lMk8wajRxT0tHV3RJa2tMa1VVYkMxZ1ZDS3EwcUgwZm9TR3hSNWlRclB1WlhraE5HRTM1UGxEOG0?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-09-28T07:00:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "123ea0f8ef48",
@@ -5481,6 +5691,30 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8f82815a97e0",
+   "title": "Converse retire une publicité et présente ses excuses suite à la polémique suscitée par des images présumées d",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOZ002TDJVMFNlQV9CYmVVQ29uaGtnOTF0Si12NDFJcUFnQ2RIdU5jN29MNTY0UmZlRWlkYm9LSmlDb0ZXUS1vU1lDcnpVZzdNc1BMRmlqbWpYMmF2SnpUMXVObklRVVY1V2Z5Nk1Sa1NVb0RGZWMtTDN2eHhXMXFUcGRzRGZiS1JaUld3SkJ3cldMeUh4VjRzRmpCWFNfSDdwWm1pT05OeGpYZ3JBc1J4czc1WTdTd1dtVHdJcG82bFBrVTlPak5JTjRERlQ4UFB6UTJ1dGxCempTdXROSHZTSEpUcjdoczBpcEkyRzVmUG1McUR2NDE2Zm5CSlc4UmFCUUhfUGpGT1lrSjczTlBYMDhfbjF2M0NWLTRYNVVSU1RMdVlObTBvS2hLU0tKY1pMcFJGLXlB0gG7AkFVX3lxTE9GOThSLU5JUlg5U0Z0RjFMQjh5OTFzbEh5X1R3aFpvZ3ozcFpTNWtxMEpBRDFLaXJTTG5FUGwwS2EzYUJRSTlWME50OUt0TElFRTZrQTJud0x6X3Q3S1NUaVlIdmg3bW5uRFljUnRhUE9NSjNmVTJCZVRTT0NDdjNfUEI2TXJkWjlxZ1pHSzNPbFdodVhwMjZLTURQcW9kQkl0dGlNQ1h5NXU0aEgxMy1YQVZNWEQ3T3RpRE1xdnJsc2FWYVloVXpuZWxGcDF2UUZJWWlmZjd1QnBOUW0zWHk5Wmd0SmFxbDBRTjFWQ1lsR3VjYzQ3MjFTWFhwcFF4WTFBRXFPcFNUdUdDYnZ1akVocV9QVVFuSnM5RThzVkZpMzVMd1RDOXNKYzFGU3kzYVRkYjRPbXVmcmROcw?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-09-22T07:00:00Z",
+   "first_seen": "2026-10-17T10:45:01Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Converse, marque du groupe Nike, retire une publicité et s'excuse après polémique : signal d'image à surveiller pour la communication Nike.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6417,5 +6651,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-17T04:31:37Z"
+ "ai_updated": "2026-10-17T10:49:07Z"
 }
