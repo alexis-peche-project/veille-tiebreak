@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:30:47Z",
+ "updated": "2026-10-17T22:19:19Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
+  "added_last_run": 4,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 415
+  "rejected_last_run": 390
  },
  "items": [
   {
@@ -2570,6 +2570,31 @@
    }
   },
   {
+   "id": "0633efcb24ac",
+   "title": "Football, Muchova 2.0, dopage... Qui est Nikola Bartunkova, la nouvelle sensation du tennis tchèque qualifiée pour les demi-finales du WTA 1000 de Pékin ?",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNczVfeEQ3Rk1IZU12RWYtcWRLRlVtZGx4WVdjRzFxTGtibHhwd0VNTG1tb1QyaFVXOUtfVGY3cFpseEpVRDl6a1dLb1lJaE5IWXhRMS01MnJZWkxmYlN0RzdzU0FjQU9CMU5MSHRJZWhKODZZaGdSSmcyVEw4Zkp1aDl3OTFmcktVRnBDVFJzNHNIN0V0VzJfblBhSjZBd2Znc3QwS1UxVkhzcnB1dVRpZGt2N1NyQnFHWFllOXRsR1hMQmd6aFFQWWFmbXl1WTN4eERmeFZlYnk3MDd4anEyaFctcEtwS3gzS3FISHJZazhRWGUtamFfQ2Fkd3ZYVGI1ak5yMzBfWTJuRGE3eUp4akFLUXJmMlJZTFB1QzllQ00?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-09T08:37:00Z",
+   "first_seen": "2026-10-17T22:19:19Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne ni Nike ni d'équipementier ; portrait d'une joueuse tchèque en progression, sans effet direct identifiable pour les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "f4c2187bdc08",
    "title": "Liquidées sous le seuil des 100 €, ces Nike Air Force 1 font un carton",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0ZUdXRyVnY5SHBFRTFrTXNqZnpsSk1hRkZwNTZtU1BmMGZWS1hTUTdjZllrSWVnQV85X21ZalV1bWlhMUg5cEFWU1JiUnlGT2ZneEZQTlZmWEtTU29nNk5ld2NpU1FpdHNRcEg5N2pFeXhrUkJ4c3ZqNEpCS3VTQ3ZOUUxqYS1IMFNadTNUdlJJSUF5OTAyNUkzOFMteGNNZXF0V3RhdlU5amhUb1JOTFh2NVJYQmVheXlweG12cm9GODJSQUdSdWxEekZrMmZfYXRFWFliR0I2b3VtZ3Y1d25R?oc=5",
@@ -3517,6 +3542,28 @@
    }
   },
   {
+   "id": "2b9dc5748e3b",
+   "title": "Nike recule après que Berenberg a abaissé sa recommandation à \"vendre\"",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQWhpbEhBUEtWckxFdG5iZzY2dmNGbTFxQWV4MzA0THlsX2EzeUgtLXRyUzgtaTZmN0VvZkxXc3lwZFNrTmVJQkFWWEF1VEV2VVZkZ3V6Z1lUNWhQV2hlcldackRURml0M3JRdkFGd3pLdUpjSzM0cHVMTy1mem5hNF9Rck9qY1VkSGxkR1ZCcU5zdXA1b3pNMDRFUXhxaGJ3VUFHRjRQZXVEdHdCQXB4YlJNcHg4a1JmYzliUXVqSDhlTm5sc3JyVExJX1g4ZVZteGpoTU5BVEVpNTdjd09V0gHkAUFVX3lxTE52aHdic0F3aTRPSndtRXRQZlg4RGVhWHJaLTFXTlMzdEZMV2JGOGJpdUFZeHVkRmFaeGNjeUhPQkUyU3FjcE5tUlpvUG1RSTNjd2hET1UzODRtZXdudEtzMkg4YXczUW0tY3V3V29XUFJORDBUSlJBNE1zUVpjdlZodnozOGtLWWJ0QUJmeFYwaXpwNV9wOUxILUZDQTNRNmZ4Si1IVzdhTVA4UjJPbk9wV2hkR3A4alY3dzd5QmVhVWRjaHQ1ODJTemdrWXZxRVlTdGpVVzRXVHB6QXFXbHZXU3BOUg?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-17T22:19:19Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Dégradation de Berenberg à « vendre » : signal de doute sur la croissance de Nike, qui peut peser sur sa stratégie wholesale et sur l'approvisionnement de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -3668,6 +3715,28 @@
    "ai": {
     "r": 1,
     "impact": "Patagonia revoit sa stratégie de salaire décent après un objectif manqué : référence pour juger les engagements sociaux de Nike, effet direct limité.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "54f20625a799",
+   "title": "Patagonia Expands Living Wage Efforts with ACT Membership",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOenhocE4yZ1JaNW05LXJCS0xnQVlpclg5bjJKeW15RFBMQ3Azc25kZ0UyaGI0TlJmLTBfRGpBdEVjR0ZEZVJVN1lRQU9Jd2huWEJNZTRLSlR5MktqbkV0ZTN4STRxekk3TUxkTzN6VGpET2R1aDQwWE12MVJ4Mm9EQmppR2s0NF9tMVQ2c25n?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-17T22:19:19Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Patagonia n'est pas Nike, mais l'article donne un repère sur les salaires décents dans le textile, utile pour interroger Nike sur sa RSE et ses sous-traitants.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -4943,6 +5012,28 @@
    "ai": {
     "r": 3,
     "impact": "Retour de Sinner possiblement reporté de trois à quatre mois : calendrier et demande des produits associés à incertains pour la saison.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "048c28874a7a",
+   "title": "Les résultats du T1 de Nike ne devraient guère s’écarter des prévisions, selon RBC",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeEVfay14a0Z4c3Npb0tiYVFOU1VGb0h6R1J6UUFoUGlmWGRORXA3QjV5bDZlZ1RRQTdmbXBpWUg3QnVZRUFuRXJWMHhLdUMyejZoMDhEd0U3T184cDNkWEt5ZTFzTEhxaXBpdmVjeGoxS0hZUHdXT1RGTzNBc1Jwb2xQazllc24ybzJNNlJJVmlCY09HQ2VyZjNBMkVVc0xoSENsVGJZRFFKaFkyd08tOGgyUS1mZ0xTZUxXYUtFVkZmby1zUjM0VzBLR2JINDV1aTRmUzc5WHJVdFE?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-09-29T16:06:44Z",
+   "first_seen": "2026-10-17T22:19:19Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Prévision RBC : résultats trimestriels de Nike proches des attentes, sans choc annoncé ; à confirmer par les chiffres publiés, qui éclaireront le rythme des livraisons.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -6810,5 +6901,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-17T18:35:43Z"
+ "ai_updated": "2026-10-17T22:23:30Z"
 }
