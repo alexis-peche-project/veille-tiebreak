@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:35:40Z",
+ "updated": "2026-10-17T18:30:47Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 390
+  "added_last_run": 1,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 415
  },
  "items": [
   {
@@ -5507,6 +5507,28 @@
    }
   },
   {
+   "id": "d32fa4b66824",
+   "title": "Nike Opens Sustainability Pop-Up in Manhattan",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULUthc21sNmRVQ25OVzJ6Tk81VnRjdUlqOVktbkFjdmpqNzJOdkh0ckE0ZkdwZ1hlMW5aaFRkTkxJVXhSa1dqSjI3d3BvZWZUUHBWa0VHdTNnNFdiYnp5aVpRUWFXVnliV0tTRmRUTWV1RUpLQ2l3?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-09-24T07:00:00Z",
+   "first_seen": "2026-10-17T18:30:47Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Pop-up RSE de Nike à Manhattan : communication sur la durabilité, sans effet direct connu sur les livraisons ou collections des détaillants.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a1c479ec27e3",
    "title": "Comment nous réduisons les émissions liées à notre chaîne de valeur",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmxMTUxDYXdIdVg3VTBoSmlEMkJ5a0FHZlc1Q2s4N1BYeVpMNVZSeDJRZl9XeFFHOHhnV1l3MkEyYy1aLUpLM1ZTT0JHTEJ6c2lodVg5aUV1NVJnYm95dEZtZGFGWFphTTRNUy1CX1FFZnFROHlFa0tPOWNuTjRucTdn?oc=5",
@@ -6788,5 +6810,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-17T15:40:28Z"
+ "ai_updated": "2026-10-17T18:35:43Z"
 }
