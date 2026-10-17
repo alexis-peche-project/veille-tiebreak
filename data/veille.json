@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:45:01Z",
+ "updated": "2026-10-17T15:35:40Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,35 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 10,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 414
+  "added_last_run": 6,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 390
  },
  "items": [
+  {
+   "id": "48b7ee01c690",
+   "title": "ATP - WTA > Madison Keys sur la blessure de Jannik Sinner : \"Ce n'est pas vraiment surprenant\"",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVWdrS2JkYWE0NTdvMzVYa3pMd2lSY1pMTnBOTFBjMG5qUlVmR044dDB5bXJYemluOWw1NTFVLVBxbURzZHB1alZRMG9UNmNlVFdMeXBwSTRYbl92dHJtNWFMNGN3Rk8xUWRNSGtLVmREcDVoYThTLXZrXzZhUjhzd3ZZbXBZVlNpUlQ4U1VSSVVFcWxzbDBiSEQzLWU1UGk0anlVY3prX0FsTGphM1lOY2x2VQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-17T08:44:00Z",
+   "first_seen": "2026-10-17T15:35:40Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "La blessure de Sinner, athlète Nike, peut réduire la visibilité de la marque et la demande pour ses produits sur le court terme.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "14ff07c8fe7b",
    "title": "Dopage: Marketa Vondrousova, suspendue, raconte : «J'ai pleuré...»",
@@ -557,6 +581,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "1749d71a58e7",
+   "title": "Matchs truqués: Un Serbe suspendu 24 ans avec une amende de 70 000 dollars !",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWhKSzJKN09MRzlBUF9JdWNjaG1NUWlNSEN2QkVOSk1JT00tSkNYQ2ZPMk1DVjBZRmJ0S1FMa0FPdXlqWXZVRFpiNGZxckJwYXVQektheVdTaUpYUnJtVVFvZ1N4X1NmUFRNQlc2andDODFzUUhPS0FZSVpHQ0JpWUtOa3NUVWV3cktxREZOck5xOFRqZFduSVBQczN2VjFCc0FVaGxxcklzeU5jNlZ3VG9YbkNVY3Bt0gG4AUFVX3lxTE9TWTExZmJnQVkwcDFWX2NETlZyWExiNGdrRUJtY0E2a2dxZW14Qlp4ZE1hRTlXRDA0Zk5tYUVfbUNtcktIMWxmVDlQMjVFX0Nmb3FacFdrNGdqaERvM0MyNjUxQjFIMEc0TGFQVTZ2WFFYY1Y4NXh0a0JCWlRsRzRucVhCc0cwZUFhZVJlVkhrWTBGUURVaEktNFp2b3kyamdrYmRTZk95WlI5a0xxajJHVDdvWTVGSXo?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-15T13:59:00Z",
+   "first_seen": "2026-10-17T15:35:40Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suspendu"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire de matchs truqués sans lien direct avec Nike ; effet indirect possible sur la confiance du public envers le tennis professionnel.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "6bc4824dab61",
@@ -3447,6 +3495,28 @@
    }
   },
   {
+   "id": "bb7ad5a8d6ca",
+   "title": "3PL Study: Nearshoring and AI Are Changing What Shippers Expect From 3PLs",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUtsZzhHNVRxbUFqazRUa3FqYmtiSWVleW4tQ3BuUjZObU94bHgxNlJfbmViTXAta1RSNXZEaXY5Z0RtTlNsWkFsMmt1Mmd0TUpTRGluVkIwR2dwN2w0amxEcFFnVFM5NkJlaWl0YlUyNnV6UWFmaGtBVXZNYXhmWEhzSWtlcHN6ejVPOUJlSGt1clFpMFhGcE1uZVB2aWotZGkyVGtUU2lfUnBWUURaTlhHLVpObXI3dWt3?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-17T15:35:40Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Étude américaine sur le nearshoring et l'IA en logistique, peu transposable aux livraisons Nike vers un magasin français.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -4856,6 +4926,28 @@
    }
   },
   {
+   "id": "a66babbb4518",
+   "title": "ATP > Le retour de Jannik Sinner pourrait être largement repoussé : \"Une opération impliquerait un arrêt d’au moins 3 à 4 mois\"",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOLXB6a09jeXp3Z19jUE56SnQxaWtVTXJPZEFYWTcyOFVuN3Z5YUxtNjdXXzBIYWtDcExwZjV0NDhOUkZxVmVSXzVsRktZQlpOdUpVaFctMXlCRmhwam1icUlPZlQ2TjQtRGQ3aFlQcDlraUw5c2lxZ0JENV9LbF9sVGNQZUtsU0lNM21iWTNSTldnZ05WcEFsMS1CMmpTWUJJUTd2RWJXRVFvNjdpcVdVdGUxR2ZFUVlxOTdzUlQxc1RDRXNKbW9rbGoweFo0SUNPeW5DcVo1a0tSQkYyQW02Uy13?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-09-30T07:00:00Z",
+   "first_seen": "2026-10-17T15:35:40Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Retour de Sinner possiblement reporté de trois à quatre mois : calendrier et demande des produits associés à incertains pour la saison.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "3411062f4c78",
    "title": "Why the Saudis are turning off the sporting taps",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejR6b3VZSlhNdVliOS05RGt2cTZSak1MdlBtUkM1WXhLYnAwM0FRNlJvSWs5TjREVnVhekI2MTE1YjMyVy1YMHNfMktoeDFqY0lTdEx6eGIwdjA2SzI5V2FpRUQteTkxc3JoRDdKcmozdzduSlc3aEU2dkVUSmpObDcxdHA5dXVpN1JxQjRjOHhIb3c?oc=5",
@@ -5983,6 +6075,29 @@
    "axis_original": "E3"
   },
   {
+   "id": "c791111cd2b9",
+   "title": "US' Nike unveils custom speed suit for Keely Hodgkinson",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVmJ6R2YtWWdLc2lJTVJ6M2E0OGc4dEFXN2NIakVrR0dBX3diaXIyTFByWFJDdUxvd0lNRUN5Y2xVeWRYU1BxVUF0YkRfUFJnZFh2UDNqTUJDQ1huSTBWLVl6dGg4bjNTeURiWmlwNU5sd2c2YkJNMUpNdmpTM2tfRDFQcG1sLWNkYVZFa2J2VkNKSzdESXlwRDR3cWZCZ2l2Q0dCNHFORU5IaE43REF2aURqX3FZWGtIN3Z3M3MzYmo2ZjQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-09-21T07:00:00Z",
+   "first_seen": "2026-10-17T15:35:40Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Combinaison Nike pour l'athlétisme, hors tennis ; aucun effet direct sur les ventes de Tie Break, mais illustre l'innovation produit Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
    "id": "cd307d63ef7a",
    "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tSFktLURlZVExWDQzOVFQOFdwUVJCVGJfNkNCM0hOcllfazNOU2hEb0tIMVhPT2R0REtPRGdkcGpObS1ULWVrd3RRLXdiWmY5M1IzRE91RUQ0RzloYVNqdXRmcFJkUmVNakg0cVln?oc=5",
@@ -6065,6 +6180,28 @@
     "r": 1,
     "impact": "Plateforme de financement de chaîne d'approvisionnement du PIF : lien indirect avec le sport-power saoudien, sans effet identifiable sur Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "23c118b9a0fd",
+   "title": "Coupe Davis : le Canada de Félix Auger-Aliassime élimine la France",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGlsTkVvcmdYdzRIZ2ZVNXJzNlh5LUUtTHNSMTBfVUxJVE9YeXgxUFpOMmFYa2VWX1kwNmZROE1peG9mMFdXOTc5VjQ3UUFLZ2lBR1Y1T3dCaUtudVhqRFhsWTRWNzlrRjNIYndzRHN1SnBVM1pKaEpJS2lBSDczYUs4VDZhX21YQVl5ZlZnZk0yNUZIN1hCTXozRUptaGRHNElhNjZhVnB3MDA?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-09-20T07:00:00Z",
+   "first_seen": "2026-10-17T15:35:40Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Élimination de la France en Coupe Davis pourrait peser sur l'engouement local pour le tennis et la demande en équipements.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6651,5 +6788,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-17T10:49:07Z"
+ "ai_updated": "2026-10-17T15:40:28Z"
 }
