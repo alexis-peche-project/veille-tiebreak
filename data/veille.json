@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T11:05:52Z",
+ "updated": "2026-10-18T15:52:24Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,101 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
+  "added_last_run": 8,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 405
+  "rejected_last_run": 380
  },
  "items": [
+  {
+   "id": "90b5ba801b29",
+   "title": "Nike : les 3 bests-seller de la marque à la virgule à shopper en automne 2026",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPLXZEaFJlWTJqWm5vNFRnMGZkbkNMNGR5RHdQdTYtM1l5dmNMdTFUUlVPNkwyUHpZcmxId0w4N3BNd0tlb24ySVpCYmtfVGhJUWd3Rm1jcVpQZFlnM2FncmVpV3hvRG45bjl3NkktOUYtcTJYVkNEWVZXQ01KVk5Dbk53RGRxeC1DMWV6UFotbHRTblpKTURmUU94UDEtY1htZklzeURVRndNeWhEUFE0aGlTd05tdEtrSnJ4bC01ZjcyYmxGMS1rbmRlemNMU3ZxR0R3TzhhUXB4Rmx0U1YtNzRIS0tXMDZ0OVFzNkhGWkJrZDVoZXRVSHV2cHNQUWJrTUlVbA?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-10-18T15:20:00Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Sélection grand public de best-sellers Nike : indicateur de demande sur les modèles, sans effet direct sur l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "c8a2bc646147",
+   "title": "Alerte drop Nike : la Nike Air Max 90 Premium est de retour en stock limité ce dimanche 18 octobre",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRE1QSFB2amdjblA1WGpYZWltTzVlUFROWEROak5ub1pCa2ttZ2Y3cWVtMm85UjF5R0pWcURaZDBGZWpmcDIxaFdPdERmNGNTNTc5a2VQenBQYlYtcWdkUEthcDVLd3YwQU54MmdtOUMzU2lTSldyOGM4R3FWczlTM0FxbHhQdnhZRk9BMlN2RFNZcVI2Z3BVQnpTeW8ybUlDMi1XdV81dTJnRXVjaVVMTVRManZuTEVIblZqT2dCbTJPbTBDa1pKR1FCV3VWLTFVRXB5Q2RJZEZSa3dHbUxWUkt6NkF2RXZDb0Zlek5TOXNhMURmemthVUs1REVHSmRWLVRQb3NR?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-18T14:18:02Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Drop limité en stock sur un modèle Nike : pourrait illustrer la concurrence des ventes en ligne de Nike sur les sorties à volume restreint.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "2e8b5a9287cc",
+   "title": "Tennis de table. Poil à gratter de Félix Lebrun, top en 2026… Qui est Léo de Nodrest, médaillé aux championnats d’Europe",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQRm5qY1pBWDRJdVNCTnBHOGRoMkREb3N2NEJBSzc0eDRsSWlwZlVGTVBDeGR0ZHB2UGJabUJqVmg3Q0VSQWNEeTRTczNUZi1CMTh3MVlqRlVla2g5Y3UyVnpXeVBKdmJIZ1gwUlhoZGJzMy1XLS1VMFVOSzRvRVU0eGNMVHlocy1OOUQ3bDkycDB3M1ZhYUZ0ZE9sUFVBbXdGYVdZMWlMMkZqTGs5UTB1WW55Nl9iZFJfZXgyZ3VmMDVWVUU4Z0xWcEppV3luN2FRai1vSWNHLURqTzNhLXVzRjZQalNfUHlDQ0dsQTBkSllFZ0Y4UnpmMHRhOUwwVUF4d1Y2QThrOXlkYXVvc0hLVTJ6X2tDZ0pTTDNtRDdTcHV3WDg?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-18T12:46:26Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b78f1973549d",
+   "title": "Video . Burnt bicycles , smashed windows and looted shops : Trail of destruction across Paris",
+   "url": "https://www.euronews.com/video/2026/10/18/burnt-bicycles-smashed-windows-and-looted-shops-trail-of-destruction-across-paris",
+   "source": "euronews.com",
+   "domain": "euronews.com",
+   "date": "2026-10-18T12:30:00Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike (sustainability OR Vietnam OR Xinjiang OR factories OR workers)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "fbcad9ccc711",
    "title": "Nike LEGO : à peines arrivées sur le marché, ces Nike Air Max liquident leurs stocks ce dimanche 18 octobre",
@@ -214,6 +304,28 @@
    "lang": "en",
    "query": "Nike (shares OR stock OR wholesale OR earnings)",
    "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c410c87a336c",
+   "title": "Annoncez votre marché de Noël en Vendée dans Ouest-France",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3JOakRsaFpsS2RNa0pSbUJWOU10NDJ2SzFPRW81S1RfeDFOTGRMOVJFcTFIOGV2azRYVlZUS2IwLUlXdEFpUFBtc2Z1S0p0OHdydElHOXdTd2V6SzVDckJfNWVOckxfRmQtbWVKdmR4c09SakViWVJFajlSNWFLcXBaREF3X3VwTWthN3lkVTM2Vnd4LTV6LWQ0d3BOenRoeEtHS082Z09YdldHTmtzSjUwMDNycG1SejRuUVh5aFVfaWVtOWtWR2d0T291eFpBUXNiMm9OTFc?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-16T15:02:07Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
    "signals": [],
@@ -4738,6 +4850,28 @@
    }
   },
   {
+   "id": "4402fd3058df",
+   "title": "Nike, Inc. : UBS conserve son opinion neutre",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONVJlY1VHSVlVOHpVR1VKNDRnUGY1UXBzX2JDNWVGV19xUWpNbGlzNGcyYkxCMFZDelltU2p2YTZTRUlhMGFOb294Z24yalVlVUlVcDdvVTQ4T3pBU0NsaXNhaDAzNWZqX2UtU1hoOE94a1gzSXRRVk1mNUpBSVJQNEw0LWk2X1dnZEZydFQ0NkNyZzVkQ0tPMndZcDhyMEpJZ0E?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Analyste UBS maintient une opinion neutre sur Nike : pas de changement de perspective financière, donc aucun effet immédiat sur les commandes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -5443,6 +5577,31 @@
    "axis_original": "E2"
   },
   {
+   "id": "749ed6e76e6d",
+   "title": "Dopage: La suspension de quatre ans de Tara Moore reste en vigueur",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzZiYWZYSXRra2Z5amt0NWZGRi1ISnRzUmZHQWRGTm1LNktnNEFRNXBBUVVsZGI2TnNJcVJDdTM1RzNYd2Q2Sjh6TWRfNFNjV3E0R2dPdjZlbkJ5NFV5b0YyMHZwOV90ZGI3ZDZ2LVJYNGxyc2c0dzdjVlB5ZW9RdEV1QUhMNFNycVJZUGNHLU1Fb05NZTAxUFZMZ2F4SGxaNUt3WE5TOGxFbU9fZlHSAa4BQVVfeXFMUEtIXzJUdVpRVlhySkJjdEJ4OWdBa19qMzljbks0Y1lvWGxHaVBRNHFDd3NVWV9XcTRtRmNnZmp5aWVXdm5vaDYxMk5JaUwzMVVBendSSzRjSUdZV1hLZ3FNbXlmQlRYUGE1MmVGVzdwNnNJR2s5Tk9YZWlqZXluV0tDZjJyQ2x2bGlyXzZta0NnZHNaUXZBNUY5Q3NlRWZOY3BtWFQ1MEZoTG5RMlVR?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-09-26T07:00:00Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspension",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Sanction antidopage maintenue sur une joueuse de tennis : contexte sur la gouvernance antidopage, sans lien direct avec Nike ni avec les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "7b1847277676",
    "title": "Les experts des marchés restent prudents à l’égard du Dax",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFlFWUNnSWhZeTlqUVozNDhCUWNIcFBKS2c2c3Bmc3JPRnh2RDV1TnRld0MwbVhfVENaeGg4cGdaUy02ZEkzYXlBQ0xtWXVfbHhyel9vQ1dJaWoyOER5VTZ2NDhKQW13RjJOaEZ4Tlh0MDh0THdtRENON3BJeGN6MnUzZ19GMzl1WTNIbm5RbDBsRWtHbHJPX29kdkJLSHU0T05iRHExbE9vUGx2OEI4NDlWU1ZpTms2X1E?oc=5",
@@ -5709,6 +5868,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "4412045626f9",
+   "title": "Sortie au printemps à un prix redoutable, cette édition spéciale Nike Air Force 1 est enfin en promo",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOS1aWDhZMWNEWTZrR2hsOXNvWHpHQUwxXzk3WUc2dFFWVlRTLW92NG5aRjROekpWWGRIbmdKMG5TOEFnWmZhUFB6VWtxTHJUN2ZfZ3A5NVJ4YnZQc3FrZUV4Z2x6TE1RTVB2YW1lTlJwSnl5M0JEWHYwN1RZQXBZSUpyQWViMlVrYnNGSVlxdnlVbW1pdEZRTnVhUVRRbURYUWZQUElhbWE4QURIMFRLLUE3SFRuZ3NrNGVPT1VXRkJNMGxlV1ZVb1g4N1VIZGQ1S2F0TUx0VjVMMW4xbWVhMld3?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-18T15:52:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Promotion sur une édition spéciale Nike Air Force 1 : indice de pression sur les prix et de déstockage pouvant affecter les marges du magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "4f9f400af43b",
@@ -7084,5 +7266,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-18T11:10:15Z"
+ "ai_updated": "2026-10-18T15:56:37Z"
 }
