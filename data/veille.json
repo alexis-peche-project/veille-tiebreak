@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T22:19:19Z",
+ "updated": "2026-10-18T04:34:45Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 4,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 390
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 381
  },
  "items": [
   {
@@ -1044,6 +1044,30 @@
    "ai": {
     "r": 2,
     "impact": "Report du Six Kings Slam à décembre après une attaque sur un aéroport saoudien : illustre le risque sécuritaire des événements du tennis financés par l'Arabie saoudite.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8066f8effaf9",
+   "title": "Six Kings Slam : le tournoi reporté fin décembre en raison des attaques houthies en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV0ltTjhvQktWZVRTNWE1OHFOX3FPN1YyWExvWHBIM3hUQVBYYUEyTUVZRUlXYk9ucmd6MmFfbV9jN1VRdEpCWmZvSy10ZlFoUUtsZDFBeHRMWlNNa19IUllRQ1lIeENKVlAwQXlfQ2ZDelZZT0ZkZDBGc3JDbTE0bXYySTZVQkxNdE5iRndNd1hkQXRGcEQ5ZTVEdVN6VW9FZGJpTloxTlF0OWJhbnpZSDBPdjdGX3JQVm1tcm9pZWNINUtC?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-10-14T16:27:01Z",
+   "first_seen": "2026-10-18T04:34:45Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "houthi"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Report d'un tournoi saoudien après des attaques houthies : signal de risque sécuritaire pour les événements financés par le PIF, sans effet direct sur les stocks Tie Break.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -3564,6 +3588,30 @@
    }
   },
   {
+   "id": "db995512356a",
+   "title": "ATP - Blessure: Jannik Sinner : «Je dois penser à ma carrière sur le long terme»",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXRqdnJFLWF5ajR2aGxtazBzMHJKOWdmNnpMa08ydlpyWGNDYkdfQ3dGamJKX0hjeV9FdEc1SkFzdUtiZnJRTWJuZGc3cnlSNXhvX3I3VXBDc3pJN3ZkSkFCY094TERVRUcxV1ZZRTRrMHZaWDJPTWZzV1F5TmlDbTk3bmphanZIVEdMa3FPSHZLMnIxNmZ6N24wRUV4UnlxUUFjT2E4blpxcG9sRzdpRGxxM091bG9T0gG4AUFVX3lxTE1fVHQwQ0RSWS12R2trRWluY0wzbm9UZUJDOW9mQVVxcVZqdTl4UW9WdEFCY09naGVTeUN1eGl1WnNFZi04ZUdUTVlobXlWLTVVdFNnYUZOb2M5MTQ2bERFaWFBTmlCR2ZNbl9NWmQyTEJRVzVuZ045WENkaVpJRzdvaE51VHVOaVRXLVNQUGF2SHMzSzNPWEZTQVJDQkVWS0t1dFg2R2h5Y3lQSHNaQndhczZCS21FNGI?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-18T04:34:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure de Jannik Sinner, athlète Nike phare : visibilité et ventes de produits associés pourraient baisser, avec un risque sur le calendrier des ventes saisonnières.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -4597,6 +4645,28 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "56e088801336",
+   "title": "Nike recule en raison de prévisions de chiffre d'affaires annuelles décevantes et de résultats inférieurs aux",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPUGVfV0FPVkl3cC1BUVVyN0JHTEhhVlVqb0p1Q3JSN3BGRGVYa2FmWC1wRnktM2xxT0p1VlZEaFRaV0tsVktJaWJ2eWhNTEQtNUl5bjRQNmZnQndTTWt6dEhKV29ZXzlKajllUlZtZHJYRVc1UHZhVGo4V1V1UjFfekpWRW5VLS1obXFGNnRDR3lLSGxlSmljdFBELURVaER2MVpkSDItZWlQcTExR2lqdkhPcVp1VHgyMktUVlRJdkNzNXc3U0xKVzhLT1UzaE8xTzJNeFdGRnk4MDVRcjBNUTZCWVhIaFhGZEZMMHF6TWNaWFpQTFUySXMwcWY3WWN4NXlJSWszQU1EZ29fSTBKOWdWNDkyV3BBTFBOd0t2TGpHQnF0OTV6YzJ1YkFPT1pDUkVfN2Nja0JGdHVLaFHSAcMCQVVfeXFMUDl1NEZpczVUT2hRZEtaMXNVMlVqd3lRYm11NUZvek1NX18tbXpMeTVCbHpSZU9CbHhmZnZpaWpEOXNGOFBUM2lPR1B5RV9lelB0czAydE1ibThxOWMyTVVaRTZOZmpLSWJkb3VCS1FqU1F2Ql9ZaTlWdzBUdXBiZUpIUElBS0Y1UlBxTkluR2hnbXRCbG1QVVNPZGNEN3FIZmZramxkZ3JqSHpWWjJqLUxZaVF5RmFjLU04OTZpcHM3ZEZIdndLX1g3TERQZDNsRkpFdFNkRXFhWC1Oc3RPTzJjRXFsY0k3OF81OURDQlFnV2dMUlBLZzI4QkxnYVFKVUNIWHp3RnpkRDFkOHh0X0dzbHBfZkUtcmdWeHRCNHhSQVE5Y0dSdzBwZEpQUk5KRFdyeElVY0E1aTJRUXpCY0t2dTA?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-18T04:34:45Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Prévisions annuelles décevantes de Nike : pression possible sur les conditions wholesale, les allocations et les collections accordées aux revendeurs comme Tie Break.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -5924,6 +5994,30 @@
    }
   },
   {
+   "id": "4d2401848a42",
+   "title": "Converse retire une publicité et présente ses excuses après une polémique liée à une imagerie évoquant le KKK, selon ABC News",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVUE2WXAzd05lV2djcW0zOGl4WTQ5Ykt3X1pjVWpwQm0xaGR1RXMwc1l6WFFNaUx0VG41NjIzUlpXSUR3REFjeG5HdEhndDd5NEM4alVsbFhMcmRHZXlCM3dxdUY4VmVoRUZRYVJGdFlWc1FzUXZpZWZ1X0dQek9aMTEyam15UnNsY1RianEwWUVINXQySWpFLUxraVVQUWpwdi01eThhYnA2Y0pWLW1RdXNiOTFaMDZmLWg1eXlHWGJrM1RVUnI2cDBtcnVaazZqeU53dWg1MTJDQzAxcWhwSmpQbExmMzhSRlpYeGptY1Eydw?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-09-22T07:00:00Z",
+   "first_seen": "2026-10-18T04:34:45Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Polémique visant Converse, filiale de Nike non vendue chez Tie Break : impact direct faible, mais possible effet d'image sur le groupe Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e57f8bb58c59",
    "title": "Mer Rouge : un retour timide et fragile",
    "url": "https://portsetcorridors.com/2026/mer-rouge-un-retour-timide-et-fragile/",
@@ -6901,5 +6995,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-17T22:23:30Z"
+ "ai_updated": "2026-10-18T04:39:13Z"
 }
