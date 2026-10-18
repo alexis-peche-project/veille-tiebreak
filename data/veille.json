@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:38:42Z",
+ "updated": "2026-10-18T22:26:13Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 403
+  "added_last_run": 5,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 389
  },
  "items": [
+  {
+   "id": "4a5681ef688f",
+   "title": "Championnat d’Europe de tennis de table. « Je ne pouvais pas m’attendre à ça » : Félix Lebrun réagit à ses deux titres",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQT0tyRG0xOGlYamIwTXpTVDJUOW9iMXdham11NXRJczhiaDZFU21EeFlVNmx4M0JNNmIyTmVhdDh3d2hyOWdMNGRqakp2Zi1STnBVVnBYLXpyUWE5ME83OE9FOUEtUklqQU9XZ251bzJXOE8yLThSZEg2UHA1ZDhuV3V0aGdDN2JGQlFkOTFfTXFzaDBSTndjWnJmUUhsUXJ2dVpBRl9lbXRqSmNSTEdPdXRxVmxzWjVtdEtTV1ZsMmZwbVBhbFZLM3phTlVpZnBaWEI2Rnh2bFpuWTl4cjlqWUN0VFRxUnVlRDI2MHRQTmgwZm5LMUpMR1ZIMFhoZExIRE5DdUJ1WGZBQTlUNXE2R3ZENHlHUmNGaTNhbnVYWi14UmdhSFdKNHNCQmROd2FUQnpN?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-18T19:22:36Z",
+   "first_seen": "2026-10-18T22:26:13Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "60bc0a01a150",
+   "title": "Le Français Félix Lebrun sacré champion d’Europe de tennis de table",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONmxHY0VnaE1HbDZYQktUeEQ1Q25BemszOElmbEJ0MjE1OWF3akRPcXF3NU1FcnQwdzByM2paLWdLd3NWZFJyTWtQeHpxV0RfVXFpZTNWaEYxdldpVUVlLWZzQk56cWtUNzRneElVcTBnNHhtLWZPVVlXTkhyTDNIU2paR1hFWVJFRGQ2UHF5V1lCUnFRRWlwR2lKNjVZRFQxUy11RWtpNjdFRTlfZDRYTExUUG8wN0dnRld3N3hsQ29CVHhHbVRGRkJUWUNLVWs?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-18T17:22:00Z",
+   "first_seen": "2026-10-18T22:26:13Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
   {
    "id": "90b5ba801b29",
    "title": "Nike : les 3 bests-seller de la marque à la virgule à shopper en automne 2026",
@@ -619,6 +665,28 @@
    "ai": {
     "r": 3,
     "impact": "Drone menaçant un porte-conteneurs CMA CGM abattu en mer Rouge : risque accru de retards et de hausse du fret sur les collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "db69fcb3c93f",
+   "title": "French warship shoots drone threatening CMA CGM container ship at Bab el-Mandeb",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ1BqVkxRM1ZScjV0SlNDMk5yRzRtZlFPWUczLWJDdFFjUjRTOHdmNVRwU3JtOF9PSUt5T1hQb1hqZ19vLTFCMFdJNVBRdHczdGxvX3RfNWtuQkw5RTJBczA4cUo0ODJGU255bDBuS3FSa1dHdkM0ZmFzcTZyZV9LVVVESDVnRjNmcjc0aHI4eUZacXlZdXRyNlZIZ0xWeEJ4V3lfb0NTWXhqMkdzSlA1OWQtalpvZ1NISUZFaGtOUk1xQU9VOTFqRlJ2MXVrWU5RaTNQbHlFdlNPREQwa2czSm53?oc=5",
+   "source": "Le Monde.fr",
+   "domain": "lemonde.fr",
+   "date": "2026-10-15T16:33:12Z",
+   "first_seen": "2026-10-18T22:26:13Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Drone abattu menaçant un porte-conteneurs CMA CGM en mer Rouge : risque sécuritaire sur la route Asie-Europe, qui pèse sur les délais Nike.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -2796,6 +2864,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "68792fb7750c",
+   "title": "Nike, Inc. : Deutsche Bank est neutre sur le titre",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ3FMTjBTZVhYMzBySUhuZEx5LUtoMmhNR3NhT3YtN2RkR0xrTUxsaW1PWXRJSmxJdl81ejB2OTVzZVZkYlVuYU9QdExzX2NYZ0ZLcXM2bXktZXJtVEhDYThscERlV3VlbElxZXE1S05ZVHJOejh0a0w2YjhRMnBrcndTOWxjWXdWSjEyOElZWmt6SnJvV2pWMlVEWjdnblAxMGpGenItelNTTTg?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-09T07:00:00Z",
+   "first_seen": "2026-10-18T22:26:13Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Une note neutre de Deutsche Bank n'affecte pas directement les ventes de Tie Break ; indicateur à suivre sur la perception financière de Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f4c2187bdc08",
@@ -5180,6 +5270,30 @@
    }
   },
   {
+   "id": "c4b48c06bca7",
+   "title": "Premier Alliance joins accelerating return to Suez",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tN0xoVDZLRFcwNGdNMlpNXzFyZDdpWkdYRXA2YUFSa2h5VnZlbHlWQXNzRjkxQ1NqMWEwOUpFSi1QcG4tLUhtbUU2eE9Kb3lSb0diclVBUk5URVpzZ1FTV1RORE9PaUJPeXBwSk9aM19kWXczQTc1R3N3dlh2QQ?oc=5",
+   "source": "Splash247",
+   "domain": "splash247.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-18T22:26:13Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le retour via Suez pourrait raccourcir les délais Asie-Europe et améliorer les réassorts Nike de Tie Break, sous réserve de la durée du mouvement.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "d4ccb9c410a6",
    "title": "Bangladesh's US buying spree fails to bring export benefit",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFQ5WnByVFZTcGJMaHd2VjE2QlBjMHg3SUVTdGNheEpkbVNVcDdRTEhJLXhoMk5laTZVS1AxTmtQd0NCOE45dXJGb3NtNl8ySzNUODJxRVRTdmY2cXZGS3VYX25saDBKekppcVBtN2p6ZVo1UHF5bUpoaTRjTG1VQ0pTUlhLX2dQeUlHcTlXQ0kzT1U4blJqOGRlSW4?oc=5",
@@ -7288,5 +7402,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-18T18:43:16Z"
+ "ai_updated": "2026-10-18T22:30:16Z"
 }
