@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:52:24Z",
+ "updated": "2026-10-18T18:38:42Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 380
+  "added_last_run": 1,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 403
  },
  "items": [
   {
@@ -6576,6 +6576,28 @@
    "axis_original": "E2"
   },
   {
+   "id": "c2612813e13a",
+   "title": "Converse pulls ad after backlash over ‘racist’ imagery",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2ZkREdnWlp4b3dyQlQ3ZUZTVHJGcUZnbHRkUGktYlV5a1NROXhwSm1KdXdSbXlHR1FfMng3ck1RZ2ItRk80VEFfbjVaQjVxY0xzOUo4TnFGS25VMzE4Ym41ZkRBOTBEc0NRdmVIX3l3MGlVSVJtX2c4Tm9kdjNkSWxn?oc=5",
+   "source": "CNN",
+   "domain": "edition.cnn.com",
+   "date": "2026-09-21T07:00:00Z",
+   "first_seen": "2026-10-18T18:38:42Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike political controversy",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse, marque du groupe Nike, retire une publicité après des critiques sur une imagerie jugée raciste. Risque d'image pour le groupe, à surveiller côté clientèle de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "cd307d63ef7a",
    "title": "Converse apologizes and pulls sneaker ad that critics said included racist imagery",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tSFktLURlZVExWDQzOVFQOFdwUVJCVGJfNkNCM0hOcllfazNOU2hEb0tIMVhPT2R0REtPRGdkcGpObS1ULWVrd3RRLXdiWmY5M1IzRE91RUQ0RzloYVNqdXRmcFJkUmVNakg0cVln?oc=5",
@@ -7266,5 +7288,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-18T15:56:37Z"
+ "ai_updated": "2026-10-18T18:43:16Z"
 }
