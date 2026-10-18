@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T04:34:45Z",
+ "updated": "2026-10-18T11:05:52Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -10,9 +10,32 @@
  "stats": {
   "added_last_run": 4,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 381
+  "rejected_last_run": 405
  },
  "items": [
+  {
+   "id": "fbcad9ccc711",
+   "title": "Nike LEGO : à peines arrivées sur le marché, ces Nike Air Max liquident leurs stocks ce dimanche 18 octobre",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVTBRQUJVLVd2UVlPM1ZNVlVuclVGTVM0bHRrckJBWVg5TDU5TzdRZG1ldEl3Mjh5SlZFc3VXZUxTRVVHTHE0YXNvdGowVGozaVRaS211SmhDY1BpRjB4ZnM4ZDJWd1JNUy1HREtZSnc3eHBTY0NWdEFPbC1INGNudk9HWkcwcUFhUEF5SjQySC1udFR1Vzl3QWJJd2EtdFVYa0NYV3ZNOEFaeGF6cDV1bTVlTldpVkNWdXVVZ3o1RWpDSGY5UElQTG4wM3NmZlNoc0RjTlV3YlVfOVRkanFxVmVPdnpQY09aWXRnekxqV1VyTTZ4OGxhcm5wZjVVZ3VSUVNHVTlib2k4TElFbDF6NA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-18T04:45:03Z",
+   "first_seen": "2026-10-18T11:05:52Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre sur la liquidation rapide de stocks d'une collaboration Nike-LEGO, sans lien direct avec le tennis ; à surveiller pour la gestion des collections et des soldes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "48b7ee01c690",
    "title": "ATP - WTA > Madison Keys sur la blessure de Jannik Sinner : \"Ce n'est pas vraiment surprenant\"",
@@ -153,6 +176,28 @@
    "ai": {
     "r": 1,
     "impact": "Ne mentionne pas Nike. Signal lié au calendrier tennis : report du Six Kings Slam et wild card de Djokovic à Bâle, sans effet direct sur l'offre Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b62c35e92539",
+   "title": "CREDIT AGRICOLE SA Cours Action ACA, Cotation Bourse Euronext Paris",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmUVY0S0FENXN2M1hjRW9UT3VENmYxZkp1a01xRk45NHBkbTBiUnlHa3FIaUhHR01rYThBNzQ3YnZUeTh1d1lHVE5MclBIZ3FTSWc?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-16T15:38:09Z",
+   "first_seen": "2026-10-18T11:05:52Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -2092,6 +2137,28 @@
    "ai": {
     "r": 3,
     "impact": "Les expéditeurs redoutent les risques liés au canal de Suez et à la mer Rouge : possibles retards et hausses de coûts sur les livraisons Nike vers la France.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e751b2ff5dcb",
+   "title": "How China and the EU pressed pause on trade war – and what it took to get there",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaG5wV1FmZFRfc0hWU0RiWHRVZHFRb2dNdkktR2d5Q3hVc3htOWs1a3RnR24wQ01EbndGWmQtd1ZrVElfeHhXUWdTeEs5M2xOc29HVDR4WjBiWWd0TGw4dEptejBsNXZrUXNVNTE3dlV1OVNodDlVaXpHdG5KbC0wTDhEZGVUQS1teE01LVU2UFdmamZqZFlBWGdhV3pjVVE3RTFXdjdOSzM0TDVEUFd5SWFVUXNub012QlpCd3hNYUcwWDBLQlHSAcYBQVVfeXFMTnVJdlkwVXQtcU5zb1JEbHlsZ2JEMENPSXdYdVJCS0syQk50RFlFZzBUenZPZk1ucGFPdUpMLWJjbDluVFFFQ2tnRjM0cTlrNjNuYnNTNGptZEZSc2NyT1BuTnlkeGx5MjNQZ283cGIyYkNHNWhHNl8yNi1DVll4WkNyN1pOVG9ZaEdIX0o5Ui0wN1FzZWtWRHdjcDJnYnhvdDFzaHBWN2dMR1YzalZIYlRPbTNtWjlNT2oySFlWNm4xMmU2TlFB?oc=5",
+   "source": "South China Morning Post",
+   "domain": "scmp.com",
+   "date": "2026-10-12T10:33:47Z",
+   "first_seen": "2026-10-18T11:05:52Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La pause des tensions Chine-UE pourrait limiter le risque de droits de douane sur les produits asiatiques, dont textile et chaussures Nike.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -5622,6 +5689,28 @@
    }
   },
   {
+   "id": "95f098bd92e4",
+   "title": "Nike annule un shooting avec Karim Benzema pour incompatibilité de valeurs",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxb21qdng1RWgybmlYZVc1TVljdTVsX0M5eEw2VHZSckx3ZlMyb2EzUjJuTm5pU194VVVkeWhQRjkzNUtYQnYwRnFUZ2pjaE9vMGkwaWltcXpmSm00ajExd20tWGpWNFpzeFhVZW1hVWhWQzBvTU9nUWNB?oc=5",
+   "source": "MCE TV",
+   "domain": "mcetv.ouest-france.fr",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-18T11:05:52Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike écarte un ambassadeur pour incompatibilité de valeurs : indice de sa gestion d'image, utile pour anticiper ses choix de communication sur ses athlètes tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4f9f400af43b",
    "title": "New data shows Suez route transits rose 27% in August",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHhPZDI2VGpoVXZndC1uN0JhbzEtWVJ3aWlsOVZFT2Q1ZDcxeGNadnY4VDRjeFJqbzFoMGxjZFVGQlZhMVB3dzhORDh6bUowTjk0NFZtZkZ0S0ZMb2xMdTcycmhDTUZXY1M1NHlQbmMxV191YXEzbmItT3dKclU1SkVCU2dGSmJPeHFHVW02dw?oc=5",
@@ -6995,5 +7084,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-18T04:39:13Z"
+ "ai_updated": "2026-10-18T11:10:15Z"
 }
