@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:26:13Z",
+ "updated": "2026-10-19T04:41:19Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 389
+  "added_last_run": 3,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 364
  },
  "items": [
   {
@@ -980,6 +980,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "e58e9c028731",
+   "title": "ATP - Vienne: Avec le report du Six Kings Slam, Carlos Alcaraz a changé ses plans",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMFZacVpRejBtWFhKbm5nWFFuTktaQ1pRcmNMcG5uRDNocWRwNmw2WG1MOWtsejhoN1lsWFoyalQ3Uy1WSVZnZTdmaTM0aHpGUGJBcy1jU00tdXRxSEYxT2xuRGZzTURqejRlMERzSDlUZGxibjcxTEEtYjVUZEt6Q20wX0piZlVoVG53UzFZTmhmdE9YV0tFMkk1My1qYndQR2s5MWh1ODJEUXRBcGZQOWp0WEViTmRuTERFMHp30gG-AUFVX3lxTFA2b1NQc2lYSDhBbGhfdVk3UVF1V0VuX2VkY1podjg3dVFFaVN6bHpRSmNyZVdXbkgtV3dLeTBkUnNOUWVsM043Z29KNnUxWnFzMHVfRVM4UTgwM2VmUVZwVGVKeTc3a3pqV1I1TGlJVWhxT3k2VlJ4VjdSdTlFT0RfN29MeVp6V0hNZlhBRkJNWXU3RHdKUDJGUXMzUlhFcW45aGM1SG5sZHU0N1R1Y0JIOXloNzlObHZMTG9Zd3c?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-15T09:38:00Z",
+   "first_seen": "2026-10-19T04:41:19Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, athlète Nike, change son calendrier après le report du Six Kings Slam ; sa visibilité et la demande liée pourraient se déplacer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "c7455b64ebd3",
@@ -2972,6 +2995,30 @@
    "ai": {
     "r": 2,
     "impact": "Une rumeur de test antidopage raté concernant Sinner, athlète Nike, peut affecter l'image de la marque si elle prend de l'ampleur.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c613d78b11ea",
+   "title": "Yémen : des aéroports saoudiens ciblés par les Houthis",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnZ1Rkg1cEhLLTYxRWtOTU05RVMzU0hPR0Z4R0o2TU1hZDdvWVgtT2VhVy1zRWhKSnA1V2xwYmZCU3NjR3Q2S3hld18yUTViWEpJVEhINVFQcUdXLUpzN3BnbGZIUWhSZWNXdEttdlFrYTNHei1oQnVpZW14clZMQUVfTlhmZ0ZLU3kzUGxRNlo4eFR5WnJwUDBzNnJCRGp4Z1F0Q2tSc1ZwcHNqM2pnaVhkMHpwdw?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-08T13:24:07Z",
+   "first_seen": "2026-10-19T04:41:19Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "houthi"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Attaques houthies sur des aéroports saoudiens : contexte sécuritaire pour les événements tennis financés par Riyad, sans effet direct connu sur Tie Break.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -6403,6 +6450,30 @@
    }
   },
   {
+   "id": "31565f57c1e5",
+   "title": "Converse retire une publicité accusée de références à l’imagerie du Ku Klux Klan et s’excuse après la polémique sur les réseaux sociaux",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOMEpNMVcxekdXSFBFVUpkN1dqN1RzeWdtUU9wbXpTdDE3SmI2cHJ4ZmRaMEhUTjRXSWlKUjdHdW4yQ2NPb0Q1RzB3OU1VcE5KVU52blBOOEpPWmNXNzRLREk4dDYtWUJDYUNGTkNwOEhaS1RNejlOSHRtYjVfa0xlcEhkNllfVXJfV2szU21HVkx2NXV6NVJJNExrXy1QZHkyQW5sUTNabFRmamszOGRfZ0hsTTNsZG5pUFhTcnY1WmZKVjdMby12bEFuTjkwekNMQU92eHhCbXlsdkJUaXhYcDhOcTZLa3FHVUp3b1ZtaDg5OXEydXA2emNRZzgxWXpBRWNDeDY0bUdnRGhQTlRzQTRkamFsU2EwaTcwUVg1SzN3b2lqZ1pGcHVhdk1ncXp6Tk5V?oc=5",
+   "source": "Le Monde.fr",
+   "domain": "lemonde.fr",
+   "date": "2026-09-22T07:00:00Z",
+   "first_seen": "2026-10-19T04:41:19Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Converse (groupe Nike) retire une pub accusée de références au Ku Klux Klan : risque d'image à surveiller pour la marque Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e57f8bb58c59",
    "title": "Mer Rouge : un retour timide et fragile",
    "url": "https://portsetcorridors.com/2026/mer-rouge-un-retour-timide-et-fragile/",
@@ -7402,5 +7473,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-18T22:30:16Z"
+ "ai_updated": "2026-10-19T04:46:22Z"
 }
