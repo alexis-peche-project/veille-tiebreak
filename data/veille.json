@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:16:40Z",
+ "updated": "2026-10-19T19:56:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 401
+  "added_last_run": 3,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 429
  },
  "items": [
+  {
+   "id": "545974e4fce2",
+   "title": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2xWbmpuaG9XMkxfSm9uLXdQSHVpRmNiMW5DeUN2R3c3UGkzc3R1THVGSUJRTnVqNmthQVphdlAxbFM1Vi1EZ2ptamdmRXFkZGtoX2NlaFhheC1waGcwWmRuQ05aVzVtbk9EMlFVMkswVExqeVFJaWd0Tzd3LUZuVWhPSGFkWkRzczBybXM5UjZvblQzMXplT3YxWWNFai1xV1VENllnQTJPT3ZHU0sxdnZpRQ?oc=5",
+   "source": "WSJ",
+   "domain": "wsj.com",
+   "date": "2026-10-19T16:12:00Z",
+   "first_seen": "2026-10-19T19:56:48Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Report d'un forum saoudien : signal de contexte sur le sport power, sans lien direct identifié avec les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "659face755bf",
+   "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3Y0MXQ3c25pSTZGRzhIdmtNS3VoT3JzVFljWU5KR1VSSmFZZ29OUXJWMnVZZWhWeEdrVW56MFZnSlVtYV9kbWY3U2FkenNnUl9ydV8tYkM0UmpadkREcXl6WS1BNmNvTnZ4cE4tREZINFhXZmJrYXh1M0hsRmRSanJMcFFvdWk2b3FJNmxnc25EZjJieXRfeEt3em1aM1ptTlJfSTdSemJMdVk?oc=5",
+   "source": "Retail Dive",
+   "domain": "retaildive.com",
+   "date": "2026-10-19T13:26:03Z",
+   "first_seen": "2026-10-19T19:56:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le redressement de Nike sous Elliott Hill pourrait influencer la stratégie wholesale et le calendrier des collections livrées aux revendeurs comme Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "321907f78096",
    "title": "Nike Stock: We Cut Fair Value Estimate by 44% as Competition Intensifies",
@@ -2215,6 +2259,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "35786e8af555",
+   "title": "ATP > La réaction de Zverev après être entré dans l'histoire : \"C'est vraiment un rêve qui se réalise\"",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNGNLaVdhWktCSFpXbWpXT2NTV0VMS0stTjZuUWJZQkZUbXVROHdxM21vNGhtNGNJbk5IcHp2SHY2SHdSUEZSN2ZwTHNPcmV2R1RmWXJjVkxLbm5LQkRxMnJKYzRCS004bXhIU0JYTlU5emlkVTVfZkJLWER2YnR4N3gwLTAtemRpUEUxcC1zSXN2M0ZwZlFTamV1QjFzVjVpRFJMdlZ5aUdDTkhXRUN3eFNrMXU5c1FjbjBnVFhfQQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-13T12:01:00Z",
+   "first_seen": "2026-10-19T19:56:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Zverev n'est pas présenté comme athlète Nike dans le titre ; impact direct limité, à vérifier avant d'y voir un effet sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "c677f9283c37",
@@ -7609,5 +7676,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-19T13:22:10Z"
+ "ai_updated": "2026-10-19T20:01:52Z"
 }
