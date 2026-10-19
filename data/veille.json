@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T04:41:19Z",
+ "updated": "2026-10-19T13:16:40Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 364
+  "added_last_run": 6,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 401
  },
  "items": [
+  {
+   "id": "321907f78096",
+   "title": "Nike Stock: We Cut Fair Value Estimate by 44% as Competition Intensifies",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbnk2NEMtdUJmb2U3ME1IRDdpazRFY3k0b0NReGxPcXZPQzlaVU1IR3p4a09Cc1hHUUM5VlBoWFRKRXlkRWlTM2lVNXJRZWVtdkxUSHB2ZHl6c1plQjlnMnN0d1NmVHpYNXRDVV84VUlXMzhoUWp2dUdranJuYXo2eE4xQ1BPMDRTbHhqTDRVa0RHd3V3N2g0YkhzTDYxaXJyaldGS2gzNVA3T3VmTmJLYjRhUQ?oc=5",
+   "source": "Morningstar",
+   "domain": "global.morningstar.com",
+   "date": "2026-10-19T09:16:41Z",
+   "first_seen": "2026-10-19T13:16:40Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike stock shares",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La baisse de 44 % de la juste valeur de l'action Nike, selon Morningstar, signale une pression concurrentielle pouvant peser sur la stratégie wholesale et les collections.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "4a5681ef688f",
    "title": "Championnat d’Europe de tennis de table. « Je ne pouvais pas m’attendre à ça » : Félix Lebrun réagit à ses deux titres",
@@ -148,6 +170,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "ecf5e677f49e",
+   "title": "Le duel tricolore pour Félix Lebrun, à une marche du titre européen",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQzlQbFFTeFJxSUlma2NKQWJMczdMQ0owZWNyeC1DbUoxVm9FanpmWHM5SVhQUXlNUm05VS03V3RwZzJ1SGVibHQ0X2JXTS1oVEQ2UGExUGkwUGF2MkljVk40TWVmR0JoVDFXRmdMb0hDSUVmLW9sQVM2UUk1QkhYRFhpVm4ycnJXQlp1WjJhc0dkNVpURUlGcFdxck4tNmlMZHY5NFRqTzFRRThBTGpjT1ZtM1BmRXYwczdNU19WUWdFR2k3WGtuTE5Ob2M5N1FINUxwNERodmpocWg3MEI1dDJ1RE1YdUo4em8yb1FPNU5VcTlUaUd6V1RQZjNZcUZBdkI3TU9xYkw5ZnVXOGNJ?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-18T12:24:00Z",
+   "first_seen": "2026-10-19T13:16:40Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'un joueur français en finale européenne ; intérêt commercial limité tant que son équipementier et son rôle dans la clientèle de Tie Break ne sont pas établis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "fbcad9ccc711",
@@ -2345,6 +2390,29 @@
    }
   },
   {
+   "id": "fbee8a728bbb",
+   "title": "ATP > Carlos Alcaraz éliminé, Alexander Zverev entre dans l'histoire",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGd2U3UwaXRaQzUyV0R1WUtsVk84ZTFPUXAwVGREM2lVbHlkV2VrQ3M5T2hJUFVfWVRFWUFiRHZKUG90Rkpkb3VBMEJ3a0ktVzdvbE5BS3QwWnVTWXExc3Z0UzR1alpiZFIxN0x2enNJc1BVMU16R2RzZGl3cnRMclV2T0o2cDBnUEpsN2hyemk3bzN1Ujc0?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-12T12:54:24Z",
+   "first_seen": "2026-10-19T13:16:40Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "L'élimination d'Alcaraz, athlète Nike, peut peser à court terme sur la demande autour de ses modèles et sur l'image de la marque dans le tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "e751b2ff5dcb",
    "title": "How China and the EU pressed pause on trade war – and what it took to get there",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaG5wV1FmZFRfc0hWU0RiWHRVZHFRb2dNdkktR2d5Q3hVc3htOWs1a3RnR24wQ01EbndGWmQtd1ZrVElfeHhXUWdTeEs5M2xOc29HVDR4WjBiWWd0TGw4dEptejBsNXZrUXNVNTE3dlV1OVNodDlVaXpHdG5KbC0wTDhEZGVUQS1teE01LVU2UFdmamZqZFlBWGdhV3pjVVE3RTFXdjdOSzM0TDVEUFd5SWFVUXNub012QlpCd3hNYUcwWDBLQlHSAcYBQVVfeXFMTnVJdlkwVXQtcU5zb1JEbHlsZ2JEMENPSXdYdVJCS0syQk50RFlFZzBUenZPZk1ucGFPdUpMLWJjbDluVFFFQ2tnRjM0cTlrNjNuYnNTNGptZEZSc2NyT1BuTnlkeGx5MjNQZ283cGIyYkNHNWhHNl8yNi1DVll4WkNyN1pOVG9ZaEdIX0o5Ui0wN1FzZWtWRHdjcDJnYnhvdDFzaHBWN2dMR1YzalZIYlRPbTNtWjlNT2oySFlWNm4xMmU2TlFB?oc=5",
@@ -4439,6 +4507,28 @@
    }
   },
   {
+   "id": "45acfa7c8f3b",
+   "title": "Six Kings Slam: Le Six Kings Slam a révélé son calendrier et ses rencontres",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUDdyRFdNdnRqV3hVS0dPWWwtcnlYS05YUll1c3FnMmpxUmI1NENGUXp6b1Mzc1BYYl9OZVJMVEtkaHlEZWxOTGFDQ05NX2RwZGFIWkRZWlhYb3h5RkpQc19ybmp5bmdzWjJicmttajdwVFhWdlNRSEFDUzAwUFlNSk1LazlhSU1TN2czU0YzdElxR0FCbXJYQzQxVkNDNUIyZWxPb3pFZFVjaWhodmlrY3ZBa3NUejVBcXfSAboBQVVfeXFMT0JfMmZKOEN2Q1BiOHBtSlFmMTZxZXFUQlhZdDBUdE1aNXpWRGxGQ0xFRm9pRE1WWHlWeFQ3Y1VlalZJNV92eWJIOENBTXdxVWdQcnlEajduWDl1NVE0d2tDamlvY2sxRXZmU0t6bzFZUHZxT1hZcVhLMVNGYzdjV0toWnNoaXplYTQyY0staWE4UU1iV3R2OFNDNDV3VTBWTGpPU24zRnhIY0N1emhiTlVQSmZDLV9PNGl3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-02T19:15:00Z",
+   "first_seen": "2026-10-19T13:16:40Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Exhibition soutenue par des fonds saoudiens : son calendrier peut mobiliser des joueurs Nike et influencer la visibilité des collections, impact direct limité pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "177f17acab14",
    "title": "EXEC: Nike Details Turnaround Tactics for Sportswear, China, Jordan",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWo0MVFneDFlTmFqd2Y0QkFmejFtOVdXNmJER0N1YVhEbHJSYzVBanNSVERockJPZ2Roa29VRGxaeTRXamtuenZIM25VUnhlVklBY0hLM0U2Q01FMDNnS0Z0UnYwTEtyeVNfalU0b21LLW9YSWlQZXZnZFRuNkE2aWhvRGFHS1k2dkNDblFnMlQ?oc=5",
@@ -5005,6 +5095,28 @@
     "r": 2,
     "impact": "Analyste UBS maintient une opinion neutre sur Nike : pas de changement de perspective financière, donc aucun effet immédiat sur les commandes de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "bd33781fd071",
+   "title": "Justice : Bonne nouvelle pour la PTPA contre l'ATP, la WTA et les Grands Chelems",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkVtUVZoS0lhUWc0Ql9NN3AtOG5kd2ZKT0JoM0RfZ1J6dWhOTGJYYldmTFpQVDJfNmJFR0pTdF9CNFV1TGRjTjY2WFJsQlNQVFdxYkYya3Jyb0FtYV9Gc1h2VGZ0ZzdDbjZrdHBUV1BYN19kaTRFeHIwUERGYldnV0cwM1gyc1lSWU1kbDFVcjVweG9sa3VtbjdCUHhZQUJVbEktQzFvLWljOFJBYmd4RV92WEhCZXJrZWk3V1NR0gG-AUFVX3lxTE5BZVV0VVVZOVNYMXFzMmlLQzRid1hpdnBiRmJHYTdQb2lOV2xhQnZOWDQ5S3BRTVNidUZyVDNYZDNtUWxibGVzeUxSUlAtOW9mMWNKblRaQUJXaldjVWJkRkdtZ3JfQUJfd3pQOWxmVVp2NS1LVHRGRjZ1N1pZVktMSnZfcGotQ3c5b2FlLXhjSWNIQUVEazNEU2tVdERLV3FMUERGM0FnZ0V6UFJlOURyN1lnbktNajJSM1kwUlE?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-19T13:16:40Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "PTPA procès ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une décision de justice favorable à la PTPA contre l'ATP, la WTA et les Grands Chelems pourrait modifier la gouvernance et le calendrier du tennis professionnel.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6142,6 +6254,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "3d31855f2bca",
+   "title": "ATP - Blessure: Jannik Sinner va-t-il repousser son retour jusqu’à l'indoor ?",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnZqZG0xZXNmWXRWTFplNWRKUkpjRUh5WksxVHpZUjc2ZjZaUVlDSmtmTGljQ1ZmeDVQQk55ZzZyQVZzd1FZTDB3X3BCZXkyNTVsem1QSThORkZSLWowYm42R3hFUUtsckgwaERhc0kzNkJxbXVrTlMxSG1UaXpRdDBfQ1EyaGVza0xLRlMxR3IyNWNaanEzMFlzdndrdWVGdVlJbmNfYV9CT2I3ZFhOQTd6WGVoZk3SAbcBQVVfeXFMUE9iT0dGdmc1X1hDMGNyZFlSaUZQcFE1YW54MFk4clprZkY2czFILWtlRUpRZWxKbjNQV3hHeW1FYVRCSy1Vclc4LS00QUsxRkxvSFhoS2F2WGdGaWVPLU1QbUhPNWdDaTVtMjAzMGZvVms2cFd0Wkx3ZFJ1M0hINUpoSTB6d3FrV0tmcUl5TmVFNjJNQ0hobGlnRmZMd0RwZWpqd0c1cHpVRF92c0tfYTAtNnFVSl9j?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-09-23T10:15:00Z",
+   "first_seen": "2026-10-19T13:16:40Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour incertain de Sinner, athlète Nike majeur, pèse sur la visibilité et la demande en textile et chaussures ; calendrier de retour à surveiller pour les commandes.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "40e70e0202aa",
@@ -7473,5 +7609,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-19T04:46:22Z"
+ "ai_updated": "2026-10-19T13:22:10Z"
 }
