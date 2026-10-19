@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:56:48Z",
+ "updated": "2026-10-19T23:42:58Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
+  "added_last_run": 8,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 429
+  "rejected_last_run": 391
  },
  "items": [
   {
@@ -260,6 +260,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "e188f71f0731",
+   "title": "Les frères Lebrun à nouveau champions d'Europe en double",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVWdodFhCcWlqMndPN1E1M1NDZUp5ZHE3TnhFVURLUFh0VFB6cVlKSjllbjZ0ZDU0bl9Rd3J3R1V3WDVWN2VRNDhxWEQ4TzNYbzdGSHZCNWh3NEZZN0VHbTUycGRib2JHU29uN0JHZDRXTm1rYVFvelhBMzAyVGtKNU1GNVJ2ZVUwUkVJNXJKUHVLNV9rMEhudTdGZGtJYTgyN0NoVHloUWpVOVFzdUlqNVgtMFZnZGtLdFhQU0NfOFhlUjJ2dEJVQlA1bGVSQkV5Q19vU3RSQmVYb3E1TkQ0UUd0cmpSTmpnU3owazZhQ0k5OUdUeFZ3ZnFJTGg4a2VEYURF?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-17T20:09:00Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Victoire en double sans lien établi avec Nike ni avec les ventes de Tie Break, contexte tennis européen seulement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "48b7ee01c690",
@@ -1609,6 +1632,28 @@
    "ai": {
     "r": 3,
     "impact": "Report du Six Kings Slam à fin décembre : calendrier des joueurs Nike décalé, effet direct limité sur les ventes de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "dc907fc6e442",
+   "title": "Le Six Kings Slam reporté à décembre après les attaques à Riyad",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGJ4TGtkaUlqQWpGVkFuQkcxbi00MFp3Q1UwRlFIVTF6czcxV0tsNzZiTmhnTGVYSDZsNFRxRTB2dEhXWGNiR1M0Y05IZzVqZktpeVoxbWFXYVJZTDV0M1BXQ2JBcjZoZzdDd3I0cFphZ014RE84Q1lWZGlQMUpuaWJsNkpVZ0lxcjlaQg?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-14T15:23:03Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Report à décembre du Six Kings Slam saoudien après des attaques : calendrier et visibilité des ambassadeurs Nike modifiés, risques sécuritaires pour les événements du Golfe.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -3336,6 +3381,30 @@
    }
   },
   {
+   "id": "7da41a923e88",
+   "title": "Red Sea container transits hit post-crisis high as carriers accelerate return",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFk3VjVOWVBFQ2huWWVNS05QcGRyX2xOYTBPUGVUVUI5SnRjWnIzMTNUOWV4MlN6cW5nRmJiTVRJOUdvbVpzS0UySDRMT2JkcWtwampqM3lOMXJBbUtiZlZhR01ZS0sxVUVOOThnMkRCZk5Yc2RCQVoyU19KZ2J2M29rdDhLWVFZQS0xRi1RQXdGeTMyc0tCY2d5cnZvS0xGbTVnRUJHeVZTcENmTkJlSEZHMGQ?oc=5",
+   "source": "Lloyd's List",
+   "domain": "lloydslist.com",
+   "date": "2026-10-07T12:11:12Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "red sea"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour des porte-conteneurs en mer Rouge : délais d'acheminement Asie-Europe potentiellement réduits, ce qui pourrait améliorer les livraisons Nike à Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "b1df3ea5a150",
    "title": "Alcaraz lance un message émouvant à Sinner après sa blessure",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQi0tUndfVElIenNIVlhNX2FBNEdhOTg2VTNPcEFOWkdOY2ZyRHFfRGh2Z1hoNGJaSkFZS1dZdnFoejNjMnE3MGZMQUFkc0I2emNhOWEwTjVIMEw1bWY2RmlXaHVMRzJyb3M3RFFOblBUbDQ5VVowVlEteERIb3c1S0ladXdBWUJ2M19mWFRUbDY0NTBGVjJ6VVVoZWx0cjQ?oc=5",
@@ -3489,6 +3558,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "df6d58735382",
+   "title": "Alcaraz et Sinner : deux blessures, plus de quatre mois et cinq tournois ensemble en 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZXNUaV9IZnAwSkJTLU44bWNVaENCT3Z3Q0Vsd19tSEkyeFNLbmxKM2hwZ0FGdFBuaDE3V3V1VzdZY0VYdndMNVJHd0RJaG9kM3JXVFdmV053RlRYU05aTU1EQUtvUG95MVU1YnRTQS1YUDE2dHBaYjhCQU5TZ2lHZngwajZsMWdja0MzZC0zQTRXNkRWNk5FdVRSTU5iamM2RU1Hb0x4T253QTdWN1VQZ3F3dkk1dkhtalBzakR6TXM?oc=5",
+   "source": "Puntodebreak",
+   "domain": "puntodebreak.com",
+   "date": "2026-10-07T07:00:00Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessures répétées d'Alcaraz et Sinner sur 2026 : calendrier incertain et visibilité réduite, ce qui peut peser sur la demande liée à leurs produits.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e44e4e7f584f",
@@ -4063,6 +4156,30 @@
    }
   },
   {
+   "id": "93c561054062",
+   "title": "ATP Tokyo : Carlos Alcaraz bat Jiri Lehecka et remporte son premier tournoi depuis son retour de blessure",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcmd4dzl2NTR3OW1qNUd1NnIyZUlSZzh1YTBqV2JSSEFJV213dDVMZkJzcFZibGotbDA0WDJYOHYySkkzTHBITTFZY1VkcW9PZllGTmFjaUFRWWZDMHQ1d0R1bGxBSWF2QkpTNjBtQTNGTHFNa210SmhkT0swakJwV3VkRVIwUVJzZGprdDJlcXdkeDF0ck1xUncwTEV6VEZoaWFTX1cxeTVOaTZjMmo5WmdrSV9WVnkwUENoNHZkNmpBbHFyU1Jr?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Premier titre d'Alcaraz depuis son retour de blessure : regain de visibilité pour un ambassadeur Nike, soutien potentiel à la demande produits.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -4325,6 +4442,31 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "dcba71a99a16",
+   "title": "Sinner proche du forfait au Six Kings Slam, un remplaçant déjà envisagé",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlF0dGRYaGV2WGtFN0h4cTNtOVhiaGhQMEhCOFQ4UzR2VmM0NVZienMydzY2d054ZHI1S2pSODRnZ00zUUI0NEtJOTVxYldQb2J1OEk3X19lZTAzbURZS1poMnRWU3hMdjBER2VtZC14OHVDUVNUUmxqbjhCNXhYNW0zSlplcHA5NHow?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-04T07:00:00Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Forfait possible de Sinner au Six Kings Slam, remplaçant envisagé : absence de visibilité possible sur un tournoi saoudien, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "7daca0e7d5ce",
@@ -5515,6 +5657,51 @@
    "ai": {
     "r": 2,
     "impact": "Le retour via Suez pourrait raccourcir les délais Asie-Europe et améliorer les réassorts Nike de Tie Break, sous réserve de la durée du mouvement.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "18eb66b5d88e",
+   "title": "Six Kings Slam : Alcaraz et Djokovic directement en demies, Sinner connaît son parcours",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEFyUWJGSXlPVkxjRTRaV0F3LXlxTkhDRFY3ZVgxSDZrZkZIbkhlbFZYdlAxS3VUdTJ6OXlJVjg2VV9aWHhEM29yV2N0RnAtMzlMQVp1OGsxX0xiZVFmNHhjUi1lZzlYMzh6NnpIcXNScHF1cGU0cGZSWVdNWHllZXNqV1pHSGpac0dGMmQ1cGM?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Tirage du Six Kings Slam sans conséquence directe établie pour Tie Break, seulement contexte sur la visibilité des joueurs Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "cee04a1f8609",
+   "title": "Nike’s Fiscal Q1 Sales Miss Street Targets; Guidance is Well Below Expectations",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNai1xZ09pZTBrN3BSQmRnYU9RY01qaTE4LVB1bWJ2QnJVNWpFU2dNb0lDSlZ4WUZrT0Q1ZWczMkNmYmtqdnVUMS1sdEczSExlQldYR29SYkRJU3FCTVFHZWFQeUtBcGVrclUzSDBMcVJIVXFUdXk2QjhYeWdId3B6elFVOVBJakp6YnEwQi05cUVzNEttNGdFWHo3NjJ0WnRSdG5aYXpkNmNNZlNw?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-19T23:42:58Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Ventes premier trimestre de Nike sous les objectifs et prévisions très inférieures aux attentes : la stratégie de distribution et les allocations aux revendeurs sont à surveiller.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -7676,5 +7863,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-19T20:01:52Z"
+ "ai_updated": "2026-10-19T23:48:01Z"
 }
