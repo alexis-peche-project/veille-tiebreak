@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:51:47Z",
+ "updated": "2026-10-20T11:37:27Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 396
+  "added_last_run": 6,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 391
  },
  "items": [
+  {
+   "id": "f56983903ccd",
+   "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS09qT1NRTExnV2FiQ09NSVdkMWdhZUlza2dibkt4dnpZbHVGTnZRQWVxRjB5WW9vSGNUVkh1a3dKZzBhYXhEVGpXVXpEYTN2UjZCUkNDbWFzSlJBazk0Z3NkYmZGdEE1ODc2V1RZVVFXRTE4dV9DRThWWmxZSU5pZmFoQU5jWlBSellwR193dTNXTkl4ODBvb3FWSldWRWFueTlUYkVpdlI1bGlPWEVpc0d6U1FsUGVwcDZV?oc=5",
+   "source": "WSJ",
+   "domain": "wsj.com",
+   "date": "2026-10-20T11:20:00Z",
+   "first_seen": "2026-10-20T11:37:27Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le report du forum saoudien « Davos in the Desert » signale un ralentissement de la vitrine économique du pays, sans lien direct avec le tennis ni les ventes de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "54f47c7d77ac",
    "title": "In 1971 , Nike co - founder Phil Knight hired college student Carolyn Davidson to design the iconic Swoosh logo for $35 ; in 1983 , he gifted her a gold Swoosh ring and 500 shares of Nike stock",
@@ -2699,6 +2721,28 @@
    }
   },
   {
+   "id": "9a7b1f992bd1",
+   "title": "Jannik Sinner : pourquoi est-il absent et quand reviendra-t-il ?",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQempyMmNvOEFZeFdsRUdIZkRoQm1McDV1bTJrR01lNzQ1aXpfOEFnaUI0WkdlM1prV0JRZG5abHY2a2ZvZ0F6aVR2aGw2Ry1oM1FzUHlsaVFMTjRfTXZVMUZIRlBNT0RCUmkybUNQZnBDWE9NcGU3Y1EzNEFHZFFxMS1fOXNxbHRhOGxJc1BWS2RNek0ydk14TVY4dWF5VWxmcUV2T01hTkZ4bkx4TWpTajQ3TjZmZVBXc2Jfc293b08xZkpOUG9yUDlFY0d2SXc?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-10-11T07:00:00Z",
+   "first_seen": "2026-10-20T11:37:27Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "L'absence de Sinner, athlète Nike, peut peser sur la visibilité et la demande en textile et chaussures Nike. Le délai de retour conditionne la saison et les commandes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "dd11aab0bd95",
    "title": "Six Kings Slam 2026 : nouvelle attaque à l'aéroport de Riyad avant le tournoi",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjZzUGRDbFlEQVhOY3BmS3hxdXF3VENPZXd3THlNQzZkcEItN1FCSURrSmNwLWFQN1czYzFVSFZZcUQ0QVhsSkRvbFhvVm1aeFFBRlZwcklUNHNtTUUtNjMtUGtLcmxyMGRrV0ZCemsydkhWWmRybUZTOWROM1JhZFIwdEdOdlduWnUtMTNMSDg4SDJabXZjNnRRVzJaUHBQaUJ0R0RYLUhyWHpDUTNKNTF5b0hFYlgwSWR2RFUySEF1dw?oc=5",
@@ -3269,6 +3313,30 @@
     "r": 1,
     "impact": "Alerte de l'ITIA sur des produits dopants vantés en ligne : sujet de gouvernance antidopage, sans lien direct avec les ventes de textile ou de raquettes.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f490e6ce96fc",
+   "title": "Dopage: L'ITIA alerte contre des produits vantés sur les réseaux",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTXVaSWtFOUUxYndvU2cxbXdnbWVSdnNHdWJILW9UYjd6akhEWWZ2T0NZbkZYOWlLNU8yMWtoclVuNFRvS0JTN2c2TFA3VG5iVW1rOVM0WHl6SWJaSy1YN0VuLXJkazRrRnk1UnNEdVRQaE8zazJCblJSNUJMbVBYdVFWYVZGdS1KRGFjejlWWWJCeVFYbzJkRFRqNGw3RjNwR1kwYWtKM010WE3SAasBQVVfeXFMTk5ha3QxNzRIZDVLa0laZjNldUpieGV6cTUwOVNwZjNtSjFLM0RQY0tlQVNEZ0ZZYjVULWRsNTBWUmhVN25TWThxUjY0bjI1RjVDZXhuNXEwNV9RbkFfTVRSYTctRzRDVXlvQjhzVU95aFhQS3kxbEtrM2MzSkRnQ1k5RDRzR3lXXzRPejlqZkd0WU5hOTcyaG51MVdPZVZjWmgzZWhmWkxSUW5n?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-08T13:13:00Z",
+   "first_seen": "2026-10-20T11:37:27Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "L'alerte de l'ITIA sur des produits dopants vantés en ligne n'a pas d'effet direct sur l'offre de Tie Break, mais rappelle la vigilance sur les produits relayés sur les réseaux.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -4399,6 +4467,28 @@
     "r": 2,
     "impact": "Patagonia n'est pas Nike, mais l'article donne un repère sur les salaires décents dans le textile, utile pour interroger Nike sur sa RSE et ses sous-traitants.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b774ef188cb6",
+   "title": "L'Arabie saoudite met fin au projet de stade futuriste de NEOM, prévu pour la Coupe du monde 2034",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0puUUlYc0IyeklXdFZ0Wlo3eVVTTUZRcDRoQnBNR2dJcV9UVnRpdUtiZFp4VjRYZnB5VkVicTJMYmVmNmpFMk51QUtfc1otZlU5REZWS0NwVnlKa1dwVjdQUnlnOEZuaTk2WU9sN2gxRUg2aUU1U0JndjVYaS1nNUlNdE9td1RZUldXeWt4T1hHRXJFejJzdVdRRDJabldIMXZraS1jaVFXei1XNmQ0NGF3?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-20T11:37:27Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "L'abandon du stade NEOM pour la Coupe du monde 2034 indique une révision de projets sportifs saoudiens, sans effet direct sur l'approvisionnement ou les ventes de Tie Break.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6730,6 +6820,28 @@
    }
   },
   {
+   "id": "5e7d0b428d1e",
+   "title": "De Sydney Sweeney à la dernière pub Converse : du sexe, du sang et du sport !",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxON2xmdkpVTVFwUHo3dk5ScFNlNWtjOGNUeE81MHhJVWVXSndTTnRyMk1yVGxTa012QURkX1VpMGJTWkJ4YS1LdmJTNERlUHBrcl9qTmtELUNNX2R2S3R3b0hhR0R3TFROcjk0TXZaT3NZTktOZWJSeW1QYV83cF9nVXBVeVpveEhhRHhITmRiTUN4M0RJUmhYR1JLQmFDckRBYlUySE9Ddmp3MXZyNVZTRS1Id3ROOWNEbGJGbnZrOXkxSUlzdk9iU2RZWHltMmRVVTFPa01yeXRlZVMzZUNFWnB3?oc=5",
+   "source": "Radio France",
+   "domain": "radiofrance.fr",
+   "date": "2026-09-23T07:00:00Z",
+   "first_seen": "2026-10-20T11:37:27Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La polémique autour de la pub Converse, marque du groupe Nike, peut affecter l'image de la marque auprès d'une clientèle sensible aux questions de communication.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "988bb2eccb4f",
    "title": "Lâché par Kylian Mbappé et reléguée à Wall Street : pourquoi l’empire Nike vacille ?",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDFkTjQtVzVWSXNiZ2ZZRENRVWhsTmNDNWxtM3dvTmxuVlRtakpxT1hGNlZUYVFqVjNpVUdmSHJsaWw5SG9RekRjZWI5S2tSM3RNRlIyUXVjdzd5OWxhakkyMkhkRXhSbWFPT0NOSnZWY1dCZXB0YzFyY3BmZU15ZHdXXy05MTNrdWoxd3UzTGM4TjJjdWRDdklEZklmYTlYME5SdnJhdVNZZE5HdFRhUDNlZTlhTGFtREpaZ0hqX0h2Zw?oc=5",
@@ -7235,6 +7347,28 @@
    "ai": {
     "r": 2,
     "impact": "Converse, marque du groupe Nike, retire une publicité après des critiques sur une imagerie jugée raciste. Risque d'image pour le groupe, à surveiller côté clientèle de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "eb8b0a92b1bd",
+   "title": "Converse apologizes and pulls ad that critics said evoked racist imagery",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaW9SSzYtTHJOd0ZrYmM2UU5FRThLQktPc1g5ald2cDJNVUZFTWt6SUpoWkVMaVIyZFR4M28zWjNocWVaaG1ENXJROGpJMEtwNDFBQkR4RjI4QkdrWVZwRjJ6VHhONVpVRUtyQ2VvUEI4QUJxeEhjTVEwRGhSdTBFbU9tNWttSUpURmc?oc=5",
+   "source": "The Guardian",
+   "domain": "theguardian.com",
+   "date": "2026-09-21T07:00:00Z",
+   "first_seen": "2026-10-20T11:37:27Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le retrait d'une publicité Converse après accusations de références racistes illustre le risque réputationnel du groupe Nike, avec un impact probable limité sur le tennis.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -7930,5 +8064,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-20T04:56:45Z"
+ "ai_updated": "2026-10-20T11:42:03Z"
 }
