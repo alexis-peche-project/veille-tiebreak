@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T17:08:55Z",
+ "updated": "2026-10-20T21:37:36Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,10 +9,36 @@
  },
  "stats": {
   "added_last_run": 5,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 460
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 391
  },
  "items": [
+  {
+   "id": "c9f4e88cc97f",
+   "title": "Adidas Lifts Outlook on US Tariff Refund, Strong Demand",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTZ2MjE3b3ZYQkNsMFQtaXhVU3Y5ZkR1V3U4bU80ZWVxRk1LcC1lTVUxeUpMcUN1M3U1N2xuQjJjMUN6Njh4SVA2bkxjeHZsVkxXYmJieWNyYXFMbDRUbHlZYkdjdVVqbnFLN1RhM3RzMmVZQ2RqOUY4WXNVU0pqSk9oM0dPQlgxdGdEd2hvSk1XVkZSY1dGeTVvbE9DSVdKenk0?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-10-20T19:24:17Z",
+   "first_seen": "2026-10-20T21:37:36Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Un concurrent sportif relève ses prévisions grâce au remboursement de droits de douane américains, signe d'un allègement possible des coûts d'importation. Effet indirect pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "8b04adc007d6",
    "title": "How new capacity is raising rates in chaotic ocean market",
@@ -2330,6 +2356,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "a8b9d5b4c518",
+   "title": "Budget de la France : « Il faudra du temps » avant de retrouver « l’entière confiance » des marchés, prévient la directrice du FMI",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcTFWRXJxMnhPRm95cnBwUXk2cm0xMjhnUmhfTGU1OEpmVF8yNzlmMXVQNUNfU0lHazkzVUhIdUVvUGxOMmxMQVRFY21fWGNPRXp1UEpGd3VqVE1Ib0NiZ3MzeDhnOE9OdVc5Y2dmUUtkWWVyRWYyZzJLS083b0MtNDhyMWkzdWNEMzhyUzZRMzFQZ25EWkR6NHh1LW5QZjZDWDMyOVdjenRCUFJsSk9pLXNMYW1DZU5BLWZ6M01yM0pnNVlISWpOdDE5RDJfT3ZCMGpnUlNqX0g4bXJJZUtHalB2Yy1NVkk3X3V1ckJNekhReUUwVXc?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-10-14T04:51:37Z",
+   "first_seen": "2026-10-20T21:37:36Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "95af265a45c0",
@@ -5557,6 +5605,28 @@
    }
   },
   {
+   "id": "6044bafa1096",
+   "title": "Nike, Inc. : DZ Bank passe à vendre",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOXJ0aDdNaVJsR015WFpLenpITHhRRk9qY2FNTWg1MndMd2toTXRINVYyTzNCTWhhOE41YmNsYVJxVmR3MjZpLThrMnNUekNvTU0zbFVtOGlMVHY5TWhuUTFfcFdNWjJtOXl5bHZ4c2h0UjNyYmd3S21CN0lNVUNjSjBzaXRTczgxU0k1NHFjd2s2MHR3d1dZ?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-20T21:37:36Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Une banque abaisse sa recommandation sur Nike à « vendre » : signal de prudence des investisseurs pouvant peser sur la stratégie de distribution et les marges du groupe.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -5930,6 +6000,28 @@
     "r": 3,
     "impact": "Ventes premier trimestre de Nike sous les objectifs et prévisions très inférieures aux attentes : la stratégie de distribution et les allocations aux revendeurs sont à surveiller.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5b29521e469a",
+   "title": "Le joaillier Pandora ouvre une vaste usine au Vietnam",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHlsQ3RRdU5oTFdQRGpvck52X2l0OXowMy1vdVlFbTgzN0RTVUl6T3dlc0g4TWlrV1NYTDV6cXVNeXBkdzVPb2NjeUY3WlotWi1XN0U3VG9aemR2M0ZsY2hlajBPemhfUHpTWnNuUFk4d0VkN3dzdlB3bV9yU2JDSXo0TTlKZ3ZsTlJ1MjRqTy1ZQXF4cWpEVVptQmpCSmVZWnlZ?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "be.fashionnetwork.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-20T21:37:36Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike usine Vietnam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Un bijoutier ouvre une grande usine au Vietnam, illustrant la montée de ce pays comme site de production. Contexte pour la diversification des usines de Nike, sans effet direct sur Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6691,6 +6783,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "419fd9c4e12c",
+   "title": "Converse suspend ses publicités sur les réseaux sociaux et ses actions marketing après la polémique liée au ra",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQUmtEWklCaGZHaTMwcklPVGhmYW5jRk9EUlM1TktTRWNBRkRMblRSWmxmVDZXZDlVZ2JxSUdITlM3ZXVtN0tqVGNQb0RjelpVMmdudF9mZHVfNm9IZEEtbms5bURIdHBoR25mNU81UnJUWWtIZnBUbG5hbjJLeGRCNmM3bnEwYURXeVZFaTQ5eWphZWk3blpqZTNIanJVZjY4MlNyOWwyUVpNR0doaHBTYU5xbWktNnBnS3lvSGR4WDc0VlNDVjBHczhMdnZFNlJqQU9xVzVlMnZlcDhsQ0Z0Z3p6S1FHZ1BXc21Ta1hDelozd1pyN296dl9iNzZmcHFYOHQxY1Zza1hYNFlCNFhwR25aOEJzMFVscTJheXJ1UFRUbEcxU0xEWFg1MWJ1MjlDeGd3b1BnQW9GTklPMXfSAcMCQVVfeXFMTUNTZi1nbElZS00xdDB4emNfVGd4Mno4Q2NBUkRubVpESjdmdlEtSExPejVGei1QZU5UY0RRdWZ4Sk01d3BQUXZmZG85X1VqQS1BZE1GTk9SN3lXdTRCOWdOYkkzR0U1TmNHQTB0eHdJTWc0cXZTdVdodWJfXzh1clc4TVdIbEJEeHk1X295T3dxWEMzOG5UMmZ3ODdLWFhTYkh4dVVvQ1hLaWstUEI5VGRjSWdnX2tWM3pta09yZDNJeWFSUG9ZN1RqbjlLY09BaHBoQno0MXRweXNqaUJlbTZBc21lZHViLWFrMjRaREtpUlJBZ01kNXJpWlJtOFhTcnVhN05tc2pwaDU1VTVLeHdNUjBlS1lBdDRoSkFBTnRRUzFQTEhaY3RRak12YUZxdVJySmQ1N092Ykh0cUlydzc1Njg?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-20T21:37:36Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Converse, filiale de Nike, suspend ses publicités et actions marketing après une polémique : risque d'image pour le groupe, sans lien direct connu avec la gamme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "4f9f400af43b",
@@ -8180,5 +8296,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-20T17:13:02Z"
+ "ai_updated": "2026-10-20T21:42:05Z"
 }
