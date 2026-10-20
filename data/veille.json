@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T11:37:27Z",
+ "updated": "2026-10-20T17:08:55Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 391
+  "added_last_run": 5,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 460
  },
  "items": [
+  {
+   "id": "8b04adc007d6",
+   "title": "How new capacity is raising rates in chaotic ocean market",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSV9lN0JoZjhkNDdkaUdVRXB1TWU1bVBwSkRUcmtvaEpjdmlrMEVxM2I5dTM4cmZ0eXdZaUxkSmh5RXItT0VYRl9UN1hFX3N5RXBtdTRVWXBIaHFucmk4SUw4N1liYVJxdHdjakFiVk51LW15ajkwN0VJT2J6eDhXOUlBbDhYTlloM205VFJrblR4QlhFMHc?oc=5",
+   "source": "FreightWaves",
+   "domain": "freightwaves.com",
+   "date": "2026-10-20T14:58:59Z",
+   "first_seen": "2026-10-20T17:08:55Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hausse des tarifs maritimes liée à de nouvelles capacités : coût de fret possiblement plus élevé pour les approvisionnements Nike, à vérifier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "f56983903ccd",
    "title": "The Morning Risk Report: Saudi Arabia Postpones ‘Davos in the Desert’",
@@ -47,6 +69,28 @@
    "lang": "en",
    "query": "Nike (shares OR stock OR wholesale OR earnings)",
    "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "077b1e7db0a9",
+   "title": "Le défi de la transformation du Canada",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlNKemg0cDZoY0F5ODBkMm1IMXlHcTlRRVJiNjdPUV8tY1EycURtcVFlY3dGdE5aYXU0UjY4ZFBGQzE5MXlJOXRLWUxVTFRTcU1wQXRzVHVhUmlpbGFWVFI5dmZNd1BjYlFlRklWMnhJTXhuUHl2RHRHdk1UV0Z6Y2k1OUExWEpJ?oc=5",
+   "source": "Le Temps",
+   "domain": "letemps.ch",
+   "date": "2026-10-19T17:12:10Z",
+   "first_seen": "2026-10-20T17:08:55Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
    "signals": [],
@@ -306,6 +350,31 @@
    "axis_original": "E2"
   },
   {
+   "id": "5c588326d138",
+   "title": "Dopage: Suspendue, Marketa Vondrousova raconte : «J'ai pleuré...»",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGdKRDhHTkVuY0N1QVBrVkpBbURvdnBpdW82MUFYWW15SVRoWHZQVWZzRHIzLWJPUWhwSnJPOXAxWFBMem1FdHFRRHExR0w0NjhVWTVnSjJqV05iOGVkcExxbHFuV1Z0anBPWHI4eXIzWHVuRHRlX1UyYk1ZVU5UcU12MkIwWWVFZGpGNkdGMWUzWHlPelJ0WXB4VHhOTmNSb2fSAaIBQVVfeXFMTzBnSkQ4R05FbmNDdUFQa1ZKQW1Eb3ZwaXVvNjFBWFlteUlUaFh2UFVmc0RyMy1iT1FocEpyTzlwMVhQTHptRXRxUURxMUdMNDY4VVk1Z0oyaldOYjhlZHBMcWxxbldWdGpwT1hyOHlyM1h1bkR0ZV9VMmJNWVVOVHFNdjJCMFllRWRqRjZHRjFlM1h5T3pSdFlweFR4Tk5jUm9n?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-17T21:15:00Z",
+   "first_seen": "2026-10-20T17:08:55Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspendu",
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Suspension antidopage d'une joueuse professionnelle : enjeu de gouvernance ITIA et de crédibilité du circuit, sans lien Nike établi dans le titre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e188f71f0731",
    "title": "Les frères Lebrun à nouveau champions d'Europe en double",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOVWdodFhCcWlqMndPN1E1M1NDZUp5ZHE3TnhFVURLUFh0VFB6cVlKSjllbjZ0ZDU0bl9Rd3J3R1V3WDVWN2VRNDhxWEQ4TzNYbzdGSHZCNWh3NEZZN0VHbTUycGRib2JHU29uN0JHZDRXTm1rYVFvelhBMzAyVGtKNU1GNVJ2ZVUwUkVJNXJKUHVLNV9rMEhudTdGZGtJYTgyN0NoVHloUWpVOVFzdUlqNVgtMFZnZGtLdFhQU0NfOFhlUjJ2dEJVQlA1bGVSQkV5Q19vU3RSQmVYb3E1TkQ0UUd0cmpSTmpnU3owazZhQ0k5OUdUeFZ3ZnFJTGg4a2VEYURF?oc=5",
@@ -449,6 +518,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "b74ad1dd888d",
+   "title": "Tennis. Novak Djokovic de retour à l’ATP 500 de Bâle, quinze ans après sa dernière participation",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcnJTQ2k0SDh6SVY1c0s2UDVkbVNDSC1KZ0M3Yl9ZREhHNm15WjFKQ1BTUFVxcE5fRElINGFndzBkTmpWc2JOcmd3WDVieDZ5cC1NUUdSTkowU0ZFc24wQ2Q3TFNlNkRBZ1FzakR4a0l3Mk5lYXdDSlMzS09CLTd4U3dFY3prNGtRWVVqamc4VTVzdEpTNE45LVFoMUJWTUdPcVhGY1hhazRCX3RjQU9faGExUVJFblAzWTBXU25OTVdUQUYxSHh6VFJtZU5DUFhQV0NUWHpGLW5KeGpick9tNDZWVU8tQTZTeEpLNFhxZDFnM3labktyaDc4UUEtMmpjVkpWa1BnTExJZGJOVVl4S0VSTU4?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-16T17:27:52Z",
+   "first_seen": "2026-10-20T17:08:55Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Retour d'un joueur majeur sur un ATP 500 européen : possible effet sur l'audience et la demande de matériel, sans lien Nike établi.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "b8968fe6f790",
@@ -5950,6 +6042,30 @@
    }
   },
   {
+   "id": "dbf42667f217",
+   "title": "ATP > David Ferrer met les choses au clair : \"Carlos Alcaraz sortait d’une blessure grave et ne savait pas s'il serait prêt. On m’a dit dès le départ que ça allait être très difficile\"",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPclB4eHNuaXRsWWdibXA2Mk9NdHFNRldGV2E4TkMwVHM2WndzcHdxd3Nqa293LVBwWGRLenpEY202QnZxMVJKaDFfbHdsSzRLMmp2X0VkZFNldXl6ZmFHbWVRM3p0Y2dNOElVckRNb0pFekVyOUk4MzFPODEzQmp1QnlEdkc2VzB1OExNVG1ybE91b2pKRGV1UmFEZ2ktbGdzanlQMVFQOVNjbDRPM1B3S0lwNmZTcnNHMDk5ajFEWS1jcGVLTklHMlNrVDhKTENNZFFjNDlicFdPY3BaMjE5SlpYNDAxWjVhQ3ktNjBtbG85bkx6VEpxYWZnMWtnOFRTRkN1a0g2bDluSWo0Vk5qMGp5eWg2ZFdkdUVDY2VabU5OR3ZEcHVyQlVn?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-09-30T07:00:00Z",
+   "first_seen": "2026-10-20T17:08:55Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Rappel d'une grave blessure d'Alcaraz, athlète Nike : risque pour l'image de la marque et la demande sur sa gamme, à surveiller.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "048c28874a7a",
    "title": "Les résultats du T1 de Nike ne devraient guère s’écarter des prévisions, selon RBC",
    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeEVfay14a0Z4c3Npb0tiYVFOU1VGb0h6R1J6UUFoUGlmWGRORXA3QjV5bDZlZ1RRQTdmbXBpWUg3QnVZRUFuRXJWMHhLdUMyejZoMDhEd0U3T184cDNkWEt5ZTFzTEhxaXBpdmVjeGoxS0hZUHdXT1RGTzNBc1Jwb2xQazllc24ybzJNNlJJVmlCY09HQ2VyZjNBMkVVc0xoSENsVGJZRFFKaFkyd08tOGgyUS1mZ0xTZUxXYUtFVkZmby1zUjM0VzBLR2JINDV1aTRmUzc5WHJVdFE?oc=5",
@@ -8064,5 +8180,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-20T11:42:03Z"
+ "ai_updated": "2026-10-20T17:13:02Z"
 }
