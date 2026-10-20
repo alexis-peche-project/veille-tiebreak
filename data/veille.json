@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T23:42:58Z",
+ "updated": "2026-10-20T04:51:47Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 391
+  "added_last_run": 3,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 396
  },
  "items": [
+  {
+   "id": "54f47c7d77ac",
+   "title": "In 1971 , Nike co - founder Phil Knight hired college student Carolyn Davidson to design the iconic Swoosh logo for $35 ; in 1983 , he gifted her a gold Swoosh ring and 500 shares of Nike stock",
+   "url": "https://timesofindia.indiatimes.com/world/us/in-1971-nike-co-founder-phil-knight-hired-college-student-carolyn-davidson-to-design-the-iconic-swoosh-logo-for-35-in-1983-he-gifted-her-a-gold-swoosh-ring-and-500-shares-of-nike-stock/articleshow/135058352.cms",
+   "source": "timesofindia.indiatimes.com",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-10-19T23:00:00Z",
+   "first_seen": "2026-10-20T04:51:47Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "545974e4fce2",
    "title": "Saudi Arabia Postpones ‘Davos in the Desert’ Event Slated for Next Week",
@@ -2848,6 +2870,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "0d276ba5f2a1",
+   "title": "WTA Finals: Deux joueuses ont rejoint Sabalenka et Rybakina à Indian Wells",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYVVUNHV1TDlZbEFYOWNUcVF5R2NHMGh5Nk40MHpoLTAwVEl2WXYwQ1BqT1lZVkpfcmlwWm55Z1p3MmxTT2tvZGt1aTZUbjFLLVVhZlR5U1BvcXJPclRndU1RSmNfY1Nsb3VueGdLOEpqZG1WYjM1em5MXzFrcHEyc09JdW5MMU82NWgyeHpveTY1UENTeVFnUlVkX055dkQxN1l4bWN5SnctZmk0SXhZTDI5bHBLN0dT0gG4AUFVX3lxTE83REhqaWhLMW9wZFpHMUhacU1BWGJTZlNETkJkdWFtRURETTZFT1owbklpYXlTMjl1Tm8yejV3WlhMWXRTZU9xLXdpdFJJcEdWUDJxbjBSWktJYWxjYzZfc2Y5cksxNGx4a3hMY0VJb2VOWGxobXFGVG5NSE5adWtrdl9pbEFnM0QtWE9wWkdndTlCV2c0MG9sYmZOVDN6LTRFUzM0RjctSU5wblpLREZTck1Ealk5STk?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-10T07:00:00Z",
+   "first_seen": "2026-10-20T04:51:47Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Qualification de Sabalenka et Rybakina aux WTA Finals : visibilité de fin de saison pour des athlètes Nike, sans effet chiffrable sur les ventes à ce stade.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "e052ee2ea539",
@@ -6082,6 +6127,28 @@
    }
   },
   {
+   "id": "cc44a250d5fc",
+   "title": "Le grand plan de l’Arabie saoudite pour conquérir le tennis mondial",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkxiNTNWV1Fjb3c2bms1Vm9NaGd5b0NhemZucWN2bFowYzJvRHUtLVBFcGd4dzlSRzgxaHFWVXRyRS0wN2tqTjI3b01lMkNrTHJXUVR5SF9VVjAtczR2R2N3VTRxLVVjTUphVk9BLWVUVk02WkhUS1VJbnpBNllvaXB4Ykk1M2JMbHpvb3hfTlBaYV8xc0pUdmJ4Yk94RjlFR2IyX1ZlZUtITkFM?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-09-27T07:00:00Z",
+   "first_seen": "2026-10-20T04:51:47Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Plan saoudien de conquête du tennis mondial : risque de concurrence accrue sur les tournois et de controverses d'image pour les marques associées au circuit.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "74ed42b0f1db",
    "title": "Derrière le transfert de Kylian Mbappé chez l’équipementier On, la dégringolade de Nike",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUxiUWdTV2xacVF1X3FXejhkMGxlMVRNemkxaGY2MEU1SlE0eVM5bUxWYWJPa2VEQ2pERGdMZEo3YTh2YWIteFN6aVo2MWdNS3NHMTNXREllTnZ6NV8wZjRDcmlld0dBTEZDallxWEZSR3hKRlJacElmRVFQdXUxLUNJUnJWbS03MkI5ZFhmeWMyRUlDYnZyRDdvMDgwNVB5UjQ1dVBucjB6WTQ5VVNvNHdTaUxrTDNGdW8tRG1lVklPdDhYWmJWOXNsT1d0NzdseURlZHVvNzN6SEVjMnVRdHdHSkFwUFB4Z1dN?oc=5",
@@ -7863,5 +7930,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-19T23:48:01Z"
+ "ai_updated": "2026-10-20T04:56:45Z"
 }
