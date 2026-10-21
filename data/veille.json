@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T00:37:34Z",
+ "updated": "2026-10-21T07:40:00Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 409
+  "added_last_run": 2,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 394
  },
  "items": [
+  {
+   "id": "76c69446ef8d",
+   "title": "Pont-l'Évêque. Avec Padel Lob, ce sport de raquettes proche du tennis a son complexe",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTG1iY2p3bTdoajV3eElYMmJOOE1aREkyUF95T3UyelE0Z0pRWFdjUjRWYk0wM1VlbFd1SFFKMEppYUY3aFN0S3h2MVNhZkY2eHRHZDZ2Mm1aYmxpNl90ak1uVHZpTWtRZENHM0x4S2Q1MmZYTHBNYk1YMTNJdUt5clE0MmJwa1lLSzdQNmlmQVhYOHh4Z2NxWnFpQmdhbVpwUlBzR1JTcWxrZVlRbE5DWHlvanJpSDN6NXgwT1haR2tZLWVaNk5PZW56V3ozeUoxX01RdUhZR2FHc2tQdThMSERxdmlJNkdqZ2V4R0lNd1RtdklKUENOcmhuckFlQ1V6WFRGZVNhNA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-21T03:10:59Z",
+   "first_seen": "2026-10-21T07:40:00Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "c9f4e88cc97f",
    "title": "Adidas Lifts Outlook on US Tariff Refund, Strong Demand",
@@ -4012,6 +4034,28 @@
    "ai": {
     "r": 3,
     "impact": "Premier titre d'Alcaraz depuis son retour de blessure : regain de visibilité pour un athlète Nike, favorable à la demande en raquettes et textile.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d4a6d7715009",
+   "title": "Jannik Sinner met fin à sa saison 2026 et perd sa place de numéro 1 mondial",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kQko1TEdLQmNTdG9GVVNuVGxIdHpmLWYyV0xJUEkyZk1IdjlwZmNJTVkwWVBYNmFfY29VVk4ybGpORGNFQzBxRmhIRFBYZDlOeUs3emtCaU5TSl9Cd3dpbFN2aXFTbmZEX3BVVUhBYlYtOV81cENGcmpUZXM4SUU?oc=5",
+   "source": "MCE TV",
+   "domain": "mcetv.ouest-france.fr",
+   "date": "2026-10-06T11:02:39Z",
+   "first_seen": "2026-10-21T07:40:00Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner, athlète Nike, arrête sa saison et perd la place de n°1 : moindre visibilité et demande possible pour les produits Nike en fin 2026.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -8452,5 +8496,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-21T00:42:44Z"
+ "ai_updated": "2026-10-21T07:45:18Z"
 }
