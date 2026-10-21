@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T13:48:54Z",
+ "updated": "2026-10-21T18:39:31Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 370
+  "added_last_run": 0,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 461
  },
  "items": [
   {
@@ -8672,5 +8672,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-21T13:54:36Z"
+ "ai_updated": "2026-10-21T18:43:39Z"
 }
