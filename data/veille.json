@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:40:00Z",
+ "updated": "2026-10-21T13:48:54Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
+  "added_last_run": 8,
   "feed_errors_last_run": 4,
-  "rejected_last_run": 394
+  "rejected_last_run": 370
  },
  "items": [
+  {
+   "id": "5dcabf7a4802",
+   "title": "Adidas accélère et creuse l'écart avec Nike",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlJRUkM1WGhOOE5wSEtUNExDUVpwUWowSEJjVW1vTzVNeDBDOXZjVmZfWER4U3lRZEpuOWZwMnVEVm5DSGZxTktTV1FUOHZSU0FfNUR1TEsxMFhXSHUteVlYT1RMb3FMaEJVTkJLeFFSeVhHMmFyUEE0Z0NtdjR6ZnpveHU0VkNvSVI4RGNSZ2Y0clNKa0pEX28ydjRiQ1d0Q01sUWV5OWlfcHNCenZENnZRc2RhSDFWbzBnRGpB0gHDAUFVX3lxTE5kVHp3QXJqdE9MQVI1ajJZUllmT2l5Q0lNYlNETUhsa3pPVnFDMjNZMzR2TDRXNUxUb2RwMzlPTFZqR2RKNk1wNGZWa242b3htSTgtdnU3RkxHV2F4RVk1VzVuVVNlZ0hvckVNQTJydTVJWlB6QU5NcUZMcDZpd2VWZ3hXa2lxaEJWQWI5ejNPZy1URF92b1RvT0QxcHZ1NGRvY3ZnOEhSLXAzVmlReUJXYzdtdHRJQlA2dTVQdFdmbDhkUQ?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-21T09:51:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Adidas gagne du terrain face à Nike, ce qui renforce la concurrence sur le textile et les chaussures que Tie Break vend principalement sous marque Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f87b2b884965",
+   "title": "WTA Finals: Pourquoi le Masters féminin a-t-il quitté l'Arabie saoudite ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdld1NmlGb2NHcklCSVZUM3VrbkpNNmZ4Zy04OXBCNWpFWUNoaEtLVHQ0U2d3anBuSGJfN0NXNGxlbWFsZDFZb0N3NTdfcm9VZWRQbHhhaEFjZWtpRXJTd0NJUFo5N0dpTVFvRVptMEJ2QWg4LWg5aU14WHFwZmFSbjAxWXJoNy1IX1pMV3EtZmtaLWFzR0M4Y2FNNEFUTGJ4eGVQSDF5ZzRqU3ZWWG5rYzVpb2vSAbQBQVVfeXFMTXJXUjJubm9WVWo5VVhhbXh2T1Z3a2ZHSjZ1MU5yY1YtNnY4Uy1JeEs4R3ctLWNKUnRfMTBONmRBaWp3QjhWbVZwcWNVRUtHWnYwNTlxZWtwT0U3YWpjM1hORmVKSUwxM0JHelZVUVRnVDE3eTVIMU0temw0TnFvdmNtb25femdmU0RQZ01JVGZid09ReGxBT3RNNjNpZy0wWFVuYlFHTHp2c09iZ3pmZVlyUGVq?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-21T08:07:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le départ du Masters féminin d'Arabie saoudite change la donne en matière de gouvernance du circuit ; effet direct limité sur les ventes, à surveiller.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "76c69446ef8d",
    "title": "Pont-l'Évêque. Avec Padel Lob, ce sport de raquettes proche du tennis a son complexe",
@@ -32,6 +76,28 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fac8e8daf9f6",
+   "title": "Coup de téléphone, tensions et malaise : Sinner-Cahill, la fin de la belle histoire ?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0oyaGhVZFR6eTNrY3lib2RrVzFqalJEVnlCS0ZLYkVoaWdiM0Uxd0RnVV9SZHdrb2l3aERpbENzMWo4UzRuOEQ5RmNpdnpHWkpsZHp3Skt0SFVqd1RETTgyM2NDMDRyZHZQdWM1eGREYkhhUmExcXpEM2VsQkgtSGR5d0djZ01ObDVXWTVleWpyellTSWh2cnk1NDJiWmtkQkhmdmMteGhrVncyVThfTTBPTkNmRUh5dGpQRGZBMUNiOE1jQTZHVm8tUXhuUEFu?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-20T22:05:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Polémique impliquant Sinner rapportée : risque d'image à confirmer pour la marque, à surveiller avant les tournois d'automne.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -60,6 +126,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "6a8515eca3d3",
+   "title": "Adidas relève ses prévisions annuelles après un troisième trimestre record",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYU40dmRRaE5nUTlqTXNjTnpVS05GMm1VUDFuSXVXOHFFbnpWOG5fbUhVTDVqNDRQajdlRlBtNFAwaFNRb0VMLWRNbE9mQ1oyYnNJQUUxeXFDUzNSLTFzRWd0Y25UUExRUjBJMXZTWTB0SjhvVXV0aXVMTEJfTEN2a09kV2hhWnV1LVVTVmo5UnlBRmFRUmt2QnpqNFFxWkU2TkJJV0hlbU9nekhRTi1DZFZDS01zZU5vX0lNVWFDamhRUE11T0t1ZFNoRVd0MFFoeFZndlhxMXo3LUg4Qm40UlM3UVpzakMyLUtNWdIB7AFBVV95cUxNYU40dmRRaE5nUTlqTXNjTnpVS05GMm1VUDFuSXVXOHFFbnpWOG5fbUhVTDVqNDRQajdlRlBtNFAwaFNRb0VMLWRNbE9mQ1oyYnNJQUUxeXFDUzNSLTFzRWd0Y25UUExRUjBJMXZTWTB0SjhvVXV0aXVMTEJfTEN2a09kV2hhWnV1LVVTVmo5UnlBRmFRUmt2QnpqNFFxWkU2TkJJV0hlbU9nekhRTi1DZFZDS01zZU5vX0lNVWFDamhRUE11T0t1ZFNoRVd0MFFoeFZndlhxMXo3LUg4Qm40UlM3UVpzakMyLUtNWQ?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-20T18:26:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Adidas relève ses prévisions annuelles après un troisième trimestre record : signe de santé commerciale qui renforce la pression concurrentielle sur Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "9628e859019b",
@@ -6182,6 +6270,50 @@
    }
   },
   {
+   "id": "9b4c61b45ddb",
+   "title": "ATP - Tokyo > Carlos Alcaraz, après sa victoire au premier tour : \"C'est un peu frustrant\"",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWotN0REOXBmYUhLNnhOWENEZndvRFFWZVNiQ1R0OVJmSEQ2cTJyUmxoNmVIS0EyeHNVZWx0SkpTbHB4QnlSbGZHNGd6SmwxVVcxRDRkTFNwcFVZcDB6VEVYa045RjhLdHBXN2JZd2RpbDdNYndjeExhWWgtSllPbHpkV1NfMm8ySnV4WUd1MmRNeGVhR3NRdm56dFZPSjJxYzlFRHpyRjRDdndyWmpvQnB3?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Alcaraz, frustré malgré sa victoire au premier tour à Tokyo : impact négligeable sur Tie Break, simple indicateur de forme.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f5a19395d4c3",
+   "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qLWYtRmhIbnY4QlVsUUFhOUVtLUxPVEM2bVQzSVlvRFpjVjQwdjEtTlVLUnl3U3h4M3BzeG5DM0w0cDZ0bDlfMFFnWmtieXBiY2xCaTMwWV9HOE5lWVE?oc=5",
+   "source": "BBC",
+   "domain": "bbc.co.uk",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike market value",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Analyse de la BBC sur les difficultés de Nike : fragilité de la marque pouvant peser sur les collections et l'approvisionnement de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "d4ccb9c410a6",
    "title": "Bangladesh's US buying spree fails to bring export benefit",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFQ5WnByVFZTcGJMaHd2VjE2QlBjMHg3SUVTdGNheEpkbVNVcDdRTEhJLXhoMk5laTZVS1AxTmtQd0NCOE45dXJGb3NtNl8ySzNUODJxRVRTdmY2cXZGS3VYX25saDBKekppcVBtN2p6ZVo1UHF5bUpoaTRjTG1VQ0pTUlhLX2dQeUlHcTlXQ0kzT1U4blJqOGRlSW4?oc=5",
@@ -6987,6 +7119,28 @@
    }
   },
   {
+   "id": "095298cb48e3",
+   "title": "Encore embêté par son genou, Sinner repousse son retour",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPSXQtSnN6T3hGeS1hRkd6N3ByMzJnc1gzVUgxclVuM05wVDlmc1IxclhZb1M2c2I1djdnZkJHTFdzSUZISnVkb0VwOHFlb2ZOc1NvZGZMTjdhUTdjNWFsSDVER21EbHNHaFpvRW1waEhSakNxZG9ocHlUeDl2WVB0Ylg1MHFwV3hsQjM5dUxzYjQwd01zTjJXS3NGZHA5OWpybzItUzhKdVNrdlhFZS1zZ0cxeHg4dWd3UTZWUElzVmVGR0h0Z3V0V0lzb3BlbWNxYS1RWXFXbEtmTTVXZ1dZOTltMFY5cEl3M3hoZGVOaXRqZ3ZLMGg4T2NnVjV5YjJuWWxaaFpB?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour de Sinner repoussé pour cause de genou : moins de visibilité pour la marque Nike à court terme, donc possible impact sur la demande liée à ses sorties.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4f9f400af43b",
    "title": "New data shows Suez route transits rose 27% in August",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHhPZDI2VGpoVXZndC1uN0JhbzEtWVJ3aWlsOVZFT2Q1ZDcxeGNadnY4VDRjeFJqbzFoMGxjZFVGQlZhMVB3dzhORDh6bUowTjk0NFZtZkZ0S0ZMb2xMdTcycmhDTUZXY1M1NHlQbmMxV191YXEzbmItT3dKclU1SkVCU2dGSmJPeHFHVW02dw?oc=5",
@@ -7051,6 +7205,28 @@
     "r": 1,
     "impact": "Pop-up RSE de Nike à Manhattan : communication sur la durabilité, sans effet direct connu sur les livraisons ou collections des détaillants.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "41d1e0da137c",
+   "title": "ATP > Jannik Sinner, la fin d'un long suspens",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DOWhoc1dXRVVieXFuMGdvc1NEMWpMQllpQm5EUjdReFl4dm54WjFTTDJ4TE52XzJFeEJ0bk1rNThJaWw2WFpGN21RM1U3NjdBQmZyR2FaaHJSMU9FU29qVVdIOU11YVFNOHB3Q2t0eUFkTnhxUElRaA?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-09-24T07:00:00Z",
+   "first_seen": "2026-10-21T13:48:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner : fin d'un suspense, sans détail dans le titre ; à confirmer pour évaluer son impact sur la visibilité Nike et la demande en magasin.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8496,5 +8672,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-21T07:45:18Z"
+ "ai_updated": "2026-10-21T13:54:36Z"
 }
