@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T18:39:31Z",
+ "updated": "2026-10-21T23:19:59Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,58 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 0,
+  "added_last_run": 5,
   "feed_errors_last_run": 1,
-  "rejected_last_run": 461
+  "rejected_last_run": 460
  },
  "items": [
+  {
+   "id": "743411ad68e1",
+   "title": "Adida record Q3 is salt in the wound for Nike",
+   "url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
+   "source": "retaildive.com",
+   "domain": "retaildive.com",
+   "date": "2026-10-21T20:30:00Z",
+   "first_seen": "2026-10-21T23:19:59Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les résultats records d'Adidas soulignent les difficultés de Nike, ce qui peut influencer les priorités produit et la distribution Nike pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "762acaef1a91",
+   "title": "WTA > Rennae Stubbs sur Vondrousova, suspendue 4 ans pour dopage : \"Autant la mettre en prison\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jMndfTTNld1E0VHAtUXdqTEpwZnoyX1c4aWJpclFFdVhPOWF4bVRvdVJxVVdXU2VLMndqcUMzN2VrRVpnWDBHMjRJLXRLUQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-21T13:45:00Z",
+   "first_seen": "2026-10-21T23:19:59Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspendu",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Sanction antidopage d'une joueuse WTA sans lien évident avec Nike dans le titre ; impact direct limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "5dcabf7a4802",
    "title": "Adidas accélère et creuse l'écart avec Nike",
@@ -4855,6 +4902,30 @@
    }
   },
   {
+   "id": "a21443e68577",
+   "title": "Starbucks enters Xinjiang in calculated geopolitical risk",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEVJWkd3eGNsWEpIRmFSSDhYcnpfRHZnX3JqWjZyWGhGTmlJY0NWakJYQ2w2Sm5tVEp0Wndnckp6V0FLVGc0T0oxdUJ4NEtFVmlUbGpHQWlDOWo3T3BSa0dKME1ramNqdDJ5OW14T0s1U01yY3ByR3haVUZWVXN2WHc0bE5maXVCelowVk1oZVdSTHJiWVlFSjBFYzM?oc=5",
+   "source": "CNBC",
+   "domain": "cnbc.com",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-21T23:19:59Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Xinjiang cotton brands",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "xinjiang"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "L'implantation de Starbucks au Xinjiang illustre les risques géopolitiques de cette région, indirectement pertinents pour les chaînes d'approvisionnement textiles.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a9e8ba599dc4",
    "title": "‘Go woke, go broke’: The fall of Nike",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmViVDBfQzVWX2pkbWFBOFVybDZSU3lRTTFJLXNZdmIzUjJscTgtc1BMa19YcmtxUGNNQ2paUGxnaTNJRTQ2ZXBtT3JqQ2prM2lpUGJqUVo5SUNrcVc5a3FDVWpaR1luU0xhSE5VYkNwajdtSzBUWnk0M292bmp4WGhuZGVMUWhieWlv?oc=5",
@@ -7231,6 +7302,28 @@
    }
   },
   {
+   "id": "694933ec27f0",
+   "title": "Canada’s Coat Makers Find Themselves in the Middle of a Trade War",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVppX2xGeWZJcGtXSGZfOUJ4YjRNemg1ZEpaVEd4ZDJlRFVqRHpFczNvX3VRRVlPb19iakY1RGZPdnN4aVZudVdLTnBTMl9pamlpS0ZuRGZRYV9MektfODBTR0NrallKYlJndHhvS05YMS13bWc0R2RSak54X1NUcnJ3RWhJdw?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-09-24T07:00:00Z",
+   "first_seen": "2026-10-21T23:19:59Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Guerre commerciale entre le Canada et les États-Unis touchant des fabricants de vêtements, contexte tarifaire indirect pour le textile importé par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a1c479ec27e3",
    "title": "Comment nous réduisons les émissions liées à notre chaîne de valeur",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmxMTUxDYXdIdVg3VTBoSmlEMkJ5a0FHZlc1Q2s4N1BYeVpMNVZSeDJRZl9XeFFHOHhnV1l3MkEyYy1aLUpLM1ZTT0JHTEJ6c2lodVg5aUV1NVJnYm95dEZtZGFGWFphTTRNUy1CX1FFZnFROHlFa0tPOWNuTjRucTdn?oc=5",
@@ -7647,6 +7740,28 @@
     "r": 2,
     "impact": "Converse (groupe Nike) retire une pub accusée de références au Ku Klux Klan : risque d'image à surveiller pour la marque Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4402e40ce0f6",
+   "title": "On ouvre un nouveau chapitre dans le football et s'offre Kylian Mbappé en ambassadeur mondial, au nez et à la barbe de Nike",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONnVGR1Zhbm9UVVFsSjZEakM2X2dCekFXRlYxQ09xMnYtZzBnQWUyMEF6N2ZvTlF3VExEVVUyR3pzMUZET0hhYWRhWEpackFGcUtSOC1ybFNneG9ub1g2Q1F6XzQ5Qy1SMVNDVkxhOWdXZXQ0NEJTbWh3ZDNNdklUYXBCb3JuT1VLV2ZhcVdnX1RfZ19Tazl3MnJBYmhOWlRfdzNYbzRFWTRRNlRVLWR4d3RhVXBYOVJjVUQ2dHdRM01yak9VWmNRdGFMbENLWUlka0ZnWVVTbGM0VUtUSW4wVVN0YmJ0Y0ZPbkUtV2FmQjVnaGRCU3hqZ3I4dVpMRFBhOE5TQ21nM2FmbGNCaDhCNG83RFp2VFVwa2NZUzU0aw?oc=5",
+   "source": "Investir Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-09-22T07:00:00Z",
+   "first_seen": "2026-10-21T23:19:59Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Signature d'un ambassadeur mondial de football au détriment de Nike illustre la bataille des marques pour les athlètes ; effet direct faible sur le tennis.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8672,5 +8787,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-21T18:43:39Z"
+ "ai_updated": "2026-10-21T23:24:04Z"
 }
