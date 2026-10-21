@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T21:37:36Z",
+ "updated": "2026-10-21T00:37:34Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
+  "added_last_run": 7,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 391
+  "rejected_last_run": 409
  },
  "items": [
   {
@@ -40,6 +40,28 @@
    "axis_original": "E2"
   },
   {
+   "id": "9628e859019b",
+   "title": "Coupe de France de jeu provençal : haut les cœurs et marche avant toutes pour Gagnac",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcUV4VDdKTHJpckdJZHhfeTJoUmVHbGlLdTBxeWZhanZlenlpZ3ZtTS1TS3NwRV9zNFpvZi10WXdzSEF4bC15WlduY1VnTVIySThqaDgtMVRVMU5zZzlrd0lPYUY0TWdlbnFvM1BPUjZhRHhmdVhXSVdOdWNkUHgwZS1iVl9GcVJRdTZ6alNjNXBzTm5lbjJkTl9VM2RnZ0t1bWRzb3BEYWpkcU1qMldQY2k2Ml9KOWF3UE1tYVc0OVdWMGhkYkxGRnBEcjY?oc=5",
+   "source": "ladepeche.fr",
+   "domain": "ladepeche.fr",
+   "date": "2026-10-20T15:45:00Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "8b04adc007d6",
    "title": "How new capacity is raising rates in chaotic ocean market",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSV9lN0JoZjhkNDdkaUdVRXB1TWU1bVBwSkRUcmtvaEpjdmlrMEVxM2I5dTM4cmZ0eXdZaUxkSmh5RXItT0VYRl9UN1hFX3N5RXBtdTRVWXBIaHFucmk4SUw4N1liYVJxdHdjakFiVk51LW15ajkwN0VJT2J6eDhXOUlBbDhYTlloM205VFJrblR4QlhFMHc?oc=5",
@@ -60,6 +82,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "39d0e8309dcf",
+   "title": "Sinner de retour au Six Kings Slam ? Le doute persiste",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkZtN3NKTWVXVkVJRFZQVmVuTkh6RmJ4cHU3TE9YS3lpcThzcXl1T0RYMGZnNkp2ZVB2MXV2TmRqcWJER0JUek1FMFQ5UTVmVUFmMF9pVHU4eEFKb24tQnRkc2dEd0U4WFU1azh0WTF2V1EtQXpyc3FQYkQ0ZmI5ekZ3Y0FKdHZw?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-20T11:57:20Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La participation incertaine de Sinner, joueur Nike, à un tournoi lié à l'Arabie saoudite peut influer sur la visibilité de la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "f56983903ccd",
@@ -150,6 +195,28 @@
    }
   },
   {
+   "id": "51880cdaad4a",
+   "title": "Nike, Inc. : Argus toujours positif",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdG1DNEtDR2E0YzlIOHdOVVN6MWxuM3ZOekFVd0hHUUJvREZJcGRTWjZYUklUeU9QWC1UTFdWN1FDaWZaZEFoTFA2aWI3Nm82UjFwSFBEcUtNeWl2N0V5VlAzQmlQMkVjYXhDWXBTdVZncUR4R19XYTduenRibm5fN0hidy1CcGRwUzhHcXNWT3lfRWdyUUE?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-19T15:46:22Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une recommandation boursière positive sur Nike soutient la confiance des investisseurs, sans effet direct sur l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "659face755bf",
    "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3Y0MXQ3c25pSTZGRzhIdmtNS3VoT3JzVFljWU5KR1VSSmFZZ29OUXJWMnVZZWhWeEdrVW56MFZnSlVtYV9kbWY3U2FkenNnUl9ydV8tYkM0UmpadkREcXl6WS1BNmNvTnZ4cE4tREZINFhXZmJrYXh1M0hsRmRSanJMcFFvdWk2b3FJNmxnc25EZjJieXRfeEt3em1aM1ptTlJfSTdSemJMdVk?oc=5",
@@ -192,6 +259,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "83e9a96bb404",
+   "title": "\"Le meilleur set de ma vie\" : Félix Lebrun, roi du retournement de situation",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNNVpGYmtvbjI3Z3dzV3Y5bWFZN0J4aGhaTmZFLV9CWmVKRFZfbEJlV2twZl81X0NKbF9vWDlfYVVhcXhFMkxDdEpxTlY4QWFobzBzZ19mNHF5X0FCQ084NGtOWkpkZjhlMWNmVEFSV05GLUI5SGU2TjQ4SWpHVmNIdURqS0NITUllNkdNUS1SYTVrRjRYQng2NVdYcG9YNkEtMHRXbTB2STRYTEZoMDV2UVFSd1JCZWdKVmJqTDlKXzhNZXFpeVZOS1ZIMUszaHBIMm5ObERhNFJsSXBVYllYcVRnT1BMS3Y4Ti13T21zQXU1ejQ3QVRRQVo1M0U1ZVZibXVYTnVHMmZwRzZF?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-18T19:44:00Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'un joueur français sans lien avec Nike dans le titre ; intérêt indirect pour la clientèle tennis locale.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "4a5681ef688f",
@@ -5079,6 +5169,28 @@
    }
   },
   {
+   "id": "b9b048fe5138",
+   "title": "Nike, Inc. : UBS est neutre",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2pmaVNHMXc3Wk1PSVVJUWtBZXlzWFlEVzlXRzhBbDhxUGRmTWJ2NFV2eWxUOFJWaTJGQk5ZNTIwRUZ5aGU3MkhCVHZVb195YmJickRiM0x4MGNlOE56X1pveWlSYmFXdFhMUklDMUM2cUZ5dlZ3S05OQWpwR1pDODBkSEs5dUpjdHVB?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-02T15:10:13Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une opinion d'analyste neutre sur Nike donne un signal de sentiment de marché, sans effet immédiat sur les collections de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e45e593d1ea6",
    "title": "Wall Street dans le vert, ravie des chiffres de l'emploi américain",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOW1nUXlyRldDYUh4MWJ0ZzJGWXRTMUN0dTBjNEdXenpaQkdmNGNwRFRXX0paXzRLZ0NlOXl6eTdOd1ZhQV9zMVUyVlQ1c01BZUVrcFhwNlRJMm40X0F3OUIwaWZ0N01ZZWpJTUt2ZWFzalFBcTItbEVtTWkwUWhScy1XUVZGazJTWjZsMlhPNjk2NjB2RmtXczZpLXFrSG9IUWtqOGVYMXBLOGtoNncwYkZxY0NGcUlqVTY4cDhTdnpaS25a?oc=5",
@@ -6180,6 +6292,28 @@
    }
   },
   {
+   "id": "a199e96337ab",
+   "title": "Pickleball : la FFT veut transformer l’essai",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kcDhrZHZVMkgwenVmV2t1RF9rcVI0ZU1ueHc1NURIREJjbERVSDZ0TXE0TVFUS05EdUZpTFM5bDl3OU43OE5zVkEzbzFvSlhOVUpnNTJ1VEpIS1B4ZGUwT2tfbDA4MXNhbnRhOUd0eURDY2tkc2tuZTFRRVFJSG8?oc=5",
+   "source": "Sport Stratégies",
+   "domain": "sportstrategies.com",
+   "date": "2026-09-29T15:00:35Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Si la FFT développe réellement le pickleball, la demande en raquettes et accessoires pourrait offrir une diversification pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "3411062f4c78",
    "title": "Why the Saudis are turning off the sporting taps",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejR6b3VZSlhNdVliOS05RGt2cTZSak1MdlBtUkM1WXhLYnAwM0FRNlJvSWs5TjREVnVhekI2MTE1YjMyVy1YMHNfMktoeDFqY0lTdEx6eGIwdjA2SzI5V2FpRUQteTkxc3JoRDdKcmozdzduSlc3aEU2dkVUSmpObDcxdHA5dXVpN1JxQjRjOHhIb3c?oc=5",
@@ -7070,6 +7204,28 @@
     "r": 2,
     "impact": "La polémique autour de la pub Converse, marque du groupe Nike, peut affecter l'image de la marque auprès d'une clientèle sensible aux questions de communication.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "00fbb6175783",
+   "title": "The Trump-Xi summit: Why Europe has so much at stake",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVI3N2tlb2VyUnNVUHBhM1FfcW14VVo1NEZGQ2pfR09ua0tFTHFnTE9lVkxRMW1sOHRGZmttZFJYeEJ4NzIyaVZIRzBjM1VlN0hWTE5YSWg5aXM1Z0V3ajQ0LW1kVjRPM0EtX2RsYy1zMGpNMW1UQWcydElGd3k5RWQ3b215Vm5FT1UxLUxwNmQ?oc=5",
+   "source": "Euronews.com",
+   "domain": "euronews.com",
+   "date": "2026-09-23T07:00:00Z",
+   "first_seen": "2026-10-21T00:37:34Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Un sommet États-Unis/Chine peut modifier droits de douane et coûts d'approvisionnement en Asie, avec des effets possibles sur les prix Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8296,5 +8452,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-20T21:42:05Z"
+ "ai_updated": "2026-10-21T00:42:44Z"
 }
