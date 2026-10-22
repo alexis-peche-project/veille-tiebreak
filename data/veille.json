@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T04:46:29Z",
+ "updated": "2026-10-22T11:53:25Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,35 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 414
+  "added_last_run": 6,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 452
  },
  "items": [
+  {
+   "id": "c456e306461e",
+   "title": "Dopage: Une règle importante va changer pour les joueurs en 2027",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTdGc01fY01UTmZ4dEhCUzl5bDZUem9tTURORDJBMHY5TEljXzhUd3NGRlZXMlR6Q19ud3VuOHlueUhiSzJhOVJ2dlJuLXFzeVNJekJPS212SmJDME96a3BqTE42TEF5VzZabVdUTmdKcUlVbVJEb09STnIwdmlpYmk2MDR6SGQ5cFFxXzlNTXYxS1lzaHJWaVZDN0ZrTWZ3MWwzVjFwWlhyM0XSAasBQVVfeXFMUDJjUnhpYWQzTzBuSWlpbWFpQVp2a09sOURhVS1YT2RORlVxSnVrV2xGdnNROXNzbEtTTXo2REFqX205RDk4T19YNGNWWVRtOUNYcTlzT2hrU19yTDVSanVKaFZTM05jR3ZkUnduWkJ4dlpfTk9zZ09yT0ZqcExnT0FrMGN4SzJwSFBMeTJPYkdqQmVDR0FNMDgtNU50aUh2VmVRazg0RmVNS2VN?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-22T08:01:00Z",
+   "first_seen": "2026-10-22T11:53:25Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une règle antidopage qui change en 2027 peut modifier la gouvernance et les contrôles du tennis. Effet indirect sur les athlètes sponsorisés Nike et sur le calendrier.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "67882707d0d2",
    "title": "« Les créneaux horaires sont pleins » : pourquoi le phénomène du padel continue de gagner le Maine-et-Loire",
@@ -76,6 +100,28 @@
     "r": 2,
     "impact": "Les résultats records d'Adidas soulignent les difficultés de Nike, ce qui peut influencer les priorités produit et la distribution Nike pour Tie Break.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "43fbbb8c1b9f",
+   "title": "Chansons citant des terroristes : un an de prison avec sursis requis contre le rappeur BORO700",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR2VtS1hoN2h3ak5sTEFkMnVVcV9QaXNGUVJzSDY4a29RQWpMc2hTMXVDR2xSTW13QkZRZGFtM2xWa2ZjRndsTnliRjFsVmZseVBXMkxUb2hvZDNrVjBtd0pNcWxfcjRPT1VfWDBIUEJIOWpDeW5PclNMczdUazdIckRMR1RQUEprLVQtcDFSQVA1YkZvVFp1YVZNN19LNGZkM2tNT0pnOTl2Uk1pUVg2eWU2U0g5UllVUjhhOTdwdUhaZEY1VVV5VXJYWmNCX19IMU9adU1FVDliMlJqQmN1S3N3UERGTERpbC0yRU9uUmljTFoxeWl1UVBsNzk?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-21T18:16:30Z",
+   "first_seen": "2026-10-22T11:53:25Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -281,6 +327,28 @@
     "r": 1,
     "impact": "Hausse des tarifs maritimes liée à de nouvelles capacités : coût de fret possiblement plus élevé pour les approvisionnements Nike, à vérifier.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "043755264fcf",
+   "title": "Économie : la tech passe dans le rouge sur les marchés mondiaux et la dette française inquiète à nouveau",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR0xoWkZyUjVSR0l1NmpyM1daNmxtbzlVRm5PNjg2amVaWmd0c2M1cjJKWXB6Rm1jQkRGZ1ZneEhqOVh4amlxYkhVLUNYMllqRS1OcDhDTW1ZT3VBQmdhQ1hDYmtEZy1lNmY3VmpWaUl6NWduQnZEQ2FOWnJKMDdrOWVxVWZmbl9UMzYxZjlmRnpyUU55Q2lKT3VKd0hzN2FjTXBqc0tJekZhYWM5RldGOFVncDRzanl0WTRrLTU2QThRc1ZtdUktb0JDbExidVF4WjV1SkR1S0dOaG9WcEhHWDV3?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-10-20T14:57:36Z",
+   "first_seen": "2026-10-22T11:53:25Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Contexte boursier général : la baisse de la tech et l'inquiétude sur la dette française pèsent sur les marchés. Lien indirect avec le cours de Nike, sans effet direct sur Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -709,6 +777,29 @@
    "ai": {
     "r": 1,
     "impact": "Victoire en double sans lien établi avec Nike ni avec les ventes de Tie Break, contexte tennis européen seulement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "286432ac2eda",
+   "title": "Félix Lebrun détruit Franziska et accède au dernier carré, un fantastique de Nodrest le rejoint",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPYTRwM19FWTQ3NmJhekRIRVlUcGVBUmZqeExjMGdRRE9aeFpRTmc0TjNZNktCaEJXaHRHaE4tcjhaOHl1UVZBYVB6NW14bkVLUnUzY3AzU1d1blFwMnRjNXBFYU9VaWFkMW9fb2I4eFFrWFd4Ukg1V1BUZHJrRmZsaU5IY0daSEs0TUlrdEpIY3ptNDcxNk1KRnlhVWFQME9uVWFPV2ptOHh4ZVVoOHZJd0ZyckFxSzB5ZHUyWEl0RWoyWXZzV3ZSUzF3LTRGR3RJc01kb2hGLUUyM2VDSjJDZVQ0UGIzc3FqR1BHRVJRRGRtTWlDd1UzUGd2MVNYYWExM29WeXdjY0dZUFBKUWQ4aDU0bjNHRW9qVktSR24yZm0?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-17T16:45:00Z",
+   "first_seen": "2026-10-22T11:53:25Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultat sportif de joueurs dont le titre ne précise pas l'équipementier. Intérêt limité pour Tie Break, sauf si ces joueurs sont sous contrat Nike.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    },
@@ -6008,6 +6099,28 @@
    }
   },
   {
+   "id": "2c77347e5b91",
+   "title": "S&P 500 - Les actions à suivre vendredi : Nike, Tesla, Mattel, Synaptics, Disney",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb2VZa3hHRjFJdWFKcUptT3RCelpaLUdYUVB1ZjQzN3BETGs5MS1lM1BYWW9Ga09ZTjBRdmFMTU5xeDNPVzdISl9UbXdyb2UwR2Z5WDhBdU1lWXowZlAtaTFSWGV0aDUxaTlianhlNkd3Mk15QXprNXp0NkNzZGlJMC1FLXZBdkpnMnRCOElqcmJXQldaRmVmQzQ2RG9YWHpIT0dhaDN3dDJaRld1SlpNdnppT2M0WWNEREt0emlxWVpXVlFYeThpdEFIUTA?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-22T11:53:25Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike figure parmi les valeurs du S&P 500 à suivre. Le titre ne précise pas la cause, ce qui peut influencer la perception de la marque et de sa stratégie.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -7407,6 +7520,28 @@
    "ai": {
     "r": 1,
     "impact": "Guerre commerciale entre le Canada et les États-Unis touchant des fabricants de vêtements, contexte tarifaire indirect pour le textile importé par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "09504b13f7e1",
+   "title": "Kylian Mbappé : \"J'espère gagner le Ballon d'Or pour le dédicacer aux Africains...\" En campagne pour la récompense individuelle suprême, Mbappé multiplie les appels du pied",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxORDJWZGtSZ2J4N0NvM1p1djJMN2pqNFZTd2JxOHQ5bl9nRnlrMEttbERwVHpEYURuQnE0cEItZ0xHS3Q2b2FoeXFvWUJKc1hMQVF6SURBWEpJc3g1WXJIQlZqNkV5QjhyTmx2NGdmd3ZKY3R1em5EV1dDVnhPSUFKR01yUmN6aHFtRWlaTFlCREJ3MkJUWjBoUnFvRkdvdHZtSTVLVUs2N3RhT2V1YXViNW5BazVwdFlRanQzOU50RnlvQUpOTzdiYlBkWnVQcG80dndpT3NQYjVGWkVKU25NLUlHWTdxdnVOVVpfeHZDblVfakp5T09OQzV5TVJzTU9lUk9zc01mSDBLRGFxcjE1MDlleGJULVNnVWhlQzNENWRMdw?oc=5",
+   "source": "ladepeche.fr",
+   "domain": "ladepeche.fr",
+   "date": "2026-09-24T07:00:00Z",
+   "first_seen": "2026-10-22T11:53:25Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -8875,5 +9010,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-22T04:52:08Z"
+ "ai_updated": "2026-10-22T11:58:15Z"
 }
