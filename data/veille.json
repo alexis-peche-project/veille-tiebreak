@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T23:19:59Z",
+ "updated": "2026-10-22T04:46:29Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 460
+  "added_last_run": 4,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 414
  },
  "items": [
+  {
+   "id": "67882707d0d2",
+   "title": "« Les créneaux horaires sont pleins » : pourquoi le phénomène du padel continue de gagner le Maine-et-Loire",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVmlNYmZVanpkUmw2bzI5U1BpNWgyMGFTajNDMjFfXzdjUzh6Tm1sMVNlOUdYX21NZmJqclZpRWx1UWx0YVZIRjRrRWZWWHRuM3l5elhRNk9uX052VDR1WElwY0NqYzBmLUNPajVyQTlNNzdDVk1mUHhLdDV0RWhTS1hfckFwQi1kanpERE1ROUFIc1I1ZS02NndyeXYzandQclFadl84ZkRhRG81N0I5d2luZUF0OVh3N3NCb1kydHhHbmxiVlVhYzhSWFljVXRTTE1wQ3BxY3NLbW1WcFcwYkROS1g2TjlWZl9jV0pHb0dIaWhQdGZBZk1IbS1qOGo1SUlIVjRkRzdUUQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-22T04:45:11Z",
+   "first_seen": "2026-10-22T04:46:29Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "12138421ab6c",
+   "title": "Grâces. La pratique du tennis de table tire ces jeunes pongistes vers le haut",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdGhvTmN2Mk1HbEJiTXNVcHpxM2xqVnZQejNsc1NsdmhiZVgzb0UyejJMZ083Ui1tcHo5MnNTUEFoSkVuUWxhM3k1QnF4Qi01aEg2Z0RLd2ZDVU5XRVd2NEJlTHdJREFjWDluWlpfUzB4b1E1d0tiYzZqU193T1phckZDQnpCNlhhRWM1MkZ0b25SMno3cnJXUk85bVpkYlVMWF9VMjlBYnd1SzB3Y21ZRHZ6bGFVS24yY19LTEQ3MDVVREg2dEo2V2dBQ01XY1MzZkZMNE0zMkhaUDFNQXVlNGxnc3ZYQTBqUXU4ZjRJX2pPOEFpNVE?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-22T03:11:10Z",
+   "first_seen": "2026-10-22T04:46:29Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "743411ad68e1",
    "title": "Adida record Q3 is salt in the wound for Nike",
@@ -5942,6 +5986,28 @@
    }
   },
   {
+   "id": "f40b1061f6af",
+   "title": "Nike s'effondre après avoir annoncé des prévisions de chiffre d'affaires annuel décevantes et des résultats in",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPdEpJb25rV3NFeldkZzI4R3EzSUZ6U1k5dWpyUjdIY1QzZjMzdlVsRWdmLVQ2Uk5GN2Q4ZHN2X182d09Md29uZC1sQ1hxWDRRZzJkalBBSTZtUmtCSkpnN09nSkZIYXBacWpjRkZwVHdyVEJHc0J4d3JrcTNMR3hZaWVUTjJ2eFBYTWZCQkdmR3R2Y19rV3lNMDhEVFFjTUxKbDZ5Y09UcFJnV3ZFMGhmQzU5YlltaGxmUU9vTjhWdTBNZWVpWERvdXRXNHFfZVhpT1VNQkFzTVBoVnVJLTVtUnMzQkMyMHVncEVBSUJSZEZ0NUVxVUN4OTFFaHg0UkJiak12akl5RXBVVXhDaXFqZzRjdmVpMXZXcFRueXBOVUozTEktU1VOQzl1MkhyY2xuV3Rr0gG4AkFVX3lxTE4wMGZfRzZ2NWlnYWx3Wjh2NUF6TWFmbXEyTDFPR2I1TEFjVllKTy01aGpmaTdzSVl3U3hnczBFYnFoTTZib1V6NS1WY0xwU1VscUNZY05xbmhobG9yOExTdkJKY2FBODkyeHhiMy1tTl9WLWdIaEdpaVRBMEZOYXRGcFEwTjRqdTBIQWF6SHVEVjYzcHRRdFd4eEx2NWtSbkRIR2ZUYkVNS2ViZmQ3ZE5aQXBGVV81b2diQUJaWGkxQkxFUVI5MWJ5cWhMeXRTUW1PVjFjSDI1NmttWVJ0a0tRTkVtV0VRemIxSzJZNzFzQmdUUFc0MjlhdzBIdzNkS0pGTThXOHh2LW54dlFTRFhlTUlkT0duR1VwdU5rMVI2Y3QySFJ6ODFGYlppdDlCQUliX1ZTeVpBdQ?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-22T04:46:29Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Prévisions décevantes de Nike : pression possible sur les budgets wholesale et les commandes de Tie Break, Nike pesant 70 % de son CA.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -6381,6 +6447,28 @@
     "r": 3,
     "impact": "Analyse de la BBC sur les difficultés de Nike : fragilité de la marque pouvant peser sur les collections et l'approvisionnement de Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ef7a5af3b286",
+   "title": "Après des résultats contrastés et une action en baisse, Nike décide de tailler dans ses effectifs",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPbF9hSFliSXFPbElsVWVQcWRCa1ZyTDNvVEFDZGQzdGY1MEhTRFdheTVfeEpYQUVkVjZ3UWtiT2RIRm1yUFplMkNmdC1TTEJCWklHbDRaZ0tCd2FPXzRkYW9qT2c0VEI4bmtHcnVsNVBPbURWUEI1ZGlLQmUxTVJUZm8xVVc1ZUNOX2V4eXVVUmpGM292dnNJYjRhU29keVdDekJYU1o4bExydUpwQXE5cG9ZVHlJdURROFNEYkpYNVRJZWw0R2V2eUNNSXRFRTZHYXhaejR0VFBQNkZ4dlU5RU9sRjVYVy1RWHFhRDhCellzMlI3dHlseDg5VzVtVzVZ?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-22T04:46:29Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Réduction d'effectifs chez Nike pourrait affecter les équipes wholesale et logistique, déjà sources de retards de livraison pour Tie Break.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8787,5 +8875,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-21T23:24:04Z"
+ "ai_updated": "2026-10-22T04:52:08Z"
 }

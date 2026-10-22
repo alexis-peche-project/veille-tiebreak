@@ -1,20 +1,20 @@
 {
- "synthese": "Sur les 14 derniers jours, l'actualité est dominée par le report à fin décembre du Six Kings Slam de Riyad. Les médias B le relient aux attaques houthies et au contexte sécuritaire saoudien, alors que le NYT cite des « raisons logistiques » [714a0f2991cb][54ecbe1c6223]. En mer Rouge, un signal sécuritaire (drone abattu près de Bab Al-Mandab) coexiste avec un retour des porte-conteneurs à des niveaux post-crise [7ab0f3a1f5c2][7da41a923e88]. Rien dans les articles ne prouve que les retards Nike de Tie Break viennent de ces routes. Côté joueurs, la blessure de Sinner et l'élimination d'Alcaraz à Shanghai réduisent la visibilité de Nike en fin de saison [aa597988c34d][e97eae5b6eec]. Pour Tie Break, le signal le plus concret n'est pas géopolitique : Nike vend l'Air Force 1 à -30 % sur son site officiel et la lecture financière de Nike diverge fortement entre analystes [7e025fd675c2][321907f78096]. Cela pèse sur la marge et sur la dépendance de 70 % du CA à Nike. Les risques géopolitiques directs restent indirects et à documenter.",
+ "synthese": "La période est dominée par le report du Six Kings Slam saoudien (annoncé le 14 octobre, déplacé à fin décembre). Sa cause est contestée : le motif officiel est « logistique », alors que la plupart des médias le relient aux attaques houthies à Riyad. L'effet direct sur les ventes de Tie Break est faible, mais il montre que le calendrier tennis dépend d'un contexte sécuritaire instable. Sur la chaîne logistique, les signaux sont contradictoires : un drone abattu près de Bab al-Mandab le 15 octobre, mais aussi un retour progressif des porte-conteneurs par Suez. Les signaux les plus importants pour un magasin à 70 % Nike sont commerciaux. Nike vend l'Air Force 1 à -30 % sur son site officiel, Jordan ralentit, Adidas annonce un trimestre record et les analystes divergent sur Nike. L'absence de Sinner (genou) et l'élimination d'Alcaraz à Shanghai fragilisent à court terme la visibilité de la marque. Pour Tie Break, les priorités sont d'obtenir des dates de livraison fermes, de protéger ses prix face à Nike en direct et de réduire sa dépendance à un seul fournisseur.",
  "axes": [
   {
    "axe": "E1",
    "tendance": "calme",
-   "resume": "Aucun article de la période ne traite des tensions États-Unis/UE, d'un boycott de Nike ou d'une prise de position politique de Nike. Le seul mouvement concerne l'apaisement commercial UE-Chine, dont le lien avec le textile et les chaussures Nike reste indirect.",
+   "resume": "Aucun article de la période ne traite des tensions États-Unis/UE sur Nike, d'un appel au boycott ou d'une prise de position de Nike. Seul le front commercial UE-Chine bouge, avec un accord intérimaire. Son lien avec le textile et les chaussures Nike n'est pas établi dans les sources.",
    "faits": [
     {
-     "texte": "Le 9 octobre 2026, un accord commercial intérimaire UE-Chine est annoncé. Selon l'envoyé de l'UE, il pourrait réduire les exportations chinoises de véhicules hybrides ; Courrier international parle d'un « coup d'arrêt » à l'escalade.",
+     "texte": "Le 9 octobre 2026, un accord commercial intérimaire UE-Chine est rapporté. Pékin accepterait de réduire certaines exportations vers l'UE ; l'envoyé de l'UE cite les exportations « hybrides » chinoises.",
      "ids": [
       "2029a4e3c82f",
       "e052ee2ea539"
      ]
     },
     {
-     "texte": "Le 12 octobre 2026, le SCMP décrit comment la Chine et l'UE ont mis leur guerre commerciale en pause.",
+     "texte": "Le South China Morning Post (12 octobre) décrit une pause dans la guerre commerciale Chine-UE et la manière dont elle a été obtenue.",
      "ids": [
       "e751b2ff5dcb"
      ]
@@ -22,165 +22,188 @@
    ],
    "signaux_faibles": [
     {
-     "texte": "Moody's relève ses perspectives sur le retail et l'habillement avec l'allègement des droits de douane (source C, titre seul). Un article de Fibre2Fashion (C) indique que les droits de douane modifient prix et offre en magasin. Aucun des deux n'est relié à Nike ni à l'Europe dans les titres.",
+     "texte": "Deux sources C, titres seuls, évoquent un assouplissement des droits de douane. Moody's relève ses perspectives sur le retail et l'habillement « as tariffs ease ». Fibre2Fashion indique que les droits de douane changent les prix en magasin. Le contexte semble surtout américain ; l'effet sur les prix Nike en Europe n'est pas démontré.",
      "ids": [
       "111d79f9a593",
       "5a90c79f87de"
      ]
     }
    ],
-   "risque": "Une reprise des tensions commerciales pourrait renchérir les prix d'achat Nike, mais aucun signal en ce sens n'apparaît cette période.",
-   "opportunite": "Un contexte tarifaire plus calme réduit la pression sur les prix d'achat et sur les prix de vente en magasin."
+   "risque": "Une reprise de tensions tarifaires ou d'un discours « marque américaine » pourrait toucher les prix et l'image de Nike, mais aucun signal de ce type n'apparaît cette période.",
+   "opportunite": "Une pause commerciale UE-Chine réduit l'incertitude sur les coûts d'approvisionnement ; Tie Break peut en profiter pour négocier ses conditions d'achat avec Nike."
   },
   {
    "axe": "E2",
    "tendance": "stable",
-   "resume": "Les signaux sont contradictoires sur le fret : un incident sécuritaire à Bab Al-Mandab, mais une reprise nette du trafic conteneurs en mer Rouge et à Suez. Le lien avec les retards Nike chez Tie Break reste une hypothèse : aucune source ne documente la cause de ces retards.",
+   "resume": "Les signaux sur la mer Rouge sont mixtes. Un drone menaçant un porte-conteneurs CMA CGM a été abattu par une frégate française le 15 octobre, mais plusieurs sources notent un retour progressif du trafic par Suez. Aucun article ne relie ces événements aux retards Nike de Tie Break : le lien reste une hypothèse. Côté RSE et réglementation européenne, la période est peu informative (coalition microfibres, plan de réduction de coûts de Nike).",
    "faits": [
     {
-     "texte": "Le 15 octobre 2026, une frégate française a abattu un drone qui menaçait le porte-conteneurs CMA CGM Champs-Élysées à Bab Al-Mandab. Le Monde évoque l'inquiétude des équipages.",
+     "texte": "Le 15 octobre 2026, une frégate française a abattu un drone qui survolait ou menaçait le porte-conteneurs « CMA CGM Champs-Élysées » près de Bab al-Mandab. Les équipages sont inquiets.",
      "ids": [
       "7ab0f3a1f5c2",
       "6bc4824dab61",
-      "db69fcb3c93f"
+      "db69fcb3c93f",
+      "b68449e43d78"
      ]
     },
     {
-     "texte": "Le 7 octobre 2026, Lloyd's List (B) indique que les transits de porte-conteneurs en mer Rouge atteignent un plus haut post-crise, les armateurs accélérant leur retour. Ouest-France (14/10) décrit une reprise discrète du trafic à Suez.",
+     "texte": "Le 14 octobre, Ouest-France (B) décrit une reprise discrète du trafic maritime dans le canal de Suez. Deux sources C, The Maritime Executive et WWD, parlent d'un retour des porte-conteneurs qui progresse plus vite que les alertes de risque.",
      "ids": [
-      "7da41a923e88",
-      "bfa20c6d390e"
+      "bfa20c6d390e",
+      "95af265a45c0",
+      "7e1055070a79"
      ]
     },
     {
-     "texte": "Le 9 octobre 2026, Le Marin chiffre à 191,5 Md$ les échanges commerciaux exposés aux risques dans les passages maritimes en tension.",
+     "texte": "Le 9 octobre, Le Marin (B) cite 191,5 milliards de dollars d'échanges exposés aux risques dans les passages maritimes en tension.",
      "ids": [
       "fb2e13d36939"
+     ]
+    },
+    {
+     "texte": "Le 15 octobre, Al Jazeera (B) rapporte une intensification des combats au Yémen.",
+     "ids": [
+      "a74a81406501"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "Les sources C divergent sur la lecture du retour en mer Rouge : le WWD et The Maritime Executive y voient un retour qui progresse plus vite que les alertes, tandis que The Loadstar note que les chargeurs s'inquiètent des risques à Suez et en mer Rouge.",
-     "ids": [
-      "7e1055070a79",
-      "95af265a45c0",
-      "bfaa53bd5549"
-     ]
-    },
-    {
-     "texte": "Un article de Fibre2Fashion (source C, titre seul) évoque un plan de 2,5 Md$ de Nike qui pourrait mettre sous pression certains fournisseurs asiatiques. Le contenu n'est pas détaillé et le lien avec les délais vers Tie Break est une hypothèse.",
+     "texte": "Un titre de Fibre2Fashion (C) évoque un plan de 2,5 Md$ de Nike qui mettrait la pression sur certains fournisseurs asiatiques. Il s'agit d'une source unique et d'un titre seul ; l'effet sur les délais vers Tie Break n'est pas démontré.",
      "ids": [
       "b7c5412d19c0"
      ]
     },
     {
-     "texte": "Nike rejoint avec Patagonia et Lululemon une coalition contre la pollution par les microfibres (sources C). C'est un signal RSE, sans effet commercial établi.",
+     "texte": "Nike rejoint une coalition contre la pollution par les microfibres (sources C). Le texte évoque une pression réglementaire future sur les textiles, mais aucun calendrier n'est fourni.",
      "ids": [
       "0093af597cd9",
       "0f400dfaf39f"
      ]
+    },
+    {
+     "texte": "Une nouvelle route maritime arctique Chine-Europe est évoquée comme option à long terme.",
+     "ids": [
+      "2623593a073d"
+     ]
+    },
+    {
+     "texte": "Les expéditeurs s'inquiètent des risques à Suez et en mer Rouge (The Loadstar, C).",
+     "ids": [
+      "bfaa53bd5549"
+     ]
     }
    ],
-   "risque": "Un nouvel incident en mer Rouge pourrait rallonger les délais et renchérir le fret, sans que l'on sache si cela expliquerait les collections reçues après les Grands Chelems.",
-   "opportunite": "Si le retour des armateurs se confirme, le fret Asie-Europe pourrait se normaliser et fournir à Tie Break un argument pour exiger de meilleurs délais de Nike."
+   "risque": "Un nouvel incident en mer Rouge pourrait allonger les délais et renchérir le fret, alors que Tie Break reçoit déjà ses collections Nike en retard.",
+   "opportunite": "Si le retour par Suez se confirme, les délais Asie-Europe pourraient se normaliser, ce qui renforce l'argument de Tie Break pour obtenir des livraisons avant les Grands Chelems."
   },
   {
    "axe": "E3",
    "tendance": "hausse",
-   "resume": "Le report du Six Kings Slam est le fait majeur de la période et il est bien couvert par des sources B. La cause officielle et la lecture des médias divergent : « raisons logistiques » selon le NYT, attaques houthies et frappes à Riyad selon les autres titres. Cela montre la fragilité d'un calendrier tennis adossé à l'Arabie saoudite, sans effet direct établi sur les ventes de Tie Break.",
+   "resume": "Le report du Six Kings Slam concentre l'attention : l'événement saoudien est repoussé à fin décembre. Fait : le motif officiel est « logistique » selon le New York Times. Interprétation des médias : la majorité le relie aux attaques houthies à Riyad. Les autres sujets de gouvernance (finances de la WTA, réformes ATP 2028, sanctions de l'ITIA) sont plus diffus et de fiabilité C pour la plupart.",
    "faits": [
     {
-     "texte": "Le 14 octobre 2026, le Six Kings Slam, prévu la semaine suivante à Riyad avec Alcaraz et Djokovic, est reporté à fin décembre.",
+     "texte": "Le 14 octobre 2026, le Six Kings Slam (exhibition à Riyad avec Alcaraz et Djokovic) est reporté ; L'Équipe indique un report à fin décembre alors qu'il était prévu la semaine suivante.",
      "ids": [
       "714a0f2991cb",
       "0b447c44d571",
-      "dc822eaa6dbd"
+      "dc822eaa6dbd",
+      "d244eef75143"
      ]
     },
     {
-     "texte": "Le NYT titre sur un report pour « raisons logistiques » dans un contexte de frappes aériennes sur Riyad. BBC, Le Figaro, Eurosport, RMC Sport et Ouest-France relient le report aux attaques houthies. Aucun des titres ne tranche entre motif officiel et cause réelle.",
+     "texte": "Version officielle : le New York Times rapporte des « raisons logistiques », malgré des frappes à Riyad.",
      "ids": [
-      "54ecbe1c6223",
+      "54ecbe1c6223"
+     ]
+    },
+    {
+     "texte": "Interprétation des médias : BBC, Le Figaro, Ouest-France, Eurosport, Le Soir, RMC Sport, France 24 et Al Jazeera relient le report aux attaques houthies. Les deux lectures ne sont pas tranchées ici.",
+     "ids": [
       "dc822eaa6dbd",
       "458716c091f0",
+      "9cad56753c5d",
       "35b68d660de4",
-      "d244eef75143",
-      "9cad56753c5d"
+      "8066f8effaf9",
+      "c7455b64ebd3",
+      "0b447c44d571"
      ]
     },
     {
-     "texte": "Le 15 octobre 2026, Alcaraz s'inscrit à l'ATP 500 de Vienne pour compenser le report.",
+     "texte": "Alcaraz jouera l'ATP 500 de Vienne fin octobre pour compenser le report.",
      "ids": [
       "0063ea54ca58",
       "b4ce3dbb13a7"
      ]
     },
     {
-     "texte": "Le 15 octobre 2026, l'ITIA suspend 24 ans un joueur serbe pour matchs truqués, dans une affaire de réseau de corruption.",
+     "texte": "Le 15 octobre, l'ITIA a suspendu 24 ans un joueur serbe pour matchs truqués (L'Équipe, B).",
      "ids": [
       "46fe97ad9634"
-     ]
-    },
-    {
-     "texte": "Le 17 octobre 2026, The Guardian titre que le conflit houthi jette une ombre sur l'Arabie saoudite, qui réduit ses ambitions sportives. Seul le titre est disponible, sans détail.",
-     "ids": [
-      "8c9f17200fe5"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "Selon Tennis Majors (source C), le nouveau créneau de décembre entre en conflit avec la saison 2027. À vérifier : seul le titre est connu.",
+     "texte": "The Guardian (B, titre seul) évoque un recul saoudien sur ses ambitions sportives. Cette lecture médiatique reste à confirmer.",
      "ids": [
-      "d53699c9009f"
+      "8c9f17200fe5"
      ]
     },
     {
-     "texte": "TennisTemple (C) fait état de trois morts dans des attaques à l'aéroport de Riyad le 9 octobre, soit moins de deux semaines avant l'événement. Source unique C.",
+     "texte": "Sources C, une seule source par point : le Masters féminin (WTA Finals) aurait quitté l'Arabie saoudite ; la présidente de la WTA parle d'une « année de transition » et de turbulences financières ; des réformes ATP (classement, calendrier, primes) sont annoncées pour 2028.",
      "ids": [
-      "40fe6fb51171"
-     ]
-    },
-    {
-     "texte": "Sources C : la présidente de la WTA parle d'« année de transition » face à des turbulences financières, et des réformes ATP (classement, calendrier, primes) sont annoncées pour 2028. Aucun lien avec Nike n'est établi.",
-     "ids": [
+      "f87b2b884965",
       "08cc438ca734",
       "0370d190ca21",
       "61d64f463c21"
      ]
     },
     {
-     "texte": "Deux articles C rapportent la suspension pour dopage de Marketa Vondrousova. Sans lien avec Nike dans les titres.",
+     "texte": "Tennis Majors (C) signale un conflit du nouveau calendrier avec la saison 2027, sans détail.",
      "ids": [
-      "5c588326d138",
-      "14ff07c8fe7b"
+      "d53699c9009f"
+     ]
+    },
+    {
+     "texte": "Le bilan de trois morts à l'aéroport de Riyad repose sur une seule source C. La BBC (B) parle seulement d'attaques meurtrières.",
+     "ids": [
+      "40fe6fb51171",
+      "dc822eaa6dbd"
      ]
     }
    ],
-   "risque": "Un calendrier saoudien instable peut décaler la visibilité des joueurs Nike hors des périodes de vente, mais l'effet sur Tie Break reste indirect et non démontré.",
-   "opportunite": "Le report déplace Alcaraz vers un tournoi européen (Vienne), ce qui est plus facile à valoriser en magasin et sur les réseaux sociaux."
+   "risque": "L'instabilité des événements financés par l'Arabie saoudite rend le calendrier des têtes d'affiche Nike imprévisible, mais l'effet direct sur les ventes en magasin est faible.",
+   "opportunite": "Le calendrier décalé (Vienne fin octobre, exhibition fin décembre) offre des moments d'actualité tennis à utiliser pour animer le magasin et le futur site."
   },
   {
    "axe": "T4",
    "tendance": "hausse",
-   "resume": "La période est marquée par des absences et des contre-performances d'athlètes Nike : blessure de Sinner, élimination précoce d'Alcaraz à Shanghai. Les victoires d'Alcaraz à Tokyo et à Shanghai restent citées par des sources C.",
+   "resume": "La période est marquée par une baisse de visibilité de deux têtes d'affiche Nike : Sinner est blessé au genou et Alcaraz est éliminé dès le 3e tour à Shanghai. Zverev terminera n°1 mondial, selon RFI. Plusieurs sources C comme B alimentent aussi la polémique autour de Sinner, avec des degrés de fiabilité très variables.",
    "faits": [
     {
-     "texte": "Le 12 octobre 2026, Alcaraz est éliminé dès le 3e tour du Masters 1000 de Shanghai, et Zverev finira la saison N°1 mondial selon RFI.",
+     "texte": "Sinner est absent pour une blessure au genou (8 au 17 octobre). Djokovic l'appelle à penser « au long terme ».",
+     "ids": [
+      "be39373bc871",
+      "9a7b1f992bd1",
+      "aa597988c34d"
+     ]
+    },
+    {
+     "texte": "Le 12 octobre, Alcaraz est éliminé au 3e tour du Masters 1000 de Shanghai ; Zverev finira la saison n°1 mondial.",
      "ids": [
       "e97eae5b6eec",
       "2cd386093708"
      ]
     },
     {
-     "texte": "Le 8 octobre 2026, Djokovic commente la blessure de Sinner (« Jannik doit penser au long terme »).",
+     "texte": "Le 20 octobre, Eurosport (B) évoque des tensions et un malaise entre Sinner et son entraîneur Cahill.",
      "ids": [
-      "be39373bc871"
+      "fac8e8daf9f6"
      ]
     },
     {
-     "texte": "Le 8 octobre 2026, le Times of India (B) chiffre à environ 38 M$ les revenus extra-sportifs d'Alcaraz sur un an.",
+     "texte": "Alcaraz aurait gagné 38 millions de dollars hors des courts en un an, selon The Times of India (B).",
      "ids": [
       "278e801d8a6a"
      ]
@@ -188,188 +211,190 @@
    ],
    "signaux_faibles": [
     {
-     "texte": "Sources C : Sinner serait absent à cause d'un genou et chercherait un praticien réputé, la date de son retour est incertaine, et sa participation au Six Kings Slam est en doute.",
-     "ids": [
-      "aa597988c34d",
-      "9a7b1f992bd1",
-      "39d0e8309dcf"
-     ]
-    },
-    {
-     "texte": "Une source C évoque une blessure d'Alcaraz en plus de celle de Sinner (citation de Pegula), alors que d'autres sources le disent inscrit à Vienne. Contradiction à vérifier.",
-     "ids": [
-      "8fbceb3564d9",
-      "b4ce3dbb13a7"
-     ]
-    },
-    {
-     "texte": "Une rumeur de test antidopage raté visant Sinner circule (source C, titre seul) ; elle est évoquée par Rick Macci, qui la dément. Non vérifiée, à ne pas reprendre comme un fait.",
+     "texte": "Une rumeur de contrôle antidopage raté concernant Sinner circule ; Rick Macci la dément (We Love Tennis, C). À ne pas relayer sans source primaire.",
      "ids": [
       "dc8b039f29de"
      ]
     },
     {
-     "texte": "Victoire d'Alcaraz à Tokyo et série de victoires à Shanghai avant son élimination (sources C).",
+     "texte": "Le retour de Sinner au Six Kings Slam reste incertain (source C).",
      "ids": [
-      "8bc7c6bbde8e",
+      "39d0e8309dcf"
+     ]
+    },
+    {
+     "texte": "Une citation de Jessica Pegula (C) laisse entendre que les deux joueurs ont été blessés. Pour Alcaraz, ce point n'est pas confirmé par d'autres sources.",
+     "ids": [
+      "8fbceb3564d9"
+     ]
+    },
+    {
+     "texte": "Alcaraz avait enchaîné une série de victoires avant Shanghai (source C).",
+     "ids": [
       "958a75ac2e38"
      ]
     }
    ],
-   "risque": "L'absence prolongée de Sinner et le déclin de visibilité d'Alcaraz peuvent réduire la demande pour les articles Nike associés à ces joueurs sur la fin de saison.",
-   "opportunite": "Le retour d'Alcaraz à Vienne fin octobre et la fin de saison offrent des occasions de contenu et d'animation en magasin autour des tenues Nike."
+   "risque": "Une absence prolongée de Sinner combinée aux résultats irréguliers d'Alcaraz réduit la visibilité de Nike dans le tennis et peut ralentir la demande sur les articles associés.",
+   "opportunite": "Le retour de Sinner et le déplacement d'Alcaraz à Vienne fin octobre créent des occasions de relancer l'intérêt pour les produits Nike avec des contenus d'actualité."
   },
   {
    "axe": "T5",
    "tendance": "hausse",
-   "resume": "Nike est sous pression sur les prix et sur sa trajectoire financière, avec des lectures contradictoires des analystes. Le fait le plus exploitable pour Tie Break est la baisse de 30 % de l'Air Force 1 sur le site officiel de Nike, qui pèse sur la marge des revendeurs. Les résultats trimestriels et la stratégie wholesale ne sont pas documentés dans les articles de la période.",
+   "resume": "Les signaux sur Nike sont nombreux et partagés. Nike casse ses prix sur son site officiel, Jordan ralentit, Adidas annonce un trimestre record et Morningstar abaisse fortement sa valorisation. D'autres analystes (HSBC, Argus, MarketWatch) sont plus positifs, d'où une divergence entre sources. Pour Tie Break, le risque principal est la concurrence de Nike en direct sur les prix.",
    "faits": [
     {
-     "texte": "Le 11 octobre 2026, Le Figaro (B) rapporte que l'Air Force 1 passe à -30 % sur le site officiel de Nike.",
+     "texte": "Le 11 octobre 2026, Le Figaro (B) rapporte que l'Air Force 1 est à -30 % sur le site officiel de Nike (produit lifestyle, pas tennis).",
      "ids": [
       "7e025fd675c2"
      ]
     },
     {
-     "texte": "Le 9 octobre 2026, Bloomberg (B) décrit la marque Jordan comme en baisse, ce qui ajoute aux difficultés de Nike.",
+     "texte": "Le 9 octobre, Bloomberg (B) indique que la marque Jordan est en perte de vitesse, ce qui s'ajoute aux difficultés de Nike.",
      "ids": [
       "28713dc8828a"
      ]
     },
     {
-     "texte": "Le 12 octobre 2026, 20 Minutes (B) annonce un engouement pour un modèle de chaussures d'entraînement Nike. La demande réelle reste à confirmer.",
+     "texte": "Les 20 et 21 octobre, plusieurs sources C annoncent un 3e trimestre record pour Adidas, qui relève ses prévisions annuelles et « creuse l'écart » avec Nike.",
      "ids": [
-      "1b6fb9d20670"
+      "743411ad68e1",
+      "5dcabf7a4802",
+      "6a8515eca3d3"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "Les analystes divergent (sources C, titres seuls) : Morningstar réduit sa juste valeur de 44 % pour cause de concurrence accrue, Berenberg maintient une opinion vendeuse, HSBC relève à acheter, Argus reste positif.",
+     "texte": "Divergence des analystes (sources C) : Morningstar réduit la juste valeur de Nike de 44 %, Berenberg reste vendeur, HSBC passe à l'achat, Argus reste positif, et un commentateur de MarketWatch parle d'un « turnaround trade ».",
      "ids": [
       "321907f78096",
       "f1b68fa82232",
       "e33aee4757e8",
-      "51880cdaad4a"
-     ]
-    },
-    {
-     "texte": "Retail Dive (C) estime que Nike sous Elliott Hill continue de croître ; MarketWatch (C) relaie une opinion de turnaround trade sans chiffres.",
-     "ids": [
-      "659face755bf",
+      "51880cdaad4a",
       "25ead8ac1aed"
      ]
     },
     {
-     "texte": "WWD (C) note que les attentes des adolescents en chaussures évoluent.",
+     "texte": "Retail Dive (C) évoque le redressement de Nike sous Elliott Hill, mais le lien avec la stratégie wholesale destinée aux revendeurs n'est pas démontré.",
      "ids": [
+      "659face755bf"
+     ]
+    },
+    {
+     "texte": "Un modèle de chaussures d'entraînement Nike est annoncé comme très demandé (20 Minutes, B), sans volumes ; l'évolution des attentes des adolescents en chaussures est à suivre (WWD, C).",
+     "ids": [
+      "1b6fb9d20670",
       "efe9207fd4e6"
      ]
     }
    ],
-   "risque": "La concurrence directe de Nike sur les prix et la fragilité de la marque Jordan menacent la marge et la rotation d'une enseigne dont 70 % du CA dépend de Nike.",
-   "opportunite": "Une relance de Nike sous Elliott Hill pourrait soutenir la demande et donner à Tie Break un argument pour négocier collections et délais en tant que revendeur officiel tennis."
+   "risque": "Si Nike mène une politique de prix agressive en direct tout en étant fragilisé financièrement, les marges de Tie Break et la priorité de livraison aux revendeurs pourraient être touchées.",
+   "opportunite": "Les difficultés de Nike peuvent renforcer le poids de Tie Break dans la négociation, car il fait partie des 3 revendeurs officiels en France ; c'est une hypothèse à tester auprès de Nike."
   }
  ],
  "priorites": [
   {
-   "sujet": "Pression prix de Nike (Air Force 1 à -30 % sur le site officiel) sur la marge des revendeurs",
-   "axe": "T5",
-   "probabilite": 2,
-   "impact": 3,
-   "justification": "Une remise de 30 % chez Nike peut aligner le marché sur ses prix et réduire la marge de Tie Break, mais l'article ne porte pas sur le tennis."
-  },
-  {
-   "sujet": "Fragilité financière de Nike et dépendance de 70 % du CA à une seule marque",
-   "axe": "T5",
-   "probabilite": 2,
-   "impact": 3,
-   "justification": "Jordan en baisse, Morningstar -44 % sur la juste valeur et avis divergents d'analystes montrent une trajectoire incertaine pour le fournisseur principal."
-  },
-  {
-   "sujet": "Retards de livraison et fret Asie-Europe (mer Rouge, Suez)",
+   "sujet": "Retards de livraison Nike et fiabilité de la route Asie-Europe",
    "axe": "E2",
    "probabilite": 2,
-   "impact": 2,
-   "justification": "Le risque sécuritaire existe, mais le trafic reprend et la cause des retards Nike n'est pas documentée."
+   "impact": 3,
+   "justification": "Les signaux sont contradictoires (drone abattu le 15 octobre, retour du trafic par Suez), et un retard déjà vécu touche directement 70 % du chiffre d'affaires."
   },
   {
-   "sujet": "Blessure de Sinner et baisse de forme d'Alcaraz (visibilité Nike en fin de saison)",
+   "sujet": "Concurrence de Nike en direct et pression sur les prix (Air Force 1 à -30 %)",
+   "axe": "T5",
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Source B, mais produit lifestyle ; une extension aux gammes tennis écraserait les marges d'un revendeur."
+  },
+  {
+   "sujet": "Santé financière de Nike face à Adidas (Jordan, Morningstar, trimestre record d'Adidas)",
+   "axe": "T5",
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Tie Break réalise 70 % de son chiffre d'affaires avec Nike ; les analystes divergent, donc la tendance reste à confirmer."
+  },
+  {
+   "sujet": "Absence de Sinner et irrégularité d'Alcaraz",
    "axe": "T4",
    "probabilite": 3,
    "impact": 2,
-   "justification": "Deux ambassadeurs majeurs sont moins présents, ce qui réduit l'effet d'entraînement sur la demande textile et chaussures."
+   "justification": "La blessure de Sinner est avérée par plusieurs sources, mais le lien direct avec les ventes locales est indirect."
   },
   {
-   "sujet": "Instabilité du calendrier saoudien (Six Kings Slam reporté en décembre)",
+   "sujet": "Instabilité du calendrier saoudien (Six Kings Slam reporté à fin décembre)",
    "axe": "E3",
-   "probabilite": 3,
+   "probabilite": 2,
    "impact": 1,
-   "justification": "Événement d'exhibition dont les reports sont fréquents, sans effet direct établi sur les ventes de Tie Break."
+   "justification": "Le report est certain mais ses causes sont discutées ; l'effet sur les ventes en magasin est limité."
   },
   {
-   "sujet": "Rumeur de dopage visant Sinner (non vérifiée)",
-   "axe": "T4",
-   "probabilite": 1,
-   "impact": 2,
-   "justification": "Source C unique et démentie par Macci, mais une affaire avérée toucherait l'image du premier ambassadeur Nike."
+   "sujet": "Gouvernance du circuit (finances WTA, réformes ATP 2028, sanctions ITIA)",
+   "axe": "E3",
+   "probabilite": 2,
+   "impact": 1,
+   "justification": "Plusieurs signaux de fiabilité C, un horizon 2028 et aucun effet immédiat sur le magasin."
   },
   {
-   "sujet": "Retour de tensions commerciales et de droits de douane sur les produits asiatiques",
+   "sujet": "Droits de douane et accord UE-Chine",
    "axe": "E1",
    "probabilite": 1,
    "impact": 2,
-   "justification": "La période est plutôt à l'apaisement UE-Chine et à l'allègement tarifaire (sources B et C), mais l'effet sur Nike n'est pas démontré."
+   "justification": "L'accord rapporté vise d'autres produits que le textile ; l'effet sur Nike n'est pas établi."
+  },
+  {
+   "sujet": "Pression RSE sur les fournisseurs asiatiques et microfibres",
+   "axe": "E2",
+   "probabilite": 1,
+   "impact": 1,
+   "justification": "Sources C uniquement, sans calendrier réglementaire précis dans les articles."
   }
  ],
  "recommandations": [
   {
-   "action": "Demander par écrit à Nike France un calendrier de livraison des collections avec les dates de réception prévues par rapport aux Grands Chelems, et consigner chaque retard (date commandée, date reçue) pour documenter la cause.",
+   "action": "Demander par écrit à Nike (agent ou commercial) un calendrier de livraison par collection avec dates fermes, puis comparer aux dates des prochains Grands Chelems pour ajuster les commandes.",
    "axe": "E2",
    "horizon": "immediat",
    "destinataire": "gerant"
   },
   {
-   "action": "Surveiller chaque semaine les prix pratiqués par Nike (site officiel), Decathlon, Intersport et Tennis-Point sur 10 références phares. Préparer un argumentaire fondé sur le service (essayage, conseil joueur, cordage) plutôt que sur l'alignement prix.",
+   "action": "Relever chaque semaine les prix et promotions des produits Nike tennis sur le site officiel Nike et chez Tennis-Point, Tennis Warehouse, Decathlon et Intersport. Préparer une réponse (conseil, essayage, cordage, offres groupées) plutôt que de s'aligner sur les prix.",
    "axe": "T5",
-   "horizon": "immediat",
+   "horizon": "3 mois",
    "destinataire": "vendeur"
   },
   {
-   "action": "Chiffrer la part de CA Nike par famille (textile, chaussures) et étudier une montée progressive d'une seconde marque textile ou chaussures pour réduire la dépendance de 70 % sur 12 mois.",
+   "action": "Étudier en petit volume une gamme textile/chaussures complémentaire d'une autre marque pour réduire la dépendance à Nike, sans engagement important avant d'avoir les chiffres de vente.",
    "axe": "T5",
    "horizon": "12 mois",
    "destinataire": "gerant"
   },
   {
-   "action": "Lancer un petit calendrier éditorial pour le futur site et les réseaux, calé sur les rendez-vous où les joueurs Nike jouent (Vienne fin octobre, fin de saison), sans dépendre d'un seul joueur ni d'un tournoi saoudien.",
+   "action": "Sur le site e-commerce en construction, afficher des délais réalistes et proposer la précommande pour les collections tardives. Pour les contenus, privilégier plusieurs joueurs (Vienne fin octobre, exhibition de décembre) plutôt qu'un seul athlète, en restant neutre sur les polémiques.",
    "axe": "T4",
    "horizon": "3 mois",
    "destinataire": "e-commerce"
-  },
-  {
-   "action": "Mettre en place une veille mensuelle simple (fret mer Rouge, résultats Nike, prix) et un seuil d'alerte (nouvel incident maritime, avertissement sur résultats) pour déclencher une revue du stock avant la saison.",
-   "axe": "E2",
-   "horizon": "3 mois",
-   "destinataire": "gerant"
   }
  ],
  "a_verifier": [
-  "Cause officielle du report du Six Kings Slam : « raisons logistiques » (NYT) ou attaques houthies et frappes à Riyad (autres médias B), et date exacte de la nouvelle édition en décembre.",
-  "Statut réel de la blessure d'Alcaraz (citation de Pegula, source C) face à son inscription à Vienne.",
-  "Nature et durée de la blessure de Sinner : seules des sources C et des citations de joueurs sont disponibles.",
-  "Origine et véracité de la rumeur de test antidopage visant Sinner (source C, démentie), à ne pas citer sans confirmation par l'ITIA ou l'AMA.",
-  "Contenu réel de l'article Fibre2Fashion sur le plan de 2,5 Md$ de Nike et des fournisseurs asiatiques concernés.",
-  "Lien entre les retards de livraison Nike chez Tie Break et la mer Rouge ou Suez : demander à Nike France les causes précises des retards.",
-  "Périmètre de la remise de 30 % sur l'Air Force 1 : modèle lifestyle uniquement ou aussi tennis, et réaction des revendeurs.",
-  "Chiffres de Nike (cours, capitalisation, résultats trimestriels, stratégie wholesale) absents des articles : à recouper avec les résultats publiés.",
-  "Contenu de l'article du Guardian sur le recul des ambitions sportives saoudiennes (titre seul disponible).",
-  "Existence d'un impact des réformes ATP 2028 et de la situation financière de la WTA sur la présence des joueurs Nike (sources C, titres seuls)."
+  "Cause réelle du report du Six Kings Slam : motif officiel « logistique » (NYT) contre lecture médiatique des attaques houthies ; relire le communiqué des organisateurs.",
+  "Nombre de morts à l'aéroport de Riyad (3, source C TennisTemple) : à recouper avec une source B.",
+  "Date exacte du nouveau Six Kings Slam (« fin décembre » dans L'Équipe) et conflit éventuel avec la saison 2027 (Tennis Majors, C).",
+  "Nature et durée de la blessure de Sinner, et statut physique d'Alcaraz (citation de Pegula).",
+  "Contrat équipementier de Zverev et des autres joueurs cités : à vérifier avant de rattacher leur classement à Nike.",
+  "Lien entre le plan de 2,5 Md$ de Nike (Fibre2Fashion, C) et les fournisseurs asiatiques, et effet éventuel sur les délais de Tie Break.",
+  "L'accord UE-Chine concerne-t-il le textile ou les chaussures ? Les sources B mentionnent surtout les exportations « hybrides ».",
+  "Les -30 % sur l'Air Force 1 s'appliquent-ils aux gammes tennis ? Source unique B, produit lifestyle.",
+  "Baisse de 44 % de la juste valeur de Nike (Morningstar, C) : à confirmer dans l'étude d'origine.",
+  "Durabilité du retour du trafic à Suez : plusieurs sources C, une seule source B ; incident du drone du 15 octobre à croiser avec l'évolution du fret.",
+  "Rumeur de contrôle antidopage concernant Sinner : source C, démentie ; ne pas citer sans source primaire.",
+  "Départ du Masters féminin d'Arabie saoudite (source C) : à confirmer avec une source B."
  ],
- "generated": "2026-10-21T07:45:18Z",
+ "generated": "2026-10-22T04:52:08Z",
  "model": "claude-sonnet-5-5",
  "window_days": 14,
- "n_articles": 89,
+ "n_articles": 91,
  "sources": {
   "7ab0f3a1f5c2": {
    "title": "Un drone de surveillance qui a survolé le « CMA CGM Champs-Élysées » abattu par une frégate française, en mer Rouge",
@@ -469,13 +494,6 @@
    "date": "2026-10-09",
    "reliability": "B"
   },
-  "7da41a923e88": {
-   "title": "Red Sea container transits hit post-crisis high as carriers accelerate return",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFk3VjVOWVBFQ2huWWVNS05QcGRyX2xOYTBPUGVUVUI5SnRjWnIzMTNUOWV4MlN6cW5nRmJiTVRJOUdvbVpzS0UySDRMT2JkcWtwampqM3lOMXJBbUtiZlZhR01ZS0sxVUVOOThnMkRCZk5Yc2RCQVoyU19KZ2J2M29rdDhLWVFZQS0xRi1RQXdGeTMyc0tCY2d5cnZvS0xGbTVnRUJHeVZTcENmTkJlSEZHMGQ?oc=5",
-   "source": "Lloyd's List",
-   "date": "2026-10-07",
-   "reliability": "B"
-  },
   "8fbceb3564d9": {
    "title": "ATP > Jessica Pegula : \"Avant les blessures de Carlos Alcaraz et Jannik Sinner, on ne pensait probablement pas qu'Alexander Zverev décrocherait la première place mondiale en fin d'année. C'est fou\"",
    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPTXcxdlpjbG9DZUlmTWJ0YVNzcXA5cmxFbkFLeGNCWFVFdHpFeE55NC15MnlqdGxKSm83a0xFUUFqRGxuRmVNSlpRai1ZSDlwRWxlREZHWEdiWHl5WlhQS2pNV0xLdEJrWEVpYUZUM3MzUkR2eGtsM0UzWHhjclMyNm0tbU5GX1ZOXzR6Rml3Xy1ZNkR2WThuVkxOclVqQm1ic2RCU183X3lHeDFPV0NLMlltLS16bVlRb3lCVU9MU01EWl8yelR5UTBxYUwzRzZ6N2FWa3NURTNJTThkdUhiTlhGcDNUZjZwLTBzYTdWemJpcm9aQ2VMM2pPLWdLOGV2Y082LW1CU2xNRlcyWHdNdGttOVdWV3BuenMwYjEwTHNoYUtEVF9YOUpNbkxEZXd4cWowVXBNNk8xUQ?oc=5",
@@ -566,6 +584,13 @@
    "source": "TennisTemple",
    "date": "2026-10-09",
    "reliability": "C"
+  },
+  "fac8e8daf9f6": {
+   "title": "Coup de téléphone, tensions et malaise : Sinner-Cahill, la fin de la belle histoire ?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0oyaGhVZFR6eTNrY3lib2RrVzFqalJEVnlCS0ZLYkVoaWdiM0Uxd0RnVV9SZHdrb2l3aERpbENzMWo4UzRuOEQ5RmNpdnpHWkpsZHp3Skt0SFVqd1RETTgyM2NDMDRyZHZQdWM1eGREYkhhUmExcXpEM2VsQkgtSGR5d0djZ01ObDVXWTVleWpyellTSWh2cnk1NDJiWmtkQkhmdmMteGhrVncyVThfTTBPTkNmRUh5dGpQRGZBMUNiOE1jQTZHVm8tUXhuUEFu?oc=5",
+   "source": "Eurosport",
+   "date": "2026-10-20",
+   "reliability": "B"
   },
   "8c9f17200fe5": {
    "title": "Houthi conflict casts shadow as Saudi Arabia scales back sporting pipe dreams",
@@ -727,6 +752,34 @@
    "source": "L'Express",
    "date": "2026-10-08",
    "reliability": "B"
+  },
+  "743411ad68e1": {
+   "title": "Adida record Q3 is salt in the wound for Nike",
+   "url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
+   "source": "retaildive.com",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "5dcabf7a4802": {
+   "title": "Adidas accélère et creuse l'écart avec Nike",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlJRUkM1WGhOOE5wSEtUNExDUVpwUWowSEJjVW1vTzVNeDBDOXZjVmZfWER4U3lRZEpuOWZwMnVEVm5DSGZxTktTV1FUOHZSU0FfNUR1TEsxMFhXSHUteVlYT1RMb3FMaEJVTkJLeFFSeVhHMmFyUEE0Z0NtdjR6ZnpveHU0VkNvSVI4RGNSZ2Y0clNKa0pEX28ydjRiQ1d0Q01sUWV5OWlfcHNCenZENnZRc2RhSDFWbzBnRGpB0gHDAUFVX3lxTE5kVHp3QXJqdE9MQVI1ajJZUllmT2l5Q0lNYlNETUhsa3pPVnFDMjNZMzR2TDRXNUxUb2RwMzlPTFZqR2RKNk1wNGZWa242b3htSTgtdnU3RkxHV2F4RVk1VzVuVVNlZ0hvckVNQTJydTVJWlB6QU5NcUZMcDZpd2VWZ3hXa2lxaEJWQWI5ejNPZy1URF92b1RvT0QxcHZ1NGRvY3ZnOEhSLXAzVmlReUJXYzdtdHRJQlA2dTVQdFdmbDhkUQ?oc=5",
+   "source": "Boursorama",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "f87b2b884965": {
+   "title": "WTA Finals: Pourquoi le Masters féminin a-t-il quitté l'Arabie saoudite ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdld1NmlGb2NHcklCSVZUM3VrbkpNNmZ4Zy04OXBCNWpFWUNoaEtLVHQ0U2d3anBuSGJfN0NXNGxlbWFsZDFZb0N3NTdfcm9VZWRQbHhhaEFjZWtpRXJTd0NJUFo5N0dpTVFvRVptMEJ2QWg4LWg5aU14WHFwZmFSbjAxWXJoNy1IX1pMV3EtZmtaLWFzR0M4Y2FNNEFUTGJ4eGVQSDF5ZzRqU3ZWWG5rYzVpb2vSAbQBQVVfeXFMTXJXUjJubm9WVWo5VVhhbXh2T1Z3a2ZHSjZ1MU5yY1YtNnY4Uy1JeEs4R3ctLWNKUnRfMTBONmRBaWp3QjhWbVZwcWNVRUtHWnYwNTlxZWtwT0U3YWpjM1hORmVKSUwxM0JHelZVUVRnVDE3eTVIMU0temw0TnFvdmNtb25femdmU0RQZ01JVGZid09ReGxBT3RNNjNpZy0wWFVuYlFHTHp2c09iZ3pmZVlyUGVq?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "6a8515eca3d3": {
+   "title": "Adidas relève ses prévisions annuelles après un troisième trimestre record",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYU40dmRRaE5nUTlqTXNjTnpVS05GMm1VUDFuSXVXOHFFbnpWOG5fbUhVTDVqNDRQajdlRlBtNFAwaFNRb0VMLWRNbE9mQ1oyYnNJQUUxeXFDUzNSLTFzRWd0Y25UUExRUjBJMXZTWTB0SjhvVXV0aXVMTEJfTEN2a09kV2hhWnV1LVVTVmo5UnlBRmFRUmt2QnpqNFFxWkU2TkJJV0hlbU9nekhRTi1DZFZDS01zZU5vX0lNVWFDamhRUE11T0t1ZFNoRVd0MFFoeFZndlhxMXo3LUg4Qm40UlM3UVpzakMyLUtNWdIB7AFBVV95cUxNYU40dmRRaE5nUTlqTXNjTnpVS05GMm1VUDFuSXVXOHFFbnpWOG5fbUhVTDVqNDRQajdlRlBtNFAwaFNRb0VMLWRNbE9mQ1oyYnNJQUUxeXFDUzNSLTFzRWd0Y25UUExRUjBJMXZTWTB0SjhvVXV0aXVMTEJfTEN2a09kV2hhWnV1LVVTVmo5UnlBRmFRUmt2QnpqNFFxWkU2TkJJV0hlbU9nekhRTi1DZFZDS01zZU5vX0lNVWFDamhRUE11T0t1ZFNoRVd0MFFoeFZndlhxMXo3LUg4Qm40UlM3UVpzakMyLUtNWQ?oc=5",
+   "source": "Boursorama",
+   "date": "2026-10-20",
+   "reliability": "C"
   },
   "39d0e8309dcf": {
    "title": "Sinner de retour au Six Kings Slam ? Le doute persiste",
@@ -978,20 +1031,6 @@
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaG04TkNKRXRIb3RiMGFjeUlKYjJqUFVrd1NIVk5SWi00V3BrX2hycGREQ3pxSEp5UmFMeldGSGh2Q0stUTluYjRDQWNndmRKMC1leEM3aDgyMjV5cEpEMEtZZnJpakh0bFh3NUdfV2hwQWEyVnhwSXp3ZVg1MWw5U2dLSm14THo1dEcxWG5qcFZROFdwcW8teEZKOEJ3YzMwWFFJZkoycmZMVWNJTW1raW9naGRwa1d4cWtQREluM3hhWDVITHJEbmQ2dmo0TUJrM3JXNA?oc=5",
    "source": "Fibre2Fashion",
    "date": "2026-10-08",
-   "reliability": "C"
-  },
-  "b1df3ea5a150": {
-   "title": "Alcaraz lance un message émouvant à Sinner après sa blessure",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQi0tUndfVElIenNIVlhNX2FBNEdhOTg2VTNPcEFOWkdOY2ZyRHFfRGh2Z1hoNGJaSkFZS1dZdnFoejNjMnE3MGZMQUFkc0I2emNhOWEwTjVIMEw1bWY2RmlXaHVMRzJyb3M3RFFOblBUbDQ5VVowVlEteERIb3c1S0ladXdBWUJ2M19mWFRUbDY0NTBGVjJ6VVVoZWx0cjQ?oc=5",
-   "source": "Puntodebreak",
-   "date": "2026-10-07",
-   "reliability": "C"
-  },
-  "8bc7c6bbde8e": {
-   "title": "ATP - Tokyo > Carlos Alcaraz : \"Cela faisait très longtemps que je n'y étais pas parvenu\"",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMnhsaGxEaGlya0hod3N4Q2Y3SjB5NzQ5TUxkZzRSNGZ4WUtFZXU2UHFnTFlidThvWFd5TVdVdHVxQ1RDVmMzbnVjQnJSY29ZYW5WQlhfU1ZOeUY0Nl83QlJPUnR0OS1GZUlmbE1ramhqSGNMaldLX09MNzl6WWdpVnVUc21rYVBHT3RwdVFKVU8zNy1jVWRsZHpOVFRxdlpYeUI2SURZQ0tYOFhGQ0FsU3pB?oc=5",
-   "source": "We Love Tennis",
-   "date": "2026-10-07",
    "reliability": "C"
   }
  }
