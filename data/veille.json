@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T11:53:25Z",
+ "updated": "2026-10-22T17:10:59Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,10 +9,33 @@
  },
  "stats": {
   "added_last_run": 6,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 452
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 372
  },
  "items": [
+  {
+   "id": "cf8d00c7715f",
+   "title": "Nike Air Max 90 SP Black : sortie ce 22 octobre, elle démolit déjà les ventes",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUGtmampxT1YzVUI5VEoyeVFWQ3BCLXJOWnp6SzRFd0ZtZFRoeTFPbnUzV1ctNXV6S0RBUEdBM2RCVVFjN1FFeFBISEM5MnlDaVV2MTNocmhmSERNcHA0dHBGeTBBS2pZSGZkbXZqM29ycWM3QlJldUFpdTdvZ0wtQzF6UGItV0IwWmkxVURFUWx4aUU2VllQOHpJLTNmTlpDb2s2bDRGY1ZJNTNtblU2dWpVZElKMFl1b2xtZE5SWlNTNE0ydmlzRE53aVdwSURvVTBoOWlrZHZsQjdXS3BUeENLdGMtbi14?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-22T13:06:03Z",
+   "first_seen": "2026-10-22T17:10:59Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Lancement lifestyle hors tennis ; le titre affirme un effondrement des ventes non vérifiable à ce stade. Impact limité pour les rayons tennis de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "c456e306461e",
    "title": "Dopage: Une règle importante va changer pour les joueurs en 2027",
@@ -1322,6 +1345,30 @@
     "r": 3,
     "impact": "Drone menaçant un porte-conteneurs CMA CGM abattu en mer Rouge : risque accru de retards et de hausse du fret sur les collections Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "05f17a8f2997",
+   "title": "Alcaraz : Rennae Stubbs accuse son service d'avoir causé sa blessure",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTh4ZmJnRVJRSUJIek04bnlEMjEtNlJkRXphY1VmdGRnZFVEd2VPQlFxbGxQN1JTckVXbFplWFVUaFluZkNyenEyQ054NmRGeGlOc3hKRDFTSzd4eDBmNlBLMGNsbl9QQ0g4Zkh2dnhvYzJ0dUI3SzFMTEhOWjMyaG1ZendtYndwT2YwNEd3?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-15T19:06:25Z",
+   "first_seen": "2026-10-22T17:10:59Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Polémique sur la blessure d'Alcaraz, athlète Nike : peut peser sur sa disponibilité et sur l'intérêt de la clientèle pour ses produits.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -4837,6 +4884,30 @@
    }
   },
   {
+   "id": "d4a027c473d9",
+   "title": "Alcaraz après son titre à Tokyo : « C’est spécial après ma blessure »",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcU1VdWtuaE0zTWJhTUhLQ2FOX3FnZGZwMm5NakNGcVB0Und1OHQyaXhjTGxueGJnY0N0RWl4THY4MGs0Q0ZwYWpCcjZ0ZzJHelNwRkNBaWJnZ0s4YkxQelUxNTQyeGVoNjBGS25KUXEyN2kxRXRPSXAzSTZCSTc3NVVoUTEzMURGdlV1ek92eFhVZw?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-22T17:10:59Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Titre d'Alcaraz à Tokyo après blessure : performance positive d'un athlète Nike, susceptible de soutenir la demande en produits tennis Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -6121,6 +6192,28 @@
    }
   },
   {
+   "id": "22f3dccba35b",
+   "title": "Nike’s Worsening Slump Forces CEO to Rethink Turnaround",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa2xYbi1jR2RTb3JHd0d1bEhxa2xHY05TbkluRHkyUDZ5bmNyenpwTWpIaExNakY0ZkhwaTdmSFlodHYyTXYzN29hc29YbG51dzRXbWt1UDlfZzlTc0JQY2lJTF9odTBBbVQ5Wk50c3dkSmt0YVdwWUFUbFIzbzlDcU0xc2FiSnZ4aXh4dFAtajJVR0JqZF9Ld3VxRXhOX0FpVFliZnd6cUNONmdGU3h3?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-22T17:10:59Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le repli de Nike pousse son PDG à revoir le plan de redressement : risques sur allocations, collections et délais de livraison vers les revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -6962,6 +7055,28 @@
    }
   },
   {
+   "id": "ed530634ea05",
+   "title": "EXEC: Adidas Sees Broadening Growth Via Localization, Product Innovation, and NA Expansion",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEZ1enN3X3JneGpkck1lZzRXUW03Rjh2ZW81dEdNSGQ5SnNiWkthV1NjbzJHX2daMXBkVTRIVXJmd2VZZ0MxS1d1YTZEVWo2ZnVQWHFJNk41bl9OQzFKOUZvT3BZa1hadmxKMG1DZGtZRVQ0MTJGblFTamRLQ3BGTF9mb0taWVdmbFZRWUxJOXVnQzh3R1M1WGZVYll3eDVVLXVFT182enJJaEpjOTFZVUwzWjcyUDhIZHpNMDhVRW9pMEdJV2ZWRQ?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-09-28T07:00:00Z",
+   "first_seen": "2026-10-22T17:10:59Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Croissance d'Adidas par localisation et innovation : indice de concurrence sur le textile tennis, sans lien direct avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "123ea0f8ef48",
    "title": "Air Max 90 x Léon Marchand : Nike ravit les fans avec ce drop inédit, voici l’astuce pour se le procurer",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDZSTXdoWm9FS21XcHBqTkVqQzRLelFRVWtGOHh6aEJxTkZmc1FycHplVTdtbURYWWhVZU1ROTV0bkE0cmJhOEEwa3czU0dTRHJiNmFBY0RHa0RnLTQwUlNCcXZodUFzX2JjWXRCXzJoRUdMd3BmSFJEUzRtMDhLUklJZ211a1J1WFI1YmhTMHlZd1NsMU5tTlZOczU5aWpYZ0FqZG9DU0lpc2p5X3pxZFJWNU9PT2lNT3h2bEw0dlFkWVJESW9IVl9VMFc5UmZGWHhla09OLTVDTnRU?oc=5",
@@ -7408,6 +7523,28 @@
    "ai": {
     "r": 2,
     "impact": "Retour de Sinner repoussé pour cause de genou : moins de visibilité pour la marque Nike à court terme, donc possible impact sur la demande liée à ses sorties.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "481741efec2b",
+   "title": "Karim Benzema avait rendez-vous avec Nike pour un contrat, la marque américaine annule à la dernière minute pour des \"frasques médiatisées\" du joueur \"incompatibles avec ses valeurs\"",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdkFhTjdTMmNzd1hvS2pMY3FIM3MtalJQQ1NKZlgtVTUzM1FUZmoyZ0RKUDJCcWhKOUFSWGtLNEtpRzExYldScURRaVJNTzZFc2E2RF9sbzhlcHh1b0FSLUdBWjIyblJoVVI4OUhYX3ZCV1I5cGwwWDEwaUdoeDV2d2xVay00elg3bXhIcTR3Vy1RQWpKbE1CUEs3SHFGN2xOUTE3VGM0a1ljVHRLV2w5aDBtdTZMRFRLSk8xbVg1cU14bC11aENzZTdadHM5Rl9XbFBubTFKVjFadmdhb3VpWVVaRTR3aGxCRUFFNGFVR2YtWFAwYWhxSHF2S2F2VXdsWUdCSXVodkp4emlIM000LXVyaVc3b2lJOGlxcXJtR0w?oc=5",
+   "source": "ladepeche.fr",
+   "domain": "ladepeche.fr",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-22T17:10:59Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike écarte un ambassadeur sur critères de réputation : indique une sélection d'athlètes sensible à l'image, utile pour anticiper ses choix tennis. Sujet non tennistique.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -9010,5 +9147,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-22T11:58:15Z"
+ "ai_updated": "2026-10-22T17:15:50Z"
 }
