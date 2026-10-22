@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T17:10:59Z",
+ "updated": "2026-10-22T21:36:09Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 372
+  "added_last_run": 5,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 489
  },
  "items": [
+  {
+   "id": "677bf58629ab",
+   "title": "L'hommage à l'équipe de France de 1991, vainqueur de la Coupe Davis à Lyon",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObkdhd1EwZDVPZ0V5RXdHTjgxazctRXF1Q3ZFTlBqeHhObndoVFBQcmdwVHUwWVRuZXh3Ukx6M3RCUnZCMnBkYkZ3LTdqUklGWDBKZ2p3bjFzS2lQLXVMSnByaWY5c2lvaG1zVzJib25MbFpyOENUOHFoSm9ZVzN4UThBWjMydTRqV0VvaFBfWHVkV19GZ0o5M1lnVGl1cGdzNDlCSGJYMUVlck5yZXZBUzRidnZhWGk5bkxIdVFjdw?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-22T18:41:01Z",
+   "first_seen": "2026-10-22T21:36:09Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hommage au tennis français sans lien direct avec Nike ; intérêt indirect possible pour la dynamique du tennis en France.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "cf8d00c7715f",
    "title": "Nike Air Max 90 SP Black : sortie ce 22 octobre, elle démolit déjà les ventes",
@@ -35,6 +57,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "b8bc5aea82f0",
+   "title": "Kuehne+Nagel CEO expects most container lines back in Suez Canal by early Q2",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXRhYXluWE9YQktud2hPb1BjekdnT19zTVZMTTdrZUZia0RpOFRXMWpDRUluNTk1dW82bTdFRkNxZndsaFZ1OHo3RjNFRDlBRGt3b3M1eUtkTlN3UGE4eE92ZE03dnBwalBsUF8zbEZJMi1tTXZBQ3cyYkJUUU1XWU5kbnpFalpCMjViQ3pfUUdWYWsyVlRnYlJvTE1rZ1N0cDc5UV96dzFiVG16QUtmcDM4WGJqMVFjYzdOeGZMd1dkLWEt?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-22T08:35:44Z",
+   "first_seen": "2026-10-22T21:36:09Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Un retour des porte-conteneurs par le canal de Suez début 2e trimestre pourrait réduire les délais d'acheminement des collections Nike vers Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c456e306461e",
@@ -258,6 +304,31 @@
     "r": 2,
     "impact": "Polémique impliquant Sinner rapportée : risque d'image à confirmer pour la marque, à surveiller avant les tournois d'automne.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ab7cceece277",
+   "title": "Trump sued over Canadian tariffs in latest legal challenge",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UWTkteFRTU2lRNHVRMjc2alluMjU2NHd3X2g1XzhoOG5kVzAxUXRHb0gzM2k4cGI5U2NjVFB3NTlrVjBxWmR1V3p5VnJ6QnFISGlLYmRUcnM5bDA?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-10-20T19:30:05Z",
+   "first_seen": "2026-10-22T21:36:09Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Contentieux sur les droits de douane américains ; impact direct limité pour Tie Break, qui s'approvisionne auprès de Nike en Europe.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -3744,6 +3815,28 @@
    "ai": {
     "r": 1,
     "impact": "Une note neutre de Deutsche Bank n'affecte pas directement les ventes de Tie Break ; indicateur à suivre sur la perception financière de Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ee15461e27a1",
+   "title": "Who’s winning the trade war with China? You asked, we answered",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUVBGdWdpbnY5TENRVUtaTlhNcGtDTmRWdFlHRDlOMjhYN0UwcGNoZ0ZOX0wwZTNtOXQxTW9HNjd6TzRWdDhxaVZQMkdWMW16aTctT2ZpTFNWa0R2TEQzd1d2Mk43elRxU0hndzdFWE1OVVM5VVNSSHhCdEI4bFVFZGZvZ18?oc=5",
+   "source": "Financial Times",
+   "domain": "ft.com",
+   "date": "2026-10-09T07:00:00Z",
+   "first_seen": "2026-10-22T21:36:09Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Analyse de la guerre commerciale sino-américaine ; effet indirect possible sur les coûts de fabrication asiatiques et donc sur les prix Nike.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -7903,6 +7996,28 @@
    }
   },
   {
+   "id": "a66067772083",
+   "title": "Tennis : absent depuis Wimbledon, Jannik Sinner prépare son retour sur le circuit",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjZlY01OVlJ6NHVNQVAwR2NXM25RN3c0emNjWm1CNjlXVEtmM1Riajd0MG9Pa2QtS3hPLTBvUWhqeG9tTGVQTmpMNFV1Q3pCdjFrdlowd2pleFoxZk1sUW9Rckp1cG9mV0FMQ2l1d3hfSFRTc0Y0Qmp3RktJTmYtdC0wZHljbUduRk9veTNuc0JGSGJvYWM1YTEwaVZnaGVhbXBZbnVVeGpmamhmekZoZGZWSVg1YmJrREE?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-09-23T07:00:00Z",
+   "first_seen": "2026-10-22T21:36:09Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Retour prévu de Jannik Sinner, athlète Nike, pouvant relancer l'intérêt médiatique et les ventes de la gamme tennis en magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "988bb2eccb4f",
    "title": "Lâché par Kylian Mbappé et reléguée à Wall Street : pourquoi l’empire Nike vacille ?",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWDFkTjQtVzVWSXNiZ2ZZRENRVWhsTmNDNWxtM3dvTmxuVlRtakpxT1hGNlZUYVFqVjNpVUdmSHJsaWw5SG9RekRjZWI5S2tSM3RNRlIyUXVjdzd5OWxhakkyMkhkRXhSbWFPT0NOSnZWY1dCZXB0YzFyY3BmZU15ZHdXXy05MTNrdWoxd3UzTGM4TjJjdWRDdklEZklmYTlYME5SdnJhdVNZZE5HdFRhUDNlZTlhTGFtREpaZ0hqX0h2Zw?oc=5",
@@ -9147,5 +9262,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-22T17:15:50Z"
+ "ai_updated": "2026-10-22T21:40:29Z"
 }
