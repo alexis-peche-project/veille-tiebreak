@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T18:22:13Z",
+ "updated": "2026-10-23T23:09:06Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 424
+  "added_last_run": 5,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 360
  },
  "items": [
+  {
+   "id": "f0e495a8d632",
+   "title": "Tennis de table - Pro A. Face au champion en titre, les Loups d’Angers de nouveau battus",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbmJnSmlYQzU1U1R5emM0MS1TOXdBZmo2NEpPaVVVRVVNek8zZkRQcVl1SERPVGZIVjJsNDQyOU9RN0FNRVlkcU13cFVoOHVkMm5FdWd3b1BQVGlWUmFlMVRud3J6RTVIaDNIVE5lb1lqV2gwcUtnV2txZzNwcWZzR29la0JkQUZXNzViMXY4d3AxN0l5Mm9ueHlPVWlObG56NzZQaXZqRjV2eUctSTFXTHNPaHAtNzJiMG45dDRlcjZHM0JYRDdkQWpMR2M4c2o3eDFSc0plbU1fRUg0RkhQdzkxek56cDJMNGl4MFFTRjZhaUMtSWtNbFVIcjZYbEtiN0V0aUJCeTlNMFVKV0x0V09KMGUyTGQx?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-23T19:41:10Z",
+   "first_seen": "2026-10-23T23:09:06Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "426560b48816",
    "title": "Dopage: Une joueuse de 21 ans accepte une suspension provisoire pour dopage",
@@ -35,6 +57,31 @@
     "r": 1,
     "impact": "Cas de dopage sans lien direct avec Nike ni Tie Break ; contexte utile pour le volet gouvernance antidopage du tennis.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "54a2056a6edd",
+   "title": "Dopage: Une joueuse de 21 ans a accepté une suspension provisoire pour dopage",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVRrdzlLR3dLTjB0Nk0tcmtXblhxZ3BmdzFEZFl0bzJQLXhZNmx2cVhUajJaRzJBbmNvTURDRGhGUkZ4amJ0SDNSVk1PVTFxOEFuZDhfTzhIWFhuTlVRRmF5cFhfbVBTYzd0Z1BCdU9BTW9kUmdiNXoyQWU5Nk5KYV80YzgxbHc1aHdVSTdZYmJqVkx0N2YyTVBSSlN5X3lNbEI4ZE9BdWVseDVVNDRWbHFtdVg0c2tuSkhHatIBvAFBVV95cUxNWmlwWnlZM3QwMWhBbWRuSmlyR1hicFp5d3p0Y3BWaC1Ybmc2dUU5eXZFMmQ0WmkyeWEydmJpVHRhYXFFaFdEdEtxVW02anM3UmtzaVBheV9ZT1lfMEV1c3FwZVhkcmVtbTFhRC16dFJGdU84MjlHNUZUR0poYTBQYUszRjZQc0lkMHIzd2oyTnk3eXFwSEd5SDFjYm1TbUM0T3NXd0VzX0xzcVM3SnNTMTZLRWVPUGxtME12Xw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-23T14:08:00Z",
+   "first_seen": "2026-10-23T23:09:06Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspension",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne précise ni l'équipementier ni le tournoi de la joueuse ; impact sur Tie Break non établi, sauf si elle est sous contrat Nike.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -558,6 +605,28 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0f27e623204a",
+   "title": "How ‘Mature’ Does AI Need to Be For Fashion?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYmJ6ZS1DWWlBZFk2TVdqS2FQTEp5bE50d1R3NkQyQXJoMG5PWWc1NFBQZ2FjZ1BBam01TjZjejVxUzU2cjMtclc4TE84aGs1UTAzeHJvUlVPWmFOZC0yR0syVUlqWkVuZ09RTDNiUnNYcnhzWDljcmlCdy1nM19EVWVzTm5kcm5TNjFzOXBGY1Q5MnZFRTNsVDlIc0xKWTdyZUN2djB5NA?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-20T15:03:19Z",
+   "first_seen": "2026-10-23T23:09:06Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
    "signals": [],
    "ai": {
     "r": 0,
@@ -1423,6 +1492,28 @@
    "ai": {
     "r": 2,
     "impact": "Réformes ATP annoncées pour 2028 pouvant modifier calendrier et format des tournois, donc le temps d'exposition des athlètes Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "bfbc11489e56",
+   "title": "ATP unveils 2028 blueprint: $350M for players, ranking overhaul",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMXRURXM0dURaemdabmxKdkVDSDVSbXZNT3I2SWxVdFFYMEZETDdYdmhNY3JFQ0xiT1BuazVXaGVPZi1BREw5MzV6Sm1ZR2JJdzN3ZHE2bDhKbTVOdDVaM3hFN2VpSldlVk9rdF8wWXZ2RnNqbVY1OWxMMmRZVXFkd2Qtb2lNVXRkbHBuSTFETnd4bmE2dVJ1MFJ2SzhCdHdWNmFLdzV6bkp4RnM1dl84ZGpXOFpfbW5BUlJ0bHhsdXF5ZW9KMjNMRmF5UHVlRXBod25xaXcwUlVnUGhsTTFrQnd4OTRfLUJGUDc5bkxBNTI5MlhXUVE?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-10-16T06:03:13Z",
+   "first_seen": "2026-10-23T23:09:06Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Projet ATP 2028 annoncé (350 M$ pour les joueurs, refonte du classement) ; à confirmer, il pourrait modifier calendrier et visibilité des joueurs sponsorisés.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -3066,6 +3157,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "b49d686d8146",
+   "title": "SCAD Unveils Its New Sneaker Innovation Report",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa04yb25xeWQ3NnloNzE5dk5NTmk0WHlkRmw5MjlCQUlQOVhNanlqRHRBbFhudkpiRWxSLWFlcURzVzYySlg0OWJHRFhQcFpkblZURXZPS2l4aEFBVmpFUkktdXlmcmJqS1hKNG42eUtnUUE0NXRKbElTRVZoSmYzbVRPN2JhaGYzMUl3Z2M4Qk80X2FXY1p6Sl9qNkZjbmJCSHpQekR1bzQwN1VmeWpjNjdSSWhTTU5vZ3Jv?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-13T20:17:44Z",
+   "first_seen": "2026-10-23T23:09:06Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Rapport sur l'innovation des sneakers, sans mention de Nike ni du tennis ; intérêt indirect pour l'offre chaussures de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "a54490f7b550",
@@ -9541,5 +9655,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-23T18:27:46Z"
+ "ai_updated": "2026-10-23T23:14:16Z"
 }
