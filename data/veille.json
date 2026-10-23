@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:33:13Z",
+ "updated": "2026-10-23T13:27:27Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
+  "added_last_run": 3,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 420
+  "rejected_last_run": 381
  },
  "items": [
+  {
+   "id": "cabbcb293c2f",
+   "title": "Tennis. Lucas Benoit, le David mayennais qui défie les Goliath du tennis junior aux Ponts-de-Cé",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR3lRV0x3X18zenpIbzFNdUZrRkctR0hidG9IeXhacHdpZlV5bXRmLWQ3MnE5ckxlYWtCMFg0eUVPNUNsVTlQbXMxZldnQkpkbERfVGVQQ254UEtpSHhzelVHWnptcXVnR1BfbGhyVEIzYk9wUUJXNHN6SWh5NHhfQmR6Mm1Da2gtel9mME9KNFJlUk5sNDUwNnc1Y1hqdVVUX2Zmd2Z0MEduemhwcHhqX21XOEZuME4tenVkZ1Z6NTgzNnpVQzR0VjZUbEZyZVJrYi1pUm41Qk9LRkVaaWF6R0thMlRLTmwxQzdBc2R0OGstT0tSbVVGTFFTS0F1TGV5?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-23T09:00:52Z",
+   "first_seen": "2026-10-23T13:27:27Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
   {
    "id": "eff82ddc1cf0",
    "title": "Fashion’s Ties to Israel’s Occupation Under Scrutiny",
@@ -54,6 +77,30 @@
     "r": 1,
     "impact": "Hommage au tennis français sans lien direct avec Nike ; intérêt indirect possible pour la dynamique du tennis en France.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f5477ff94438",
+   "title": "Largest containerships return to Red Sea in force",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUlEZS12ZHF3Y2Qxc2VBejlxZGpNWmpOVzh5bW5fSE5lMDRqUHRlT3dSZGJObG0zQUZBRjRYS1E2MnJ6Y2lncUQ1MFkzQkE2aVRZbHZFS0NOMlBqY0NJSzJxLWNvbGNrVFVuRmFCOGw2SWN6YVpDcGloOG43ZWx3dF9KT0hPXzkyNDhfbWl5MA?oc=5",
+   "source": "Lloyd's List",
+   "domain": "lloydslist.com",
+   "date": "2026-10-22T15:05:52Z",
+   "first_seen": "2026-10-23T13:27:27Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "red sea"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour des grands porte-conteneurs en mer Rouge peut raccourcir les délais Asie-Europe et alléger le fret, utile face aux retards Nike.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -260,6 +307,30 @@
     "r": 2,
     "impact": "Adidas gagne du terrain face à Nike, ce qui renforce la concurrence sur le textile et les chaussures que Tie Break vend principalement sous marque Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b97e6c4e3c9b",
+   "title": "Adidas relève ses prévisions de bénéfice grâce au remboursement de droits de douane",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeldud2dPTkdWa2IyQWNKMjA5Y0tMR1pLd0FGTjZQc21YbDI4cjJxb3ZPRDZHODRlYjYyandJZVhhYUh3aFU5QVZ3SHVXTk1Za2tMSldzbXZ6V1M0UWZQZC1keEtvcjhCY2pMVTZHdUE1c21Ld042aVd6WWdQenRDcnZldDZHZTlPQmhfSDZmQjJtZjhQSGtscXdJa1duNDhyRkFzdDA5OGt1ZEZZaHBETWtLUk1UZ252ZkFsSkF5dEdmTEJ4Tkc1eUhMaV9Zc05ib1JNcTIxVUpCZ2tR?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-21T09:42:48Z",
+   "first_seen": "2026-10-23T13:27:27Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "droits de douane"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Adidas relève ses prévisions grâce à des remboursements de droits de douane ; si Nike obtient de même, marge de manœuvre sur ses prix wholesale.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -9422,5 +9493,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-23T07:37:46Z"
+ "ai_updated": "2026-10-23T13:33:06Z"
 }
