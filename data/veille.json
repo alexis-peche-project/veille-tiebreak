@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T21:36:09Z",
+ "updated": "2026-10-23T00:40:37Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 489
+  "added_last_run": 3,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 441
  },
  "items": [
+  {
+   "id": "eff82ddc1cf0",
+   "title": "Fashion’s Ties to Israel’s Occupation Under Scrutiny",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0Q4dmVHT0NnOFRuV1ZHQ2YxVV9hdHMxbnFLN1plRnFRR05MZ29lbE5wTmZWWXRkOTJLdWVzV2w3bWp2RDdic25idGhRbXJUWWpfX25wU2QzMjhNRDg2VnA5M2hNMklaZVhCS3M2V0xUOVRTVFYxb2NxQV9ZRTdhQ2lJcGVmaGlvenZfRHVhUTFNQ05UakYxb2hhNXNOQWFtRFRZbUFHZ3dVTi1KQnA1bXdBZEo2dw?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-22T21:03:47Z",
+   "first_seen": "2026-10-23T00:40:37Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne pas Nike ; il signale un examen des liens de la mode avec l'occupation israélienne, susceptible d'accroître les pressions sur les marques.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "677bf58629ab",
    "title": "L'hommage à l'équipe de France de 1991, vainqueur de la Coupe Davis à Lyon",
@@ -7284,6 +7306,29 @@
    }
   },
   {
+   "id": "015a3385ce2f",
+   "title": "Kylian Mbappé quitte Nike pour On : pourquoi le géant américain dégringole",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nVHkzcVBGMFpQaWROa0J2V1g1aFBHcTE4alhLU1BCbjF2WGRWYm1rQU5EeHdOY0NhVU5JMGlwZGd1bTQzNEdXb3pOSXJWd0p5VWhJaDc1R3VGLUZ0YmxiWG9kNXdEMWVDUjRGNXpMd1k?oc=5",
+   "source": "MCE TV",
+   "domain": "mcetv.ouest-france.fr",
+   "date": "2026-09-26T07:00:00Z",
+   "first_seen": "2026-10-23T00:40:37Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le départ annoncé d'une star du football vers On pourrait signaler une perte d'attractivité de Nike auprès des athlètes, à vérifier pour sa stratégie tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "7b1847277676",
    "title": "Les experts des marchés restent prudents à l’égard du Dax",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZFlFWUNnSWhZeTlqUVozNDhCUWNIcFBKS2c2c3Bmc3JPRnh2RDV1TnRld0MwbVhfVENaeGg4cGdaUy02ZEkzYXlBQ0xtWXVfbHhyel9vQ1dJaWoyOER5VTZ2NDhKQW13RjJOaEZ4Tlh0MDh0THdtRENON3BJeGN6MnUzZ19GMzl1WTNIbm5RbDBsRWtHbHJPX29kdkJLSHU0T05iRHExbE9vUGx2OEI4NDlWU1ZpTms2X1E?oc=5",
@@ -7641,6 +7686,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "29545b8730d6",
+   "title": "\"Mâle aimé\": Benzema dénonce une \"fake news\" à propos d'un shooting annulé par Nike",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPanpzYXgwWUxUYnhBU1QtbU1EWjg4RllKNmpFY2dQWHlQWVQ4aDNibGI2b3hFa1dYTnR4eDIySVJyQW4zTTZHd3VBVngtZ3hIZTZUb0VFMUlTbG9ScWF2R2lScmFDdVB3M1A5T0o1aGhWTGZzS1oydllJNnJjY2Q0Q2xaaUk1VDJIMDVEZDN5SUVSVmQ4Ni1KVGYtUTYwRFRZSVlLTlVSVHlEQW9odjVkdndOSWoxeDBVVkZrRkhnVm1uOHRyTkh0TFhTZ3FoeUgw?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-23T00:40:37Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire d'image autour d'un shooting Nike annulé, dans le football, sans lien direct avec le tennis ; à surveiller seulement si elle touche les ambassadeurs de la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "4f9f400af43b",
@@ -9262,5 +9330,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-22T21:40:29Z"
+ "ai_updated": "2026-10-23T00:45:37Z"
 }
