@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:40:37Z",
+ "updated": "2026-10-23T07:33:13Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
+  "added_last_run": 4,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 441
+  "rejected_last_run": 420
  },
  "items": [
   {
@@ -401,6 +401,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "c1f743159e04",
+   "title": "7-Eleven ends lawsuit against Nike over shoes with store's colors",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEx3NUxwUmRia2V1VjBTelY3eFZ0eEJjYXE3YVJfbUNUYWkzNTlKZHBFbGhyUmJrb3Y4bVZFWllvTzQyWTBlSmhPVDZpYVZLVlVYT1NfeHdwSnlqMHk3cGlWbmE4Z1lNZWpadW9WV3JTZG83eHhBODVvTkY1MFM0V3J5UG84U2RpRWtTNzVfbTF5ZjNnWGVhbnVDc1RsczdpZ3J5TmJCbVFxMzY2cUFpZ3JrM3M3dXpQa0tnSw?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-20T16:14:46Z",
+   "first_seen": "2026-10-23T07:33:13Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Litige de marque entre Nike et 7-Eleven clos : pas d'effet direct sur l'approvisionnement ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "9628e859019b",
@@ -3051,6 +3074,28 @@
    "ai": {
     "r": 1,
     "impact": "Accord décennal de rwanda pour le Grand Prix de F1 ; géopolitique du sport sans effet direct identifiable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "98c14c3cc4c7",
+   "title": "Des résultats semestriels stables pour Le Slip Français",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObnEyZGp2cTdRVDA1ckh5VFRBX0UzS1F1OEdDcWVGSFZRT2NFclU4Yml4RE9SOGx0SkhmbVg0OFVtLUVEZ1RPRldSaHg0U3l4cXdPX3ZCcXUybUlqQzFCbWpfWkhRQkxFLWJVUS1JSkQtNEFQcVBNcGN2eklSWFlETXdFdXFzY0pnR2JTYkp0dnJCbjdZZHIxOUE0MmM4VklqOGpleW9Xc2d3Y25QV1JEUF9peDZscTVabEc1Z2NGUkwwR3cxZmNV?oc=5",
+   "source": "Investir Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-13T07:00:00Z",
+   "first_seen": "2026-10-23T07:33:13Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -6329,6 +6374,28 @@
    }
   },
   {
+   "id": "aafbf57a3abc",
+   "title": "Les difficultés de Nike mettent à l’épreuve la confiance des investisseurs dans le redressement engagé par son directeur général (CEO), Hill",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZGwwZ2NEbmF6U0EtZ1dlTzdUaU8wc1poZ0ozelgxTXUzVmU2TUdiNmEwNXBWLTBYVnJoLTQ1OFYyMDZQN2ZFWTFFWm1rZWJ0emJaMFh1M09HRDE5MDNGaVRGcFV0YVVrb0t6ZWJCbGVHeFZ5QU9sT19SVENCQVFneWh6a0pXQXRNTFY2ay0yS09TcmpHckR5T3FRRS00WXFJRXJValFHQ29lSlZ5MnNNNkpRTkNpZ1g2U0FULWhWajNZczRCcDdOUndlTmZiQjMxY1FfMTlzY1ZLS0JUbUtGeng1VnR1ZFViRDlnVlZGanNfUQ?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-23T07:33:13Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike revendeurs distribution",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Doutes des investisseurs sur le redressement de Nike : la stratégie de distribution et de collections pourrait évoluer, avec effets sur les livraisons à Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -6921,6 +6988,31 @@
    "ai": {
     "r": 2,
     "impact": "Rappel d'une grave blessure d'Alcaraz, athlète Nike : risque pour l'image de la marque et la demande sur sa gamme, à surveiller.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c49ea555d247",
+   "title": "Trump’s tariffs loom over talks as G20 meets in US",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUmZBMVoyR0RReUY0bGxFaGlvak56Y3F5LU8yc1BIVHZWc1BDYkVQTzVfYkFfREV4dEwycVpsMkQ1dDdGNkN1OU81NzNVbXhsVzhyZXFlSnpYNWtZS3pkRUxaeGlBSTdoZnBYdFNXdDVOVW5SNHFuMDlFd3NNRVBudTR6VC1oM1ZUa3hEc096ZDdlV1VTdTJvZHVlYzY?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-09-30T07:00:00Z",
+   "first_seen": "2026-10-23T07:33:13Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Article sans mention de Nike : effet indirect possible via droits de douane américains et tensions UE-Etats-Unis sur coûts et prix.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -9330,5 +9422,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-23T00:45:37Z"
+ "ai_updated": "2026-10-23T07:37:46Z"
 }
