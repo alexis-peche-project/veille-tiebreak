@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:27:27Z",
+ "updated": "2026-10-23T18:22:13Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,36 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
+  "added_last_run": 2,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 381
+  "rejected_last_run": 424
  },
  "items": [
+  {
+   "id": "426560b48816",
+   "title": "Dopage: Une joueuse de 21 ans accepte une suspension provisoire pour dopage",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZHZZSWVZdFotQVR4SlFIWHZpU3VlbzFUeExyNEJuSTBzRlRhbjlNRkhiQ2ZfTVJ2SkhIUmt0N0xKcWZLcDlJLTgwOHNfMWNDeGpzMzRMbjl4bUpxX2FDMWVMcGJ0OUVxLUQtQzh5Z3Yzdnk1OWhsMTNOd3ZXVVl3YjN4NEZCTWszVW9kVDdmdE1nb0hYRHd6dk9oejRqd1NqaWotZkJ6YmlheVZJTXZlT3VjVTduZTNrSkHSAboBQVVfeXFMT1BwZlRlVXlZcUV2bEtDdmdVOVhWeVNsUENHYzRwS0o4bXZYUTdSMVhxaVMyQUhHNVQtRllQbXEyMnQzbklaeWdoN1NCTVVSUWdqbXVQSFBGNFhmcGc4X05XcWZqOXR4RUtVbHdmSWJDUlRGaFZmVU55QTREc3oxTDZPTnBCcW5YVE5OdzJlNDVra3lvSEtEbEZLNW9SQ0N6aU1xcGxNVENaQWhZNXE5UTBNbTFPMENRVGN3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-23T14:08:00Z",
+   "first_seen": "2026-10-23T18:22:13Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspension",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Cas de dopage sans lien direct avec Nike ni Tie Break ; contexte utile pour le volet gouvernance antidopage du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "cabbcb293c2f",
    "title": "Tennis. Lucas Benoit, le David mayennais qui défie les Goliath du tennis junior aux Ponts-de-Cé",
@@ -262,6 +287,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "cc7677285bbd",
+   "title": "ATP > Jannik Sinner finalement de retour cette année",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeWVFdlhIZmx3NGNqM1ZxdGl1clVQUUVhVEtoY0FHNVZKX3l5RkdZQ0RTZXMtcTV1ejFOSGNYSHZDdFh4VmlFOWlrTU8yQQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-21T16:44:00Z",
+   "first_seen": "2026-10-23T18:22:13Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour annoncé de Sinner cette année : possible regain d'attention pour les équipements portés par l'athlète, dont Nike, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "762acaef1a91",
@@ -9493,5 +9541,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-23T13:33:06Z"
+ "ai_updated": "2026-10-23T18:27:46Z"
 }
