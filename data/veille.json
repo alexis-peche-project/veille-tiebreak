@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T11:01:15Z",
+ "updated": "2026-10-24T15:57:25Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 5,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 381
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 435
  },
  "items": [
   {
@@ -38,6 +38,29 @@
    }
   },
   {
+   "id": "0eb944155371",
+   "title": "PSG - Nike veut faire de Désiré Doué sa tête d'affiche",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTB0alhRUWxDd3hkVDFUTERuNEZUN3g4N1pnRm8xSmg3eTl3QWU0SDJYNGVlZTJKdUpUYTN0b3lHVGJhQzNDSE1JT3VMR2xrSVpVMDNlbGFDR3BtY0VZRXNuVG95UXd1eERCQUNSSUR5a1JraGI1S0tTc0I3ejZlaFVna0N2eWUwcUNWcXF5V3JfYkxOVDJlRC04WE90akRBcjdhV0dEZ3VHdHpTNm9ORXN4RkpHdko5elE?oc=5",
+   "source": "MadeInParisiens",
+   "domain": "madeinparisiens.ouest-france.fr",
+   "date": "2026-10-24T09:20:00Z",
+   "first_seen": "2026-10-24T15:57:25Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike privilégie les athlètes-vedettes pour sa visibilité, mais l'article concerne le football et n'a pas d'effet direct sur le tennis ni sur Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "f0e495a8d632",
    "title": "Tennis de table - Pro A. Face au champion en titre, les Loups d’Angers de nouveau battus",
    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbmJnSmlYQzU1U1R5emM0MS1TOXdBZmo2NEpPaVVVRVVNek8zZkRQcVl1SERPVGZIVjJsNDQyOU9RN0FNRVlkcU13cFVoOHVkMm5FdWd3b1BQVGlWUmFlMVRud3J6RTVIaDNIVE5lb1lqV2gwcUtnV2txZzNwcWZzR29la0JkQUZXNzViMXY4d3AxN0l5Mm9ueHlPVWlObG56NzZQaXZqRjV2eUctSTFXTHNPaHAtNzJiMG45dDRlcjZHM0JYRDdkQWpMR2M4c2o3eDFSc0plbU1fRUg0RkhQdzkxek56cDJMNGl4MFFTRjZhaUMtSWtNbFVIcjZYbEtiN0V0aUJCeTlNMFVKV0x0V09KMGUyTGQx?oc=5",
@@ -49,6 +72,28 @@
    "lang": "fr",
    "query": "marché du tennis France",
    "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5049d7758c81",
+   "title": "Our top 10 things to watch in the stock market Friday",
+   "url": "https://www.cnbc.com/investingclub/2026/10/23/our-top-10-things-to-watch-in-the-stock-market-friday.html",
+   "source": "cnbc.com",
+   "domain": "cnbc.com",
+   "date": "2026-10-23T14:30:00Z",
+   "first_seen": "2026-10-24T15:57:25Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
    "reliability": "B",
    "score": 2,
    "signals": [],
@@ -110,6 +155,31 @@
    }
   },
   {
+   "id": "aaa7ae53df5b",
+   "title": "Dopage: Une joueuse lituanienne a accepté une suspension provisoire",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0M2Z0dpOTY0YURRVjlFWG9kaHVPdjVCQzc5all6QnQyT1AycEd2S3V4aEpCeHpmdkF5cXJlZ3hEblZiTWF6LWs5bEVhLVI1MmFFZm83d1diRDVGQ3M4MDhzeFQ2SE40TUVCdG1CdFQ2LXZZYXRvZ1dLOHMycERSS0FWLUQtS3RGZkw2Zm01Q1FENlM1R0daN2t0dEY3SFJGLXU3dEJpRVhTS2ZnSTlr0gGvAUFVX3lxTE9GemFfT2lSLWo1dEE4VVlNcXpCUjJaNS1GbzVKYjBjVkZrTFFLTUxzUTkzanNDclZyZTJxRjRsWWhBUWx0dE1qSmt2Y1FFN0dSckZLdjBNNG5GVzk2RFZvNmxhMndUUWl1TGM5UEJnZ1BOd2NrSWlqcEtpeHJsODZLMmpRS3o0MlE3X0pJVElEWVZDbTZ1dEpLQkkxeEZNbmdldjFnQmwwSVI1WFptdnc?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-23T14:08:00Z",
+   "first_seen": "2026-10-24T15:57:25Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspension",
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Suspension provisoire pour dopage dans le tennis féminin : rappelle les enjeux d'intégrité du circuit (ITIA, AMA), sans lien direct avec Nike ni les ventes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "cabbcb293c2f",
    "title": "Tennis. Lucas Benoit, le David mayennais qui défie les Goliath du tennis junior aux Ponts-de-Cé",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOR3lRV0x3X18zenpIbzFNdUZrRkctR0hidG9IeXhacHdpZlV5bXRmLWQ3MnE5ckxlYWtCMFg0eUVPNUNsVTlQbXMxZldnQkpkbERfVGVQQ254UEtpSHhzelVHWnptcXVnR1BfbGhyVEIzYk9wUUJXNHN6SWh5NHhfQmR6Mm1Da2gtel9mME9KNFJlUk5sNDUwNnc1Y1hqdVVUX2Zmd2Z0MEduemhwcHhqX21XOEZuME4tenVkZ1Z6NTgzNnpVQzR0VjZUbEZyZVJrYi1pUm41Qk9LRkVaaWF6R0thMlRLTmwxQzdBc2R0OGstT0tSbVVGTFFTS0F1TGV5?oc=5",
@@ -131,6 +201,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "2fa7d4207861",
+   "title": "Duras : France Services est allé à la rencontre des habitants sur le marché",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORFBFQ0wxUlBmaVROa1RpajdXenVsX1JCVGIxVTJsdEhKQ0Z0VFZXRlVOakVYZW1lMlBBUzdtMFZZQ1NqUVYycXQ5QlJyZzBCZFNjMFZEYTFOeVZXSDZ3SlJtX1pLYUU5Z3VjSnFuOEdrZXV4MWYtN1owNTVfVXNsTTdEYUtNZWlHOF8zRVplRzBGZ3NkY3JDVVdPRUxTQUl0enZlN1VKbWI0U2U5cjRta2hlWlcybUd6RlQxcE83aFZvQmJQNFAzQUZTTQ?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-10-23T06:25:00Z",
+   "first_seen": "2026-10-24T15:57:25Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "eff82ddc1cf0",
@@ -4791,6 +4883,28 @@
     "r": 2,
     "impact": "Blessures répétées d'Alcaraz et Sinner sur 2026 : calendrier incertain et visibilité réduite, ce qui peut peser sur la demande liée à leurs produits.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b18018e6ee3a",
+   "title": "Quimperlé. Les joueuses d’expérience ont été mises à l’honneur au tennis-club",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbnI0X0Jhb29YVTNwbzl3aGtBaGlwTmxwTDlfYkxCYTZ3MlZRQ2pIZVFKYlNOY1htRjMyRk9ReTFZZkwzc2lYbF9oRmZFRnlhNG9ESENLQjllaUY3OFM1b3RjTFh1TkQtcjZWaFJ2aDlRNHkwS3BnSFY1NlVfUmpKanhveW5EdFVwckFqVS1menZ1LTB6aWVCWWI3UUpEY1Q4azdMcHljUGx0cGtKRThmOGdQenV5R3RqMU1VdHVRc0xlT3Vnc3lCN215NEExbXVxZkFSWVAzMG9CaXVzSnV3N1hBZWs5VEdybVRQU1Q0aFJRR1B4d21r?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-07T07:00:00Z",
+   "first_seen": "2026-10-24T15:57:25Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Vie d'un club de tennis breton : indice lointain sur la clientèle des clubs, sans effet identifiable sur les ventes de Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -9813,5 +9927,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-24T11:06:43Z"
+ "ai_updated": "2026-10-24T16:03:03Z"
 }
