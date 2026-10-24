@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T18:47:44Z",
+ "updated": "2026-10-24T22:29:03Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 3,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 380
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 384
  },
  "items": [
   {
@@ -102,6 +102,30 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "547d17e6dd36",
+   "title": "Dopage: Cette règle importante va changer pour les joueurs en 2027...",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOazlVUHpPZ3FRbFltODdiR1hxb19pNWt4Y29ESUlxTXZwNkJLWkZGcU53eVpBbGRVVmVHZk5TNGZ3ZE00UzhiTWxtUWI2bkxkemJJWTYxSTB4cm5MSnk1dVFrU2VfVTdaQ0ZLeFFaSHA3cjI4OVdVUWxRbHVIUktlbmhzWDNwR3FUQW5FSUV3M21SZ2cwbTVmdkhwYWVINU9aMlcxTUppZXRzVnNoenfSAa4BQVVfeXFMTms5VVB6T2dxUWxZbTg3YkdYcW9faTVreGNvRElJcU12cDZCS1pGRnFOd3laQWxkVVZlR2ZOUzRmd2RNNFM4Yk1sbVFiNm5MZHpiSVk2MUkweHJuTEp5NXVRa1NlX1U3WkNGS3hRWkhwN3IyODlXVVFsUWx1SFJLZW5oc1gzcEdxVEFuRUlFdzNtUmdnMG01ZnZIcGFlSDVPWjJXMU1KaWV0c1ZzaHp3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-23T18:13:00Z",
+   "first_seen": "2026-10-24T22:29:03Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Changement de règles antidopage annoncé pour 2027, effet indirect sur Tie Break via les joueurs sponsorisés, sans lien direct avec les ventes.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -4108,6 +4132,28 @@
    "axis_original": "E3"
   },
   {
+   "id": "5606f265ba04",
+   "title": "Malgré une baisse de son nombre d’adhérents, le tennis-club de Baud se diversifie pour attirer",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLUk4WGcyaU9oclJhamdtazZiZDBIRFYyeGozWmpMazBHMzlkTkNzZkZsaklvR1FHQ01BRUJqUXJ6WmxnT2hVSlQ3b2kybS1HNjY1VXdKNWtjamFySmhPUmVzbE80WGZCdWtHNEJ5aWZYV3dNNFBLRFZuTDdmb3JEOXpvV05qaXlkWnMzaXpTOFlBUkhlRmUtSDFSd1Q0c25nTzlreHlrbmhMRTJJQUxYb09saVR4QWJKUE92dG1nbzRIeUt5dE53dXROcmpzYzg2WTFTLWFHbEQ4WFpQSkp4dUhSU2NuWHJWZ0R2OElyNTdxM05ucmVSdTRwLUxWYTZGSGRPdjBJVlA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-10T07:00:00Z",
+   "first_seen": "2026-10-24T22:29:03Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Baisse d'adhérents dans un club breton : signal faible sur le tennis de club, clientèle de base de Tie Break, à surveiller.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e052ee2ea539",
    "title": "Pékin accepte de réduire ses exportations vers l’UE : “coup d’arrêt” dans l’escalade commerciale",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUW5WZ0xLaDRxbzhMWnctWm1haXVXUWZObTVRQ0tiZmZNa0RuZ2dCV1REa0liLWNqbXB0bVFDa211VEotYjU1MnE2ME9nNlExZW5NVW1vZnNDY1Rrai1DQUNwTlVrRDZVNEVOQWlyZUNHOVItTEZsc2V2T0JiLS0yb0ZZMXhIczdXNFBCa1UwVHFtbzdReGQxaUVvcnRYdmdTZ29fZHdYb1cwLVRPeExwYWtpVS1CdnFvQ0RwMWNoeDFhRUtnQzFpTjlqUnQtaGUyRVl4ajAyNzlyS01HMUZ1dG9TdE9Fa1gweWc?oc=5",
@@ -7836,6 +7882,28 @@
    }
   },
   {
+   "id": "dcb2f5dce7cd",
+   "title": "HSBC abaisse son objectif sur Nike, qui doit \"faire ses preuves\"",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeXRpX1lIdF9GMlh2UFJoSFJ1QU1QX0pzb2VGa2laUy1NaGxTY3o3WGVXWjM3TmVsRzd6TG5tRGxpcGU2QURIcjVDOEZvUkhUbWNtTldMVlI2Ujk2S3JQQjNaR2hYSU5sNDhlanA2bDNmeXR1VUxVY0tvMExQeFpQdlFPdEc4Z3VNdEMtMzk1UUVaaVBVZU43Xzh6Rjdtejl0YU9adHNkNWVtMWlWbDBLUVF2ZlZmSnlRTHJCY2FR?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-09-28T07:00:00Z",
+   "first_seen": "2026-10-24T22:29:03Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Baisse d'objectif de HSBC sur Nike : pression sur la performance et la stratégie wholesale, donc sur les livraisons et collections du revendeur.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "123ea0f8ef48",
    "title": "Air Max 90 x Léon Marchand : Nike ravit les fans avec ce drop inédit, voici l’astuce pour se le procurer",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeDZSTXdoWm9FS21XcHBqTkVqQzRLelFRVWtGOHh6aEJxTkZmc1FycHplVTdtbURYWWhVZU1ROTV0bkE0cmJhOEEwa3czU0dTRHJiNmFBY0RHa0RnLTQwUlNCcXZodUFzX2JjWXRCXzJoRUdMd3BmSFJEUzRtMDhLUklJZ211a1J1WFI1YmhTMHlZd1NsMU5tTlZOczU5aWpYZ0FqZG9DU0lpc2p5X3pxZFJWNU9PT2lNT3h2bEw0dlFkWVJESW9IVl9VMFc5UmZGWHhla09OLTVDTnRU?oc=5",
@@ -9996,5 +10064,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-24T18:52:48Z"
+ "ai_updated": "2026-10-24T22:34:50Z"
 }
