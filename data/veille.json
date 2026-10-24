@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T04:37:08Z",
+ "updated": "2026-10-24T11:01:15Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,35 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 408
+  "added_last_run": 5,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 381
  },
  "items": [
+  {
+   "id": "7a9c4e065f39",
+   "title": "Le canal de Suez désormais emprunté par deux porte-conteneurs sur trois sur les lignes Asie - Europe",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT242NUtSMVZ4RGZObldTeUxvLVh6MVhNNE1aWkNsMFF1TU1pUVAxNklWMld5UHBGajVNYWhaV1RZTmM3dzhSOWVnXzRLS0pWZDNjYUJ5d2RWLXZnWHZqSXZlUWpHTFFrS1ZmVklta1RVMllySm9ad2x2Vy1zc01pZXEtRHA5R0JPVmlVeWR4endWVi1IODc4NGtwMEJVUHdMMF9RS0dTZkJrT0phSDVhNEdrOXplRUg2VG5xWFV1M2FQbjBoRkRJa1RpTkNtalRiNHdfSGN3cGVMSDBlYWEwMzhQdDlramdMaXhoaGRLWmRIY1JZdnV4N1hfeTFmUm8wUXFsMTg3SQ?oc=5",
+   "source": "Le marin",
+   "domain": "lemarin.ouest-france.fr",
+   "date": "2026-10-24T10:46:15Z",
+   "first_seen": "2026-10-24T11:01:15Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "mer Rouge conteneurs Suez",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour de porte-conteneurs par Suez pourrait raccourcir les délais d'acheminement Asie-Europe et alléger les retards de livraison Nike, sans effet garanti à court terme.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "f0e495a8d632",
    "title": "Tennis de table - Pro A. Face au champion en titre, les Loups d’Angers de nouveau battus",
@@ -380,6 +404,52 @@
     "r": 1,
     "impact": "Sanction antidopage d'une joueuse WTA sans lien évident avec Nike dans le titre ; impact direct limité pour Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7e9df35312c6",
+   "title": "News Nearly two-thirds of Far East-Europe capacity now back to Suez Canal",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcENfWVVNSUV6YnhnSzJEajBVUjRORFFmcFlTZTlGdDJhOFVFU0QyOURqcEVIeGFyYVhuc25HWmo1U01SbzdmaFhQMDJwemtrS0owMExlMkZ3U2phT1BHX09fU0FvV3BMT3F4ai1pY2lpbDYzT01oVUVNX1RiS05COFVlSFRRMUJ1N21VRXBxbXV3QWtYOXNZbQ?oc=5",
+   "source": "The Loadstar",
+   "domain": "theloadstar.com",
+   "date": "2026-10-21T12:05:33Z",
+   "first_seen": "2026-10-24T11:01:15Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Environ deux tiers de la capacité Extrême-Orient/Europe sont revenus par Suez, ce qui peut améliorer la régularité des flux, à confirmer pour les collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "42c761f6117d",
+   "title": "Ignore the rhetoric: why the EU will continue to ‘pull its punches’ on China",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaExmY1diNGNKVHprc0pkSnNqSDBVNUduN1F4MFZ1bzB3NkpVbGFQWFVjRmhnS1M4ODVINGg2dGpLUE5MSk1aQWt0RmF2ckVzN3FXc3dQYzQ5N2xrdmpGSGJ1eUhQWDFCLU5kVUcyandTZ3dkRHdPV1NzcnMzUnpkM2RRSGRpUUd2QmRRMmZnSXgtWnNTbXFTQUdBWUsxVk1IUFVYd1BNcDdZeFpEdzhqZTBVcEFDZGhua3VfRVJfTzlrQWhTNFdWMdIByAFBVV95cUxNQTBKdzRwNi1MWnQzNlJSa1d2VFpLWHhGaUN5MGlxWDFXZndYOEdsemNmUkIxR01iVlE1VnRSUHhzWWo1cjFMQkV0bGxQRUhyY2xmcW5tU0l3Ql9LMEtCZjBVel9qUUZVZTEyQTU0bllMbjNyRkNOUFdDa043amVKOGl4T0hmR2EtXzZZMlFsT2hfRVA2UU1kSkQ5LTgwallUNnJCbnkwbk9ScjZ3bmxSVUZnc012YW1YQUJ4em91QTExblJJVng0dQ?oc=5",
+   "source": "South China Morning Post",
+   "domain": "scmp.com",
+   "date": "2026-10-21T12:00:10Z",
+   "first_seen": "2026-10-24T11:01:15Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Analyse de la prudence commerciale de l'UE envers la Chine ; effet indirect possible sur les coûts d'importation, sans lien direct avec Nike ou Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -3591,6 +3661,28 @@
    "ai": {
     "r": 2,
     "impact": "Une réaction publique forte d'Alcaraz, athlète Nike, peut nourrir l'attention médiatique autour de la marque, sans effet direct avéré sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "041df3bcefed",
+   "title": "The five key questions facing Newcastle five years on from the takeover",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSkI5NC0xb3M3VV80SXZNMThQdWxtN1RYd0xwOVg3SVJHUE5RemdKY2RoSnRxQURSRGZKak1BTGJNSk53TzFDX3QzNFpTbTB1dmEyT1FCR0hQWC1HZ3FmSWhvckllZXRpUmZsRnA3cVFIeHBoUzdKeHIybmUzbGJFa1czLXVza2VfX1U4?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-10-12T07:00:00Z",
+   "first_seen": "2026-10-24T11:01:15Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Bilan du rachat saoudien de Newcastle, utile comme cas d'école du modèle PIF, sans impact direct sur les ventes de Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -8080,6 +8172,28 @@
    "axis_original": "E1"
   },
   {
+   "id": "e52cae599c7e",
+   "title": "Converse pauses social media ads, marketing after racism uproar, Bloomberg News reports",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNY1VuV3VuSGhPSWFWVlpkSEQxaFZZMVlxMFN5M3JNbUszaXdZZnVsUks1RFNid0dHY21qd1VsZTdMTjd6Zzl1S2NVc0dYV1IzZ1htT1JXazJDMjdNX1VmREcwZzFoTzNQVm44UlIxeFU1YU54QjNudTFQX0VndV85Yl9WR21jYjBrX1h6ZnpwZ0UwWUNJWTk1dkVjQzVudmh4Y3owbndFbUsxU3M4VWdSckdTWmlfd0Uzdlg0?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-09-25T07:00:00Z",
+   "first_seen": "2026-10-24T11:01:15Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Converse, marque du groupe Nike, suspend ses publicités après une polémique raciste ; risque d'image pouvant rejaillir sur le groupe et sa clientèle.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4f9f400af43b",
    "title": "New data shows Suez route transits rose 27% in August",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMHhPZDI2VGpoVXZndC1uN0JhbzEtWVJ3aWlsOVZFT2Q1ZDcxeGNadnY4VDRjeFJqbzFoMGxjZFVGQlZhMVB3dzhORDh6bUowTjk0NFZtZkZ0S0ZMb2xMdTcycmhDTUZXY1M1NHlQbmMxV191YXEzbmItT3dKclU1SkVCU2dGSmJPeHFHVW02dw?oc=5",
@@ -9699,5 +9813,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-24T04:42:24Z"
+ "ai_updated": "2026-10-24T11:06:43Z"
 }
