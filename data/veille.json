@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T23:09:06Z",
+ "updated": "2026-10-24T04:37:08Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 360
+  "added_last_run": 2,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 408
  },
  "items": [
   {
@@ -3574,6 +3574,28 @@
    }
   },
   {
+   "id": "58bf1827fee5",
+   "title": "La grosse colère de Carlos Alcaraz lors de son troi­sième tour : « Je ne peux pas jouer comme ça ! Je ne peux pas ! »",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUWxTX1ZuTnVkMnlOWVBUSUhmdTZaaVRFZGhhRHpSSDJzNGQxRXNQZzdnY3pxVGlFY1VMWVA1NFJoeEViWVJPWlE0SWRVSnhjUW9VcTIxVXJ5bWM4eHBjTjU4cjlVQnF4dldUekIwMUMxTW9QNDhwWjljUW9lWGN0SlZiMmlJUDdSTXJfQlFWVkt1NFNHcGNqNHFNSXQybGVlM2JhQWVLTmpRcGFqRkhPWko1X0kzZFZ0c0ZUUndtM3ptbmk3X0JwbGw2QjdhU2Q3QTUybjhrOW54Z3ZDYUx1UG5VRGp1UQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-12T07:00:00Z",
+   "first_seen": "2026-10-24T04:37:08Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une réaction publique forte d'Alcaraz, athlète Nike, peut nourrir l'attention médiatique autour de la marque, sans effet direct avéré sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "c9e4ccee21aa",
    "title": "Paris sportifs en ligne : le PSG, les Bleus, le tennis et la NBA… comment misent les Français",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVlNJamF2UUhkc2lBRFk4Z0RpS3BjRG9GWWdPQWlOQWpNdERueEQ2UEhNYzdyMzJSR25rLWVPVEhNOV8talBTS1o4R0s3ekppVVhEWWlMSTA4aUJOc1JmdGJBMURUMVdyazVKOUthZUhhSHdxcTJFQnNwR2UwX0F0M3ltMXhscmIyRmdDMElsZnNfRW1KQTdBc1FQQ2Z3Z3haR1FSdWFGR1g4UGlKdXRfRlRpU0o3SjFsUGVabWt6Y1FwVGx4T0NmTHpRSUlBLXlZSWtPbUpwUDhCcGJEN3h2Yk1uWGQ4emJRTHN0NHhyRE5mOEN0bFE?oc=5",
@@ -4364,6 +4386,28 @@
    "ai": {
     "r": 2,
     "impact": "Coalition Nike, Patagonia et Lululemon sur les microfibres : enjeu RSE pour les textiles Nike de Tie Break, effet commercial direct peu probable.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a730a7b02212",
+   "title": "Nike and LVMH Took China for Granted—and Both Stocks Are Paying the Price",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PemhfcUVHcjhZNTNxcXBQc01fS2Rkc3ZBMHNzTWxmbVI5azduVmxyM1NHclNHc0lUS0g2MmlKWDdfRGJWZFlvUnRPUi1RaURudGgzWWxYV3hZVXd3R2pVbHk3Ynd0Vkp1ay1lRDdsMmNsZmJmLVpZUUwzbXU?oc=5",
+   "source": "Barron's",
+   "domain": "barrons.com",
+   "date": "2026-10-08T07:00:00Z",
+   "first_seen": "2026-10-24T04:37:08Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike market value",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le recul du cours de Nike, lié à sa dépendance à la Chine, peut conduire à réallouer ses priorités de distribution.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -9655,5 +9699,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-23T23:14:16Z"
+ "ai_updated": "2026-10-24T04:42:24Z"
 }
