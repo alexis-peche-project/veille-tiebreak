@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T15:57:25Z",
+ "updated": "2026-10-24T18:47:44Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 435
+  "added_last_run": 3,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 380
  },
  "items": [
+  {
+   "id": "8c300b4fc836",
+   "title": "Adieu le léopard, Nike dévoile une nouvelle paire avec l’imprimé le plus tendance de cet automne",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONGI5WHJBX3NOWm1EUDFsVndWV05xRzBOWXFSMWNmdHhUVDlTUzZCQjFGc0RTSUdWOHlnOEZOX3dNbTlxbkNsUGRKM2hCcUc4TUR0Wjl0b0Q3MjR1YzA1NkVzZWZPSVR6WFZwWVZyOHNsSkpHMUFFS2hsR0dvbzFiU2QzNDY1NWlaUHFCWkE3cnp0bmwtS05FS3h2RzZ4OVJyMUNnbVlZZTNidTVoMm1SdkZqWlpkTnc5bm8xdFROY3YyUzcycV9URW5xZGVCaG1qVkM2Nk9ONjVQVWNz?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-10-24T16:45:00Z",
+   "first_seen": "2026-10-24T18:47:44Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nouvelle paire Nike à imprimé léopard, positionnement lifestyle : peut nourrir la demande de sneakers, sans lien tennis avéré dans le titre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "7a9c4e065f39",
    "title": "Le canal de Suez désormais emprunté par deux porte-conteneurs sur trois sur les lignes Asie - Europe",
@@ -5551,6 +5574,52 @@
    }
   },
   {
+   "id": "825c6eeadeed",
+   "title": "Tennis. « Je dois penser à la pérennité de ma carrière » : le n° 1 mondial Jannik Sinner met un terme à sa saison",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQNXZpTThUM2k0S2NOZV94NmNTaC1rTGV5WTJUM2Q3S1NzbGY1QkpleHM1eUhHOHJPZU5ualZnOEJYVHhqRk5CYnE5LTgyby0zb2JmYkJ3WUxUXzlHTml0OEdlelR3Y1hLOVlZSkZnTHF2aTlBZHQ1YjYzSXBCeU5ZQ3dNVjgyRWxiV1BZcjNEeXNlR0JxYTVrYTNTNnNMNnNJTlV1aGV0WG8zbWFlbVVhSzdGMzBpTU0xaVJYQk1FSmtwcjU1YWxfMTV3UGpSakxZNmZqRnFjZWxuUmtzRDFibXQ2V0RRVXJHbUtLNEtHa2Q2aGxZSW1VMUdNTFZuWjFEeXhkeFZaVzR5Ui1pbzFheQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-24T18:47:44Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner, n°1 mondial et athlète Nike, stoppe sa saison : visibilité réduite pour la marque et possible recul de la demande en fin d'année.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "601794246b70",
+   "title": "Tennis : le n°1 mondial Jannik Sinner annonce la fin de sa saison à cause d’une blessure au genou",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3BLLXNKZFJUWjM0TmJ6ektBVGFnYmV2dVY3UGxPbUtZTk12Qkh2V2hELUpHMnJ4TF8xa25Db05vQWl5WURUc2l3cXF2ZDY1dmZucHNkM2NpS01sUXBKMWplOGhCb0pTOS0wN2ZvOEpuNmQzU0xMQ2J3bkxJTTF2YTFKMjlaMHRobVpNdFoxMnROcTBaSXJCVE5VRWhTMnhWbGZzRWN2RnV3ZG9acVhZMUU5MFBxTml3YVJrS0VtcWNfakk4UDFCTXp6ZFlVM2ZMd05zVFVkQVAzel9ZbHc?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-24T18:47:44Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure au genou confirmée comme cause de l'arrêt de Sinner, athlète Nike : visibilité réduite et possible recul de la demande en fin d'année.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -9927,5 +9996,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-24T16:03:03Z"
+ "ai_updated": "2026-10-24T18:52:48Z"
 }
