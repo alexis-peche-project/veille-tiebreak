@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T22:29:03Z",
+ "updated": "2026-10-25T04:41:47Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 384
+  "added_last_run": 1,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 462
  },
  "items": [
   {
@@ -4664,6 +4664,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "41f86e232a99",
+   "title": "Trump’s Steel Policy Is Working. That’s the Problem",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ05EX0hZSmlhNW5mbWtibzhrUVRnLWlTWlBIS0phRFFoSWJlSXNnbWFnUTYxNXlGc3FLa2tkYmJoNlVQYTA1c3UxMzk3OG85cWVFV2FOWlhSSWxJUGRER0ZPckhpNWUzUEw1T1NlNGdyZDEwT0RNSUJoVXRXVjhCSXVoQUtYd1R2dlBoY2xPU0xWWFZ2SDdCTmpIa29odlRvckd2WWFIQmFLRTdrMjlOUkpQbUs4bW1IcFhaRDlB?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-08T07:00:00Z",
+   "first_seen": "2026-10-25T04:41:47Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article sur la politique américaine de droits de douane sur l'acier : contexte commercial lointain, sans lien direct avec les produits Nike vendus par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "f9d377a8c435",
@@ -10064,5 +10087,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-24T22:34:50Z"
+ "ai_updated": "2026-10-25T04:45:39Z"
 }
