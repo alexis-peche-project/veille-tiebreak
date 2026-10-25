@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T11:29:51Z",
+ "updated": "2026-10-25T16:20:01Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,37 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 0,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 414
+  "added_last_run": 3,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 350
  },
  "items": [
+  {
+   "id": "cd44ae3f2b25",
+   "title": "Trump Defends Tariffs at Rally as He Touts New US Audi Plant",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0JOZjVEWWowZW1iS2tiQXA0MDAycnQxZVFpQk9jRjgzTlFuUjJLLXQ2UjVzQUZSUFJ3SC1qaTVhQ2FvYmVfNHBFRVBvWk9zS2NrU05mYm1PdjVPYWJ5Rzcxa0hGcnBPLVR4aFRDMHlkdG1hWFN3ektsc2tvODB4U2x0c1YwMlplWnFEaURxajdOUW1fZzZkSzhiSThLWUU4OFUtT0JoTFJIWi1oSFMwU0pQNmJuZw?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-25T01:07:00Z",
+   "first_seen": "2026-10-25T16:20:01Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Titre sans mention de Nike ni du tennis : contexte de droits de douane américains, susceptible à terme de peser sur les coûts d'approvisionnement du textile et des chaussures.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "8c300b4fc836",
    "title": "Adieu le léopard, Nike dévoile une nouvelle paire avec l’imprimé le plus tendance de cet automne",
@@ -3271,6 +3297,28 @@
     "r": 2,
     "impact": "Nouvelles dates et diffusion du Six Kings Slam en Arabie saoudite : exposition médiatique supplémentaire des joueurs, dont certains peuvent porter Nike.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "29dff7e6a6b6",
+   "title": "Le soft power saoudien écorné par les attaques houties à répétition",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNGp3anpzX0hiYi1VQ0ZyMEpZSkg1aEJNRDhnNnlJaXprZ3JkVEVzUE5UU1ZuTHdZV0ItaVhtWHBhRk43T3FWVDVITDFLamg4RzltRy1DdENXX3p3emZWcVNZYXpYb2VNRS12LVUtdlphRklhUHI4ektUcUo2MGNKalI3U2c0bG45SnhfOGFFM1p1Qnd1LUtGdmF1R0tMYlBLT3gtaVJ4amR5c2FrSjB5cEVnbU5CVlg4SHRwLW1GSnRYd3MwRS1DNGhqbWlZODhZZkEyZ3Jtdy13UQ?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-14T07:00:00Z",
+   "first_seen": "2026-10-25T16:20:01Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre centré sur le soft power saoudien, sans lien direct avec le tennis ni Nike ; contexte géopolitique régional à suivre pour le sport-business.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -7482,6 +7530,28 @@
    }
   },
   {
+   "id": "28ef6c590479",
+   "title": "Nike recule malgré un bénéfice supérieur aux attentes, la Chine reste le point noir",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1FiTFNqejNYT1FxcDY5Ny1zS3Z0VDV6aDFYY1pXdXZFdUhQUzUtdlQ4bThJcUtfNENlcjdlVDhvQ0hsY3hLb0NQS1ROcVphMTJCRURRY212Mm9QcTRuM2dZd2pNcUV5NVVsWTBiYkFCMlZKVzBncXVmck1hN2RwYldET0Zma3hoUVBiSFBpQ3pnUlc5VlpxbmhDMG9CeUxyNWZYbktMN1RrT2xyR3NVeHJzWG5JUEZzUWZuRFpyS24yTHVOc0xJeWdNdmdKampIVk1lV0xvVlBtdw?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-25T16:20:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Résultats meilleurs qu'attendus mais titre en recul et Chine faible : demande sous tension pouvant peser sur les collections et l'allocation wholesale.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "d4ccb9c410a6",
    "title": "Bangladesh's US buying spree fails to bring export benefit",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFQ5WnByVFZTcGJMaHd2VjE2QlBjMHg3SUVTdGNheEpkbVNVcDdRTEhJLXhoMk5laTZVS1AxTmtQd0NCOE45dXJGb3NtNl8ySzNUODJxRVRTdmY2cXZGS3VYX25saDBKekppcVBtN2p6ZVo1UHF5bUpoaTRjTG1VQ0pTUlhLX2dQeUlHcTlXQ0kzT1U4blJqOGRlSW4?oc=5",
@@ -10087,5 +10157,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-25T11:35:12Z"
+ "ai_updated": "2026-10-25T16:25:28Z"
 }
