@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T16:20:01Z",
+ "updated": "2026-10-25T20:51:34Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 350
+  "added_last_run": 2,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 424
  },
  "items": [
+  {
+   "id": "bae1e2d5e7cf",
+   "title": "From five - fingered trainers to the shoeless shoe : what with all the freaky footwear ? | Fashion",
+   "url": "https://www.theguardian.com/fashion/2026/oct/25/ugly-shoes-mainstream-freaky-footwear",
+   "source": "theguardian.com",
+   "domain": "theguardian.com",
+   "date": "2026-10-25T12:45:00Z",
+   "first_seen": "2026-10-25T20:51:34Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (sustainability OR Vietnam OR Xinjiang OR factories OR workers)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Tendance chaussures insolites, sans lien identifiable dans le titre avec Nike, le tennis ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "cd44ae3f2b25",
    "title": "Trump Defends Tariffs at Rally as He Touts New US Audi Plant",
@@ -387,6 +410,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "da809b97e656",
+   "title": "Nike, Inc. : JP Morgan reste pessimiste",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSE5yWGw3SC1Ebk5KV3lEejEwd2U1bm1ZVzRQZnp5SHJPMjlsbkg5aktqSkZLeDRrdXFqYzV2N0hYNldidEhBeDctVFZVUVFreWw2NnJwd21Qbk5ZZnA5TjctYnpzVXF3RTJHbmFnVWdUY1pkWHZwZnBQRUxEbzh4SGN0QlNITGJFaWVocFdCcF9ZcWpWU2VEMEJWbw?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-22T09:04:34Z",
+   "first_seen": "2026-10-25T20:51:34Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Avis pessimiste d'une banque sur Nike : signal de prudence sur le cours, sans effet direct immédiat sur les livraisons de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b8bc5aea82f0",
@@ -10157,5 +10202,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-25T16:25:28Z"
+ "ai_updated": "2026-10-25T20:56:02Z"
 }
