@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:12:12Z",
+ "updated": "2026-10-26T21:01:10Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,149 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 455
+  "added_last_run": 8,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 378
  },
  "items": [
+  {
+   "id": "76ad5fd5a454",
+   "title": "Jannik Sinner To Start Comeback At Saudi Arabia’s Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1lYU1JhU1N0a1dmNFdINlZ4LUxSNkhfc2xHMmZ4c1dfN1puOWtZMkVRMXl6MlpOUkkyOGtTTDEwbTFjMDVvTGllaXFYZE5SYk9VSVdqRzlRUjhfM0ZXWjBlVlhoVC10VjFjTWJxMkY3T3ZQTWdDeHd3VVplLV9LZUxxVmQ2b2FfX2NLTUc3ZjJyNnFibmhadVN1QU81MlU?oc=5",
+   "source": "ubitennis",
+   "domain": "ubitennis.net",
+   "date": "2026-10-26T17:58:20Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Retour compétitif de Sinner, athlète Nike phare, prévu fin 2026 dans un tournoi saoudien : visibilité de la marque et débat éthique possible pour les clients.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "97810ccb2d82",
+   "title": "Tennis : forfait jusqu’à la fin de saison, Sinner participera à un tournoi exhibition fin décembre en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkljWGRTejhtU1VZV1dzM29PTjAxak9GN0FEWkU0VC1KMjZ5NzN0eWRCVlgwbEFWSGtURXRsVEhuWEdwMmV2Z1g1Y0g5VGYzYmlOeU1ZdGNndF83MVRJVllpRWFtcmdNeWlEVFlQd0tRUFljR3dTTnFVMnFWRkpURWdGeGZISHllOXJmNmpNQ05nWFMtaDRYNW1SVXBvR2tlaHlWUXBsNUQ0QnY2dUFGRVI3NWJNd0NlQXdUVzNqYnFEaHdLNE9N?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-10-26T17:11:58Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner forfait jusqu'à fin de saison, puis exhibition saoudienne fin décembre : moindre visibilité sur le circuit et possible débat d'image autour de Nike en fin d'année.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "1007a10e5884",
+   "title": "Tennis. Jannik Sinner participera à un tournoi d’exhibition en Arabie saoudite en fin d’année",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb0VmS0x6ZE0zcGlzcFVmSFlGdU0xR2JDTTZscDFkNnBUdlRDMVpYTnZYcW90ZG9vNlh5VnV2THp4SEZGS1BGY3VmMC1tb0I0Szh5NEJsSWp0MXh4MVItUzg4UDU3a1ViMTluSmpUczJQdnVkTlBRVHBQb3h5RTNvckdQZFJmVFJrLVB3SVNZZ2VsbVRLUHhSX3FidlNnbXJnQjhNRVZvcER0Q185SVprUDdZYzVhc0VoLUhiczQyakVSaVgyeWRaRFBIVlRsYVJud1lPNE9FT1gxM054WmlxZ1o3ejJaUDRNMWYzeF9FdDg3VWZQUjE5YUpvZTVveXdOZ2JoTEFrTlpjcngyLWpF?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-26T16:53:15Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Exhibition saoudienne de Sinner confirmée en fin d'année : même enjeu de visibilité et d'image pour Nike pendant la période de fêtes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6105293a0e20",
+   "title": "Jannik Sinner réintégré au Six Kings Slam, Learner Tien en fait les frais",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzZJTllVNnBxVWdkOTk0U3J4YmJwRDlKdlJBdEMwQTZkLXN0VnVHWFNjYTJpU0xHVzFrU2dZLXJuMEFzR3dmT3ZRZkJEczgwVGRvUm5vbXVKRGpNQUZ2V3VRUWxLS3daaDlQUFBaNXJhR3J2VE85c18zU0oxSEZYTDI2NWZjdkU1LWtUQzVfWHA3eHlHYXB4amtUYzl4MG9henQxaV9EdmpvOHRjbTJrSDUxY1hhYVVwSVBETzh3?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-26T16:40:48Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner réintégré au Six Kings Slam au détriment de Learner Tien : calendrier saoudien mouvant, à intégrer dans la planification de communication autour des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f24b7d3b7acc",
+   "title": "Tennis : Jannik Sinner annonce son grand retour pour un tournoi en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFJOcXN3R1UyNGJSbDJlNEIzVnNhY2s5YzNQdjFMaTJXZzluaG1JdXdlTXVZdWNLSUF4dmtaQWpiNkhsb1BiZmlCdlR2NnAxbjJ2VWNsZlk3X200YzlxbHNieWNzOTRKUldBUS1kQ2hQbDdXVGNIcEV5RmdGVFM5SDVLd0JaZnRIZXc1dkNfd0R5MnNWSzh3N2U3VmZwalkyTmx4RU1KNzNQci1FS2FJM0gxT2tKUTQ2dG8yYWNmczluQ1UtWG5N?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-10-26T15:56:07Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Annonce du retour de Sinner dans un tournoi saoudien : relais médiatique potentiel pour Nike et pour la communication de Tie Break en fin d'année.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "9390ab5a8951",
+   "title": "Six Kings Slam: Jannik Sinner va finalement rejouer avant la fin de l'année 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzl0V2JCeFA5Mnd5RjJIT1cwY0NZSTRkR0RwR0tCMGI1eE11bXhpM3F4UHlERHJmSmtPR0l2SDJXV2FDQ1lZQUExc3hITUluOGJMclpMMTFCZjkyYTlQR3ZnQ3dHLUtjNy1KVTJXcHFMNVNwNXlkM3pJRS1HUWNQT1NXWG9Lc3JpSE1ncVdEdzdsUldoUjV2UVFEdF9PWjlTcVdzM2syUUx1SE81Z2YxZV9PNWxBdFN0ektvR1JWWDXSAcABQVVfeXFMT2tfVkU4aFk2Q2RQNC1fY2llMU5aaWpQMVVqLWNITkJSVTJ3U2tiUUJ6YnFFeW1aaEtDNWs3OXc0YmVvQXlFTXBZZ016Y0dDekEzWFdVQkFVM0FxemIxcDBXNmdGVktneml4VktNREtyQVpvUkpnTUxjeEY0blFFUEJCazhYMzMyam5PbGNzOFY4TTFNQ0VCYTltaU9XMTR4T0xSc0ZYeFhJakNvVzRhbjJhUTZwZmtMTWp3S1pESHRU?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-26T15:02:00Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner rejouera avant la fin 2026 au Six Kings Slam : calendrier de fin d'année à surveiller pour les temps forts de communication autour des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
   {
    "id": "cf7006629c03",
    "title": "On le reverra en 2026 : Sinner participera finalement au Six Kings Slam",
@@ -53,6 +191,31 @@
    "ai": {
     "r": 1,
     "impact": "Hors tennis et hors Nike : signal indirect de l'activité saoudienne dans le sport, sans effet direct attendu sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3d4cb635ec8a",
+   "title": "EXEC: Eagle Nice Says Tariffs Hurt Sales, Cut Profits and Impacted Production Scheduling",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDV1dU5aMHQtcjdCQkJTRndpYWs4WmQ1S1p1OW1YRU85S2tWdEw4R1pTdjREdlVoT1E2R2stSWFlblV4LTdnWk5FdmJkclhUMTJLNGhpNWppQ1JkdHJnQWRGUlRhUkJBbnFIeEFEQUJfS2haSnZrTW5WMDQwMmMtQ252amVHYzlObTZpMGVLaVNfTzk1QWxNdWI3YjQzcXIzbzhZV3JnbTBISXNncHc?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-10-26T13:05:24Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -860,6 +1023,28 @@
    "ai": {
     "r": 2,
     "impact": "Le départ du Masters féminin d'Arabie saoudite change la donne en matière de gouvernance du circuit ; effet direct limité sur les ventes, à surveiller.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "384098f1954b",
+   "title": "WTA Finals: Pourquoi le Masters féminin a-t-il dû quitter l'Arabie saoudite ?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUhLNldBVjVGaFhDdHE0LWg1UklqMkhEMU5lTUE3X1IxeTQ2TldUTDJzbVhYOWZTR08tNUFWeDlTNzFDQ0FNWEZvVmx4SEhnSmhJNU13emFOdnJNZ2pxakZiNFByNHlHd1psMFhQMkpaa0lBMXVfRUw4Qmhld1h4RnBVNzdWQTFLOE0wMjRFV1BXZG9PTm9zQXQ1aXlBMUZCWVpXUWpZX293TmtVUHhfX0EtWlZzRlJqcVHSAboBQVVfeXFMUEl2MVRhNG0zTUNsV0h6VTVMRktmM09KQ1dOS2NxMXNOV0c0RlctalBzQlNkcU1CNXZMYk40b0NaU3VJWXRvSUVMZ0hiUzAweUFOM21vbDQtclM5OV9MZkxHV0c5WFUxaDgzRDNxN3hhY0ZqUTFjNHl0YXBfN3FHUDhpWm9NXzNHQjJINE5KQmNRS0lZN0s3VE5MRzhHRmhiRGtTT1FEZXRJaHlwYzNGRmQ1M0FaTTJESk53?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-21T08:07:00Z",
+   "first_seen": "2026-10-26T21:01:10Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le Masters WTA a quitté l'Arabie saoudite : signal d'instabilité des événements saoudiens, à suivre pour la visibilité des athlètes Nike comme Sabalenka.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -10384,5 +10569,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-26T15:16:04Z"
+ "ai_updated": "2026-10-26T21:06:26Z"
 }
