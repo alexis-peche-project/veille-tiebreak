@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T20:51:34Z",
+ "updated": "2026-10-26T00:23:37Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 424
+  "added_last_run": 1,
+  "feed_errors_last_run": 0,
+  "rejected_last_run": 451
  },
  "items": [
+  {
+   "id": "28c083a57c10",
+   "title": "Tennis. Open Féminin 50 à Equeurdreville : Harmony Tan à jamais la première",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSmF1X3FKYzh1NVR6YVRVaVAxNENlNG5CbWtXcklNaWRPLTVKSHR5VFhHY3pPRVhMd21PaGp1SHVSbWJJcHEybWt4bWY5d0gxaWZCMU5HN2t1V3hNMm1TMEVWbmV2aERNSTNaR2JVdElLZ3BWOUtyNTAyRUdmSEk1QnhjRGlQMEVZVG41TWxrb1laYWpTUDE3UVN2SmZYei1CR09xVnU2SjI2eFBEMXBfV1NGOU5DM0EwSDBRdEhfSUNBLU1SR1dnUnBDNmlhZkJLZjY3eFdxa2FYS1hfcWxNYTdGZG4?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-25T19:15:08Z",
+   "first_seen": "2026-10-26T00:23:37Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
   {
    "id": "bae1e2d5e7cf",
    "title": "From five - fingered trainers to the shoeless shoe : what with all the freaky footwear ? | Fashion",
@@ -10202,5 +10225,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-25T20:56:02Z"
+ "ai_updated": "2026-10-26T00:28:15Z"
 }
