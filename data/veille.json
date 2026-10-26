@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:48:26Z",
+ "updated": "2026-10-26T15:12:12Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 409
+  "added_last_run": 2,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 455
  },
  "items": [
+  {
+   "id": "cf7006629c03",
+   "title": "On le reverra en 2026 : Sinner participera finalement au Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHdVUjJ5Z0RiZGhJa2ZFQlY0ekppdzA5anNNQ2IwaWtjMVIxRGM2UDZDSmJXLXhLU1g0V09GRndXM0I5aDR6eXJGd1BBb1FoOVZ6LTRRYzRhdWhTSS1QWWpxczMtQS0xVTRJSzY0OWp1RWV1dUFJVTBEMGwxWVQ0WVBxd3Y2Y3h4QkpheUR0R3R6ZVlLcTZtZTJfb2MzTl9qbmVfdUcxX0RxWnQ5M0ZvZ2VXN1pQeHhpYzlGRE1RZ3BIODZYd3dQdA?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-26T14:51:00Z",
+   "first_seen": "2026-10-26T15:12:12Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Athlète Nike engagé dans un événement saoudien : possible débat d'image pour la marque et les clients de Tie Break, sans effet direct sur l'approvisionnement.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "344264f93821",
+   "title": "Dustin Johnson leads group of LIV Golf stars seeking over $100 million",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWFJ3emFVY29MWGFNTW13MUJwSktFb0VXenUweVFnekxYTEwtU243NG9UOHc2M2dPZ2ViSWNmVWo3VG8xMTdjTUxrV3VBcGZ0RU1WcUUyZ1pxSnR0VlJiS3lxYkxCOTNGM3ZYNjd0N1ZIWmNrWGJ1ZnBYakRXUEhxR2twZ0hpRF9jVXNUdjFUU3dUQ01qNGotRmR1RGMzb01GYlJTbTJPVnZtX25IWGlzeGdPTFB0TkdHa3hleWNBeGpsUQ?oc=5",
+   "source": "Tennis World USA",
+   "domain": "tennisworldusa.org",
+   "date": "2026-10-26T14:30:25Z",
+   "first_seen": "2026-10-26T15:12:12Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hors tennis et hors Nike : signal indirect de l'activité saoudienne dans le sport, sans effet direct attendu sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "78910d262b87",
    "title": "Gap apparel supplier Gokaldas eyes doubling Europe exports share to cut US reliance",
@@ -10340,5 +10384,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-26T07:52:59Z"
+ "ai_updated": "2026-10-26T15:16:04Z"
 }
