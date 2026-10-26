@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T00:23:37Z",
+ "updated": "2026-10-26T07:48:26Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 0,
-  "rejected_last_run": 451
+  "added_last_run": 5,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 409
  },
  "items": [
+  {
+   "id": "78910d262b87",
+   "title": "Gap apparel supplier Gokaldas eyes doubling Europe exports share to cut US reliance",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHVCTVRsc3V1VkZ3dkhISThlYUdZZkFfbmplWFZyclRHZnlvb3ZyZW9TamF4cnJXUzI4RkRnbnp1SUoyME5NZlRRenFsMndrTnAyX09KQjQzUDdEUklPVmQwTGdqclM1bUpDbXBJTzg1eDZNX0ZsMFdkcnd6eEl0anB2MzF5Z1RteHBmeVQxT0ZBLTg5V1prSjRQNjNfVjVJVjZVOXhZTUtiZEVHUkljeVlZWjJ0cEdydzVrM2lPZTFmdG5nbzNrNnl1aGtORkVMMVpJY1ZoeXg?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-26T03:58:00Z",
+   "first_seen": "2026-10-26T07:48:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un fournisseur textile de Gap veut doubler ses exportations vers l'Europe pour réduire sa dépendance aux États-Unis, signe d'un réajustement des flux textile face aux droits de douane.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "28c083a57c10",
    "title": "Tennis. Open Féminin 50 à Equeurdreville : Harmony Tan à jamais la première",
@@ -35,6 +57,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "b6b5f1b5d026",
+   "title": "Dustin Johnson, other LIV golfers want PIF to step up on ‘severance payments’ - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTdYa2YzMGgzVHhlY3pyRXBYOExxUldQUl9ZZDZOVk9hcGNSN2RBNk56SUdIcG9NaVFiU3IwZTdXZ2pzXzdvVnhVQWp4RUoxRk9lYkVfOUZKZVBRNnA2RVZyYkNVT0VxRk50YnktUEtkZm1zUHRBejh5OEZ5Z0ZKaXctY2p3dm8wU0V4TVZCeGZrdmE2bmRfckdwaEtkVm9MQ1NIaEZmNmk?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-10-25T14:28:19Z",
+   "first_seen": "2026-10-26T07:48:26Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Des golfeurs de LIV réclament des indemnités au fonds PIF, ce qui touche la gouvernance saoudienne du sport. Lien indirect avec le tennis, sans effet direct sur Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "bae1e2d5e7cf",
@@ -295,6 +339,28 @@
     "r": 2,
     "impact": "Suspension provisoire pour dopage dans le tennis féminin : rappelle les enjeux d'intégrité du circuit (ITIA, AMA), sans lien direct avec Nike ni les ventes.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fbf2b3a81198",
+   "title": "US renews push for EU to soften Big Tech rules",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWnNjOTdFTEczSkpISy1MODZCa1Q1ODBMSzFmc244cHo0ZVA3MWQ5bC0zYUEzbXpWTi1aTG81M0Z3b1hVZ01MeXdiTjFSdzlvRFFUR25GXzhRV2pUMndDRHdFTmZudUt1NHdyc0N2LUwxYTV3bGJyMHdoRXFsV1NBaFRiV3MyUQ?oc=5",
+   "source": "POLITICO.eu",
+   "domain": "politico.eu",
+   "date": "2026-10-23T10:49:17Z",
+   "first_seen": "2026-10-26T07:48:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Les États-Unis relancent la pression sur l'UE pour assouplir la régulation du numérique. Tensions commerciales transatlantiques en toile de fond, sans lien direct avec Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -5805,6 +5871,30 @@
    }
   },
   {
+   "id": "f53e90407f5b",
+   "title": "Tennis : Carlos Alcaraz remporte à Tokyo son premier tournoi depuis son retour de blessure",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVU14dmlFb1JlcHhJRzZSalRqSDdwOGY2bWtMQkx6U1pqamhZMFd1cVZwQ3lSV2lBUl9Edk1CY0dQaklkbTlRNnp5TTg0NE5yamhRaGtJVjZIN1hVcUp5WkNwZUZkV1FWdEQ3VDhLa01LXzc5emRyOXctZElFMF9iT2pwQmpiRFNjZ2NDQXZPSkNzVXkyRC01MFZkbHN5ZWVUUXB4Rm1Bc3F3OWtrUFVyUkxxZlZNVGJYRnpieE5ySGc4MUhPV0liLWI1WQ?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-26T07:48:26Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le retour de blessure d'Alcaraz par un titre à Tokyo renforce la visibilité d'un athlète Nike, soutenant la demande pour les modèles associés en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -6134,6 +6224,31 @@
    "ai": {
     "r": 2,
     "impact": "Forfait possible de Sinner au Six Kings Slam, remplaçant envisagé : absence de visibilité possible sur un tournoi saoudien, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "5e1482ecb5d6",
+   "title": "Sinner on the Brink of Withdrawing from Six Kings Slam as Replacement Candidates Emerge",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVjhJLTA1eTJ5eEctajJyWEx5ZDVQOUU0QmFhb3lsV0ROY3d5LTF5MXJlVDRyWFVMbFZnZWxObnB6OHV3VDVxcGdtbVgwV0JNVUdHRjZnY25ORDA2cGRxSm5vaVpSNEJEMjd5TjVhMG9MaVYtLUpYMFlFNmV1RVZGUkhJUXpJSEM2SUFMWWxEdjM?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-10-04T07:00:00Z",
+   "first_seen": "2026-10-26T07:48:26Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "withdraw"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner pourrait déclarer forfait pour le Six Kings Slam, athlète Nike. Une absence réduirait la visibilité de la marque, à confirmer avant tout effet sur les ventes.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    },
@@ -10225,5 +10340,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-26T00:28:15Z"
+ "ai_updated": "2026-10-26T07:52:59Z"
 }
