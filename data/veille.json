@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T07:52:34Z",
+ "updated": "2026-10-27T14:32:12Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 355
+  "added_last_run": 7,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 354
  },
  "items": [
+  {
+   "id": "1778e05e2bcc",
+   "title": "Mbappé Boycott in China Widens After Perceived Insult to Mao",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTEozYkVLU1c1QzJqVkVnbTJXOUFVS3plcms3RHNscVZYV2pxek8tSHZPa1NhNmtLTV8xY0hXTnFXa0NWSFJySjdsbm9KQWsxZTlham5QeFl4bno4ek13SVo2UVZxSUVPRVFjeUdZbXRvdDFCa1hRZzY5ejFzNTB0MThPbm5xUVM2ZGJrT0NnNDFBMVg3VURQdHJnYmFoWXU3emtVRVhPQ2pPZXRqeVYtN2JVYkw2aW4wMWpPZVdBNHhNTGxXNzBr?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-27T08:48:50Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "boycott"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne pas Nike : il illustre seulement le risque de boycott en Chine lié à un athlète. Pas d'effet direct démontrable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "dff0a52e4beb",
+   "title": "ATP > Jannik Sinner sort du silence : \"Si la question est de savoir ce que j'ai découvert de nouveau pendant cette période loin du circuit, la réponse est rien, mais je ne me suis pas ennuyé pour autant\"",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRlNnZ3NjQXl4ckJlZXZhSWhiR0dqVW1hejlZbWtENTZERkkyZXRLSEhYS1paODRRUGxGQ1FXdldkdUxIbzBZZTZzbnQ0LVlQZ3JmUndBTmk3YVppYVNPQ0E5d0Q4ZUp0eTN4dEN2eWE5eE9Va3QzaGR6Z1JrWExsRkQ0bmJteHRFOVVCTVdvaVc1YnVvcGxpbHgyYXFQQ3puVXdBNFpVVXJIZndJNTQyX0haU2VwWnRDSEZHdGlTSndKSzJZMENsTlJaSV9tT2k4bjFGWnpDUjFjNzFIQkROWXdtTHhCREZWa2s4WTNzakhzbEtjbWtTRVl1MmFhNlBPTmVxMklpV1JUT2Q5cnc0WGNVLWlvS09pTXh1LS1CYlZTS2JoWmNlS3kyTWh3VEJpRUFkYmdNb2N4bXc3bVRIdQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-27T08:02:00Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner, athlète Nike, évoque sa période hors circuit. Visibilité de la marque et attente du public autour de son retour peuvent influencer la demande en produits signés.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "9c120ae55a65",
    "title": "Tennis. Un nouvel entraîneur surprise pour Jannik Sinner à partir de 2027 ?",
@@ -127,6 +173,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "fb869b75590b",
+   "title": "Tennis : forfait jusqu’à la fin de saison, Jannik Sinner participera à un tournoi exhibition fin décembre en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkljWGRTejhtU1VZV1dzM29PTjAxak9GN0FEWkU0VC1KMjZ5NzN0eWRCVlgwbEFWSGtURXRsVEhuWEdwMmV2Z1g1Y0g5VGYzYmlOeU1ZdGNndF83MVRJVllpRWFtcmdNeWlEVFlQd0tRUFljR3dTTnFVMnFWRkpURWdGeGZISHllOXJmNmpNQ05nWFMtaDRYNW1SVXBvR2tlaHlWUXBsNUQ0QnY2dUFGRVI3NWJNd0NlQXdUVzNqYnFEaHdLNE9N?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-10-26T17:11:58Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Forfait de Sinner jusqu'à fin de saison et exhibition en Arabie saoudite fin décembre : moins de visibilité Nike sur le circuit officiel et débat sur le sportswashing.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "1007a10e5884",
@@ -514,6 +584,29 @@
    "ai": {
     "r": 1,
     "impact": "Nike privilégie les athlètes-vedettes pour sa visibilité, mais l'article concerne le football et n'a pas d'effet direct sur le tennis ni sur Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "4c83a9489675",
+   "title": "PSG - Nike veut faire de Désiré Doué sa vedette",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEp1YkVUNElqQmg2WDNBQ2Y2QjVNY2U2OEdiY1Z0akVXMHdRMlJ1bWNRQU1SNEdtOG45OU1rNHc5RFVvRS1aSkE3WU14RFpVVXpxNVZmMlZYSE4xQmFncE5rcF92Ung4NVVydFVySVByWGkzbFEzLUJRSkNCem9Da1RVeTRacWtBU1VrRjVCemtabktrNUxiOFduSFgyQXJxczZHN3A5WDY3dw?oc=5",
+   "source": "MadeInFOOT",
+   "domain": "madeinfoot.ouest-france.fr",
+   "date": "2026-10-24T09:20:00Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike investit sur Désiré Doué, footballeur : signe d'une stratégie de marketing centrée sur quelques figures, sans lien direct avec le tennis.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    },
@@ -4532,6 +4625,28 @@
    }
   },
   {
+   "id": "2dede20e20b4",
+   "title": "ATP > Patrick Mouratoglou : \"Carlos Alcaraz est-il de retour à son meilleur niveau ? Lé réponse est non\"",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONTdua2VKc1pjem5PTzlwRzFkVlhzMGUtem1HN0xFTXZ2dGlvN2kxUDNiX1JqZW4wdU5MUjJWRVQtNjdKWFlRakZxUkNsQmQtb3ZLWEhPaHhrWDRiWWdaVDNGakxvY0ZTU1g4SFFOUWRzWTBBVEl6Y3hQczgtT01acHJFTVhNRDg2Z3NrSVlFSThtdG5qTWtGYjZoNEtNYzRHRmQtTWVhS2RYZXNMemEzNzQ4UnZUdUVpVUpLNlBFRF83dw?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-11T07:00:00Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Mouratoglou juge qu'Alcaraz, athlète Nike, n'est pas revenu à son meilleur niveau. Opinion d'un expert, à confronter aux résultats, pour anticiper la demande en produits signés.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "dd11aab0bd95",
    "title": "Six Kings Slam 2026 : nouvelle attaque à l'aéroport de Riyad avant le tournoi",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjZzUGRDbFlEQVhOY3BmS3hxdXF3VENPZXd3THlNQzZkcEItN1FCSURrSmNwLWFQN1czYzFVSFZZcUQ0QVhsSkRvbFhvVm1aeFFBRlZwcklUNHNtTUUtNjMtUGtLcmxyMGRrV0ZCemsydkhWWmRybUZTOWROM1JhZFIwdEdOdlduWnUtMTNMSDg4SDJabXZjNnRRVzJaUHBQaUJ0R0RYLUhyWHpDUTNKNTF5b0hFYlgwSWR2RFUySEF1dw?oc=5",
@@ -5593,6 +5708,28 @@
     "r": 1,
     "impact": "Vie d'un club de tennis breton : indice lointain sur la clientèle des clubs, sans effet identifiable sur les ventes de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ed884003aee5",
+   "title": "Nike, Patagonia, Under Armour join new microfibre pollution alliance",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3ROTDM5LXlPY1pxWWJRTjVmQWhYOFNJYXB2cUI5SENsM3dlM3pTTWRBZFZlaERmZGV5RHFXaTRBb0tSNjRqaVhacUdxTFZTT2JBb2lEQXF1QWtqdElmNTU4S3RUMGFTRU1xeTJaM3QyMXJiQ2o3LTJ5ZUx3R3FSMzdQbFVPTkg1Z0pQYnJGV1dyQ0loS0l3cjJfU0R4MGxYeHRhUkVJSWFvNzltVERnVGRoLWR2TE1FSGVtYg?oc=5",
+   "source": "Fashion United",
+   "domain": "fashionunited.com",
+   "date": "2026-10-07T07:00:00Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike rejoint une alliance sur la pollution par microfibres : engagement RSE utile à Tie Break pour argumenter auprès de clients sensibles aux enjeux environnementaux.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8168,6 +8305,28 @@
    "ai": {
     "r": 3,
     "impact": "Résultats meilleurs qu'attendus mais titre en recul et Chine faible : demande sous tension pouvant peser sur les collections et l'allocation wholesale.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fe5a7b5d8697",
+   "title": "Nike Reveals New Operating Model as It Misses Q1 Sales",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc201NzNhOXZtRl9WQ2tlSmpFcllNaThmMkdVUWE2LTIxMm1RUHk0c3ZTWEU2M0gzRk00TlZBM1N5RFhFcF90R2JZUFNRU3lwNTZqaVJPeG1BYXROUXY5OUNPVFY2a3ZIa3I4M3lBX19RS0RZZm03MHBOaXBiUXE1bV90b0loYi1VNUxGdS05b0hSbjRCX0Q3a0xEaHhKZDRzQWtCMlJVUExXMTBvQUxv?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-27T14:32:12Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike manque son chiffre d'affaires du premier trimestre et révise son modèle opérationnel : cela peut modifier allocations, délais et collections livrés aux revendeurs comme Tie Break.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -10778,5 +10937,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-27T07:57:32Z"
+ "ai_updated": "2026-10-27T14:37:56Z"
 }
