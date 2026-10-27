@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T01:28:57Z",
+ "updated": "2026-10-27T07:52:34Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,78 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
+  "added_last_run": 6,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 386
+  "rejected_last_run": 355
  },
  "items": [
+  {
+   "id": "9c120ae55a65",
+   "title": "Tennis. Un nouvel entraîneur surprise pour Jannik Sinner à partir de 2027 ?",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNWx1WHpoUWdKNGdDeEdlVHJrNXFqWEZWQmN2bV9CRkdTQ251cGRKNVpHT0hXSGlWTEkzT1ZUdXhuTHV0ZVJkdTNsLUFYUGZrUVlNTHB0MnJhNTlKOXY2dy1XcnpHX0tvMHE2SlFaZU5QaEdzaHpfeUZqcDNyTzgzaGlreFkyemd6TWxnYWxBWENuLU1PdDY1WERlMHBmT0UzR2JuWWdhYTB6NHUzeUdmeDJDU29mRS03dTdTX2VaSFprYVRoZDd2eE1zbDhqRjBXM2dQOFVfdE43Y0xXRG5BbWNEQlhHNlZLejA1cWgxcW56OTRqckg0?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-27T07:46:16Z",
+   "first_seen": "2026-10-27T07:52:34Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un changement d'entraîneur de Sinner en 2027 pourrait modifier son calendrier et sa visibilité, donc la demande autour des produits Nike qu'il porte.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "14ed22865715",
+   "title": "« J’ai beaucoup appris » : Alexia Nodin revient sur son premier championnat d’Europe de tennis de table chez les seniors",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNU0pTaVg2NEx6VWt6dmhSV2NmTUgyWjFlV0ZDUm9yV3pTQW1vZ1luNmYyYl8wdEtfcUJvYVFDNklldFRIbmxsaFNwb1VRZmZzdjZuMWcyY1BHLWx0bUNlQThoa0hRSXRQaVlTV2U0VzdoTmJ4bllIcENGYXFxeVE4UkpYdGZaVEJHdVg3LXlQYTRzRGVHcHpYeU9iYjdaeEFvZjc3SWc4Y2dOVHo0TVJoU1EyRV9lS2dEak5POXlVU2VOalZpNlZzRVVYR09TVmg0dGhIaU1kQ0RpZ3Q4T1NhTmhpaUtDSXJqX0FGek5fU0lxUTliM3VGMm10UUc3Mi1WSE82XzJRWF84VjU5MHVwVVROcTI4bFNCTG9zcUJOdWlOUkpHMHc?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-27T07:16:03Z",
+   "first_seen": "2026-10-27T07:52:34Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f9c5e9975fb2",
+   "title": "ASICS on Nike's heels in US market comeback",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEZrZTcxRVR0RVpKVVotblZhNWtVc2N6X01TU1FadXh4NGFnY2hQZS1yLXhuVnlLQ3ljc1hPMVNOdWpITmp6UjRGTndjUGZEY3FYbi0xUDNHbzNZbzBJem9DUWRlbGo0NGE3d2lmcXl6TEtHQ3RIMENCa0llOVRmZE5lcDc0TWJ1OXp1WmxB?oc=5",
+   "source": "Nikkei Asia",
+   "domain": "asia.nikkei.com",
+   "date": "2026-10-27T02:50:00Z",
+   "first_seen": "2026-10-27T07:52:34Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike market value",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "ASICS progresse sur le marché américain face à Nike : la pression concurrentielle sur les chaussures Nike pourrait se répercuter sur l'offre et la demande chez Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "76ad5fd5a454",
    "title": "Jannik Sinner To Start Comeback At Saudi Arabia’s Six Kings Slam",
@@ -1048,6 +1115,30 @@
     "r": 2,
     "impact": "Adidas relève ses prévisions grâce à des remboursements de droits de douane ; si Nike obtient de même, marge de manœuvre sur ses prix wholesale.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ffb74fc1b418",
+   "title": "ATP - Blessure: Jannik Sinner risque de perdre 4,5 millions de dollars",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWIyMUYwaG9uY1pFcUVpTnlTN3V3RWdVUUpzdXpwQ2JMclpCU1JXR1EwSmEwQ3cxMk5ZcEJQSTBNMnpVZU1kSDBsdHFiMFVqY3c0RUxtSWpTRWwxTGR1SjF3UTVnMDRlcXN3M1plQVFZRlJwbVhRQm9OMmRMLWltb0lhdlpucEZWSWJGZ0lHWkhIb29ZWmhlVW5YaDFwZkVtSFhsZ3VBSmk1RmxpZ0pCUtIBsAFBVV95cUxNRk5QOEZxOGh5UUx3QzRCcWZtZDdEbVRTSURUMzdKRkRlcXV2aU5FZ180bHdFcXVfcS1vTXFaYUdvUlpfUmk1T0FnTy1hWDZ5cFRocHk5TlQxN0t2bm1wTGxDMHVQUTltVV9qSDFkdHlidFE5RFpQUWpkdXhtdjFsUkVlcUxDNUREbnFUQ3I3X2NHZ19FbTg4WktrTkRLSzExcHl6NWdXWGJOb095c2hNVw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-21T08:40:00Z",
+   "first_seen": "2026-10-27T07:52:34Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "La blessure de Sinner, ambassadeur Nike majeur, peut réduire sa visibilité et l'intérêt des clients pour les produits associés pendant sa période d'indisponibilité.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -3750,6 +3841,31 @@
    "ai": {
     "r": 1,
     "impact": "Titre centré sur le soft power saoudien, sans lien direct avec le tennis ni Nike ; contexte géopolitique régional à suivre pour le sport-business.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a33a78e85865",
+   "title": "Tennis. Gaël Monfils est à la retraite : le Français plus autorisé sur les tournois ATP selon l’agence antidopage",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPN1NDcXd6OFpCTDMxNGpHWktfRUVWVzJsYTZ1emJBZFdCNTZHSTFqMVhMVjZhWERCdXlJdUNMWXE1OUtnZG1lZkpNODBHTFJJRzlxa3BJRXFkRHJJRGhlMDlVNjh6UkFmOU1tOWlrcTNfTHgwVDFIZWpOYkxHTEdtcEFFM3dPMndQcnVsVTJfei0wSkROcEpQM2JHc0VHbDZkQVdmTHFHVlkweE12UWc4ekw0NXRaS1pXakN0MVZtUDBSVHAwRmdmbkFuYnRDUVlYcjQxZUIydHNHb0NBOFJ0MGt4X3FCNU83LWdwY3B4Q0dmUVUzRDhsT1FEbmo0NnlaSm9VWjkzODRwSWpvVFZaSmI4LW9CajlsakRGWkJVZTZVX292cDNv?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-14T07:00:00Z",
+   "first_seen": "2026-10-27T07:52:34Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "dopage",
+    "retrait"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Décision antidopage sur la retraite de Monfils : impact indirect pour Tie Break, qui n'en tire pas d'effet commercial direct.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -6756,6 +6872,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "6d83cac5c4d6",
+   "title": "Fin de saison et Six Kings Slam : Sinner, un forfait en quatre questions",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMHo0ZmxMUkNRallmaUl1d1puZnY0ZXdEaHVVbF9abkloaTEtcU9LSEtlcmtiQ3NJbVBZZmFRV0JhY3NJZlFnbDJKdFFEdE5VMElRTVRCV2RGTHc0WHY4dFNLRk9IMjNSckNTV0RaOEdvRUhUdmk2Qi1EY19YalY5QV9Ib0dGazdLTG9ic0xtZXBaV1prc0NVUURWV2owY1RYZTN4T1lXSmpDMzFvcnVLZWVjMVY0TllfeEVWQ2NONWVkRXBaTXc?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-03T07:00:00Z",
+   "first_seen": "2026-10-27T07:52:34Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le forfait de Sinner à l'exhibition saoudienne Six Kings Slam illustre la tension entre attractivité financière du tennis saoudien et calendrier des athlètes Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "72475a21e9b8",
@@ -10638,5 +10778,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-27T01:33:58Z"
+ "ai_updated": "2026-10-27T07:57:32Z"
 }
