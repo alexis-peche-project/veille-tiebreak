@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T21:01:10Z",
+ "updated": "2026-10-27T01:28:57Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
+  "added_last_run": 3,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 378
+  "rejected_last_run": 386
  },
  "items": [
   {
@@ -221,6 +221,28 @@
    }
   },
   {
+   "id": "a7b8ad14ba23",
+   "title": "EXEC: Key Asia Apparel Maker Warns of 40+ Percent Fall in H1 Profits",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDV1dU5aMHQtcjdCQkJTRndpYWs4WmQ1S1p1OW1YRU85S2tWdEw4R1pTdjREdlVoT1E2R2stSWFlblV4LTdnWk5FdmJkclhUMTJLNGhpNWppQ1JkdHJnQWRGUlRhUkJBbnFIeEFEQUJfS2haSnZrTW5WMDQwMmMtQ252amVHYzlObTZpMGVLaVNfTzk1QWxNdWI3YjQzcXIzbzhZV3JnbTBISXNncHc?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-10-26T13:05:24Z",
+   "first_seen": "2026-10-27T01:28:57Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Fournisseur textile asiatique non nommé dans le titre : sans lien avéré avec Nike, il n'informe pas directement sur les délais ou coûts d'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "78910d262b87",
    "title": "Gap apparel supplier Gokaldas eyes doubling Europe exports share to cut US reliance",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHVCTVRsc3V1VkZ3dkhISThlYUdZZkFfbmplWFZyclRHZnlvb3ZyZW9TamF4cnJXUzI4RkRnbnp1SUoyME5NZlRRenFsMndrTnAyX09KQjQzUDdEUklPVmQwTGdqclM1bUpDbXBJTzg1eDZNX0ZsMFdkcnd6eEl0anB2MzF5Z1RteHBmeVQxT0ZBLTg5V1prSjRQNjNfVjVJVjZVOXhZTUtiZEVHUkljeVlZWjJ0cEdydzVrM2lPZTFmdG5nbzNrNnl1aGtORkVMMVpJY1ZoeXg?oc=5",
@@ -309,6 +331,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "955512715fb9",
+   "title": "ATP - Blessure: Jannik Sinner suit un traitement par PRP pour soigner son genou",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXpxcHBvQlRDNGhKY1BQVG1mZklFak5DNXk0Qm9NNnpDM2cxYnhXRU1BV2ZGMGtacGVoSUt3dVBhM1ltdFYwVm0zRElCWjJzRThkM1puVm9lTjBQODVQRFYxSGlMdTFQcnpMNjQ0Q0VrTFNzYnd3ZkhwVlU1MjMzZjBhNGdUeFVzVkctdFNGSWptcHo2NnJqM2FqSzRnNWFtbXZRVXdSVzREc1RtckMySG9XYUlyRzZfUS1oTdIBvAFBVV95cUxOV1VUdlBnaDdTNVJRUm5tbFlsdlZ2OUNMZG1adTRFaHQ3dVdLS0NGMlhaME41WWtQQ0VMZENVN3QySFNaZEZ3YWFGVXZRVjV4cHdnbU52NmhXSVNmc1VRd2l3QmhxazdMNFNhYU1fYlhheUhSUnkzMUhUamZmVUowNlY4RUxsczdINUlyay00Q3RwaXlsTHZDUlU2TVA3aWRzVzZEQ0FJNWVVRzVER3k5OXM1LXdwQTNzdGlwZQ?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-25T10:12:00Z",
+   "first_seen": "2026-10-27T01:28:57Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Traitement PRP au genou de Sinner, athlète Nike : risque d'absence ou de moindre visibilité pouvant peser sur la demande pour la marque. À surveiller pour le calendrier.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "cd44ae3f2b25",
@@ -1048,6 +1094,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "2ca96e4e15d7",
+   "title": "Adidas Lifts Outlook on Robust Demand for Apparel, Sports Gear",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMGZJeTU1MUxtNVdhMlRrZklvdV9UNmJrd2tTdFFyVHl1Nm5QQ0lReEg0S2NOZ2FISndDYXBmLUVGY1ZBekRoZmtYZ3prYmI0QkVuSDFmTUVpZzRaVVp5VVozQmNHd203LVowUmt0azUyeDBWeHI5RmpxY2E1VTg2TEFhTWVLWmtpQkduX1NvaVptRjh3WmhXVTZ3c1llTURDTF9EZ1J4alk0N0FyUkpKRXhB?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-21T07:04:31Z",
+   "first_seen": "2026-10-27T01:28:57Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Adidas, concurrent direct de Nike, relève ses prévisions sur une demande solide en textile et équipement : indicateur positif du marché sportif, sans effet direct connu sur Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "76c69446ef8d",
@@ -10569,5 +10638,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-26T21:06:26Z"
+ "ai_updated": "2026-10-27T01:33:58Z"
 }
