@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T14:32:12Z",
+ "updated": "2026-10-27T20:42:14Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 354
+  "added_last_run": 4,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 360
  },
  "items": [
+  {
+   "id": "c04d8f06ab20",
+   "title": "« Un peu plus de Playstation », GP de Monza, maison Gucci… Comment Jannik Sinner s’occupe pendant sa longue blessure ?",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNME9aMlVmd2NreVF6NkJUU0I4MjBrRHZ4dzh1NXV3LXpRSmlRNnlFNDNTMlpfclhFY3ROSFNmUWVGVlZCb0lQVk9MRi0tclVsY3hPXzdoMVpTNWtSb2VCY3h5ZWJEUWdGMHpaOWljSWJIZmdfbGlxOW5CLWRlaGIwRGwwVEcydmRiVmp4MTBMVFQ2Vmp2Rk53cDRqUTNQNk00N1JZaW51SkdXSTNwZ3ZCMjhyVml5ZWRkZlVZLUdZRC0xQzB4ZHYyaFNOV2EyNnUyMTI4WTBIVUxTSWdWc1FEMllqSjd3MTRPVEdrR2VUQW1OS3lvUWxjWXBudW5waWsyU0R0bmEwUmpwQVhkTWd0RFdEeHVKX1dzaVhyTG95aWdjQmhVR240?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-27T18:43:07Z",
+   "first_seen": "2026-10-27T20:42:14Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Une longue blessure de Sinner, athlète Nike, peut réduire sa présence en compétition et l'attention médiatique portée à la marque, donc la demande en textile et chaussures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3c9a09f0e639",
+   "title": "« Vous aurez du mal à trouver ici quelqu’un ayant une mauvaise opinion de lui » : à Bruxelles, l’eurodéputé Glucksmann a marqué des points",
+   "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNRkR3U0hiemc3aXh5eERhUnNVSE9zeXo5WnF2M1hmUjZZWmNSTnNPU0RSZ096aUg4MlYtZHVVcTV5dExOVlhDTkx1VXkzRW1GR1JaV01QUVVaaVY1UWhhb09nV0hGSlppWkkzXy1UTXhsX3FJcDlFaERHdURoTmczRVZvRk9tVW56WkkzTHVtVmYxcEMxX0JVODdkQlVHUGJNbkpGQUtBMlVGLTJrQTVfWTFqUTV6WUxOMWJxTUJUblNvU1VBLWltdm5lZTZualpNYUtmOTNuWDdLQmt3TnlVdlR1MktnSk1qYjBuN25QZkl4VHpRTjRyOVZhQmpfVy05bUFKQVZfOFNuQm1vU2ZtRWUwRGl5TGJzRWh6ZVN6NnRpTmdDRUxCUjNkZXZiVU9MWVQxY2M0MmJ1eURrejA4UjVuUnI?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-10-27T15:16:39Z",
+   "first_seen": "2026-10-27T20:42:14Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "1778e05e2bcc",
    "title": "Mbappé Boycott in China Widens After Perceived Insult to Mao",
@@ -423,6 +469,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "537e2346f0d6",
+   "title": "Une marche blanche pour Pengo Bossio Wangi à Aubervilliers, aux accents forcément politiques",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWF5VzRJN0JtTlNYTENQM2tLTk9TMTZTOE9pRlVLUnYzUUEzb0xlTzlnUnphNENySGxnVkxYMXUzZlMyQTVzaWNFRUtLTVJfcE1NUTN3Z2MzWjBpSE9aUy1tMDRELXZMbFE2R1R3X1BhT3pyNkZMdlp1WlN2czNUUk1pLTU5cUJKanMzbDVwOHMzeHZIY3Y5UVI5NnpEaHd1WkZNME1SS2tTVG9iSlNDRDFXWnVub0RhaGlNOVlNQmZ4QVV6dkI2UjhlZ2ZhMW8wN1Zr?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-25T18:19:56Z",
+   "first_seen": "2026-10-27T20:42:14Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "b6b5f1b5d026",
@@ -979,6 +1047,30 @@
    "ai": {
     "r": 2,
     "impact": "Une règle antidopage qui change en 2027 peut modifier la gouvernance et les contrôles du tennis. Effet indirect sur les athlètes sponsorisés Nike et sur le calendrier.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a2716bf744b4",
+   "title": "Dopage: Une règle importante va évoluer pour les joueurs en 2027...",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlRZR29sSTdFRGJLbEVyeWV3emFjNF9HQl9Xa2djYjE4X1k5UnV1NG8tNWwycEp5Z1RuRVI5YWF0YTNDbHExTnY4VXE4MTRta010bmhsNTR6eWYyT1pxUXEyNXNfN3ZlckE4WlJjYXZVSURLXzdhYWFVVHczRkN0cGx0YVVURks5VU0zZFllOWJ2MTNHbnhGajl1STA1c1hveTRvdldCWktLUkHSAasBQVVfeXFMTjBSWkRYOW1jMlpMQ0ZXdGwzV3dYVjQ5Y2ZoX3BqM0k5X3ZoTGQxYzh6R0ZQTVlpWjJyem9hSDdwQVU5bE1pV3pzaDNXOTZiT19PM214WnRIclN1eVBBeXVocm5aSTRBaERrRmU5NE04S3hqM0NoeUFXRXpncXdxMldMVS1zakkxVHltYUVndzFJQ2x5UXQxSDU4UHBlX2ZLdkM4RkxMM0VqX0NV?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-22T08:01:00Z",
+   "first_seen": "2026-10-27T20:42:14Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une évolution annoncée des règles antidopage pour 2027 peut modifier les conditions de suspension et la disponibilité des joueurs, donc le calendrier et l'intérêt commercial autour d'eux.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -10937,5 +11029,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-27T14:37:56Z"
+ "ai_updated": "2026-10-27T20:47:02Z"
 }
