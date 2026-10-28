@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T08:33:06Z",
+ "updated": "2026-10-28T16:38:05Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,77 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 378
+  "added_last_run": 7,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 362
  },
  "items": [
+  {
+   "id": "73b239ec7d5c",
+   "title": "Sabalenka, l’athlète la plus bankable au monde en 2026",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlBkMmozX19HTl9rbFpLX0c2MDFJOFRUMU90bXlBQmdQMDlQQkRpbzdueWV6TnVFajQ5UHl3NG5WMUtVR1RQdy1qVGlMQVNHY1JBSENIOWtld1ptZDJLVjJSc0hseDhWcHNKb2JkTEdobFRXZlVERWEwblQ0TUZLbVJnQnlZV0NhWnVfN3VB?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-28T13:34:12Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Classement de Sabalenka comme athlète la plus bankable : indicateur de la valeur commerciale d'une joueuse Nike, utile pour argumenter la vitrine tennis féminin auprès de la clientèle.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fae8a149a552",
+   "title": "Sabalenka Named World's Most Bankable Athlete for 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSklIa1Y3ZXNXTGhQcU9qMVExdVlDNzRxNW9Ib0MxRjBCWlQ5UlQ0Y3h0NXNqTlVUQi1IeGZXbS1sWFlScWxyLVlsMXEyanM4Q3JQa2ZNQUpHazl1NG1PNkJKbmdyNWJWbXNmRENJbmdXZzZrTWFfT29HMjBuNGlrS21Bc2RvXzNIS3hONWZMZw?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-10-28T13:34:12Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Doublon en anglais de l'article sur Sabalenka classée athlète la plus bankable 2026 ; même lecture, à traiter une seule fois.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0a04fec91b8b",
+   "title": "Business: La marque dont Federer est actionnaire subie par l'affaire Mbappé...",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMERlVUtNMFlucmR4dGtETnk1T0hlWWNrY3EtRTZQTVZJSVZERUJrZi1oaEt1NEVIcmdkc2lsY3lwSktsdldWemVFYTI4dzJzMFlEOWk3MF92MlNKeW9QZ1FCQ0FTblpQMjdhanNBNWx3ZVVQU0dURm0xVF9qRHhXX1VNS0VRZlVFWW9NVTZWcklJeTg0U3hrb2drdGpLZWtQX2xLRVoxTXpXeThoc2NDeFMyWC1HRWZsSGfSAboBQVVfeXFMTzBEZVVLTTBZbnJkeHRrRE55NU9IZVlja2NxLUU2UE1WSUlWREVCa2YtaGhLdTRFSHJnZHNpbGN5cEpLbHZXVnplRWEyOHcyczBZRDlpNzBfdjJTSnlvUGdRQkNBU25aUDI3YWpzQTVsd2VVUFNHVEZtMVRfakR4V19VTUtFUWZVRVlvTVU2VnJJSXk4NFN4a29na3RqS2VrUF9sS0VaMU16V3k4aHNjQ3hTMlgtR0VmbEhn?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-28T11:38:00Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Concerne une autre marque (dont Federer est actionnaire) touchée par l'affaire Mbappé ; lien avec Nike non établi par le titre, impact direct limité pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "19daa8dacd09",
    "title": "Ben Shelton faces no competition from Carlos Alcaraz and Jannik Sinner, but keeps talking about them",
@@ -534,6 +600,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "0965b25274ae",
+   "title": "Cette paire de Jordan Spizike Low bénéficie d’une remise rare sur Nike",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdGxVSFBwS2pGYUpNdHhMYXg4b25FRy01QlhDMW5NNkZKdmFmYUpHOG5OVDdtMlF0eUtwYzNIcHpTRXZmYUtHUGxCX3hFQVlZSWEyM3RFOVRzWDlDM3VTNjFVZ2NkM0VGNnNUUllNMnFSOFF6LWtRVS1ndE9UMnA2bnIzTVREZTB4RXJlcjNaVzdTdU9hVkRHMFdiQTVzZVhreFd0cGZ3ZUxmd3ZXSTRfRnpyRU9wWU5BTXY5Z29CV0ZhUEhldE96dExqSm9ZQWZ4blJ2UDlkbldwTHVia0g5RVpKTXA?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-26T06:12:00Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Remise rare sur une basket Jordan (marque Nike) : possible signe de déstockage, à surveiller pour les prix et marges des chaussures vendues par Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "78910d262b87",
@@ -6740,6 +6829,28 @@
    }
   },
   {
+   "id": "d5d4a00f623d",
+   "title": "Sergio Garcia receives official exit from LIV as golf tour lands increased funding",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXdEVzRObTlWVVlQRFhLT1hnNWJGLUozX21MODFMd2lRNDYyMm5iYzMtWlFXa0ZiS29BTFV4bU5YTlZ1V0RGUTV6R0pER2Y3TEZKejFkcEs3REo4aVNMRzM0Qkx4c2s5M0g2STV1ZjZGbmFDZkczcjhVVXpZTkExbzUweHV4Y0V4MjE0Q0dJejVoZkhF?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Départ officiel de Sergio Garcia de LIV, tournoi financé par l'Arabie saoudite, avec financement accru : golf et non tennis, contexte lointain sur le sport-power saoudien.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -6982,6 +7093,28 @@
     "r": 2,
     "impact": "Qualification d'Alcaraz en finale à Tokyo : bonne séquence de résultats pour un athlète Nike, soutien à la demande en tennis premium.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "bdb36594e193",
+   "title": "France, Germany seek new EU rapid response tool against trade threats",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdm9fVU5qSWpDRG0yUkpjQXVRTXJ5WjhRay1PNlgtVEx5RU16S2RDVWFjS1JUMXpuT1dMRU9HMkkzYklVMHVlMk9sdXRlRUdTSHZfQjJNNTNxUnVCLWVIOEN2cDEzWjcydFptUmxfRVJtTmNVYU1yNUxUWHJHazA1QktEeHhfR1cyTEJnZXZqZUpySWs3Y2N1U3E4RmhSTE5uTkhTLTZWa0RUOVJyYWdMczNn?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Projet d'outil européen de réponse rapide aux menaces commerciales : risque de droits de douane ou de représailles pouvant peser sur les prix des marques américaines, dont Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8201,6 +8334,28 @@
     "r": 1,
     "impact": "Contexte macro-financier (tensions obligataires, emploi américain) sans mention de Nike : lien indirect avec le cours du titre et la conjoncture.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "02fccdafab94",
+   "title": "Nike Is Burning Cash to Pay a 5% Dividend. How Long Can It Last?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTlRcDZuT3pJb3RWMlJTRlE2bkw5aFVXRy0zV0NNa0ZEcG4yb2RrZ0I4c1hWMElCU2EwMW41Y1VxREdfejdSYTR4ZzF6MDJzdGlveFlxNVdJbDJ5Nkg4NmtjaC1ReElqOFlPU1V1bkZMV3Vfb2szVURURXlnbWxPREhR?oc=5",
+   "source": "Barron's",
+   "domain": "barrons.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-28T16:38:05Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Selon ce titre, Nike financerait un dividende de 5 % en brûlant de la trésorerie : risque de baisse des investissements, de la stratégie wholesale ou des collections pour Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -11321,5 +11476,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-28T08:38:04Z"
+ "ai_updated": "2026-10-28T16:43:40Z"
 }
