@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T16:38:05Z",
+ "updated": "2026-10-28T22:35:43Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 362
+  "added_last_run": 8,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 352
  },
  "items": [
+  {
+   "id": "3eacd2e77caf",
+   "title": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1h6RWZLcXNVQjdLOTlHekdERnBUZjdrNWRLblZHVDMxSlM1WjQwOEV6WlNGdWc4VU1fTGYtQW5qYkdRaU9CendtWlB6amhfaGljZmxnaHZ2RUhoSWxzem5VV191RkR0cGtvTDVMWkpxeXhWcHZZdS1jcm5lMmdCcXJNQTlmOHRmbXkzZXBENDNrUDZtZUM3d09oWXVEdHQ1bXBaVnl2TDFpRlJmVUFsNjYzUngxbnc?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-28T17:42:40Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Xinjiang cotton brands",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "xinjiang"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Précédent américain de sanction pour travail forcé au Xinjiang ; lien direct faible avec l'habillement et les raquettes vendus par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "391601f2a6ab",
+   "title": "Nike Reduces Supply Chain Emissions With the Introduction of the First Electric Barge in Vietnam",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMTVYaWpHVC16dFZsMWYtc21YREdObXBjOHFqS3JFLWVPeVZVeDNCUjM3SVcxd2pFb0Q0Tkx2b0ppOC0zRFV4VFhYYmlhaWZhY1ZDS3lxQUZlNVhWRlJpMEd6UHpWNGk1UmVJMUFvX0J0ckxSSGF4UHk0dkRCUDhOakVGeFFnZlExQ2lJbmpaZVU4RzhtTW5OR3N4OHQzYUJjb3FOZFdTcnNtRTYxOWw1Q2UwNGdYV0RiOHhGQnpFTjZwRmJpV3N3d2lJYzRFWmhwQmZMdVlBVQ?oc=5",
+   "source": "About Nike",
+   "domain": "about.nike.com",
+   "date": "2026-10-28T17:00:00Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike décarbone sa logistique au Vietnam : argument RSE utile pour Tie Break, sans effet attendu à court terme sur les délais de livraison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "73b239ec7d5c",
    "title": "Sabalenka, l’athlète la plus bankable au monde en 2026",
@@ -76,6 +122,30 @@
     "r": 1,
     "impact": "Concerne une autre marque (dont Federer est actionnaire) touchée par l'affaire Mbappé ; lien avec Nike non établi par le titre, impact direct limité pour Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8ccd680c71d2",
+   "title": "Polémique autour de Kylian Mbappé : son équipementier On chute en bourse après ses propos sur Mao Zedong",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTWNqa1VqT2RpOWdqakt5LXpZRkM2dlZDeVB5SXNqcmJ2bTY5YnFLNEg5OVBUTlI4M095TkxsdDNWcFZLYnpjMEdiU1VJTnNUU2NqWFkzeFVBYUpHT0g1SlY0dU9yRWlWeUprWVRzZGFLa2RQUXpYdnVwQXVDUWx6aWh3c1d2LXN6WDBlbHNCLXJqVTRRTU5YNVBJVTdXOElEbG1BRXhPUkVTQ1I3dGxxVllJZWF1V3U4NnZQLXZkQTByVnRBX05IUWRmTjJOOWNuVWVNU3NIYU82OTc5UzVRNGw4c1BLcXVMdHZrcWRRbUxudGRoSDF2bTFQeTlta1l1ZkMwNXNjaXJVQlN1Z3FfZlpMcno?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-10-28T09:59:23Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Une polémique d'athlète fait chuter l'action d'un équipementier : le risque réputationnel touche aussi les marques portées par les joueurs.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1546,6 +1616,30 @@
     "r": 3,
     "impact": "La blessure de Sinner, ambassadeur Nike majeur, peut réduire sa visibilité et l'intérêt des clients pour les produits associés pendant sa période d'indisponibilité.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e4541d208732",
+   "title": "ATP - Blessure: Jannik Sinner devrait perdre 4,5 millions de dollars",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDhlei1pa3c1NGR2SUZEZlRRdERCYzBKN2diVjd2MFFfX1pxUlJ1eWsyUTU4N3h6b0FPVzdCclAzeVpuUUxfbVYySGEzTi1wZ0JHanhZTjZuZ3VVcFViay02MTJFODhKOUNrM1NldUF5SWl5Y1Q3Q3ItTjVVRUhWRlNoeXBEcS10YWVpcWRzZnJaTF9Wb1pHS0llOWlrekg3TWNWWWNDR21LTWgzd0HSAa4BQVVfeXFMTXZXTjZqN0Q4VThjdzlidWU2UFRKZThrY1lKRHhPcFNyX1JEeUdiUHJ3MWdhQW01clNSdnlSUTNHbFd5RUFsclRMeC12RlZPc0FlVVAzRGd2ZXpYclY3VTVsR0hVbk53VEU2Ukw5ODhTcG9KOGJOYnV0VkdNems0TUtNMTI3V3ZNQ0FyTzR3OFB4dkdLQjFOT3phMW9lSV9JUUJNRHczQXNuLWVNbkJB?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-21T08:40:00Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Une blessure de Sinner, joueur Nike, pourrait peser sur la visibilité et les ventes de la gamme tennis que Tie Break vend.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -3267,6 +3361,52 @@
    "axis_original": "E3"
   },
   {
+   "id": "237fd0964be1",
+   "title": "Tennis : un joueur serbe suspendu 24 ans pour avoir truqué des matches",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblB3bXNRd0hjeXhFcXdOTnF5OWgwemlEUjlNX3lmT2h2YUZadFhDMXBDcy11NHplR0haNlllVG0wTjI3cVZhRzAxNzBLX0llRTVUTS03Tlp2RW9WcjZsSFo5RUo0ZFBlRUc4cTRNbGRDbnJKZnAxWFBRei1fbm5Fak9OLUpiYzM5aFhxZnFMc2d2SmZNREs0cXFhSy1MRVNjelVQNzI5cjktblJWT1RhNzB4bEdxMFk?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-10-15T07:00:00Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suspendu"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Sanction de 24 ans pour truquage de matchs : renforce le contexte d'intégrité du circuit, sans effet commercial direct identifiable pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "958468f79f25",
+   "title": "How Football Jerseys Are Becoming More Sustainable",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY1lMQmFCbUFGUS1Qa3FLMzdfaHh3Vk1sOFQ3THU3ZlNiU1QtZDc1cjgwRlpvT0FkM21VcmFFeTBQSThsWFNIS3R4aGNZWkZBbm1hWFYtd0pOY1Z6ZGh0dXlvMURFNVBicG8taS14WTdGLTFYT0oweEV1WVBmVDR4U25kNzF6UDJCdnk4dWJlR20zc21pWnRleFhvT3hsb2wxNnByY1k5VdIBpwFBVV95cUxNY1lMQmFCbUFGUS1Qa3FLMzdfaHh3Vk1sOFQ3THU3ZlNiU1QtZDc1cjgwRlpvT0FkM21VcmFFeTBQSThsWFNIS3R4aGNZWkZBbm1hWFYtd0pOY1Z6ZGh0dXlvMURFNVBicG8taS14WTdGLTFYT0oweEV1WVBmVDR4U25kNzF6UDJCdnk4dWJlR20zc21pWnRleFhvT3hsb2wxNnByY1k5VQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-15T06:53:49Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Tendance des maillots de football vers des matières plus durables : utile pour argumenter les collections textiles, sans lien direct avec le tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "5a90c79f87de",
    "title": "| Tariffs are changing what you pay and what you find in stores",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVEVlZHZJNU4tYUFIOWtiUjNQTlAzNnhIRmNsY2owMUREWDVzVlh0WmhERTNFaWQ5UU5JUTJ0XzJMaFBGMGx6bWdqbDZpcjU2VkNGcHhvVkQ1MERZT2xfTHhvR1NkS1VhdkJxWlU0eVZOY1lTTHJHRGxkbDFfemlMMWZjVERjUFV5Y21nRHZQZW9SZlVFMnliMHhCeWVXaTh0b0d5dHh4Rm5sTjBLTmdvbkxkVXRhWFVSbWtHT0J3N2ZrUEsxcGZLQWEyajRGYUJVUWRoWTdKVzRxM0Z1ZV9Z?oc=5",
@@ -4299,6 +4439,31 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "e6497c0debf9",
+   "title": "Gaël Monfils officiellement à la retraite : l'ITIA confirme son retrait du circuit ATP",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3RDVE5LblpOWVhFNUYyWVBYUFZKSVlCMUVDMFh2THlGVVpQeGJPRV8tOHpmN2VNSnR3WG5xYzVvMVJaQkN3SS13aWJMcUZUQzltN0RiTllzdlU4Z2l2SUc1OEVUaERoMUFrX0hKbVZqSUZHa3MxU3VWM2lZb2hHczBhZGU2dU5BNlVEenowRUo5WEZyYldoMGtIWlg4WlRaVFI2Z3AtbWdUNUxKWThSYzZKVUtYVGFIS2phbHd1MzBJQmZfamJWcjJHaFZhNlNl?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-10-14T07:00:00Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "retrait"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Retraite de Gaël Monfils, figure du tennis français : possible recul de visibilité pour le tennis hexagonal, donc pour l'attractivité du marché français.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "93ad915facc8",
@@ -7253,6 +7418,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "ca40b5fd4190",
+   "title": "ATP > Jannik Sinner encore très incertain, Arthur Fils pourrait en profiter",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTZjUXJlRTRTblpMQkxTUHk0dE0yeUVMMVltUjAtUi1wVVk5VmVXanJJRGVHdnZtMGIzWjFGVXRnVWRGTF9IQ1F2ZjU2Tzhrdk1kTU8yNnQzWXlMTkpJNVZMZG5NTjlUa2o2OTJzLURRbjJ6RmRmMFV0dzZhSWotRXdoS1VEbHFseXlxWUZPSi1paDVHZW05TTB1QnY2bE42UkE?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-04T07:00:00Z",
+   "first_seen": "2026-10-28T22:35:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Incertitude sur Sinner pourrait déplacer l'attention vers Arthur Fils ; son équipementier n'est pas précisé, à vérifier avant argumentaire.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7daca0e7d5ce",
@@ -11476,5 +11663,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-28T16:43:40Z"
+ "ai_updated": "2026-10-28T22:41:16Z"
 }
