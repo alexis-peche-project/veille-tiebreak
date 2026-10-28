@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T20:42:14Z",
+ "updated": "2026-10-28T01:22:26Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
+  "added_last_run": 8,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 360
+  "rejected_last_run": 424
  },
  "items": [
+  {
+   "id": "19daa8dacd09",
+   "title": "Ben Shelton faces no competition from Carlos Alcaraz and Jannik Sinner, but keeps talking about them",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFpzTms5dGFVR1hNWWE3M1Z0azN5UFhFb2ZPU0lZbG1HOXN2OXhWNldzQkZsMWtTRlBCNVV0ZHIzdE8zUUpGc2FiNThhLW9OYjlJaEVDazNWWFRmSEdnem82WnJfVk5mM3hsUnZJelpfRVJIdzBveDhsX2FIX2Jnb3o4STg2RW9ZTU4xRS1RY3JUdVhfdUFnMExtanJ2aFRYM01tSGp6RnVGS0lFUkxmcnQteDdYU091X3B0clNVU0drVlJHSmRPamNjTzlsMjdwMUJyRUUzYzJvYXhS0gHcAUFVX3lxTE94WnNOazl0YVVHWE1ZYTczVnRrM3lQWEVvZk9TSVlsbUc5c3Y5eFY2V3NCRmwxa1NGUEI1VXRkcjN0TzNRSkZzYWI1OGEtb05iOUloRUNrM1ZYVGZIR2d6bzZacl9WTmYzeGxSdkl6Wl9FUkh3MG94OGxfYUhfYmdvejhJODZFb1lNTjFFLVFjclR1WF91QWcwTG1qcnZoVFgzTW1IanpGdUZLSUVSTGZydC14N1hTT3VfcHRyU1VTR2tWUkdKZE9qY2NPOWwyN3AxQnJFRTNjMm9heFI?oc=5",
+   "source": "MARCA",
+   "domain": "amp.marca.com",
+   "date": "2026-10-27T22:21:02Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre porte sur la rivalité de Shelton avec Alcaraz et Sinner, sans mention de Nike ni de ventes. Intérêt de contexte uniquement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "c04d8f06ab20",
    "title": "« Un peu plus de Playstation », GP de Monza, maison Gucci… Comment Jannik Sinner s’occupe pendant sa longue blessure ?",
@@ -34,6 +56,28 @@
     "r": 3,
     "impact": "Une longue blessure de Sinner, athlète Nike, peut réduire sa présence en compétition et l'attention médiatique portée à la marque, donc la demande en textile et chaussures.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d6e9e8d0b5f1",
+   "title": "Mbappé Apologizes for Perceived Mao Insult After China Backlash",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTEozYkVLU1c1QzJqVkVnbTJXOUFVS3plcms3RHNscVZYV2pxek8tSHZPa1NhNmtLTV8xY0hXTnFXa0NWSFJySjdsbm9KQWsxZTlham5QeFl4bno4ek13SVo2UVZxSUVPRVFjeUdZbXRvdDFCa1hRZzY5ejFzNTB0MThPbm5xUVM2ZGJrT0NnNDFBMVg3VURQdHJnYmFoWXU3emtVRVhPQ2pPZXRqeVYtN2JVYkw2aW4wMWpPZVdBNHhNTGxXNzBr?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-27T18:01:40Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Excuses d'une star du sport après une polémique en Chine : illustre le risque d'image sur ce marché, sans lien direct avec Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -867,6 +911,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "b6b0adfd6c48",
+   "title": "Ciao les Air Max et les Air Force : ces paires Nike sont les vraies stars de l’automne 2026",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZGFtTllUYy1CWk9tMTRzbDRmbWY4Tk9PVENoQmJIdFVKZVhIWExYdnhHZVljYVBEWmY0Vll3QWktWUhteGpQUzJab3hqdWRjejIyb3N3eEZLQU1hVkEyR19CX01LTWVvZk94T2VBbUFXTi1HRHY4a2VfazVwYS00MDNFVm5idHdrdWpTRlZPelItcTV4MGgxY254aWxhbEl2Z0IwUVdfa2xYRkNqV0VsU3Zlb0tMLVhSbUdGUGpBd1AtWEJJdkt4eXNMcHlPMUtSbVFzM3hEX1NQVmd3MXF5U053ZDgxVVdqaWlaU2swVzNVSl9ENm94eDFPQjc5bTY2dEJ3VTlmNTRiZGZmaW1ucTNHRWtWQQ?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-10-23T07:50:00Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les modèles lifestyle Nike (Air Max, Air Force) portent la demande hors tennis ; Tie Break doit vérifier leur poids dans ses achats textile et chaussures.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "2fa7d4207861",
@@ -2438,6 +2505,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "27d8f7786200",
+   "title": "Michael Olise aurait trouvé un accord avec Nike, quelques semaines après le départ de Kylian Mbappé vers On",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOclVJU0R0WTIxWmtUSFhYZnVGSEh0bTVEZ0tLbmgzRTF1ZmtRbU1XSHJsTW1qcDRYRGUwSXRlWDk2QlNlc1lLMEVHdy16Nmd5aVJFS0pUbTFRSTNRZ1RoNk9IUmg2ekZXY1k3SUVOODJXQm5LTEw5Q1NWRHNFLTFkV1RuelNOYzdIcE90NkE2UnBiUHpEdVRxem1tcFNRVFYzcFdQb0tFcHpQeXVoZml1QTR3MGFqdVg3NGdjQUtwSXIxa0NVeWtkMFV1RFFXOG9sYlg1dzgxeG1vS0NiRlh5TmRvZ0F1SEFtTUFqRlpn?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-16T07:00:00Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Accord Nike possible avec Olise après le départ de Mbappé vers On : signe de concurrence sur les athlètes, effet direct nul pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "bfbc11489e56",
@@ -6538,6 +6628,52 @@
    }
   },
   {
+   "id": "a7b672df17e4",
+   "title": "Forfait pour le très lucratif Six Kings Slam, Jannik Sinner remplacé par... le 17e mondial Learner Tien",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYWN2eWl2OTFZd2s1ZXJqdVBzWU8xWEVPNnVEMnMxMVdaNl9ZVWFqVHU3TEV4eXF4b3dKRldQeklpSWtmQll5QU1XOFNvUFBTS2FsaF9lN0FVa19pdmVqaExELWxkS2FyZFQ0cExGcXo5aFZHdl81QkhIdWdGakpDQ3dJNUhuWk9aY3ZaWnFreE9JYlBuNnE0MXppWkVfMVZVVjd5aURQOXJBYzZDX2dxZWNNMVR5VnRna1lveWU5cWlvUTc5emxrdmhSYnZ2MTYzRzRtc0hyQ1g2LVdmQ3JzYjlB?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Forfait de Sinner à un tournoi saoudien très lucratif : visibilité de Nike réduite sur cet événement, impact direct limité sur les ventes du magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "81ef5e922aab",
+   "title": "Jannik Sinner : \"Avec les docteurs, nous avons pris la décision de mettre fin à ma saison 2026\"",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTXl0aDZIX3pYVzQzd04tQTYyVFBYQVlaOXFRMWNSbUwtUlRnRkhpMlNwWlR2eFNCZlY4Yzd1ZmFBelRZRVZPSW8xZkc3Y3U1U05ySmJ4SkdNX1BmRmhmYnY2ZUp5Nkk5QTNvazlsVi14RDVVSVJEMERKekRHQWstUHJ5elFtM010V0pXLW5jN1k3VlJQaHFKWmhVeXBEbXJOdm5jckF6cUU5OWlvTGFfSEpxeWxrbEVtVjI5T2JqUWRwTDFsQ056ZnVISGV6RXQxRUJuWkl1dUpsQW9YR2FV?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Fin anticipée de saison pour Sinner, principal ambassadeur Nike : moins de visibilité et de demande pour la gamme jusqu'à début 2027.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -7915,6 +8051,28 @@
    }
   },
   {
+   "id": "2ef3fb6b8870",
+   "title": "Nike shares tumble on weak guidance",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzVrRTR4d0MwV2k1bTh0NGJia2pEMGEwWXY5cmNVYjRuT2RXUUE5UkoxSmp1OW8yMFhPQVZJRndleFYybXdaMVRPUHNjMlhHZktRczRQdHd4c0hLMUhnT0wwNE9kdExSUC0xUjA0RGdmbmNHLTQ3dVJ0dEpCRllkVFRNU1Y?oc=5",
+   "source": "CNBC",
+   "domain": "cnbc.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Prévisions Nike en baisse : possible ralentissement des collections et de la stratégie wholesale, à surveiller pour les approvisionnements de Tie Break en 2027.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -8420,6 +8578,28 @@
     "r": 3,
     "impact": "Nike manque son chiffre d'affaires du premier trimestre et révise son modèle opérationnel : cela peut modifier allocations, délais et collections livrés aux revendeurs comme Tie Break.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "356221036c66",
+   "title": "EU retools Trump trade war tripwire into China shipments surge alarm",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUtGWWcxdDllX3lkaVI4SjV5Qk1DS0F3QzFOZHpReEdtNEhvUjZlU3hQNkZIQXFHSUZwVldIamlJVjE2emdFcHl0SXd4ZUdPcThXWU9YZV96LUtpQWdYNFRiVmZDbGhSbFAyLXZFMVkycVNncl9sY3ZmWjRDamlHODR1N1VuZFBId2ItWEJ1YTlLdkwzVXBadG4xM2RhS3k4UnJqRi1KUzJ3ZHZyRGpUNnV0akFaZVRNOHUwWEZB0gG-AUFVX3lxTE5FelJ1UEtneFlrd2xSbHdPVzg0emF0bUlTZHJhdzJtdWZBdkw0cy1yd3pNNlVDdEpEMDhzWWVoaWpRUEQzMl9CaWRBSk5hOFZhQzlrWmRYbGFLd3luYUtSeEtVWGdFSUNSZ2s2U3ROTHN4YmJkckhxdFBDUERHNG40YlZEQTlQaG5ET1ljNDFLTFJVT2l0ZXF1TFprM05paDdkLUxlQW1JU1dxdGxyVnBqOVFMVzktRWlHVUxKd0E?oc=5",
+   "source": "South China Morning Post",
+   "domain": "scmp.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-28T01:22:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un mécanisme européen de réponse aux flux chinois pourrait renchérir ou ralentir les importations textile et chaussures, à confirmer.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -11029,5 +11209,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-27T20:47:02Z"
+ "ai_updated": "2026-10-28T01:26:54Z"
 }
