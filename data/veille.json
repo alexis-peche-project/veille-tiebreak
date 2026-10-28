@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:22:26Z",
+ "updated": "2026-10-28T08:33:06Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
+  "added_last_run": 6,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 424
+  "rejected_last_run": 378
  },
  "items": [
   {
@@ -77,6 +77,50 @@
    "ai": {
     "r": 1,
     "impact": "Excuses d'une star du sport après une polémique en Chine : illustre le risque d'image sur ce marché, sans lien direct avec Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "031ed6ee4ca6",
+   "title": "ATP 500 de Vienne. Carlos Alcaraz écarte Khachanov au terme d’un match disputé",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWW5GcURZLW5JbE55N0dvVzN3QXMzTkdXQnJKTVN5a1p1Rlp1Zl8yVzUxaUVBN1ZUWC1RYXFsd0dDZW52RnY4cnF6VWpnWGNiQktETHNyX1VQZzgyQlV5TUt6My1JUkxFYmotekpWVFZNZk9XSWdXS2t6QUQxRG01WWIxTi1kOW9USEM1TUJWdGpvQlVSTzluVkt3MFdkbWV2a1FicWxPU2ZHWmh5cDc0Y2t3V1d0VmNqVkd3NEtpN0xVMkRMSUFPUk1TLVkxVTFaRy1Wa01XcUNaUzZpTDhwSE5sMWJmell0eXlhWmJENDhYc3lJaU9vQklPb19DQQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-27T17:51:41Z",
+   "first_seen": "2026-10-28T08:33:06Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Victoire d'Alcaraz, athlète Nike, à l'ATP 500 de Vienne : visibilité de la marque, effet direct limité sur les ventes de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "506c52a78d50",
+   "title": "Business: La marque dont Federer est actionnaire secouée par l'affaire Mbappé",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcmtUQVo1Q1ZhSTFmUkUxTVpiX3MyaHdEVTVneFFQdl80T1A2M2QzYzVjbVBBblZGTXJRYUswUUpnZWhrS0pqNjNXMmVNNUxxM09kM1NRUWJPTHh4LWROcHhSd0F4cXpDVUlObV9Udkt6cEIxS2lwSzRSQ3Rwak95eE9fRnkwR0pkMmc3VUlWbTl5WkJCcDRoU1RfLVhLQ1p6X0I5bmJLNkxWbEFXOTNBRkpyZ1dWZUc2REtDV9IBvAFBVV95cUxNcmtUQVo1Q1ZhSTFmUkUxTVpiX3MyaHdEVTVneFFQdl80T1A2M2QzYzVjbVBBblZGTXJRYUswUUpnZWhrS0pqNjNXMmVNNUxxM09kM1NRUWJPTHh4LWROcHhSd0F4cXpDVUlObV9Udkt6cEIxS2lwSzRSQ3Rwak95eE9fRnkwR0pkMmc3VUlWbTl5WkJCcDRoU1RfLVhLQ1p6X0I5bmJLNkxWbEFXOTNBRkpyZ1dWZUc2REtDVw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-27T15:39:00Z",
+   "first_seen": "2026-10-28T08:33:06Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -307,6 +351,28 @@
     "r": 2,
     "impact": "Exhibition saoudienne de Sinner confirmée en fin d'année : même enjeu de visibilité et d'image pour Nike pendant la période de fêtes.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fc4f0efc6436",
+   "title": "Sinner set to return at postponed Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzdaTjNHUXpXZHp2QjJrQ0hWWmNabzY5aWszLUQ0TWtkNEVDajE3U1drYU0tVzl4c29nNnFCeVZ6eFd6MmJNaHFDZU1rRWdHTjNMWHpzWWh5cEJtSE1jYXNicmFtSlEySUpoQmxjWWdlUkozSXUwcjBBa09TakNVTXlha3J2MnB1aUxMVUZPeTFZbUw5ZGI4?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-26T16:51:46Z",
+   "first_seen": "2026-10-28T08:33:06Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour de Sinner, athlète Nike, à un tournoi saoudien reporté : expose la marque au débat sur le sportswashing, impact commercial à confirmer.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6898,6 +6964,28 @@
    }
   },
   {
+   "id": "b782877e0e31",
+   "title": "Tennis : Carlos Alcaraz se hisse en finale à Tokyo malgré un énorme trou d'air",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdE9wSTRYcUx4MThrb2FpWkJlb2ZIRWtuTTVmYUFmbktXcS1xZDd3UTRMaXFZS3NtTmgzY3Uyd3pjajd4MlZaRGl6bmpjU3daYkRvcTA4VmJEYm5FcEEtS2RINmYxV1ZZZDhqc1M2YmJWM1lFUnBwSkQ3MDQ3RGlJdnFMUVJicXdhYjNGSHFzbUhBNDRFWXFhSzlKdFYyOXV6SWQ0SkVlcWV3WnlLbjlZdWRFb1RXelRya1NDT09zUm8?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-28T08:33:06Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Qualification d'Alcaraz en finale à Tokyo : bonne séquence de résultats pour un athlète Nike, soutien à la demande en tennis premium.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a9e8ba599dc4",
    "title": "‘Go woke, go broke’: The fall of Nike",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmViVDBfQzVWX2pkbWFBOFVybDZSU3lRTTFJLXNZdmIzUjJscTgtc1BMa19YcmtxUGNNQ2paUGxnaTNJRTQ2ZXBtT3JqQ2prM2lpUGJqUVo5SUNrcVc5a3FDVWpaR1luU0xhSE5VYkNwajdtSzBUWnk0M292bmp4WGhuZGVMUWhieWlv?oc=5",
@@ -8069,6 +8157,50 @@
     "r": 3,
     "impact": "Prévisions Nike en baisse : possible ralentissement des collections et de la stratégie wholesale, à surveiller pour les approvisionnements de Tie Break en 2027.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ce54fa9d47fa",
+   "title": "Nike prévoit de nouvelles suppressions d'emplois pour relancer son redressement qui piétine et s'attend à une",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQeE56bHlrZ3hJMnNtaW5VRDZQUFhGNDBwWXBrQWZQSjJHQndtSVNKRGN5dFRkcFZsa2MwMzJBc2ZmZ3FrbVR1S2ltUllvejFfZi05R2U1bzh4OEpDcU5JcDF2VS02UGFtVDVqNnZ0OVRRcWVsNUxsQ19YdlIxTWlZSlVacmx0QmRhSk5ma0hHUE5GXzRmbmNMbHFoeTVHQUpSQjhoYWViZGo1NFlSSks5TjlxdXJGN3EyMFEzMWk0WFdWSnRKaExXRnBqWURJX2RRU1RxbllvazJfbjBRQlppVGVaZlU2OXpwRmlhb3hrdGtRSWROMUVNNUllbmQ0S2lmVjJXZFFTR1h3dEdfa3doNzYtNGZzcVJCR1E4czE4WUpiWTdQQXhFekpWZzBjWThVQUhZVVNCZGNTRk5wTm5qN0d1QldSZ2dkMmfSAc8CQVVfeXFMUE1Pa3NsRnBiVXFVWDFYSTR5eTdadHRNM2l6N1dNSzhFU2tucUFvU0w2Zmp3LU1uVTdWT2o2c3VGRVNUVmNld0E5OVhwMWMzRDdVX21LMjcwQmtrUE40R1k5MFBYbE9sRzBleW9mbW5udGFhZFp2RVBQbEhRcTVhVHlfZWE1M2x0bkR2azF6amdjTUZwNm1uOHRIYzNUSXNYY0pUbUxrZk96bEpXYXlnS19aUm45a2R0c1R5YVFZWHA1ZC0wc1dBNjk0WTdxQ2xhekhPMHJsbk5HV0JKOHNzbF85Nnd0el93R1ladzhrblRCeVVIQ2FiaHhfbnN1UEowNG50RDM3b1Y4eGFzbzQ3eUx0X0VEY2V2WnBuQzhhMWJ1emxyQ0pvd2pMcklCVkE4aFYxRUhHamRNX3hFWVBXRnFsR09qeGRzN2NvZWZ2ZkE?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-28T08:33:06Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike annonce de nouvelles suppressions d'emplois et un redressement qui piétine : risque de retards persistants sur livraisons et collections, déjà problématiques pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "01582d73d3ac",
+   "title": "Les tensions obligataires laisseront des traces au Cac 40 cette semaine, l'emploi américain en dernier rendez-vous",
+   "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZmdqcTVhVTVjX1JlV2o1b2xlUzhQR3ZhVXRRUVBTVWtuZUxBMG44a3NmcGxIU3VkVHB2d2lMMzVDRjk5YUlLdEJEaV9wa1JzSzBuOVFUMFhib3k1Umw4U3E2eHM3OUFPck8yenlLRzNoanBwVndwMWZRRTNQdEY5b2NEbzdsaERBUDBrekF4U0R4WmpoOXg0TGJRRUI3QXZybmstV2pyWmZ1cHJtZ1gxY0M4b2VNS1ppMlIxenF1TmU1MUE5RFc2Z3NNMW1UN2tDQ2FSaHBfZkp0aWZvdWNjeE1Rd3BnMHBCQV81T0UtZFptTHZMUDNsSGxRekFKR2k4ZFNEMDhnU2pwTmRmelA3RA?oc=5",
+   "source": "Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-28T08:33:06Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Contexte macro-financier (tensions obligataires, emploi américain) sans mention de Nike : lien indirect avec le cours du titre et la conjoncture.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -11187,27 +11319,7 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
-  },
-  {
-   "id": "02b330a204f3",
-   "title": "Nike, résultats du T4 de l'exercice 2026",
-   "url": "https://www.sec.gov/Archives/edgar/data/0000320187/000032018726000076/q4fy26exhibit991er.htm",
-   "source": "NIKE, Inc. (SEC)",
-   "date": "2026-06-30T08:00:00Z",
-   "first_seen": "2026-10-14T08:00:00Z",
-   "axis": "T5",
-   "lang": "fr",
-   "query": "sélection vérifiée",
-   "reliability": "A",
-   "score": 5,
-   "signals": [],
-   "ai": {
-    "r": 3,
-    "impact": "Résultats trimestriels Nike publiés : indicateurs utiles pour anticiper la stratégie wholesale, les allocations de collections et la négociation avec Tie Break.",
-    "signal": "fort",
-    "model": "claude-haiku-5-5"
-   }
   }
  ],
- "ai_updated": "2026-10-28T01:26:54Z"
+ "ai_updated": "2026-10-28T08:38:04Z"
 }
