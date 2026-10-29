@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T05:48:47Z",
+ "updated": "2026-10-29T13:01:43Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,78 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
+  "added_last_run": 6,
   "feed_errors_last_run": 4,
-  "rejected_last_run": 381
+  "rejected_last_run": 368
  },
  "items": [
+  {
+   "id": "5cbd40c58102",
+   "title": "adidas garde le rythme face à Nike et rassure les investisseurs",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY3oyTjE0RV95dm1HZGh5VWNfYWY1NzNqa1FDYlE3cXhCbFU1amxfSzd6TUJORGp0S29nWUk4NEFLZTM1aDRHeTltUlAtOWZiZnFkdnVqM3BBNEpvNTZ0NmRtRkRvdXBXby05WEdSd1Z3TjZYSGNJeDJpSF91aDBacDBidGdoYUNiX2tOUzZ1MkhsQzBQbXo4M1BUbzJ6QTR6c0kxdlhPRXMwTlRCc1ZiOGFzajZyOUpuUkd0NjByMVVmZk9jRmdRVWNSNmJsSVhyWkp1MmxXOHNuZ1VLQVHSAd4BQVVfeXFMTWN6Mk4xNEVfeXZtR2RoeVVjX2FmNTczamtRQ2JRN3F4QmxVNWpsX0s3ek1CTkRqdEtvZ1lJODRBS2UzNWg0R3k5bVJQLTlmYmZxZHZ1ajNwQTRKbzU2dDZkbUZEb3VwV28tOVhHUndWd042WEhjSXgyaUhfdWgwWnAwYnRnaGFDYl9rTlM2dTJIbEMwUG16ODNQVG8yekE0enNJMXZYT0VzME5UQnNWYjhhc2o2cjlKblJHdDYwcjFVZmZPY0ZnUVVjUjZibElYclpKdTJsVzhzbmdVS0FR?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-29T09:50:00Z",
+   "first_seen": "2026-10-29T13:01:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultats d'adidas présentés face à Nike : contexte concurrentiel du marché du sportswear, sans effet direct sur l'assortiment Nike de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5b81d72141ca",
+   "title": "ATP > Alcaraz remercie Wawrinka : \"Quand j'étais blessé cette année, il était l'un des joueurs qui s'est le plus inquiété pour moi\"",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRFY4bEppcGRfQ1ZSYkxhaTdZLW1yQWJZNGZRWnhMTmtHSS1ZTjRhUnhxOUIxUnR5Yk01cmpMMXh1QXUxQWI1Zy1JaG96UWg4VEZLU3FZNVd6RTkzQlNMUk50YV9qZ0xTNDgzZU9XVkZGcnRiMXNCcExJREFEbkpOYnI4bEJYa3lMZURUSjJPaHpZRnVuWTRpS1R4LUdLcWJxREYwLVQxUEFZMDFkVjJzbml0YmRtNk5FeWlWUllpa2g5a2ZXd2xXQnM5SHdxcnBLVUR5RC1ia3BreUVKQkROaVdlUQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-29T08:46:00Z",
+   "first_seen": "2026-10-29T13:01:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Alcaraz, athlète Nike, évoque une blessure cette année : information sur sa disponibilité, sans effet direct annoncé sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cf4ec8d4a017",
+   "title": "Adidas augmente son bénéfice net de 53 % sur un an au troisième trimestre",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZjhuR3NHV0RFZ0ExVjJXUlVsUHlSbTlodzh0T18zeXVLRGNqbWhtOW50LWwzWG0yS2FnQjJJd1hDU0ZSRk5PS2RGcjk2MFR5amFIT2cwZUdsdnlnQ0pRdl9FallOaEE1d3FjajFsTTliX1F0VDBPNWFQODBLbUkyQWkxamlzc1h0VUd4ZzNkS1dFdjJScjBONEV1cE1WZlJiSl81TzZaS00wUjFUVUpLbV9jNkRwRFUyM2NaMVExUTdMY1BlREhMR1l0ZXhmVVZOYlh4djdDMW9QYlNpODFGT1NOTnplbFVP0gHoAUFVX3lxTE1mOG5Hc0dXREVnQTFWMldSVWxQeVJtOWh3OHRPXzN5dUtEY2ptaG05bnQtbDNYbTJLYWdCMkl3WENTRlJGTk9LZEZyOTYwVHlqYUhPZzBlR2x2eWdDSlF2X0VqWU5oQTV3cWNqMWxNOWJfUXRUME81YVA4MEttSTJBaTFqaXNzWHRVR3hnM2RLV0V2MlJyME40RXVwTVZmUmJKXzVPNlpLTTBSMVRVSkttX2M2RHBEVTIzY1oxUTFRN0xjUGVESExHWXRleGZVVk5iWHh2N0Mxb1BiU2k4MUZPU05OemVsVU8?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-29T07:41:45Z",
+   "first_seen": "2026-10-29T13:01:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Bénéfice d'adidas en hausse de 53 % : signal sur la dynamique concurrente des marques sportives, indirect pour Tie Break qui ne distribue pas adidas.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
   {
    "id": "f1d1a0edb7ef",
    "title": "Nike renforce sa présence en Inde avec une nouvelle chaussure de course, à la recherche de nouveaux moteurs de",
@@ -649,6 +716,29 @@
    "axis_original": "E3"
   },
   {
+   "id": "5d11d1733133",
+   "title": "Six Kings Slam: Jannik Sinner devrait rejouer avant la fin de l'année 2026",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhmQUlLcE9XUzFWTUVxczhURUZnSnc1cThLRlM5MzhTbFFwT21nMkxSUnh1RFBuWGIwTTctWDVEZXNaUmc2ODFaekNrUDdxNHdwMGIwdzRRdjlzS0xicWtRWWJTMUV3X25ZRmxvWkZnUDhFYkc2UzhEWkZPX2U3MjI0LXVUQUJ2YXZYbUloNGYycUlMWEZEWGJfY2VvVGZyZnBjZXp1SHVKUWNrWXJnN1VtTGhpMVFS0gG4AUFVX3lxTFBqZTlKQTY1dEM3azB4ejhMTEpiSDBhRGUtUjhzVWFyTmVzOFRsSDNyQlcyV2JySm1saUxfOEt0S18yN05zRGo3dkRJbXIyUFM4VUdCQVNPbTRNbDJZT05oS05pUElfMHJNd184QWdYb0lwejhGTlpEelFiVG16dkNmdGxwUm5Ud0tzeFpmS0pBaTg0LXBIWWc0SXZXVXhZRWloekxHMWVFRy03d3U2SUtBZzZOWGdkUUc?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-26T15:02:00Z",
+   "first_seen": "2026-10-29T13:01:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour attendu de Sinner, athlète Nike, avant fin 2026 : possible regain de visibilité de la marque, à confirmer selon l'état physique du joueur.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "cf7006629c03",
    "title": "On le reverra en 2026 : Sinner participera finalement au Six Kings Slam",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHdVUjJ5Z0RiZGhJa2ZFQlY0ekppdzA5anNNQ2IwaWtjMVIxRGM2UDZDSmJXLXhLU1g0V09GRndXM0I5aDR6eXJGd1BBb1FoOVZ6LTRRYzRhdWhTSS1QWWpxczMtQS0xVTRJSzY0OWp1RWV1dUFJVTBEMGwxWVQ0WVBxd3Y2Y3h4QkpheUR0R3R6ZVlLcTZtZTJfb2MzTl9qbmVfdUcxX0RxWnQ5M0ZvZ2VXN1pQeHhpYzlGRE1RZ3BIODZYd3dQdA?oc=5",
@@ -923,6 +1013,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "7a751be02f9f",
+   "title": "Nike sublime vos tenues avec cette paire d’Air Force 1 à -30 %",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUtwQ015cm5SYUhSQTJsR3ZrQ0xrNnBRclhXMTB0MVJHQkNDS0pLZWJtOHVPMHVzMWk4dzhqNHNTajFkODY0UFNudzZZaW93VV9RcVVjdkhIRjlNaXlFQkE3ZWpYNk5lUC1NNzg2UC1mN3FWdlRfcnJUS3dLeFZvSjlqTkVTaFZEUkEzTGRkSXNXTEszYUIzbkh0ejlLR1Q1UU5SWlozbkhDNjIz?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-24T17:12:00Z",
+   "first_seen": "2026-10-29T13:01:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Promotion Nike de -30 % sur une sneaker lifestyle : indice de pression sur les prix, mais produit hors catalogue tennis de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "8c300b4fc836",
@@ -4797,6 +4910,28 @@
    "ai": {
     "r": 0,
     "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0b66e2be5377",
+   "title": "ATP > Une ancienne joueuse recadre Carlos Alcaraz : \"Je perds toute sympathie pour cet argument lorsqu'on joue le Six Kings Slam et la Laver Cup\"",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbDdEeEZGMXZsYkJGMDNzNHpOTmlIOHBpY0hDXzhteWFockxNZmpNYmgyc05XU25mMXNpSFY4eHNabENtLVVzTXVVLUZvMGtmV3AwMGozdEIxaTNGa19BVDhRQ0FULUhGRjNTeW1lYXlZMkpCSXZZM0VzU09iYnJBNFlLbHJjLWZtdzFGZEpWbEZHR2FtRzJScDNWSWtOZ2p2OV93MmxVbC0tUGNrVVRndEJWU3FfYzlFdEFBcERNOGJLWTBuQ1lHcHBWWXZDZ3ZiWjluTG02RHV5RlMtejItU3FnSjQ4Z0FEd2ZNdURBaEcwNGVkclJCZjVn?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-13T07:00:00Z",
+   "first_seen": "2026-10-29T13:01:43Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Polémique sur la participation d'Alcaraz, athlète Nike, au Six Kings Slam et à la Laver Cup : possible débat sur l'image de la marque liée aux expositions saoudiennes.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -11731,5 +11866,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-29T05:54:04Z"
+ "ai_updated": "2026-10-29T13:07:31Z"
 }
