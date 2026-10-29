@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T13:01:43Z",
+ "updated": "2026-10-29T19:38:37Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 368
+  "added_last_run": 7,
+  "feed_errors_last_run": 5,
+  "rejected_last_run": 343
  },
  "items": [
+  {
+   "id": "ff810aa33a25",
+   "title": "Why container rates are climbing despite cooling demand",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hja1JPTF9ULU5jdUtib0pSTTZidi1PYkJsbFBMU2tLekc1RHlnQ3FvVmRuTTF3YUNRdGZ3b2lBcDYxaG9aajFiYjV5SFItNkhUSVQxTkJfaXdOMDhsMjgyUU1LRXo0am9WenVPS0tqakJEWk5EX0RnUmNiMncyeGswRmNBZTc5UF9adEY3cW9hcW8?oc=5",
+   "source": "FreightWaves",
+   "domain": "freightwaves.com",
+   "date": "2026-10-29T18:39:34Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Hausse des taux de fret conteneur malgré une demande en recul : coûts d'approvisionnement plus élevés possibles pour les collections Nike venues d'Asie.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3e14735d62ff",
+   "title": "What Nike’s Jordan pullback means for Foot Locker",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHVzRHduTUFKS3dqUmFWQWlHYnBtdi1mZ2NfenJDTVE4VjFfdUtwXzFWRHRQYU5udkpKYzZKSEtaQVpiZE9wSkhoNTExWUVSVVlsUURHX0dtWG1lbzRlbWdDU19Md3NFUllsVVh6Q1REdkFnOUJ0ZVY1YjRULUZFX2Qta01MNDFEVERKRXlR?oc=5",
+   "source": "Retail Dive",
+   "domain": "retaildive.com",
+   "date": "2026-10-29T15:13:46Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un recul de Nike sur la marque Jordan chez Foot Locker signale une réorientation de sa distribution wholesale, à surveiller pour l'offre accessible aux revendeurs.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "5cbd40c58102",
    "title": "adidas garde le rythme face à Nike et rassure les investisseurs",
@@ -6105,6 +6149,28 @@
    "axis_original": "E2"
   },
   {
+   "id": "4b3632943522",
+   "title": "Cambodia’s Workers Want More Than a ‘Survival Wage’",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONmJOa0ZQN1hSdHhyNWRMZWljc0ZxemtPTjNqb0EzZk83azVCekhDUFVtbGhlVVlMT1RmQjlYTFBTeFN3M3RteXdTSklDb0xrVmt3Q3NYeFVfVm5LUWxSZVZfbWxzNlJicHlSR1czODZ2WjZNN2VRcWNkNWQyLTQ3c1BwalhmSU4yQkZfc0hhdEh4UWVsa2pjN0JqOGtELXhxaDZ5ZjVhdkVDZW9OWjN1Rk9yV01lUE13Mk40ZXRR?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-08T07:00:00Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Revendications salariales au Cambodge, pays producteur d'habillement : pression possible sur les coûts et délais des fournisseurs, donc sur les collections textiles.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f9d377a8c435",
    "title": "Voici la paire de Nike P-6000 la plus convoitée de la saison",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSXpvQ3d0VmYyM1dCRWpMdnFEZlIxV2lFc1N1ODZNamlCdzl6TWFTSk9jZzdLRmI5UVA0MTMwNmZ1a0hBOU80Q3BiT21wUE53YzR1SE5tVXA5dFZ0MEJScmUyLVRqMlJRb1ZobHpkT3JxM1d2ZnpNem9Xa0lrY0lueVpKeHpoUk1ITk14TTJKMGNZTmxKVmNIOGNhQ0xERHI1Y0hhdGgya3p4MWx2X29wcS0zZlJPN1p0Z05Ia0RRNWE2dVM5UFppdW51LWVfMHludy0xaElIVUtLelhrZEE?oc=5",
@@ -7214,6 +7280,75 @@
    "ai": {
     "r": 1,
     "impact": "Départ officiel de Sergio Garcia de LIV, tournoi financé par l'Arabie saoudite, avec financement accru : golf et non tennis, contexte lointain sur le sport-power saoudien.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "75c3e0ca5f83",
+   "title": "Nike Cortez : Voici la paire qui va sublimer toutes vos tenues d’automne",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPalJpaDlTb0xhUnpLM3FLYnllRTcxenRjR0NyVURWRWRPN1JoZU5FOEdCVllWV1dmZ2ZnZV9SYm9xUlZ4VVVzZ3NTT0szRXpZLS1xbEM4aTI2dWtVN0VoVXZrTkV6Y0s2YV90ZjRlVnFzOFR2bkNlbEVoYW5vVUFTRkZ3TDJSLV9sMkJvcmNGUVU5NnZ5SlRUUnU4OWtraTBUVE1NRGF4WFdwWHM4b2VJRlFzc3p3UGpLanNiUlNGTWJnNDA?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Mise en avant grand public d'un modèle lifestyle Nike : effet possible sur la demande en chaussures non techniques, sans enjeu géopolitique direct.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "794f2d2a57fc",
+   "title": "Sinner forfait, Zverev futur numéro 1, Alcaraz de retour et Djokovic éternel: le mardi fou du tennis masculin",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOalFCM0dFTF8wVWRFX08xU0Q4UXF4V0NMRVp3Tjc1bms0QlREb1hEYjhIOVdrNGUxczh1cENqd2FyZTVfbDhGdEFQRmVqUmZhamlhc0JzeXdfZ0w5b2Y4YWlmdXN4azEyc3VTSEszWnFEUmthdS1hMndZNkpKbDd2OUFQMl8zNFFWd2lKR2h2LVZfZ2tRbnc0VGdFYjZsbDRra2UxeUE2Tllab1BiUW1xX2k5NjNrV3B3ODJZbC1JUEx3em1wSHlOSElTekpSUmpBNG1aQ0RSS1dxQQ?oc=5",
+   "source": "Le Temps",
+   "domain": "letemps.ch",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Forfait de Sinner et retour d'Alcaraz modifient l'affiche masculine, ce qui peut influer sur l'attention médiatique et la demande en produits Nike du tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "37d6d9c04225",
+   "title": "Quessoy. Le Tennis-club quessoyais voit ses effectifs augmenter",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVzItU2VnbGNld1A1TjhGUFR6aTFsWjhUdW1zalVZT3VHR0hSaERBUFF1NXVSXzdTYzNvX25jalJYT3ZtSGVNZl90YlR5WFpJOElWb1BDTmlSZDZUTVJEdk1lX0w2RUs5WjNJaVZwZWljV3hHSzZSbzJyTzNiWFNBaUtDODY1amd4T29mdGZ5cFFOV2Z4QUJZRUxfWUowcTVHWGJRem1zZG8wZHF2aS14ekxRRmRfZjVfV2dHTDczSkFuV0k2a051cjF6a2plc2RIR0pPLXdUTTRac1dfaTRFdktvZ0g?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hausse des effectifs d'un club breton : indice modeste d'une dynamique de la pratique en France, potentiellement favorable à la demande en équipement.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -9279,6 +9414,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "ef6873ab80bc",
+   "title": "Tennis: fin de carrière pour l'ex-4e mondial Kei Nishikori, battu à Tokyo",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeFZtTU1DRVFIWWZuTXJ4RzB2T3QydmhtREJIMGMzaHNuUURpRFctUU9WUWxPZEltV2l4WFF6MWVrVUpldzRUa1NSNWhNSS01Z3ZVbWQyU0hGVlJrTlVxLUM0eTlNMThwN3FsSEJOSkFVeTFkLU0zdHhaWFRXYlYtV3ItLVMzXzBabjlZS0FwZTl1Mlp0UkhXamZOc0o4UGxQZjJmZTFJR3k4N0I5T3RvVkhhR2ZLMkFaRU1zQ0lXYnZhSzZ3UEt5QzVQdDZ6NGkxSmc?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-01T07:00:00Z",
+   "first_seen": "2026-10-29T19:38:37Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Fin de carrière d'un ancien top 10 : sujet d'image sans effet direct identifiable sur les ventes Nike de Tie Break à court terme.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "d4ccb9c410a6",
@@ -11866,5 +12024,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-29T13:07:31Z"
+ "ai_updated": "2026-10-29T19:44:16Z"
 }
