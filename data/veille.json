@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T22:35:43Z",
+ "updated": "2026-10-29T05:48:47Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
+  "added_last_run": 3,
   "feed_errors_last_run": 4,
-  "rejected_last_run": 352
+  "rejected_last_run": 381
  },
  "items": [
+  {
+   "id": "f1d1a0edb7ef",
+   "title": "Nike renforce sa présence en Inde avec une nouvelle chaussure de course, à la recherche de nouveaux moteurs de",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPdERSS1VXMmpzaG1qUDBqY0Zaa0tKOHB4MUdwNHRrdWpfZkpDZlJZSVZwWHVmdXg3MTR1M1otSVFEVkthTVpVZXVFZms5OXRWSnZ4a2xBOFNUMUo0TDN4NE1xSHE2T253MlhFa2otWDVNdlAzU1dZdktJV2xtYzBCSnhpOXZfT1Vkay1GNGo5ZWNYLUR4WEp3eTlJRXFjUDdWMVpzMmd2OEdhLXZhcmtfWG1vWlA0MDVPSkNiXzYyV3E0UGJrYnRzREtlSFhOMmllVHZfSDR2dXVSU1ZvVWtGaEotYUxtU0ZMMzNiUG03SmcwcEdfRWFxYThmbURsWDhZQXBLZ21uS1RCN1M2OWVTY0t0a1h1S2pYU05ucTBadk1rdnZWV3JCMWhB0gGqAkFVX3lxTE90RFJLVVcyanNobWpQMGpjRlprS0o4cHgxR3A0dGt1al9mSkNmUllJVnBYdWZ1eDcxNHUzWi1JUURWS2FNWlVldUVmazk5dFZKdnhrbEE4U1QxSjRMM3g0TXFIcTZPbncyWEVrai1YNU12UDNTV1l2S0lXbG1jMEJKeGk5dl9PVWRrLUY0ajllY1gtRHhYSnd5OUlFcWNQN1YxWnMyZ3Y4R2EtdmFya19YbW9aUDQwNU9KQ2JfNjJXcTRQYmtidHNES2VIWE4yaWVUdl9INHZ1dVJTVm9Va0ZoSi1hTG1TRkwzM2JQbTdKZzBwR19FYXFhOGZtRGxYOFlBcEtnbW5LVEI3UzY5ZVNjS3RrWHVLalhTTm5xMFp2TWt2dlZXckIxaEE?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-29T00:30:28Z",
+   "first_seen": "2026-10-29T05:48:47Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Expansion de Nike en Inde via une chaussure de course : indice d'une recherche de croissance hors marchés matures, sans effet direct identifiable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3eacd2e77caf",
    "title": "US bans imports from BGI Genomics, MGI Tech, citing ties to forced labor in Xinjiang",
@@ -122,6 +144,28 @@
     "r": 1,
     "impact": "Concerne une autre marque (dont Federer est actionnaire) touchée par l'affaire Mbappé ; lien avec Nike non établi par le titre, impact direct limité pour Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "536da29d9fc6",
+   "title": "Les propos de Mbappé sur Mao mettent en lumière le prix à payer lorsqu'on franchit les lignes rouges de la Chi",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPV0c0MHhfUHdOQURObFViQ1puVi1HSjR3akhsSTBTb0NNSzZYWjFaQXZPUEN4RzRkb05oRHFMeWhxalZLNDFCMmg4Wk84WGpmRFVibDhqVkI1TklUSnEzN1FyQlNsck9EM1lNWUVaaWZRdzdaV3REUm9yeW1lOEhlS1pmSEZwak5sMUk0R1JNS3prQXl4MnVvU3dLRFJqejRIeWJVRjRZSjROVm16bUtvRkdDQ0Z4TDBWblN6SVFXakUxQkMtZVVROUk5TkFNMkZsNnBobzdFTGR0elh0cThpX1AxRzJPQ1E0ZWpPd3RfZHRYNWdJTXhfVFNWdmpWVUMydnNlTHd6am45U0lFV1l1U1dFRzNjWG10ZFRWdWFZQdIBnwJBVV95cUxPV0c0MHhfUHdOQURObFViQ1puVi1HSjR3akhsSTBTb0NNSzZYWjFaQXZPUEN4RzRkb05oRHFMeWhxalZLNDFCMmg4Wk84WGpmRFVibDhqVkI1TklUSnEzN1FyQlNsck9EM1lNWUVaaWZRdzdaV3REUm9yeW1lOEhlS1pmSEZwak5sMUk0R1JNS3prQXl4MnVvU3dLRFJqejRIeWJVRjRZSjROVm16bUtvRkdDQ0Z4TDBWblN6SVFXakUxQkMtZVVROUk5TkFNMkZsNnBobzdFTGR0elh0cThpX1AxRzJPQ1E0ZWpPd3RfZHRYNWdJTXhfVFNWdmpWVUMydnNlTHd6am45U0lFV1l1U1dFRzNjWG10ZFRWdWFZQQ?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-28T10:33:04Z",
+   "first_seen": "2026-10-29T05:48:47Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -418,6 +462,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "40c3fdaec2b5",
+   "title": "The Daily View: Suez boxship return more than just a numbers game",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0JCdFdEcVBoY0VyYTlVYkFENTBPUldneG1LLXBMbnhlMVlKTjNiQTJOeUt4OHRMakZUcmVDN2JVVlJocjZ3dHk5ak0yMDYzUi1HQmxIWFdVWkdTVVpGR19VM0J1R1JFOXlMT0NVbS0yeFhTaU9IZWZURzdRbURRdmZjR19DYnRadmI4WS1pdW9VVDZ0RDZscUhjZXFiRmJHTzRr?oc=5",
+   "source": "Lloyd's List",
+   "domain": "lloydslist.com",
+   "date": "2026-10-26T17:26:36Z",
+   "first_seen": "2026-10-29T05:48:47Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour de porte-conteneurs par Suez : possible réduction des délais de transport Asie-Europe, donc des retards de livraison Nike à Tie Break, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "97810ccb2d82",
@@ -11663,5 +11731,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-28T22:41:16Z"
+ "ai_updated": "2026-10-29T05:54:04Z"
 }
