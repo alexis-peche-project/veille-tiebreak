@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T19:38:37Z",
+ "updated": "2026-10-29T23:57:32Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 5,
-  "rejected_last_run": 343
+  "added_last_run": 3,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 342
  },
  "items": [
   {
@@ -98,6 +98,28 @@
     "r": 1,
     "impact": "Alcaraz, athlète Nike, évoque une blessure cette année : information sur sa disponibilité, sans effet direct annoncé sur les ventes de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "55ff16706c1a",
+   "title": "Adidas renoue avec la croissance en Europe au quatrième trimestre et confirme la révision à la hausse de ses p",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNLU5LZHJ2dlRvQXgzeEdtNW9WWkpaQzdLSFV5V0pfWVZGdE9UTWJZTFZfbkZXRnZSMnFOSXpnYmlwNGw5R1dmeVpleWowcTVOdm82UGJ5ZVk5UG5ZWktNWFRHMVVwOTZoVzhiRDBiM1ZXajVHWTZKZjlBTS12RDlWQ3c2LV8ydmJZT3ljS3VnRldKOU1hNVM1QUtkbEgzRWVPNzd0Z1hrcVoxdjQtMWRmVG9QUnU1eWM0TmVTTERFbTZPd3Rhai1KTlhXYThCcy02TnZNMzhQRVBSUUlpZ245d2U3VVMtSUZoUXV2dWhKQUFCajdNVnZGWWFXMm50MEg5R3JzVDhBN1JPVUJ4a2hOQV9EbXpKeWNISEdSZDZ1QjkzQV94MnpsRNIBqAJBVV95cUxNLU5LZHJ2dlRvQXgzeEdtNW9WWkpaQzdLSFV5V0pfWVZGdE9UTWJZTFZfbkZXRnZSMnFOSXpnYmlwNGw5R1dmeVpleWowcTVOdm82UGJ5ZVk5UG5ZWktNWFRHMVVwOTZoVzhiRDBiM1ZXajVHWTZKZjlBTS12RDlWQ3c2LV8ydmJZT3ljS3VnRldKOU1hNVM1QUtkbEgzRWVPNzd0Z1hrcVoxdjQtMWRmVG9QUnU1eWM0TmVTTERFbTZPd3Rhai1KTlhXYThCcy02TnZNMzhQRVBSUUlpZ245d2U3VVMtSUZoUXV2dWhKQUFCajdNVnZGWWFXMm50MEg5R3JzVDhBN1JPVUJ4a2hOQV9EbXpKeWNISEdSZDZ1QjkzQV94MnpsRA?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-29T08:25:47Z",
+   "first_seen": "2026-10-29T23:57:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Adidas, concurrent direct de Nike, renoue avec la croissance en Europe : la pression concurrentielle sur le textile et les chaussures pourrait s'accentuer en magasin.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8885,6 +8907,51 @@
    }
   },
   {
+   "id": "d00e27861469",
+   "title": "Jordan, Dunk, Converse… Nike n'y arrive plus dans le « lifestyle »",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUEQxc0E4NDdmbHRUcVZwX0VHcUJoblkzenNJNkE3NnhaWm12eFVGaHh1NzBucTFXbDBuTDNTNHBrMkNrdkxqaUVJNzcwQllOUDhjTkZlVmVfV2VpZkVsRVJfTzFKS0dxLW9XMmV5YnVJbWtUc0Y4Q0VUOFp2djJ5bXVCZ3JHZkdPX2Qta0Q1QTBvTENlYVFFWHlQX0dCa0hJcEk5aUJPTDlGRFViLWl3djNKRHpsOGpzeUtkVFdIc05DMTBDYmRJ?oc=5",
+   "source": "Les Echos",
+   "domain": "lesechos.fr",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-29T23:57:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le recul de Nike sur le lifestyle pourrait conduire à réajuster ses collections et ses volumes de distribution, avec effet possible sur l'offre textile et chaussures tennis de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "f685009196c4",
+   "title": "Il ne fallait pas enterrer les colombes",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbVBOalM4dFVOME5uZHNlUmR2dXZVeXB5Vkd1VTJQUXJ6aFk0SmUxX2xISzdVMl9nX1hONEJOYWJKSkFaTUczQktQODdyYkdINnR4Y0xocWtmV1FRX3RaV243aVcwZV91VG51Si1zU3ZnOXFrTTJtMkNhYm5GUEtMRkVXcEFrVDRRR0g2cExZMGdhQUlMZmdsel9CT1JwQ1dzbkE?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-29T23:57:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -12024,5 +12091,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-29T19:44:16Z"
+ "ai_updated": "2026-10-30T00:02:36Z"
 }
