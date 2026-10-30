@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T12:56:44Z",
+ "updated": "2026-10-30T19:23:00Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,80 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
+  "added_last_run": 6,
   "feed_errors_last_run": 4,
-  "rejected_last_run": 352
+  "rejected_last_run": 361
  },
  "items": [
+  {
+   "id": "060aecdb6b44",
+   "title": "Paris Dakar, Formule 1, tennis : la guerre au Moyen-Orient continue de faire fuir les grandes compétitions sportives",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVjJCc3NCVHlEWDQ3XzBMUkZOUDM2cTFSNkcyaHFodFhndEdmbUlHSmd4NTNrU3ZDdXYxbzJ3U2hVVWdCMHJBdWRzU0VlRGNFZFkxZVNDSkJYSTFFSGs0eFp5aEhYM1p2Qm9wWkhILW5aMHNaMjVFdlRyeVQzOG5EUWZZN1U0OTBqWjhXeXZSUmI1X2ludFFWZnFXMEs1dUJWYVBNTUcwLUF0R2R3NVFXb0RBNDAwV002N2phdU9fZ2s2TklJSG5MX19uYlRPYlRiTWY3N25tck9SRVJtMFo1c2pVWGJQQlAzcHFZQ0MyQlVKYVl4SW03NldjWjlObmJXM1NDMU1zbmsyS1FZZ3BR?oc=5",
+   "source": "Les Echos",
+   "domain": "lesechos.fr",
+   "date": "2026-10-30T16:27:02Z",
+   "first_seen": "2026-10-30T19:23:00Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Des compétitions quittent le Moyen-Orient à cause de la guerre, ce qui peut modifier le calendrier sportif et la demande liée aux grands événements.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "445dd2945a30",
+   "title": "In 2025, Aryna Sabalenka ranked 27th among the world's most marketable athletes; one year later, she surp",
+   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWG1EU2IzSmtRcDhRa1AxQ1h4Y0NvdTZKQm1GTjN2clZKcVZ5N0cxVXJKeFM4S2xOM05kR3p3Y3FaenZCZjNLbnU1WktlWVQwRmZFMXBCN09QaUFHVXJfZTFUOUFrNW9KVndodlU5S1VydlpkU3Y4QW14V3RXU182RjRvOXZyWHlVYjhOZ0NpT1RqeGxiMVhaTHM2a2lhVG5LMm1haHZDYkxQbTR1TDVfRERmakIwdHMwTnVhOWRwYkhNSUdlNjFBaW5BcG5PZTNXUXhVRmRNeG50cXo3RXNSNlJsZ212bVJ5TzhMUGtRdnVwdmQ4V1lSN0RFb19ndzVKUllzRFZxbU9vMHVzQVNLUjJqb3AtSnF6eldlS2JWTmF1YVlfdUMwbXBkbkw2ZDZCQlh6VDlnS2ppRmhKbG5QSXJBVjg1M2hrd3VjM3Y4dEQwRk5YTTlFWTlGRnNtQUdDWmt3OGh4c9IB7AJBVV95cUxNUVliN1V3QXhfRWZtY2tteVZHRlNRY2lQMUtFYzlKc0pKVFM5TEtwcTRPblpJNGdOaG5OR2FibXlpVUxLeDZYTEUySWhEWmNaUDFrU0xjTWNLOVBKcmtzUFJBckZOZTZDSmFZSnVxek1iTEExQnd1d1lTME9CaGktMWNGVjQzNFpZeExkUUFacU5kRUhWN2FqQU9Db19hY1ZOU0tfUm90WkhCeVRpQk94Vk94OEI1Z2ZrYy1zd2FSWGVVOHhvN2FBMXd2cko5SEMxTC1uZU5DWUNZY3EwTF96RnhQd21wRlV3eWRGV1p1R3lselE4WEpjZ0RoakpUUzZLakFoU2lxamlhWEdUQ3l6OEZmYnc1VXBBM1RBRnNEdmF5VnZXUV95TkdrX2REdkJnSEprbFFVZ1RVY0lzSkZiV0hnVlFlVktVUWRYczBpNzExWlpQYmRLWHAyYUZBeFIyVUFBN0sxTU9ndUYw?oc=5",
+   "source": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-10-30T15:30:00Z",
+   "first_seen": "2026-10-30T19:23:00Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Progression d'une joueuse au classement des athlètes les plus valorisés ; intérêt pour Tie Break seulement si son équipementier est Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d93885754b54",
+   "title": "Premier Alliance adds more Suez services as Red Sea return accelerates",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUZqeTZjMnZmM1ZBN0FkRzJienVuMGtkT0ZsVWloVTNyM29lTmE0OEhjRENtUFVPUEJ5NEpwcFh4NnNINEZlUDhPVkh1bjY0MFBiU2JuVGVxaUJKYW01Q3RrQUttNjY0Q0VFbV9BY1VpbVNQZ3RoRGc1b0x5V01oQWZackduWU55VmVFYWZ1am9iems4WEs2V0F5NTBXWjluUlZhYUxERHVqSUU?oc=5",
+   "source": "Lloyd's List",
+   "domain": "lloydslist.com",
+   "date": "2026-10-30T15:03:46Z",
+   "first_seen": "2026-10-30T19:23:00Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "suez",
+    "red sea"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour des porte-conteneurs par Suez réduit les délais Asie-Europe, ce qui pourrait accélérer les livraisons Nike en retard, à confirmer.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "9ed97450986e",
    "title": "« Trump a semé la pagaille, ça va être long de tout réparer » : le grand froid entre les États-Unis et le Canada",
@@ -56,6 +125,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "fc3d24aadad8",
+   "title": "Tennis. Arthur Fils se qualifie pour les quarts de l’ATP 500 de Bâle et se rapproche du Masters de Turin",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPVDNvWHZ5LUZnRlh0Nm4yMDVxQk9PeFdYZG1ndzZvMk5LdkVWdlgxaVczREZhZ3VGeW1GNV8tSzR0Q19JeGp1OUVJOEZyV2ZQUXRJSHVqOUtqbzZ4WW0zdDlTaU5qcS03QjFpVFBKWG1uMHVMVlZDQXdweGlGQXpqN3dfUGItN09nYlFnWmxqQTFCQVR2d1BIQjZHQkFnMC03NG1Nc2x5ZWFmeWZUa2ljZGFtclpXaklSejhjX1otam54S0FWUEJCX0VsSXpFNlFzT2NRUnFSZXZqQlZEU2U4OHE0Y2MtQWhFSURHcHVVRERRcXl4UGFIcHFGY0hwU1VCeEQzWkdqU2wyWDZaVzhrUDlVOHd3N3ZEc2h2dQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-29T17:03:03Z",
+   "first_seen": "2026-10-30T19:23:00Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'un joueur dont le lien avec Nike n'est pas précisé ; pertinence limitée pour Tie Break sauf confirmation de l'équipementier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "3e14735d62ff",
@@ -235,6 +327,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "c1e94a9eee09",
+   "title": "Avis aux fans d’Air Force 1 ce modèle voit son prix dégringoler chez Nike",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEVsU1VWNEw2Vlc2MlViN3drM0VjRVpTVVB1dXRLVW1LWGpTR2h1X2RsenFuaHFWZGFpdUpXVE5lVGJSMTJqV0hDYkRrcXdBaHVpT1FwVTVhbjNEUlRmOHJtM1BMX0NONlZuSXB5cmFOS0FnTDVoeXRWWllGS2s5eTItcWFJd3h0dmdma2FqRnNGUzAwMWdzWUNIZkxza09WdndFdGFSblR5N2l3dVlEQ09URVdSc1RjY3U0NzJNVmJmMTBCcEk5VHhsaEdEMWItd3BOeWpjVUs0b2wxMFo1Z2VR?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-28T17:12:00Z",
+   "first_seen": "2026-10-30T19:23:00Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Baisse de prix d'un modèle Nike phare : signal de déstockage ou de pression tarifaire, à comparer avec les prix pratiqués par les sites concurrents.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "391601f2a6ab",
@@ -569,6 +684,28 @@
    "ai": {
     "r": 2,
     "impact": "Sinner, athlète Nike, évoque sa période hors circuit. Visibilité de la marque et attente du public autour de son retour peuvent influencer la demande en produits signés.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "735f09a33d06",
+   "title": "Ce club de tennis va proposer des cours de pickleball",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbmFUQWNucVNrWTdvSThHaExHTmxuUm8tRTVfNThUUjJOVXpLVDBDV3lXWi0wOWdMeFFkUWNKc0w3bUZra0hBeko3MWlubUp5S19MbGNCNjJZZDVzNEVUN00wR1lpVVlHc1FyT2NCaXNSYWZNZVpYaGQ0WEczcXVoc0RnLVdRYUE3dzhXZHRVUW5feTdNRS1BUXN2T25ZM3RKRERRdkxrQ3lqTFY2RGxUc0xsS3lDWFNoZ3F5ZUZVTFpZY2wxUEJ3S19JeklNaDhrT0dXaVBSRUJVMlBod0d0MDlmaEs?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-27T07:52:01Z",
+   "first_seen": "2026-10-30T19:23:00Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Développement du pickleball dans les clubs, segment adjacent pouvant ouvrir une demande en raquettes et accessoires hors gamme Nike.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -12203,5 +12340,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-30T13:02:40Z"
+ "ai_updated": "2026-10-30T19:28:17Z"
 }
