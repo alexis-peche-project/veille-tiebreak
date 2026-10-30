@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T23:57:32Z",
+ "updated": "2026-10-30T05:49:54Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 3,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 342
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 371
  },
  "items": [
   {
@@ -54,6 +54,28 @@
     "r": 2,
     "impact": "Un recul de Nike sur la marque Jordan chez Foot Locker signale une réorientation de sa distribution wholesale, à surveiller pour l'offre accessible aux revendeurs.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "883afd8bfcbe",
+   "title": "Adidas enregistre une reprise en Europe au quatrième trimestre et poursuit sa progression en Chine",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVVItaFRPZ3cyekRrVVJ1R1QwWWtXVV85OEFoY0lPVmxZTnpLX2xZbGlvd1ZwMmEtcjdSdVNOTXNkZC1qd25yTTNXbFAyWko0WV82ZG9tOU5uY1hzUzhvR0VXd0daZEtLejlEb3dfM3NPb3dXY1d3N3o3cG5oTjVJai1Td2U4Yjk4WUkySEl0VF9uZEt0djNCNGRPdzhKbl9oWHdqMzdTV0FHdmdBREpWN21UU1Rvc0F1bVE0TFVHdFEwZDFZSTZsdWoyLUxQdDZQMXpfVUJNT1Jmb05kR0ttVmRWSFlWQXdjd29HX0RmbVh4bmRaU3djNXpNRUthamFnYWpaT3VsQ3A1VHdB0gGMAkFVX3lxTE1VUi1oVE9ndzJ6RGtVUnVHVDBZa1dVXzk4QWhjSU9WbFlOektfbFlsaW93VnAyYS1yN1J1U05Nc2RkLWp3bnJNM1dsUDJaSjRZXzZkb205Tm5jWHNTOG9HRVd3R1pkS0t6OURvd18zc09vd1djV3c3ejdwbmhONUlqLVN3ZThiOThZSTJISXRUX25kS3R2M0I0ZE93OEpuX2hYd2ozN1NXQUd2Z0FESlY3bVRTVG9zQXVtUTRMVUd0UTBkMVlJNmx1ajItTFB0NlAxel9VQk1PUmZvTmRHS21WZFZIWVZBd2N3b0dfRGZtWHhuZFpTd2M1ek1FS2FqYWdhalpPdWxDcDVUd0E?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-29T11:37:43Z",
+   "first_seen": "2026-10-30T05:49:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Adidas, concurrent direct de Nike, annonce une reprise en Europe et une progression en Chine : indicateur de contexte pour le marché du textile sportif, sans effet direct établi sur Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -459,6 +481,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "c1188cc48e2c",
+   "title": "ATP > La décision de Jannik Sinner fait parler : \"Learner Tien inaugure la nouvelle catégorie du tennis, le cocu de l’année. Il va s’asseoir sur 1,5 million de dollars\"",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNXFyWDY2SGZuR29zQVRBb2hNcHRReElJT3pvUjdLNWNYTDg5TkgtNHUzRk4zS2w2c0lETFFEdmI3TFlvQjNLNElENUVQcFdRUk53Q3FBVjhpN2pzOS16U19rSU8wME43WXJWUDNpdG1sYzBCRTZVaDBxS3pGS0pvY1lmQTFmZ2hQSUszQ2VTc3IyelF4QVlYZkN6ZmI1WE0zTHd0VXR0M2J6WFQzUFhvVTBLVElKdkItcFY0SGJ3LUV1V3hLcnoxN0NORkRSWXZrLVp2ODBDenNkTVZIQkVkajJpajdpeXFnekxIUEtiNmF0ZWVSbmJZRzRNOTYzWi11V09PU1hPUWFIM0NxZ3Q0clp6QQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-27T09:42:00Z",
+   "first_seen": "2026-10-30T05:49:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Polémique autour d'une décision de Jannik Sinner, athlète Nike : possible effet sur la visibilité de la marque et la demande, à vérifier avec le contenu complet de l'article.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "1778e05e2bcc",
@@ -7644,6 +7689,29 @@
    }
   },
   {
+   "id": "2cf13dba46f3",
+   "title": "Tennis : Medvedev disjoncte, lance une balle dans la tête d’un spectateur et est disqualifié, Djokovic en finale à Pékin",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOUTQtd0UyZDVqRHNidXhGQ3A2UGI3b2ZBR29LYjVNWFcxcl83VEdzdFJPc2JiaWRDMHVqdWkxZktZbnZTenhmZU4wY1ZUbUNJcHVyOUpFR2QtRVd2WVo5QXJGaUVHdThXZkNCeW1YQTRhQmdLaTV4SGVVSzh3WWt5V3JHaTNlSzlpUDlfaFo5QVVGM3lEb3FFRzRWZGZWN1BKT09sT2RkVmJsWEZad1VWMzNYcXpXN05DaVV6Nk9HamJiZUVWMjVyOG1BeDR2VTYxRmFaRXAyb2hRYWdDVFFheExGUlBBYzdmVXpETUZoZURyWVRGbHVybUhTcWNsMXVBZ2RpbUJyWmZ0NFN4TnhETWtkZk9uU2NHVXRLUllMQVlpVnlOMFBMampQTU1iQ2pGRHc?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-10-30T05:49:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne pas Nike : incident et disqualification de Medvedev, sans lien direct avec les ventes de Tie Break ; retenir uniquement comme contexte de l'actualité tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
    "id": "a9e8ba599dc4",
    "title": "‘Go woke, go broke’: The fall of Nike",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmViVDBfQzVWX2pkbWFBOFVybDZSU3lRTTFJLXNZdmIzUjJscTgtc1BMa19YcmtxUGNNQ2paUGxnaTNJRTQ2ZXBtT3JqQ2prM2lpUGJqUVo5SUNrcVc5a3FDVWpaR1luU0xhSE5VYkNwajdtSzBUWnk0M292bmp4WGhuZGVMUWhieWlv?oc=5",
@@ -12091,5 +12159,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-30T00:02:36Z"
+ "ai_updated": "2026-10-30T05:54:06Z"
 }
