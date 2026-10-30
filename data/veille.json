@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T19:23:00Z",
+ "updated": "2026-10-30T23:47:00Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,37 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 361
+  "added_last_run": 1,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 370
  },
  "items": [
+  {
+   "id": "fb9b5d69918f",
+   "title": "Levi Strauss Faces Class Action Lawsuit Over Tariff Refunds",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTnlSSnRPMUstRWhzX2piOVlaWTZmMlBfX3pzckRtRHprelhSME1meE1fQWQ2WVNaM19mcVcweExUNTFrVUt1WXBEOC1vbEt5NEZaT1FjalpIdjIySzd4ay1RT2FwR1BrcXc1WHpIMGdWS2Q2N2h3aTQ3WDFWWHN3RUd2c1NBa2FLV3BKNDRLellCYUpxN1EzWmMxQjRERm1pY2ZybnMyV1FrX2c?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-10-30T18:33:29Z",
+   "first_seen": "2026-10-30T23:47:00Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Litige sur le remboursement de droits de douane chez Levi Strauss, un concurrent textile : contexte sur la pression tarifaire américaine, sans lien direct établi avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "060aecdb6b44",
    "title": "Paris Dakar, Formule 1, tennis : la guerre au Moyen-Orient continue de faire fuir les grandes compétitions sportives",
@@ -12340,5 +12366,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-30T19:28:17Z"
+ "ai_updated": "2026-10-30T23:51:37Z"
 }
