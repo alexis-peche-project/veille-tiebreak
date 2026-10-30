@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T05:49:54Z",
+ "updated": "2026-10-30T12:56:44Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 371
+  "added_last_run": 2,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 352
  },
  "items": [
+  {
+   "id": "9ed97450986e",
+   "title": "« Trump a semé la pagaille, ça va être long de tout réparer » : le grand froid entre les États-Unis et le Canada",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNdDdQYmlleFBBYjRELWQxMVhzMjM0V2o5eFhwR1pqbVIwSGFjcUFnZk9rMzVLTU1mbEs4R1gza3pLaE5QLTM3bUFEejhjOVlWQVRBbHlHR3E3V0RkbHd5cVhVN2s2Wmlrd1lYdGYtVGJ1UUNkZzRIWjFERUhTbXhqcVZBaFRwUkpNbl9EX2RIQURtZWM0X3ZBWGtkT2s1bWI0WlRVaXM0VURucmdBN2hJeVZyMk9jdjFDaGFHaXh4SDVZaUlnYnJzX3dIbVRLbDJkRWF6TEhrLXowWk5SNFdqcnhEclVSVzdJRUY2QktiSFRaRkVIQ2t4akpmczhOSXY3YWVuMjl4T1plWmtIT1JBeldkOHB1a001bFIwNVktcWZFZllLaC1NdS1pMmZDYVBRSTRLTkdTLUpXQlR6RG5aV2l3?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-10-30T10:30:00Z",
+   "first_seen": "2026-10-30T12:56:44Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "boycott marques américaines",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Tensions commerciales entre États-Unis et Canada : contexte général, sans lien direct avec Nike ni le tennis, effet indirect possible sur les coûts et les flux d'approvisionnement.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "ff810aa33a25",
    "title": "Why container rates are climbing despite cooling demand",
@@ -2272,6 +2294,28 @@
     "r": 1,
     "impact": "Le report du forum saoudien « Davos in the Desert » signale un ralentissement de la vitrine économique du pays, sans lien direct avec le tennis ni les ventes de Tie Break.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "1a0099afd66d",
+   "title": "Tennis de table. Un tournoi international de retour en Bretagne pour la deuxième année consécutive en 2027",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOSFQ2ZnZkQkdLS3FQZ0RCZzI3NnFVMW1NZTlGS09FOHJRdDFOUnFhb3NfUGFYZnUtLXB2eWRET0Vwa2ZwT2pMbjNzRHB5cnd3ZVhaTjBYRE1KVTVpbndSVlFtbnVMaUVDdndyNE13U1RfbFRubjZIQ2RXZWIydk9oRlYtb0FkSXg2MnVUZko0dUZsR09RbkhoUmZXaHljNjNFTm1MMUdnWDZnUGpBdW9ldmdGQThTRUIzU2x4SHZPVXYyZ0JXQ1huU1FWZTdYSWhPMFNzOHdRdU9PaklLcVFwZVNjWm8yRjFpX1BHTF91cEx5Qm5iVTZjbkZtaExzeE5nekp4X1lmYXRub1hZUTh6T1FacERwc1R0NEFCeg?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-20T07:00:00Z",
+   "first_seen": "2026-10-30T12:56:44Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -12159,5 +12203,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-30T05:54:06Z"
+ "ai_updated": "2026-10-30T13:02:40Z"
 }
