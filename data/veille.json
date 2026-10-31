@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T12:30:09Z",
+ "updated": "2026-10-31T18:33:58Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
+  "added_last_run": 1,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 343
+  "rejected_last_run": 341
  },
  "items": [
+  {
+   "id": "99275c0b6449",
+   "title": "Adieu les Air Force 1 : les internautes se ruent sur cette paire de Jordan avec Swoosh métallisé en promo sur le site officiel Nike",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNczgtSG5hczRWNm02ZTFZS0pfU3ZfaGtZVDVqeUFscDNkWmNNUDlOdExGOWNwdFhzY0h2ekpJbjEweVFZMHpnejJYbGtETWU3WlhWb0R5WmhSR21VX1owQmVFTnVOWmxzeWRjQXItQmpYSE90SjI4MW1ubHhwM1VHblY5N2oyNnMzeUs5RmwwTU8yY1JCUnFRaHlCX0hVYjBMZkhYem9sVFJTbHFHdEJvTW5HNVpuUGYtQXpsZk5Sdm1fR3lCVUxESGUxQVc4cHA2VzItdHY3MTdtVzUyMTlKaXVyYlJjS3U1MGc0UGZQNGRLSF83dkZ1RWYyMlkzenRfajUzNzl0NUhhUQ?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-10-31T17:41:00Z",
+   "first_seen": "2026-10-31T18:33:58Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Promotion directe sur le site officiel Nike : concurrence possible avec les revendeurs comme Tie Break, sur un modèle lifestyle peu lié au tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "fb9b5d69918f",
    "title": "Levi Strauss Faces Class Action Lawsuit Over Tariff Refunds",
@@ -12524,5 +12547,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-31T12:35:20Z"
+ "ai_updated": "2026-10-31T18:38:32Z"
 }
