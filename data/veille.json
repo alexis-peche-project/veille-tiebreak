@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:41:32Z",
+ "updated": "2026-10-31T12:30:09Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
+  "added_last_run": 4,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 369
+  "rejected_last_run": 343
  },
  "items": [
   {
@@ -127,6 +127,28 @@
     "r": 1,
     "impact": "Tensions commerciales entre États-Unis et Canada : contexte général, sans lien direct avec Nike ni le tennis, effet indirect possible sur les coûts et les flux d'approvisionnement.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a168cbda6f92",
+   "title": "« C’est gratifiant » : Yann Gédon est le nouveau président du tennis-club de Coutances",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcEF6X0sydmkyZXVQX1ptUkFScEFxTmdHc1NBcjBOQ2dhNHhfd0kxa0plZ3huWFJXLTZMdW0wWnExMTJMU2dkVGFuTEp2OXEzSW1ROWtLdmpLVXBvSWJMWVUyRUMtZTRzUFN1aWxBN25EaTlua1R4SElOczRuMVpZTjUtSndpZExtTGZPT0VpX2xnRmZOZV9qSFE2SF9uR2RXVGhKb2JkazhobS1KMl84dm81cHYtSWFmOHRJdy1KZC0tM3JRMGFydXZneUUtSTBLbk9lWGg2VktCc3JLOXNNUDR3MlVWWEp3SDRfRG8xUWNsY3ZlVUlJdGJvR0Y4cVU?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-30T10:01:02Z",
+   "first_seen": "2026-10-31T12:30:09Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1841,6 +1863,28 @@
     "r": 2,
     "impact": "Une évolution annoncée des règles antidopage pour 2027 peut modifier les conditions de suspension et la disponibilité des joueurs, donc le calendrier et l'intérêt commercial autour d'eux.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4e9181078e59",
+   "title": "Hermès-La croissance ralentit au T3, le prêt-à-porter passe dans le rouge",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZm16ZzVRUU9HNXhXa0NIc2FBSS1PRDVkenBJenJEMFJjTXdCZUh2cGxtaDVLZ2J0MnZPN1R0RHBVaTNYUUNzV1N5bmtBWV9MOHJhdWpTZm40TEY5WTFnWXRLMy1kWk1xb1JocHhMYXlCUkp6eDJrY05sU3BBZTNnUmJhaVVKRVl1MVlnQkVudEJHT09aUUtFZ3ZnX2hrajYzaDVJeVlXdThpaXJsTlNJbWFIQk82MHRfRTZuQ3JMWm1nZmNxQVNCdV84NFMwRkpfd1kxMXZ4eW9ZY1hkaUE?oc=5",
+   "source": "Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-10-31T12:30:09Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le prêt-à-porter d'Hermès passe en perte au T3 : indice indirect d'une demande textile premium fragile, sans lien direct avec Nike.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6470,6 +6514,28 @@
    }
   },
   {
+   "id": "70481c8eaa54",
+   "title": "Foot: L'Oréal devient sponsor du PSG (club)",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNzI2aHFDa3dJcHRNWURxaEtiLThkNnBsdE5FcXRhLXRsNjd1dlhtbkEwaUF1cmt0bFBibjBJTXVaUzJmWnQ0cnYtQVc1NXN1b1BCS216Rm1wQ2hHZWZ3R1lSVnZQOHdGck1HOW1FWFlnTE96WEZwRHRyY1c4Q1Byb1NEUmlZbFlod2taXzE3N0kza2RDak1DZHdPQThTby1EWERR?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-08T07:00:00Z",
+   "first_seen": "2026-10-31T12:30:09Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f9d377a8c435",
    "title": "Voici la paire de Nike P-6000 la plus convoitée de la saison",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSXpvQ3d0VmYyM1dCRWpMdnFEZlIxV2lFc1N1ODZNamlCdzl6TWFTSk9jZzdLRmI5UVA0MTMwNmZ1a0hBOU80Q3BiT21wUE53YzR1SE5tVXA5dFZ0MEJScmUyLVRqMlJRb1ZobHpkT3JxM1d2ZnpNem9Xa0lrY0lueVpKeHpoUk1ITk14TTJKMGNZTmxKVmNIOGNhQ0xERHI1Y0hhdGgya3p4MWx2X29wcS0zZlJPN1p0Z05Ia0RRNWE2dVM5UFppdW51LWVfMHludy0xaElIVUtLelhrZEE?oc=5",
@@ -8098,6 +8164,28 @@
     "r": 2,
     "impact": "Incertitude sur Sinner pourrait déplacer l'attention vers Arthur Fils ; son équipementier n'est pas précisé, à vérifier avant argumentaire.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f516d25de7e9",
+   "title": "Tennis de table. À quelle heure et sur quelle chaîne voir les matches de Félix Lebrun et des Français au China Smash ?",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQQW5zZ3R0QnYxVHNyR2hPdGIzRnd5bXpHb05Od1FBT3g3MnRNOHBLZW5lZTVmUmtEZmlmY1NvTFlyUTcyZE45eVcxU2dXUEdVVy1GeF9talJDRUpuWGk4MEdhM3REQWRIbVc5dlAwZlREbUFXMXVBSWVocjUwVTlnTE44RGEwTXl3X3I1Qmw4VDdKQ1ExWGVhdVJtNkpwUUI3cjVDWnpIZUJ6VTRhRkVMZTZGeGFXYks4ZDZIZ0dnaWYzX0V3cmVqR3hHYlFOdWduMmVjbmRuMTdiLWNMcDJ2em0tU2pCNE9LSF9McVBkOWNwUzBQZkpzSzlvaGVvM1NJenI4OVZycVdsenFBR2hmczFGZ0dvelZzSE12dVhIclNacVVDTEF4VVVNTE5fMkxWV3FTeDI3N3NmWlU?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-04T07:00:00Z",
+   "first_seen": "2026-10-31T12:30:09Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -12436,5 +12524,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-31T05:46:34Z"
+ "ai_updated": "2026-10-31T12:35:20Z"
 }
