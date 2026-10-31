@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:47:00Z",
+ "updated": "2026-10-31T05:41:32Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
+  "added_last_run": 3,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 370
+  "rejected_last_run": 369
  },
  "items": [
   {
@@ -2186,6 +2186,31 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "8b2a33c2a3c9",
+   "title": "Tennis: \"Quel kiff de jouer en France\", Wawrinka prolonge le plaisir à Lyon et continue sa tournée d'adieux avant sa retraite",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMVRSR0FUZ0tncXlkeW1FdVMwclVQa19Ick1jWjNVNUxaMVBleHdPbm56WDQtOG45TUx6MHp0TmNIRUhoRUtkVC1paHhtMWRoYzRPRU85VGY1YWphb3I3LWZ1RDNBLUhFYnVHaTAzOWF5NUZCWDZ3WFVHWnl4aXNHZlM5X09QYi0tb1MzS0g5M3YwQVlBc1ZRS0oxamdsMmFYeTg0dkVEelJYVXVyZUVGcURlelQ3NGdKdTdXaGhnektGQklNN25yM3dEbnlBdDVDcGRIdUlkOHA3a2Nwc0VqalNBbS05YXBrQmtUVnl5SF9HMVpvNEFMWFZuMmdWVFVyYXpRelN5NA?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-10-21T07:00:00Z",
+   "first_seen": "2026-10-31T05:41:32Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "retrait"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Tournée d'adieux de Wawrinka en France : intérêt possible pour le tennis tricolore, sans lien direct avec Nike ni avec les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "76c69446ef8d",
@@ -9227,6 +9252,51 @@
    }
   },
   {
+   "id": "d5e2cd03af22",
+   "title": "Des suppressions d’emplois prévues chez Nike",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNem1rSzRXVEVidldwMUhuNVFKOTU5T0JRTV9uRC1pajBJSmtwRmFUNndTQUNkclBhWG44djVNcHFCd1VkNWpMNWhqVnhZUU9yaV83Ml9oQXpDSExSaWdTMmVBUmNxNjZEa24wMFl0UTlQb3hlN1FrdkhCQzJsNzVHU3FOc0tBX1liTlRXU2E3aVhxNGtHdkE?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-31T05:41:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Suppressions d'emplois annoncées chez Nike : risque de ralentissement des livraisons et de changements d'interlocuteurs pour les revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "2a60b0b6a450",
+   "title": "Wall Street termine en hausse, l'emploi plaide pour un statu quo de la Fed",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMW8yQUYtdU5MY09xckpFZG9WQVlPWmZIRDhHRGIyOWhvUjUtWldhenc4R3c4SVpxa21LZzVMVk1CcXBqdTJHRXhxSEIyY21WZFJuSV96TU5taldERnYwcE9BdmtnMjRuY0tUejZtUUh5bGI1WU90MU1hSXBwTkhiMFN6U2tLRmdtenh4bnhuTmdIT3Vac2Nwb3l0ZUJYMGxRTklaUHVHVDlnbUt4OXN3bHF0OWdRZnk0ZFBGZTI4bDl4QS1U?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-02T07:00:00Z",
+   "first_seen": "2026-10-31T05:41:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "0e1c4192971c",
    "title": "PIF’s Humain, EY to develop Saudi Arabia’s first AI-native outsourcing service",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEt6TDM4bG10dld1bzBGeGp3alFURTJyM2gya19EaWdVSjJ1V1RRSzRlM0FuakxQaEY1VmhhZC1CQl81bHQyZXF5c2Q1T0ZWMUFBdmJ2cHRxWGpseGlVRVdmZmVCZGdNOVFZNnVoNnd4R0phXzdlYzloNklwVFR3dUNteXBQZzRvMWE5UlpkM3FYa3RodUtzNG5EUXl5YU5YbExqdXg3SThNRlNkQ0tDWTVhbkVXbEw3?oc=5",
@@ -12366,5 +12436,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-30T23:51:37Z"
+ "ai_updated": "2026-10-31T05:46:34Z"
 }
