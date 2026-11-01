@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T06:05:23Z",
+ "updated": "2026-11-01T13:25:08Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 338
+  "added_last_run": 9,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 335
  },
  "items": [
+  {
+   "id": "5505632a32fb",
+   "title": "ATP Finals : De Minaur s’empare de la neuvième place pour un point, et un titre à Vienne lui offrirait 171 points d’avance",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWHpxckgxZUptclcwaG5ucEVUQ3c1MWhhNXBRUzZudTdEb284U1dWaC1NUTN0dTl3aHZqNmpzakR0TWZrT3I3TlQxekN6ZjVrSGZ1R2NmNEJKc3Y0S08tOTA2SURLZTd2aTFjcWlKbVJfeGdRSXpjOXh0Z0xpbFZFSFZleUJ0QnpqVG5fbk9Ha3BiWllFRm5yUnA1VlRBdjJDMjMxbVBmSm9KQThtUjMyN2oybWpjTFRpQllndERUQTdrQjlSU3JnbWx3QlBXcm40UTNadzRUbUthU0QzRUN5TU1LRjlGeDFGbU5VZWZHY2lRRGtEZnhhNWlMb0FnWXpySW14REcwamlkOEdmV1BMNmRPdzZ2YnJLSEd5eGstcFctdw?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-01T08:14:14Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'un joueur en ATP Finals ; le titre ne mentionne pas Nike, lien indirect avec les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
   {
    "id": "99275c0b6449",
    "title": "Adieu les Air Force 1 : les internautes se ruent sur cette paire de Jordan avec Swoosh métallisé en promo sur le site officiel Nike",
@@ -128,6 +151,28 @@
     "r": 3,
     "impact": "Le retour des porte-conteneurs par Suez réduit les délais Asie-Europe, ce qui pourrait accélérer les livraisons Nike en retard, à confirmer.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2bac988afec1",
+   "title": "Trimestriels mitigés pour Puma, mais l'évolution des stocks rassure",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMnZzWmxJUUs0WWJ6OGQyWlBkcHBhYVdXbDR0akFvQ2x0bFpoaTV1b0NTNnl4ZkJrZ0ozNjNES1poRjFnRDVla2JpeEVFcVZCTjE0dmpWRXFtUVEwN2xCdUlVdFZ5WERPWVdmc3M1VU1QVFBzQWUzN0x3ei1wV3Jha2VYUnoyYmhRWXJXRENBMkowT3R2cEU0bVVZdloyUGo5NzFwc2UxdllzQlBkNks1ZFdld2ZzUVBHdzlMT0FLX1ZlRUFtVzJTV0paWHRKdHgzYy1pTXRtaG9Ia3R4TThGZVhR0gHiAUFVX3lxTE0ydnNabElRSzRZYno4ZDJaUGRwcGFhV1dsNHRqQW9DbHRsWmhpNXVvQ1M2eXhmQmtnSjM2M0RLWmhGMWdENWVrYml4RUVxVkJOMTR2alZFcW1RUTA3bEJ1SVV0VnlYRE9ZV2ZzczVVTVBUUHNBZTM3THd6LXBXcmFrZVhSejJiaFFZcldEQ0EySjBPdHZwRTRtVVl2WjJQajk3MXBzZTF2WXNCUGQ2SzVkV2V3ZnNRUEd3OUxPQUtfVmVFQW1XMlNXSlpYdEp0eDNjLWlNdG1ob0hrdHhNOEZlWFE?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-30T10:59:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultats trimestriels de Puma, concurrent sportswear de Nike ; indicateur de contexte sur le marché de l'équipement sportif.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -557,6 +602,31 @@
    }
   },
   {
+   "id": "953e80c0ba50",
+   "title": "Canada & UAE sign CEPA to eliminate tariffs on over 99% of exports",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVpWaU1EZVNQa2xUV0dHWExrTk12U0I2cFg1NWhVR0FWN2tVUVJkZUlzcTlWanRWcTNqQ3UyV2VXVGRWZVRNWmtDMnpIcEpLb2VjTURRdFBjOHN6Z3loTDdJUnZlTTMtM1JFS1BkeHIxUnVYLUQtblBvdE51Ym8zT1JfYnhrcWQybHFOcEhjSU5wTGVvMzlXX2hxelVBck5GZ3MxT3ZwRjRJUTItbkpDQ0hhVkZ2SVZuVHF0OEthZmtEQjBjRVZfRm9qQjFJYnZhZjFhNk0yRW1sSE1oMW5UYnZqdXg4T3Y2?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-28T07:00:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "19daa8dacd09",
    "title": "Ben Shelton faces no competition from Carlos Alcaraz and Jannik Sinner, but keeps talking about them",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFpzTms5dGFVR1hNWWE3M1Z0azN5UFhFb2ZPU0lZbG1HOXN2OXhWNldzQkZsMWtTRlBCNVV0ZHIzdE8zUUpGc2FiNThhLW9OYjlJaEVDazNWWFRmSEdnem82WnJfVk5mM3hsUnZJelpfRVJIdzBveDhsX2FIX2Jnb3o4STg2RW9ZTU4xRS1RY3JUdVhfdUFnMExtanJ2aFRYM01tSGp6RnVGS0lFUkxmcnQteDdYU091X3B0clNVU0drVlJHSmRPamNjTzlsMjdwMUJyRUUzYzJvYXhS0gHcAUFVX3lxTE94WnNOazl0YVVHWE1ZYTczVnRrM3lQWEVvZk9TSVlsbUc5c3Y5eFY2V3NCRmwxa1NGUEI1VXRkcjN0TzNRSkZzYWI1OGEtb05iOUloRUNrM1ZYVGZIR2d6bzZacl9WTmYzeGxSdkl6Wl9FUkh3MG94OGxfYUhfYmdvejhJODZFb1lNTjFFLVFjclR1WF91QWcwTG1qcnZoVFgzTW1IanpGdUZLSUVSTGZydC14N1hTT3VfcHRyU1VTR2tWUkdKZE9qY2NPOWwyN3AxQnJFRTNjMm9heFI?oc=5",
@@ -682,6 +752,28 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d9a0054645f9",
+   "title": "Les fonds négociés en Bourse progressent, les contrats à terme sur actions évoluent en ordre dispersé avant l’ouverture mardi, les investisseurs évaluant les résultats des entreprises",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVnp4OXdkTmZOeFpzTlFpa29oRkg4SXRNb2MwcXlnWm5VbTdoYm9SLXJuanBzSnMzb1NWWkp3MmxjOHh0UjM2U1JqYU5BaDlXa2docDNhNDlBMGtuRzdoZGdyTkFGdjJubjZVMDJKYWNocjdNUEtZRHRhTzdQMHlvbVp4UUFLUDFVRXktN2pHWDh3UEZSSzVYbHBOcE56VktRdUZXdFR4U3ByeUVWakZ6bkhrcmh2VWliQ1J2MFVhY1NORnE5Z3JqNEJJVEdaSkxia1hiT2ZxMTh6RVpRdS05THNPMHRQRnd1OXAyeXpoR0h1dw?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-27T13:16:16Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
    "signals": [],
    "ai": {
     "r": 0,
@@ -1912,6 +2004,28 @@
    }
   },
   {
+   "id": "81c5e81a3e86",
+   "title": "Hermès chute en Bourse après des ventes inférieures aux attentes au 3e trimestre",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOTlrM2I3bDA4bHQ2VTBDa0w5TThHdTZZZjRmXzlTNE1lNG5lbUpBck9rSjdJQUZTY2JWYWRMRFB5TVN1a2d6d3VfMHF4bVhqX0RWa3hjRWtoLXJEajNMVERRTzYzNEI0UG1ZMThHVVhNR25EUUxNaFhzQllIaTRYMG5XRjhwRkFoZmlSOXdPekZ0SDlUdVZITGRlc25vdHlTSktiOEFYdE5Wbm9ZdW12Wmw2YW5CWS03RkJFVWhIbHZsMFQ1TDFiSnM3bVNvX05LSmxFWFBwbkhYLUdUY3F0ZjlFczdfb1ht?oc=5",
+   "source": "Investir Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-22T07:36:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4e9181078e59",
    "title": "Hermès-La croissance ralentit au T3, le prêt-à-porter passe dans le rouge",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZm16ZzVRUU9HNXhXa0NIc2FBSS1PRDVkenBJenJEMFJjTXdCZUh2cGxtaDVLZ2J0MnZPN1R0RHBVaTNYUUNzV1N5bmtBWV9MOHJhdWpTZm40TEY5WTFnWXRLMy1kWk1xb1JocHhMYXlCUkp6eDJrY05sU3BBZTNnUmJhaVVKRVl1MVlnQkVudEJHT09aUUtFZ3ZnX2hrajYzaDVJeVlXdThpaXJsTlNJbWFIQk82MHRfRTZuQ3JMWm1nZmNxQVNCdV84NFMwRkpfd1kxMXZ4eW9ZY1hkaUE?oc=5",
@@ -2300,6 +2414,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "c974377edd71",
+   "title": "Adidas’ record Q3 is salt in the wound for Nike",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSS14aG1jX2Qya1hjcWQwZUVlSmNGdDNva1YyVWZaUlFtMDNzcWY5QUhGQ3FYeE9XRVhyVjJsRW9iUC10NFJJM2hHekktR2pQZENHMW43LTFHaEdvM2tXbmoxc2ZvdVdVQ3p0LVRVTHpkSENQQ3B0ZmxYd0o0cFFlOVd0czhWcXVQ?oc=5",
+   "source": "Retail Dive",
+   "domain": "retaildive.com",
+   "date": "2026-10-21T07:00:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Record trimestriel d'Adidas présenté comme difficulté supplémentaire pour Nike ; possible pression sur la stratégie de distribution et les marges.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "76c69446ef8d",
@@ -6265,6 +6401,28 @@
    }
   },
   {
+   "id": "317318d5adbb",
+   "title": "Le secteur du luxe freiné davantage par des mesures fiscales en Chine",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcGNObWRvY1MtdW5xRkhRUG9pNC1uQW93ZWVmcDJENHFMSGRnd0FLVm1rWEJRcmtKLUZlaVA1MWxBSjhrbHdRdFVIcnByd29LbFkzYk9rbEtGc05pQ1NPSk5yY0FoRktNYkJ6U1J2MXhHT2x5OVFMVWZReDdtcWw5ejA4bzJpcmZmc19IaVdmU3JRRHRidE4tVEJMVFYzcnk2cHFMekZGOUhFeDRaTk1odkdsZ0cyckgwbWFNcHBSUTlHN3hMVkNCcWJoTWo0dTI5X1h6ME9ON05FQQ?oc=5",
+   "source": "Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-09T07:00:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f4c2187bdc08",
    "title": "Liquidées sous le seuil des 100 €, ces Nike Air Force 1 font un carton",
    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0ZUdXRyVnY5SHBFRTFrTXNqZnpsSk1hRkZwNTZtU1BmMGZWS1hTUTdjZllrSWVnQV85X21ZalV1bWlhMUg5cEFWU1JiUnlGT2ZneEZQTlZmWEtTU29nNk5ld2NpU1FpdHNRcEg5N2pFeXhrUkJ4c3ZqNEpCS3VTQ3ZOUUxqYS1IMFNadTNUdlJJSUF5OTAyNUkzOFMteGNNZXF0V3RhdlU5amhUb1JOTFh2NVJYQmVheXlweG12cm9GODJSQUdSdWxEekZrMmZfYXRFWFliR0I2b3VtZ3Y1d25R?oc=5",
@@ -8073,6 +8231,50 @@
     "r": 3,
     "impact": "Note de dette de Nike dégradée, redressement jugé long : pression sur la trésorerie, risque de tensions sur les livraisons et le wholesale.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f21c5ef3a3f9",
+   "title": "EXEC: Nike, Inc. Faces More Share Price Target Cuts and Another Downgrade",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeE45QlYycDhZU3lKZVJjWUZiNmtNQWtsTWVhVEpXbUpETm9Canlkc1BlM2dOaWptUzkydnhHRm9jMUdtLXlVTnI0VkJBSEtPNmwyMnhndUdIZlpNRElfSjBoU3l5aHR5NXFzYm9jb0k2ZWxmY3lQcVd2a0JHQm9lelU5bWY0OENuU1U5QjZ5NVhET3F2UHRfUGxuM256QTds?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nouvelles baisses d'objectifs de cours et nouvelle dégradation de Nike par un analyste ; signal de défiance des marchés, sans effet direct sur les ventes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c75b4c3d7b2c",
+   "title": "Nike’s Other Shoe Has Finally Dropped",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY05hTFVfYW1oVFF3QnE5ZE5seXdTQ0NEMEJScmRLQ1dCaE5Ka1JCTExuQUpNVjl0Xy1oc0dCMlJSeFdLcXo3MzVMbmM0VzZhR2lwY19RRjVkRTA4R0lvcU1oSkRfRGJ6RXRpV0tzR0Jrb1hNeXkxSzlGbmVFR3puWXJ3cHVwVEpJVlBGODN6ZFQzR0lnVlE?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-11-01T13:25:08Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Titre suggérant une nouvelle mauvaise nouvelle pour Nike, sans précision ; contenu à consulter avant d'en tirer des conséquences.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -12591,5 +12793,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-01T06:10:30Z"
+ "ai_updated": "2026-11-01T13:29:10Z"
 }
