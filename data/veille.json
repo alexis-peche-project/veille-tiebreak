@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T23:24:07Z",
+ "updated": "2026-11-01T06:05:23Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 0,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 353
+  "added_last_run": 2,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 338
  },
  "items": [
   {
@@ -1611,6 +1611,28 @@
     "r": 2,
     "impact": "Suspension provisoire pour dopage dans le tennis féminin : rappelle les enjeux d'intégrité du circuit (ITIA, AMA), sans lien direct avec Nike ni les ventes.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "1f233b3bea28",
+   "title": "La FFT lance deux nouveaux tournois féminins au CNE",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9jS1hLV1RBSmZ6ZzZISzhONzY1SHR2czdXNEgwbERVNmdMTDBJcWdHT1F5MzRadHlyemw2WjlmYUZla0YtMEc3RnNNaXkwV0VJOTVIYlRuTnZSVGduQlZyNWpBNC00SDJXUWlIUERtNFA3ZE9aY25BX3VHQkZqdw?oc=5",
+   "source": "Fédération Française de Tennis",
+   "domain": "fft.fr",
+   "date": "2026-10-23T12:39:13Z",
+   "first_seen": "2026-11-01T06:05:23Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Deux tournois féminins au CNE : lien indirect avec Nike ; effet limité sur les ventes de Tie Break à ce stade.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8033,6 +8055,28 @@
    "axis_original": "T5"
   },
   {
+   "id": "9535231a6806",
+   "title": "Nike’s Debt Ratings Downgrades on “Protracted” Turnaround, Cash Flow Declines",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdDk2dmtlREwyMHhZZkdTQzgzUV9kbGhuOVlUZnpZT0lINmVueFppZFFRaFF5OTJEd2hnSWlXTG52dGZiR3lhemtBaDEzbE01djVJQjM3aHZjeVIydGdUU2JXeU1UMk5MaGtnUzlRRENZY2t0eFRYejhjNm9Vc2o1V1dnT2VZRWZBQl9xazRoLXBkSjJldXpxYmVMS0I?oc=5",
+   "source": "SGB Media",
+   "domain": "sgbonline.com",
+   "date": "2026-10-05T07:00:00Z",
+   "first_seen": "2026-11-01T06:05:23Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Note de dette de Nike dégradée, redressement jugé long : pression sur la trésorerie, risque de tensions sur les livraisons et le wholesale.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a9e8ba599dc4",
    "title": "‘Go woke, go broke’: The fall of Nike",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmViVDBfQzVWX2pkbWFBOFVybDZSU3lRTTFJLXNZdmIzUjJscTgtc1BMa19YcmtxUGNNQ2paUGxnaTNJRTQ2ZXBtT3JqQ2prM2lpUGJqUVo5SUNrcVc5a3FDVWpaR1luU0xhSE5VYkNwajdtSzBUWnk0M292bmp4WGhuZGVMUWhieWlv?oc=5",
@@ -12547,5 +12591,5 @@
    }
   }
  ],
- "ai_updated": "2026-10-31T23:28:10Z"
+ "ai_updated": "2026-11-01T06:10:30Z"
 }
