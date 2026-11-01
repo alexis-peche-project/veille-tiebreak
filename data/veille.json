@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:56:39Z",
+ "updated": "2026-11-01T23:35:54Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 340
+  "added_last_run": 7,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 347
  },
  "items": [
   {
@@ -150,6 +150,28 @@
     "r": 2,
     "impact": "Des compétitions quittent le Moyen-Orient à cause de la guerre, ce qui peut modifier le calendrier sportif et la demande liée aux grands événements.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "afd9c5e77fe9",
+   "title": "Action Kongsberg Gruppen ASA | Cours KOG Bourse Oslo Bors",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jWnY5eWJScXhhYkZzdW9sRHJQMnY3TE4wVzNDTHpmamEtTmYxY1J2MmZhMUJSTF9BeWl3YmJ6VTNyaWxoV2EzNFhXUG9zNGx2SmJYSnJBLXhkd1BKTkpJbmZ4Z3Q5aHgyM0ZFQk1wNEsydElrX0w1XzZ3?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-30T15:45:00Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -443,6 +465,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "b6c755684ad5",
+   "title": "Nike renforce sa présence en Inde avec une nouvelle chaussure de running, à la recherche de nouveaux moteurs de croissance",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMlB0UFVubUxFWkxER25la1FJbnE4eHRlUGl4YmtaVExudy1FQkxDTHpfTHNDcVVFWVlMUVpHdExseTBWUm1GYjZzQjZXNmxCZWZoVzRFRXpaWVNuT0l0aUVfSXZJVWROenM3Q0xuV3RTYVp2aVEzMlQyVEg4M1Ixdm01X0x4aGdWdndWVWk0b1RDVmZhQ1J0ZDMwTk8wUmFxSzB6Smg0d2l4UGlfclNsWVZfSnRZTDlUdTlzUWN5RWw4NktNNmYwVVlVSU5oTk1jNV9kTGs0YlFOS1N6UWhQTi1lamF3WVN0OFFub2JGMlZydw?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-29T00:34:18Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike lance une chaussure de running en Inde pour chercher de nouveaux relais de croissance ; effet direct nul pour Tie Break, indice de la stratégie hors marchés matures.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "f1d1a0edb7ef",
@@ -1610,6 +1654,28 @@
    "axis_original": "E1"
   },
   {
+   "id": "d60751c21d31",
+   "title": "Action Viant Technology Inc. | Cours DSP Bourse Nasdaq",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtamJMX29NUVNkSHFYSHdxbUpKc1g5a0hMNG41OEN1QllVMkhNcXZNYmRzZ1ZRdkdMUVVEVEFMWjlGZFlmZUhuNGF4UmpNVi1nUG4ya1hvV2lpeGhoRDJ5WE5TSXFMdFVmbG9mS0hGeDRRS1NkeEV4OVhJaw?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-23T20:00:00Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f0e495a8d632",
    "title": "Tennis de table - Pro A. Face au champion en titre, les Loups d’Angers de nouveau battus",
    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNbmJnSmlYQzU1U1R5emM0MS1TOXdBZmo2NEpPaVVVRVVNek8zZkRQcVl1SERPVGZIVjJsNDQyOU9RN0FNRVlkcU13cFVoOHVkMm5FdWd3b1BQVGlWUmFlMVRud3J6RTVIaDNIVE5lb1lqV2gwcUtnV2txZzNwcWZzR29la0JkQUZXNzViMXY4d3AxN0l5Mm9ueHlPVWlObG56NzZQaXZqRjV2eUctSTFXTHNPaHAtNzJiMG45dDRlcjZHM0JYRDdkQWpMR2M4c2o3eDFSc0plbU1fRUg0RkhQdzkxek56cDJMNGl4MFFTRjZhaUMtSWtNbFVIcjZYbEtiN0V0aUJCeTlNMFVKV0x0V09KMGUyTGQx?oc=5",
@@ -1841,6 +1907,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "5019a34e950c",
+   "title": "Nike, Inc. : Barclays toujours à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGF3a3E1em8tb1hfbVpmalZKLUJGZVg0bWpNZC02YlVQZjVFX1lsNldtcHp4TG93TzNIb1pPTncwU0E4UWZhN0wybU5XZ0h5TG12eVZ1b04teWJEYV81UTJ1YjFJV2lzMTZSSU5qX2p4VE45eGxYc3J0NzkzT1Y5MkNnUmplWk9TdUpGWXUtRnNPcFo4U2hLTVZpZFM?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-23T06:25:48Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Barclays maintient une recommandation d'achat sur Nike ; signal de confiance financière, sans effet direct sur les livraisons ni sur la demande en magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "2fa7d4207861",
@@ -2089,6 +2177,28 @@
    "ai": {
     "r": 1,
     "impact": "Le prêt-à-porter d'Hermès passe en perte au T3 : indice indirect d'une demande textile premium fragile, sans lien direct avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6a2eaa0d547e",
+   "title": "Hermès International paie en Bourse le ralentissement de sa croissance, accentué durant l'été",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOVl3QkVaQzVOY3dqM00zODZRQUpZSU9BTno4WFVwWXdwdTg1c1BoNHVtNVVSV05SRHJLemdkQXliOEVQMkJBcWttb3lKUnpuRDdYWTZCd2wxTHZJQmM3a3UyVW02UERNWktPV2RfWXdGQTd2MXdIaUJZbW44NjRfY2h2UzFyemZUZTM2N0RnQkVOSVRlTzJfUEkwekwxLTdadFVZMDVERXFfUmhvS2VuOXF2emZ6QU9UOG41UW9xVWlNQkFIV1NkS196YUZINTI5TkVTSzJxa0x0b3ZLU1AtR1lHM3RrSTZGOFF0Zmx6S05td0dSRFhz?oc=5",
+   "source": "Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -7968,6 +8078,50 @@
    }
   },
   {
+   "id": "da71a2433d24",
+   "title": "Nike, Inc. : Berenberg désormais pessimiste",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ2tXZkR1VzMyeEY2T01aYVhNQnJid3Y5NTVPb2huenhSU0FNRS1hTVZTdHh4a1A3aTk1SFpaQ0JCN1F0Ny1pdGMxMVBBUjRXTjRMNWd0OUxUWVVXeU5rRmNRUEZuUFRQOW9MWnFQTWUtYVpvMW9BODIySUwxM2QtLWZCVXJfeE9DVzJIS3ZJMWUtbVl3Y2ppYzZKS0RIYThs?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Berenberg adopte une vision pessimiste sur Nike ; signal de pression sur le titre à croiser avec les résultats et la stratégie de distribution du groupe.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3b0d6edf62bb",
+   "title": "Le Slip Français a profité d'un regain de notoriété après son IPO",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ0ZQVjlvMGRQSDY2cXVvUDhFbDZyUjZPcUhJUU1KelItRjJPeDZQbVNBSHRGUTBnZ2o4YWtZZDNaLVNrTDEzalNCdktIZTBpYm1JZGNxeTV3bGR6eWJWZnhlV2JlY1RpNUEtNzJlMFFlSWY5elFvRzUtbUtNZThHMVZTVGd4T3A2NXdFUWwwbVYydGhLOFBNcXQ1NHJZNk1zb01UU0JpNmZyRmM2QWhvNlQtdWxwVnpjOC1nQ0VKcXE1YzFqcnlYa1hNYnVPbFRKOUo4?oc=5",
+   "source": "Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-10-06T07:00:00Z",
+   "first_seen": "2026-11-01T23:35:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2afe08047e0b",
    "title": "Nike recule après que S&P a abaissé sa note à « A » et émis une perspective négative en raison d'un redresseme",
    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMk5PSTIwbllBNVNFZEhIemNrVEd6dlR4T1J6bHhIMXV6ZUcweUFzVFhLSmNXY0l6NER0NVloVTJmZ0VEc3c4ZWw0QlNnRUVtME42SW9jd2l3ZkJJODk0VF9oRS02NFdNTnZ0OWRrT3dTd1QzTEM0WldHdVg0QVo1dHdqamtzNFdmWVYzV2JlUVhxeEpIVERzZFJwaXlNTmtUVzFCVFhpOWZBN0k0MTdjTG5QTXFEeW9uQUo1RG9CZk1oUGx6OFNGUkRpdVRFRGdwRFJtXzVFeVVJcE1JbXpzdlN4ZXoxY1drTW81RlFrOXMycTIxNWc1WTAwczJCTVYxSXFnTUs1dWdNYVdCTXBuVm1WRll6bWZONDhDWlItNm_SAaYCQVVfeXFMUC1EU1FtOWwtaDllOGN3VHdMVVphbmlSVFA5ZE9RY3NpbjY1ZFdwLXFKdHVYc2ctbzRPeFg0bjRXS2FIcjlpdndHN05hSURLTHVnNFdxZ1BadmZuZG1YRUZ0TGREVENsOXJoZ0xMWmJGUnd1NTRBQmxDdFlENklfU2JiWFpGcVY2LUg0c3RPaGt3S1ZPdUZ2OHFxQ1FIN29mUzhQdFZlRkl4UWRoLXhmb2I1SjlLVWduajZab2dJeHVIbmR5U1ZGZzlfU2VNbzdTV01HZEdzcDZMOHlRandtUVZLanZQenVZU0ZnU0FTVy1jMzVlZkk1Q0pjcnloWDZKMVJZVW1ya0ZnaEVnVG5ZV1VMZENlT3VPRTRudEZFZXAxTC13QW5R?oc=5",
@@ -12839,5 +12993,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-01T19:01:55Z"
+ "ai_updated": "2026-11-01T23:39:45Z"
 }
