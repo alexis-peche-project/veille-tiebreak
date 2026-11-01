@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T13:25:08Z",
+ "updated": "2026-11-01T18:56:39Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 9,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 335
+  "added_last_run": 2,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 340
  },
  "items": [
+  {
+   "id": "3236d2b972f1",
+   "title": "Fils, bientôt 7e mondial : « Il n’y a que six mecs devant moi, c’est pas mal »",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUxUNklEaUZzRS1uQzVFUkdKVzQtVGVPUlRHLWdvY216aXBtd1AtazlocWpQYUZuWFpMdDdlbnRsY3pPRFZQYjlnck1vc25pZ25vbEVrWUxudFl0S1RIMWhiMXFTRGFtS3dzWnFZWTQzU3NGdHRLcGVzakIzbHdxWkRsQkFRQXFqX0tmTDB6NDNEZlM4UXhtaXRpQ2tCUVRheXliMVJjVWpNa2ZnTWJDWmtJSkhMeUFLc0cxMDZXSTlncEk4?oc=5",
+   "source": "tennismajors.com",
+   "domain": "tennismajors.com",
+   "date": "2026-11-01T13:58:56Z",
+   "first_seen": "2026-11-01T18:56:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La progression d'un joueur français vers le top 7 mondial peut renforcer l'intérêt pour le tennis en France et soutenir la demande en raquettes et équipements. Le titre ne mentionne pas Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
   {
    "id": "5505632a32fb",
    "title": "ATP Finals : De Minaur s’empare de la neuvième place pour un point, et un titre à Vienne lui offrirait 171 points d’avance",
@@ -35,6 +58,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "b732ba17db6e",
+   "title": "Adieu les New Balance, ces Nike Jordan 1 sont la star des ventes",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1B1NVdoVHhtbTd3NWFPQmtGMjdZVW9pZlZHa0ZwSGVfdUVlNnFCRDR3cFBTdzM0WWtrclJTTG9WczV0RW1IMEZHN1ctWkVCQUVvSklGd204aGJaR0k0dC1LNUNlYmdfMGx1dXlZRU9lV0hVWVBJWFdqaDcwYzlnVGpmUkotNDg0dGFVS1B5QmROTFJnbWdFbWtJVmJxR2JIQ0FMYmxqU2xhMW1JbkdQcWQwaVdick01WE1BWnhoZ2FzcEZq?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-01T07:52:00Z",
+   "first_seen": "2026-11-01T18:56:39Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le succès des Nike Jordan 1 relève de la mode lifestyle, pas de la chaussure de tennis. Effet indirect possible sur la demande de baskets Nike en boutique, à surveiller.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "99275c0b6449",
@@ -12793,5 +12839,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-01T13:29:10Z"
+ "ai_updated": "2026-11-01T19:01:55Z"
 }
