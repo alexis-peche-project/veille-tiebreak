@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:03:42Z",
+ "updated": "2026-11-02T15:53:04Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,103 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 348
+  "added_last_run": 7,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 364
  },
  "items": [
+  {
+   "id": "aad55bdbc372",
+   "title": "« Le tournoi de tennis est une belle réussite » : Qui sont les vainqueurs de l’épreuve de Dol-de-Bretagne ?",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNa09ZNkdmcGxMYVpGNDItSGJ3R1RJYUtqMzNpQ25vZVBJMXQ5WEpKbUhrWXFmWFdiMExVSEdaUVRqVXBMYkRwdUp3X214MGxNRDdqNVE3Y2ozRklBT3p4OVpPY2dCeUxlV2dZOExiX3JRbGVhdUhsWmxkc1pTVmJRUS02MXpGRm9haTZ1YnVpY3VJVVVuZVZuSV9aaUV5NFN6U2QySjF3UVVVZWIta2M3enl0YUpOeUpVejdDa04zclVBNzVrOGxTUTlPRV9Vd0xfV1R5WHl6RndHT3RIb3FaUU5sVkktWXFHdnFUdnBjdThtaXlabG5MTHV0WlZvZ2ZrWXFsNDU0QmhJWlpRUTlFNHpscHVLcHVBSFl1al9jUQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-02T14:09:16Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "837e7ae70a2b",
+   "title": "Rolex Paris Masters: Sascha Zverev entre dans l'histoire et sera célébré ce lundi",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEpNazF1clFFbUU3MGJiWW5NUlJNODRuU05lWDFpT2hQSUxBbVZkMXVoQnR1el9aR0FOVVdkMzhjWTk5NmRFdkRMZ09Pb05YNWJibXpGUFRiaVpNTi05elUteW1UVjBweHJ2X1pGREdqWk5NRWRPSzZJeXlwX210QVpyRTRBalBLVVQ4X2ZWRVhyUW94bmdNXzMtUmVfRkVOenQzRFBTMW51ems5T0VUU2owb2Q3M1JLazdXUkVOM1ZqQdIBwgFBVV95cUxQN2tBWDgzaTRiZFpBTC1xUWRGN1pvWU5DakZURW1lbW45d1g1WTUtanRyaWV1dnlKUDhsaHVyNXRrbkU1eVNMbmRtNEdWUW93ZVVJaThCOEhsN1lzSGQ4a29QWkZiT202MjRwTjRVV1RCOHNjYzNCRDRSOS1Cd1hhN0o1SmpWcVo3YlR3NjgyNXh3NDRGbW02VE5GNlFwcXNvLVU0RjlleC1YVDVqUGRVcU9sak11SUxtNEJtbEpWX08zUQ?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-02T12:46:00Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne pas Nike ; performance tennistique sans lien établi avec les marques vendues par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "e35505d3bf61",
+   "title": "The Week in Charts: Premier Alliance adds more Suez services as Red Sea return accelerates | Oil from ‘significant spill’ washes up on UAE beaches",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPandOcF80YW4xZVU3VFFKR0ktYnFLeHFMb3BBSnQyYmVETFJ0bXlZMFR3MEVWTEdsN28wQk5EVkFvOTBNOVJ6LVVDa2VEMEVkN3dWZldfZWNDVHJOQ1NDSzhBaEp1d0NVeEIxS3pXejNNQ1B2NnRjVld4Q1NDY0Q1SlUzNlgxZ2NuVmFDcnFBWU01UW4wcmg3UHoxc1JPLU1pRXlMLWNSRFZjMlBoNEQxT2lqWU5zbER5eDMxeVFLTGxZUHNZREU4OVZOMlAyVmlKOU9TMlZ3SFVjMXFFZWVYdFowU2tzY1Z3d3owcGdpTUZ6ZXpvbnFUdXNyWVJFZl9IVHRZTXRSOWJ4ZzQ?oc=5",
+   "source": "Lloyd's List",
+   "domain": "lloydslist.com",
+   "date": "2026-11-02T10:40:35Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "suez",
+    "red sea"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour des porte-conteneurs par Suez qui s'accélère ; délais Asie-Europe pourraient se raccourcir, à vérifier pour les livraisons Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fcaeabc9197e",
+   "title": "Sur quelle chaîne TV voir les Rolex Paris Masters 2026 en tennis",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWx1MFVKV3Z1SHQwUy03VFBuM0pIZy1wOWVvQTlkNmJsOHpRVDIzNzFVa0p6RUZXTnZ5enhKZEZpOVlCNDZkSFl5d0ZsRUJWN3U3NV9BMEFUN1lIaVZkRVc5VVF2dkNEVEl6NklCdHBuZndLc1BmdFNYNThTTjU2ZU5FOTBRTmx0WXduXzFuSVBIaHlQY0RUZkR3VFZmaDBSOFRzeGpRc2c2Y0J4TzFUaFdFSV8?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-02T06:02:00Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Information sur la diffusion TV d'un tournoi ; effet indirect et limité sur la visibilité des équipements tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3236d2b972f1",
    "title": "Fils, bientôt 7e mondial : « Il n’y a que six mecs devant moi, c’est pas mal »",
@@ -104,6 +196,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "e7c45cfa95b9",
+   "title": "Action Alpargatas S.A. | Cours ALPA4 Bourse Sao Paulo",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMblZ0TlRxZjJwOWhreExZYnR5SENHdVd4VExrRUZhbFhVX19OM2V1VWc3bjZwdGk0dm9tLTUzNnVSdzFkMXhKWENzLUQ1cU1uTHV5LW9kVzNmTVgtNXpJbFltbUdPbnJEQ0xILW96aDk?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-30T20:05:58Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3c47ba6b2786",
@@ -2731,6 +2845,28 @@
    "ai": {
     "r": 2,
     "impact": "Adidas relève ses prévisions annuelles après un troisième trimestre record : signe de santé commerciale qui renforce la pression concurrentielle sur Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2d8b3cf27fa7",
+   "title": "Adidas relève ses objectifs 2026 après un trimestre record",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWtXMmE0Sm1XbGd1dHhaZzdmajFVNjdmR2RQZ3l4LUM4ajBhWmYwWjFLX3lpSXd6VGQ2X25sQ3htNW9FUEViRDZxYVlvNDNOZG9MMU5mWEdaTzFfTzM4N3RvODY1UC1KcDl3dHJ4c3VLX2k5SkhHMUd1VWU0bEVOUmF0LTRyY201QW8zZlEwalkwR1NmLVB1ZkZMV0NIa2lBV3YzU1JIeXNSYXFTek1MMFNyVXBYdFhRYjRn?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-20T17:31:28Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Adidas relève ses objectifs après un trimestre record ; concurrence renforcée sur textile et chaussures tennis face à Nike.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -7250,6 +7386,28 @@
     "r": 2,
     "impact": "Nike rejoint une alliance sur la pollution par microfibres : engagement RSE utile à Tie Break pour argumenter auprès de clients sensibles aux enjeux environnementaux.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5934c83845c5",
+   "title": "Lululemon confie ses produits à une ancienne cadre de Nike, alors que la directrice générale O’Neill cherche à redresser la barre",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNOTFmWTlDMmtoNHB2NzRiczljVnlvNzktRlhHcDBmNWdYZHptaWMwcHpqYkJMcTVWN2NOUnB4Tk5YUU41V3lhbVRuTFBPeGptdkFZamh5RjUwcDBnZ2lvc1ROSVl2aHpWNFY3a0RON2dONnZOS2x0ZllTSEZPQ3lZSE5WQXRIUkRkVE5pcWZZNmtSR21aakRVWWhUbkQ2S24xSHpEanczdHJ5cUNXeVFuMGVtWDdhcVVnQm5KNG5TNXRtbG0yVDZVRkJBazFwdVEzZ0VYU1Y2QTlXOXdITFp1Q1lfZE8xSFlBZHI4eEdNNjM?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-07T07:00:00Z",
+   "first_seen": "2026-11-02T15:53:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Mouvement de cadre d'un ancien dirigeant Nike vers Lululemon ; impact direct limité pour Tie Break, indice du contexte concurrentiel.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -13018,5 +13176,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-02T06:08:42Z"
+ "ai_updated": "2026-11-02T15:58:13Z"
 }
