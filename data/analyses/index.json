@@ -1,6 +1,11 @@
 {
  "analyses": [
   {
+   "date": "2026-11-02",
+   "file": "2026-11-02.json",
+   "n_articles": 56
+  },
+  {
    "date": "2026-11-01",
    "file": "2026-11-01.json",
    "n_articles": 52

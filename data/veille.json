@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T23:35:54Z",
+ "updated": "2026-11-02T06:03:42Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 347
+  "added_last_run": 1,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 348
  },
  "items": [
   {
@@ -104,6 +104,31 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "3c47ba6b2786",
+   "title": "Le double tenant du titre Carlos Alcaraz (ATP 2) déclare forfait pour Roland-Garros en raison d'une blessure au poignet droit",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNX0ZqZjA3UDBkbHFxVHhDTnZ2bkZCN1ZkTXFHcHBBVk4yWFU4WDZzLXJUbklpRGRSM2xMd21UMUt0eUdwMDFUWTlTQnE0MzZtUkFFdF9HbnNHWFB2WGNJcGoxRDM0VDY0amlrYUZxdHB4RUl3cktjaDU0UlFZeFNhVG5EREFlSTRHQWxhbTJBVmp3VTJQS01VU0RhUl9wNzloRlZzME1vTWhDNHB4cGxhUzliejMxeEtpc3l2aHFBV2pqbnhOTDZ2QVhIVVdvNFVNVHRQWXVYYnQ3ZmRqSTY3STliZm54NFcxWWVYVUU2eEFXRHpGQlVXcHZ0bEktZ1c3RWNWS2xzZGRkWjUtNGZv?oc=5",
+   "source": "rts.ch",
+   "domain": "rts.ch",
+   "date": "2026-10-30T18:56:28Z",
+   "first_seen": "2026-11-02T06:03:42Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "blessure",
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Forfait d'Alcaraz à Roland-Garros : impact possible sur la demande liée à ce joueur. Date de l'article incohérente, à vérifier.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "fb9b5d69918f",
@@ -12993,5 +13018,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-01T23:39:45Z"
+ "ai_updated": "2026-11-02T06:08:42Z"
 }
