@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T15:53:04Z",
+ "updated": "2026-11-02T23:30:28Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,78 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 364
+  "added_last_run": 5,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 355
  },
  "items": [
+  {
+   "id": "ad12af795285",
+   "title": "Nike pulls ‘Betsy Ross Flag’ sneaker",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oRExUOEs4Q19VWVE0aVFWUmJTbThJVjFPMWZ1cEg2MjVJMzNiNTJVbnQ5MjE1UTJfYjlHaDNncFdqcFFVSzhoX2psZi02bDJVZmN3RHNBdWlkdVBC?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-02T19:18:53Z",
+   "first_seen": "2026-11-02T23:30:28Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike political controversy",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike retire une sneaker au motif Betsy Ross, symbole américain sensible : risque de polémique d'image, sans impact direct attendu sur la gamme textile et chaussures vendue par Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b6b780d2b3f5",
+   "title": "Tennis, course, marche, musique… Un rendez-vous inédit et quatre façons de soutenir le Téléthon à Guingamp",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcmp2dDA2VmhPNlZ6RlFlQUdYdE5rQm1yeThERlNDM0JkVjBrUkliWWxmSUtqLVNlSTJ1R2NQYXp3dmppN1ZfblgtTnVMbVF1LXVyWURMbXFoMjNPdGxUZGtsWEdsa1ZIRG5VYkM3WXp1dUhrU3dNNUd5MFZLSncyZGhxQzFIVERERF9XbmdXMHEwUEZ1NDE0M1JnVWZnNjRrTC1TWEV0NkpUSFVNVmhoZndZeDJ6VC1pMmNuWm9XcGdRQktJS3laSzRLSF95dWc1RWMwbmRJSTIwRUVPUFIwdG9LSGQtaXJETm5mRzZ6Y1U0UlFacVR2Y0hnOWVnN1U3NFZMR1J0RjJSOFNZUThn?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-02T19:02:02Z",
+   "first_seen": "2026-11-02T23:30:28Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8ae10bd34199",
+   "title": "« Maintenant, je peux jouer la gagne dans les quatre tournois du Grand Chelem » : les premiers mots de Zverev en tant que numéro 1 mondial",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNUXkwR1ktV0hGQ1VpcmFaVEMtZ3ZtSFJVQXdraWozeWlDU09jQXFIenhCR0lLLVJpeFplVElUMW9pakpOSnNRYnpaNjdNd1RjM1k2bXNEcC1VdXpJZXZGREN5QmpZdzVlUFBtMUd2VUwwUDFBVnVvLW1ObUFtNXAzM3lFZnlzSVhLRHExeUdrREE1ZkQwNWVCdzZlREVGeExoTkJ0emRFelUwQzh2N1M5VHRqR2tONzEwRGp1SjRacUhNdWNrS0JNR0lLRUxXSFI4VV9tdkY4RkltYjJjLXJkbWxlSnVfTFhBc2liRFc0bHN2cFEzNkRMX2k1VXlTc3B3czM1RlpESHRraXY5NHVzVF9NUlR0WGd4eFVWbDdleVlPNGNyZDZhM01Mc09ieEg3a0E?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-02T16:20:34Z",
+   "first_seen": "2026-11-02T23:30:28Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Zverev devient n°1 mondial ; le titre ne précise pas son équipementier, à vérifier avant tout lien avec la gamme Nike de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
   {
    "id": "aad55bdbc372",
    "title": "« Le tournoi de tennis est une belle réussite » : Qui sont les vainqueurs de l’épreuve de Dol-de-Bretagne ?",
@@ -79,6 +146,30 @@
    "ai": {
     "r": 3,
     "impact": "Retour des porte-conteneurs par Suez qui s'accélère ; délais Asie-Europe pourraient se raccourcir, à vérifier pour les livraisons Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a102fa9a7885",
+   "title": "Maersk says another container shipping service will resume Suez sailings",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd010ODE4aVY4dkotX2kyQ3hVdXJ6NFdBVXhrV1IzUkltNkhtcXBrZzhCcG15dU1tMVVWOFRISC1idS0tSjAwbVdvQ0Znc2IxM19ydW1hMjJVdVZMZVQ3MXZ4b25HNWRCcGxERlQycFVvYnFiMDFIVmRJaUduNVRpUGg1WS1pdWpXazFsNENZWkhjUFg5dTZDQnhyOVFBQjA3NWtvMk1WZUFVa1pFTFV3d1UyWjN0d3pM?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-02T09:28:31Z",
+   "first_seen": "2026-11-02T23:30:28Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour d'un service Maersk par Suez : potentiellement moins de retards et de fret pour les livraisons Nike Asie-Europe, sous réserve de la durée.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -2452,6 +2543,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "2268b58297a0",
+   "title": "FP Movement Names Kylee Clarke as Global Head of Marketing",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHBQRE0waVV0azl6WllNbURESEJXOUVZTEVfSjBIcHJXUXM3OExVbFNnbjNRdXhseEVyVElLZUYxMFhwd1ZqcUZ2V240NHNoSHpGWnZEcy1fVUVneDRTWXFiNWxVUnZfNnlvUzA5MG12dG9YYmtkWnFwOE9TVjM2dWhVbjk5R3labU1hZFA0SWRpZzFDUV95UWQwUVgzN2lkV19OeHJtVlhOSkhsYWNUa1JSN0hSaDJkbUt3?oc=5",
+   "source": "Morningstar",
+   "domain": "morningstar.com",
+   "date": "2026-10-21T16:05:00Z",
+   "first_seen": "2026-11-02T23:30:28Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "762acaef1a91",
@@ -13176,5 +13289,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-02T15:58:13Z"
+ "ai_updated": "2026-11-02T23:35:28Z"
 }
