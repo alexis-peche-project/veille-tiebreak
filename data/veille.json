@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:47:30Z",
+ "updated": "2026-11-03T16:15:04Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,188 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 359
+  "added_last_run": 8,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 347
  },
  "items": [
+  {
+   "id": "c43cf24e62a0",
+   "title": "Nike faces religious ban in Libya because it was named after Greek goddess",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZWXg5Q3I3VGFKVU5LYjJvWjBvWkdEcXZzVzh5UE93UUxXSml5aW9GZ1B2eW5NUmdzVE9qbHg1R3VYLVdYcWxSTm5FRGxRbF8zY0lONFNMVXdNanFXYnc?oc=5",
+   "source": "BBC",
+   "domain": "bbc.co.uk",
+   "date": "2026-11-03T14:56:46Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Controverse culturelle sur le nom Nike en Libye : marché lointain pour Tie Break, impact direct faible, mais signal d'un risque d'image pour les marques étrangères.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c1b20b4f6cc3",
+   "title": "Pfizer revoit à la hausse ses prévisions pour 2026, grâce à l'Eliquis et aux médicaments anticancéreux qui ont",
+   "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNWnVQTkJjaFp3UlFWWXFjd2pSVkVXdUdzU21jSWpJWE1qRWNKU0tfdktnZl93b2FpUWVGRXhwWm8tcHBIYW1neENIRTA3Nk5XMHhMa2h1OF9NZzhyUkNUOV81VW9CWE9BYXU5bzE5NjE0bk1FUjJhUTdQcXJJY3dOYW1fdVp1VlAwOFFlTUNJTWE5aGMwSF9TTUZvWnpUSFdMMENCczNnMVhSRFVrVC1KS2x1d3h6MTVrRF9nVkxQUloyd3psUkhZV1pqcjhobEFZdGZXR19KRXhYckkwMnNOelRnYVRXa2FvMzdhLVFTU2UwdU1uUXNpVHg0YUY5WnFSV0FXZklFSU1YbzBKU3pjeHRxNzN5UXJreGRmTlpSMEZ5T0VuQnpsNlVfc0EtUmVfX1ZBR3N2THdkc0ppcVAzeGNqYlc1MlFvUnlVc0JsZUthNXdlVzNFZGdHb2tGS243NkJ0dNIB5AJBVV95cUxNWnVQTkJjaFp3UlFWWXFjd2pSVkVXdUdzU21jSWpJWE1qRWNKU0tfdktnZl93b2FpUWVGRXhwWm8tcHBIYW1neENIRTA3Nk5XMHhMa2h1OF9NZzhyUkNUOV81VW9CWE9BYXU5bzE5NjE0bk1FUjJhUTdQcXJJY3dOYW1fdVp1VlAwOFFlTUNJTWE5aGMwSF9TTUZvWnpUSFdMMENCczNnMVhSRFVrVC1KS2x1d3h6MTVrRF9nVkxQUloyd3psUkhZV1pqcjhobEFZdGZXR19KRXhYckkwMnNOelRnYVRXa2FvMzdhLVFTU2UwdU1uUXNpVHg0YUY5WnFSV0FXZklFSU1YbzBKU3pjeHRxNzN5UXJreGRmTlpSMEZ5T0VuQnpsNlVfc0EtUmVfX1ZBR3N2THdkc0ppcVAzeGNqYlc1MlFvUnlVc0JsZUthNXdlVzNFZGdHb2tGS243NkJ0dA?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-03T12:22:16Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "933ac4a93f77",
+   "title": "Pfizer revoit à la hausse ses prévisions pour 2026 grâce à la forte demande d'Eliquis et de médicaments antica",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQNzVmS0F6bWtLOXowQ21sR0RMcGlKb3B4UHVRWFpYUThxMW9VMTE3VVFPUE1kWklobGw0Q3RFRlhtRzBVbXBPU01hdWFmZlJIWTVRLTdPd0Y4Z2xCR1RCNjVudEdicFBtTDJYOENFUHdHQWRxcDM2cEgtM2tZWlJxZF80Rk94ZDRVSUVhLUtHaDUtcFRzSF9ENWpscmNOSjhxZDNoX0JmV2NPOVJFVUxNUC05NHlMNHdBQjh1bGR4UmtmNHRpRDhaNHBjc0d4aGtEbDhMNUdXYjl3UWpUemVBMWdISWdTb1QzcUNCUG5oZ2FrZHlydU5pS0JzTDBRWDFJbmh0M1YwUlJaZFVON1RxUlZVNXprLWtEVHUySWlhZTFzUlp6eHfSAaYCQVVfeXFMUDc1ZktBem1rSzl6MENtbEdETHBpSm9weFB1UVhaWFE4cTFvVTExN1VRT1BNZFpJaGxsNEN0RUZYbUcwVW1wT1NNYXVhZmZSSFk1US03T3dGOGdsQkdUQjY1bnRHYnBQbUwyWDhDRVB3R0FkcXAzNnBILTNrWVpScWRfNEZPeGQ0VUlFYS1LR2g1LXBUc0hfRDVqbHJjTko4cWQzaF9CZldjTzlSRVVMTVAtOTR5TDR3QUI4dWxkeFJrZjR0aUQ4WjRwY3NHeGhrRGw4TDVHV2I5d1FqVHplQTFnSElnU29UM3FDQlBuaGdha2R5cnVOaUtCc0wwUVgxSW5odDNWMFJSWmRVTjdUcVJWVTV6ay1rRFR1MklpYWUxc1Jaenh3?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-03T11:56:17Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "06340b727be2",
+   "title": "GTA 6 , Travis Scott and Nike Collab on Six - Star Air Force 1",
+   "url": "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-air-force-1-low-release-date-1239396298/",
+   "source": "wwd.com",
+   "domain": "wwd.com",
+   "date": "2026-11-03T11:15:00Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Collab lifestyle Travis Scott sur Air Force 1 : produit de niche peu pertinent pour le tennis, mais possible pression sur les allocations de collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5108515a3a21",
+   "title": "Le distributeur Zalando lance un assistant d'achat basé sur l'IA alors que ses marges sont sous pression",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTGZBcnV5Y0dwY0xtQngteHVvby11emQwRDNudEdva1A5d1NaeXJMQTA1T1RhdDZHSFpVdU1pd3YzT1ZCOUlzUUlUOGI3VVJnaHJkZHdEdjFHcmp5ZVBRRk0tdHRqVEU1V05WclFjTDQ5RF84bVhSeVpUS0RrSklsYjU2ZVhGUllmTW13a3FyN1Y4Vl9mZkJKTFhZbzBROFdPN1V3WFBCTEJmalFsODI3anFURDlTbkVDdXVTZnctaW5fUnhWSzljNXZhZEpwVGtwWUJxT1FGeDh1cjRQLXp5WW52Wmh1cVcwMjB6SmFseXV5UE9uTEdKTWpoTktkbTdNdzNFS0RXYXFYZ3NlUjdnMXJ6cVjSAZQCQVVfeXFMTkxmQXJ1eWNHcGNMbUJ4LXh1b28tdXpkMEQzbnRHb2tQOXdTWnlyTEEwNU9UYXQ2R0haVXVNaXd2M09WQjlJc1FJVDhiN1VSZ2hyZGR3RHYxR3JqeWVQUUZNLXR0alRFNVdOVnJRY0w0OURfOG1YUnlaVEtEa0pJbGI1NmVYRlJZZk1td2txcjdWOFZfZmZCSkxYWW8wUThXTzdVd1hQQkxCZmpRbDgyN2pxVEQ5U25FQ3V1U2Z3LWluX1J4Vks5YzV2YWRKcFRrcFlCcU9RRng4dXI0UC16eVludlpodXFXMDIwekphbHl1eVBPbkxHSk1qaE5LZG03TXczRUtEV2FxWGdzZVI3ZzFyenFY?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-03T10:25:06Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Benchmark e-commerce : l'assistant d'achat IA de Zalando peut inspirer le futur site de Tie Break, sans effet direct sur Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b9b54ea9ff22",
+   "title": "Zalando chute en Bourse après une marge brute décevante, lance son premier agent d'IA",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbmh3LTdJMzRrZS1Cd2JUc3N6eTU2Rkk2SkFuajRGbGE4Rkx0MjU3eUZIWXJ3eGxsWm1XNnF3SkVuMzNzN2hjZENDVklveVJ4ZmpLVi1SUnV6LWRBRVdoTTZuV2dKWGFEYTg2NkMzbVpTbkVKQjNtZndMSEV3c1hSRExEZzl2M0ZzUmx0N2ROLVhTWE9Gejd6RGFTa1dfX2wydnJGTC1mYWxobnB6Y2wySTZfUG5XaTRfTUgwNGJ0d2JHQnlLZ0dEZW8yUE81UklpSXdXLUdUY1c3Uk1Cd2VGUVVuZGt3VE9yR2hZbFhNMUpQeUVCYjVPVFl30gH6AUFVX3lxTFBuaHctN0kzNGtlLUJ3YlRzc3p5NTZGSTZKQW5qNEZsYThGTHQyNTd5RkhZcnd4bGxabVc2cXdKRW4zM3M3aGNkQ0NWSW95UnhmaktWLVJSdXotZEFFV2hNNm5XZ0pYYURhODY2QzNtWlNuRUpCM21md0xIRXdzWFJETERnOXYzRnNSbHQ3ZE4tWFNYT0Z6N3pEYVNrV19fbDJ2ckZMLWZhbGhucHpjbDJJNl9QbldpNF9NSDA0YnR3YkdCeUtnR0RlbzJQTzVSSWlJd1ctR1RjVzdSTUJ3ZUZRVW5ka3dUT3JHaFlsWE0xSlB5RUJiNU9UWXc?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-03T09:10:18Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Chute de Zalando après une marge brute décevante : signal de pression sur la rentabilité des distributeurs textile, utile pour cadrer le site Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8a33d27b0f60",
+   "title": "Bangladesh garment factories become second schools for women",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWxYQWkyREl2UDNEY0w4cWZiakJZQ2R3T2V0aHV6TXFOaHRubjRoS0ZBdmxXZ2g2ZlBPRWQ3WmEyLW9laFNqSUJLRk5VMXA5RmhEbGlRTDE2VjEySGZPc2NXVFR4LUlfTl9hTW55eFR6NGFPbldVbkxSWm15R2NQOEhaRHRkYXl6aW14ejJfamowV1J4ekM1SFN4OEthSVk?oc=5",
+   "source": "Nikkei Asia",
+   "domain": "asia.nikkei.com",
+   "date": "2026-11-03T07:33:00Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Usines textiles bangladaises et emploi féminin : rappelle le poids de l'Asie dans les vêtements Nike, sujet de vigilance RSE pour l'argumentaire vendeur.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "63fee961cd64",
+   "title": "Zalando dépasse les attentes au T3 grâce à l'utilisation d'agents d'IA",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS0tCNk15SUs1Nkl3UjZfTl9pR1Bydm9OcG11VXFIYzBWMDIxamRMUGxudGRjU20ycXhTZkVnX0Q5UEhlUFpDNExxeVZFazRXRDZGZF9wQlUzTzI0SmtJR0pTV1FLdnowOUVOV09nR3A0MnRVN1Y2VXgtR2pRMDh5OThDa0dJdDhXMWdrbjFfUXo5TmViaUN2bTJHREpfT0x3UlVyVzZ4OHFqakhwZm96RFZDNndMckQ3TXZRTTNyUmhXOUg4R3R0blZWbkxTTmJWc1pEUVhpQQ?oc=5",
+   "source": "Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-11-03T07:03:33Z",
+   "first_seen": "2026-11-03T16:15:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Zalando dépasse les attentes grâce à l'IA : référence de digitalisation pour le site e-commerce de Tie Break, sans lien direct avec Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "ad12af795285",
    "title": "Nike pulls ‘Betsy Ross Flag’ sneaker",
@@ -13358,5 +13535,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-03T06:51:40Z"
+ "ai_updated": "2026-11-03T16:19:06Z"
 }
