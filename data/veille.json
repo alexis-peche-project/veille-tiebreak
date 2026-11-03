@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:15:04Z",
+ "updated": "2026-11-03T21:48:32Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 347
+  "added_last_run": 3,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 354
  },
  "items": [
+  {
+   "id": "05ebf59ac887",
+   "title": "« Skaï, ton papa il était joueur de tennis »… Monfils, le dernier adieu",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZTVERjkxTl9GOVlvd29jcHloNTRwYm1HR3BOY3BRX0gzczRoRnQ3Wm5TazNOQi01UGhIdUVBZ1pNWVdsZkFoakhhTzhmaXRyVDlGcnM3MFVZcDVaVHV3SUtLc2tXdUxXbm9iaWZkN0pyQkYybVFIQWt5aW1hUnZZam1fTENZbE9zcFlOWXJsSFUtdkRnSWQ0Wm9UZWRiSGp6UGZyVFFqSkFQM2hIdEJUZ1NnWTZCLXFIVFJzSGZMNEo4Qm1kSW1DWExld3I?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-03T20:47:00Z",
+   "first_seen": "2026-11-03T21:48:32Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Adieu d'un joueur français connu ; le titre ne mentionne ni Nike ni équipementier. Effet indirect sur l'intérêt du public pour le tennis local.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
   {
    "id": "c43cf24e62a0",
    "title": "Nike faces religious ban in Libya because it was named after Greek goddess",
@@ -1368,6 +1391,30 @@
    "ai": {
     "r": 1,
     "impact": "Le titre ne mentionne pas Nike : il illustre seulement le risque de boycott en Chine lié à un athlète. Pas d'effet direct démontrable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "de9fac3aa2c0",
+   "title": "Blessure, rivalité avec Alcaraz, sacrifices : Sinner se confie",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUm8xU0xyZ192Y3lydUNYcFJxX1EwQjVvWW1wSGF1MzR1VXFqcXBxT2JkanZyYmMweE96RmZxOGt2bmFwRGt5bVNldTZuWkRmSUZxTl9xQ2lDazNKazg3TGdwQ0xEV00yX2tNSFl1eTQyOGNOMVhDNUY0WHJUMzIwRlZXNTcwVUswbGpEdlZucw?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-27T08:42:09Z",
+   "first_seen": "2026-11-03T21:48:32Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner, athlète Nike, évoque blessure et rivalité : sa santé et sa visibilité conditionnent la notoriété de la marque et la demande en produits Nike.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -7095,6 +7142,30 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7a298e987cc8",
+   "title": "Alcaraz interpelle directement l’ATP sur les blessures : « Ils nous poussent trop loin »",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1hRdWM3MnVEM0lMMVBpQ2ZseEc5QzMya1hDbEc1N1ZpQjNoZTcwOEtVSWdtbVlicWhYN193SnU1eUJDOUVITktOTGdlTUFxbDBTdkNCWnN4eTFJRFZjUm9iZkFrT3BXenpCWjQyVVlRejVCSDcyajVJaDBPTHJ1OFY1ZDRUQ0s2?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-09T07:00:00Z",
+   "first_seen": "2026-11-03T21:48:32Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, joueur sous contrat Nike, dénonce la surcharge du calendrier ATP. Des blessures plus fréquentes peuvent peser sur l'image des athlètes et la demande.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -13535,5 +13606,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-03T16:19:06Z"
+ "ai_updated": "2026-11-03T21:53:53Z"
 }
