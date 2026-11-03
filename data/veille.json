@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T23:30:28Z",
+ "updated": "2026-11-03T06:47:30Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 355
+  "added_last_run": 3,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 359
  },
  "items": [
   {
@@ -36,6 +36,29 @@
    }
   },
   {
+   "id": "49b40c6b78bf",
+   "title": "Nike shoes fetch record $437,500 at auction",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pendJVGhFVHlET3BmT0RIdl8wSU5uVU5Cc1A0ZDRPam1sYjVfdEVBaEMxZ1lSNzJpTlFaSG5QSm9pZjAtV1o1RWluNXBERmdCUl9fSzJ1Qmh5YXZ0?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-02T19:18:53Z",
+   "first_seen": "2026-11-03T06:47:30Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike political controversy",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Vente aux enchères de baskets Nike à un prix record : signal sur la valeur de revente de la marque, sans lien direct avec le tennis ni l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "b6b780d2b3f5",
    "title": "Tennis, course, marche, musique… Un rendez-vous inédit et quatre façons de soutenir le Téléthon à Guingamp",
    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcmp2dDA2VmhPNlZ6RlFlQUdYdE5rQm1yeThERlNDM0JkVjBrUkliWWxmSUtqLVNlSTJ1R2NQYXp3dmppN1ZfblgtTnVMbVF1LXVyWURMbXFoMjNPdGxUZGtsWEdsa1ZIRG5VYkM3WXp1dUhrU3dNNUd5MFZLSncyZGhxQzFIVERERF9XbmdXMHEwUEZ1NDE0M1JnVWZnNjRrTC1TWEV0NkpUSFVNVmhoZndZeDJ6VC1pMmNuWm9XcGdRQktJS3laSzRLSF95dWc1RWMwbmRJSTIwRUVPUFIwdG9LSGQtaXJETm5mRzZ6Y1U0UlFacVR2Y0hnOWVnN1U3NFZMR1J0RjJSOFNZUThn?oc=5",
@@ -56,6 +79,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "0de7345260d8",
+   "title": "Cette doudoune Nike est le modèle parfait pour rester au chaud tout l’hiver",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclpxcDNHQU5xTG9UVVpyUWk2SzFTUkFMRDlqaFBEXy11eEk1VDdvQVdYSDdRYU5yRm9xRllKLWw2WkZ5TXJTYkU0bDN5ODdfUnhla1FyQllPbEFJclE0bU1fNjQySmlIbDEzcWpBUzR1VGppM0pJYjJsaGlCNThaNVNmMTFUNVI1MWVPVGZ6UWgtaG5mRTFEazdybEk4cmZJRHpybDNVeVR3WGZodnRyNl9IeTdCWEtJU28xWQ?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-02T17:02:00Z",
+   "first_seen": "2026-11-03T06:47:30Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "8ae10bd34199",
@@ -3952,6 +3998,29 @@
    "ai": {
     "r": 1,
     "impact": "Accord Nike possible avec Olise après le départ de Mbappé vers On : signe de concurrence sur les athlètes, effet direct nul pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "f83ac00d676d",
+   "title": "Michael Olise se serait engagé avec Nike, quelques semaines après le départ de Kylian Mbappé",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZ2tWdUJSd1BWU0JRTThIclFDT2JxNVF5VGxINWc4dTVDTWFaRTRlM2Z0NzJjcm11bDB3MEY1czRnUTZ6SEZxMU41NUdpVkpjTzJZYUpqWU1pNGc5NDZzLWJqQjQ0aWNENU0xX1N3T3VMSnE1MUhLUVZqUVdaeUltSlVibFlVUzQ5RlRJXzhQNERhSXpZNlp2NDlzZ0hyMXhJRndqOGtWVTFMUlBETVQ1TkdMUDItb3dBN2VnNzBQZlNNZ3ppRjl6UkloN3kyV2N2elE2ZGZJSjFYenFxeXpnSTU5bE9qVlZydTRJZWtYT3VPRXd3aWctXw?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-10-16T07:00:00Z",
+   "first_seen": "2026-11-03T06:47:30Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Rumeur d'engagement d'un footballeur avec Nike, sur fond de départ de Mbappé : indice de la stratégie d'endorsement de la marque hors tennis, sans effet direct sur l'offre de Tie Break.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    },
@@ -13289,5 +13358,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-02T23:35:28Z"
+ "ai_updated": "2026-11-03T06:51:40Z"
 }

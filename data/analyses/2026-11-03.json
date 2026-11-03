@@ -1,0 +1,775 @@
+{
+ "synthese": "Sur les 14 derniers jours, le signal le plus net et le mieux recoupé est le retour accéléré des porte-conteneurs par Suez : environ deux tiers de la capacité Asie-Europe selon [7a9c4e065f39] et [7e9df35312c6], et la plupart des armateurs de retour d'ici début T2 2027 selon le PDG de Kuehne+Nagel [b8bc5aea82f0]. Aucun article ne relie ce retour aux retards Nike de Tie Break, c'est une hypothèse à vérifier auprès de Nike. Côté image, la blessure de Sinner, forfait jusqu'à la fin de saison, et son retour annoncé au Six Kings Slam en Arabie saoudite fin décembre alimentent la visibilité de Nike et un débat éthique possible [97810ccb2d82][fc4f0efc6436]. Sur le marché, Adidas relève ses prévisions après un T3 record [6a8515eca3d3], alors que Nike réduit Jordan chez Foot Locker [3e14735d62ff] (source C). Pour Tie Break, dont 70 % du CA dépend de Nike, la priorité est d'obtenir de Nike une visibilité sur les livraisons et de préparer les arguments de vente avant la saison 2027. Aucun fait nouveau marquant sur les droits de douane ou la RSE de Nike cette période.",
+ "axes": [
+  {
+   "axe": "E1",
+   "tendance": "calme",
+   "resume": "Peu de faits directement liés à Nike et aux tensions États-Unis/UE sur la période. Les articles portent surtout sur le contexte tarifaire général et sur un retrait de produit à connotation patriotique américaine. Rien n'indique un effet sur les prix ou les livraisons de Tie Break.",
+   "faits": [
+    {
+     "texte": "Le 2 novembre 2026, Reuters titre « Nike pulls 'Betsy Ross Flag' sneaker » : Nike retire une sneaker au motif sensible aux États-Unis (titre seul, contenu non détaillé).",
+     "ids": [
+      "ad12af795285"
+     ]
+    },
+    {
+     "texte": "Le 20 octobre 2026, la BBC rapporte un nouveau recours judiciaire visant les droits de douane américains sur le Canada, signe que le contentieux tarifaire américain se poursuit.",
+     "ids": [
+      "ab7cceece277"
+     ]
+    },
+    {
+     "texte": "Le 26 octobre 2026, Reuters indique que le fournisseur Gokaldas (Gap) vise à doubler la part de l'Europe dans ses exports pour réduire sa dépendance aux États-Unis.",
+     "ids": [
+      "78910d262b87"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Adidas relève ses prévisions de bénéfice grâce à un remboursement de droits de douane (source C unique, Zonebourse). Si Nike était dans le même cas, cela pourrait jouer sur sa marge et ses prix wholesale, mais aucun article ne le dit.",
+     "ids": [
+      "b97e6c4e3c9b"
+     ]
+    },
+    {
+     "texte": "Le réajustement des flux textile vers l'Europe (Gokaldas) pourrait accroître la concurrence sur le marché européen. Interprétation à partir d'un seul article.",
+     "ids": [
+      "78910d262b87"
+     ]
+    }
+   ],
+   "risque": "Une polémique d'image américaine autour de Nike pourrait peser sur une partie de la clientèle, mais aucun appel au boycott n'apparaît dans les sources de la période.",
+   "opportunite": "Un éventuel allègement de coûts tarifaires côté Nike pourrait ouvrir une marge de négociation sur les conditions wholesale, à tester auprès du commercial Nike."
+  },
+  {
+   "axe": "E2",
+   "tendance": "hausse",
+   "resume": "Le retour des porte-conteneurs par Suez s'accélère (Maersk, Premier Alliance, grands navires), avec une projection de retour quasi complet début T2 2027. En parallèle, des taux de fret en hausse malgré une demande en baisse (source C) tempèrent l'effet. Côté RSE, seul un communiqué Nike sur sa logistique bas-carbone au Vietnam est disponible.",
+   "faits": [
+    {
+     "texte": "Le 24 octobre 2026, Le Marin indique que le canal de Suez est emprunté par deux porte-conteneurs sur trois sur les lignes Asie-Europe.",
+     "ids": [
+      "7a9c4e065f39"
+     ]
+    },
+    {
+     "texte": "Le 22 octobre 2026, Lloyd's List signale le retour en force des plus grands porte-conteneurs en mer Rouge, et Reuters rapporte que le PDG de Kuehne+Nagel attend la plupart des armateurs de retour par Suez début T2.",
+     "ids": [
+      "f5477ff94438",
+      "b8bc5aea82f0"
+     ]
+    },
+    {
+     "texte": "Les 30 octobre et 2 novembre 2026, Premier Alliance ajoute des services par Suez ; le 2 novembre, Reuters indique qu'un autre service Maersk reprend Suez.",
+     "ids": [
+      "d93885754b54",
+      "e35505d3bf61",
+      "a102fa9a7885"
+     ]
+    },
+    {
+     "texte": "Le 28 octobre 2026, Nike (source A, communiqué de l'entreprise) annonce la première barge électrique au Vietnam pour réduire les émissions de sa chaîne d'approvisionnement.",
+     "ids": [
+      "391601f2a6ab"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Les taux de fret conteneur montent malgré une demande en recul (FreightWaves, source C unique) : le retour par Suez ne se traduit pas forcément par une baisse immédiate des coûts.",
+     "ids": [
+      "ff810aa33a25"
+     ]
+    },
+    {
+     "texte": "Un titre Lloyd's List évoque une marée noire sur des plages des Émirats ; le lien avec la logistique textile n'est pas établi dans les sources.",
+     "ids": [
+      "e35505d3bf61"
+     ]
+    }
+   ],
+   "risque": "Les retards de livraison Nike risquent de persister si leur cause n'est pas maritime (allocation, planification des collections), et le fret reste volatil.",
+   "opportunite": "Si les délais Asie-Europe se raccourcissent durablement, Tie Break pourrait obtenir des livraisons plus proches des Grands Chelems, et l'argument RSE logistique de Nike est mobilisable en magasin."
+  },
+  {
+   "axe": "E3",
+   "tendance": "hausse",
+   "resume": "L'événement dominant est la participation de Sinner au Six Kings Slam en Arabie saoudite fin décembre, confirmée par plusieurs médias B, au détriment de Learner Tien. Le contexte régional est instable : Les Echos parle de compétitions qui fuient le Moyen-Orient à cause de la guerre, et le Masters WTA a quitté l'Arabie saoudite. Côté intégrité, un changement de règle antidopage est annoncé pour 2027.",
+   "faits": [
+    {
+     "texte": "Le 26 octobre 2026, Le Figaro, Reuters, L'Équipe, Eurosport et Ouest-France indiquent que Sinner participera au Six Kings Slam (tournoi d'exhibition, Arabie saoudite, fin décembre, tournoi reporté selon Reuters). L'Équipe précise que Learner Tien en fait les frais.",
+     "ids": [
+      "97810ccb2d82",
+      "fb869b75590b",
+      "fc4f0efc6436",
+      "6105293a0e20",
+      "cf7006629c03",
+      "1007a10e5884"
+     ]
+    },
+    {
+     "texte": "Le 30 octobre 2026, Les Echos titre que la guerre au Moyen-Orient continue de faire fuir de grandes compétitions sportives (Dakar, F1, tennis).",
+     "ids": [
+      "060aecdb6b44"
+     ]
+    },
+    {
+     "texte": "Le 21 octobre 2026, Tennis Actu (source C) traite du départ du Masters féminin d'Arabie saoudite. Les deux versions du titre (« quitté » / « dû quitter ») ne permettent pas de trancher sur la cause.",
+     "ids": [
+      "f87b2b884965",
+      "384098f1954b"
+     ]
+    },
+    {
+     "texte": "Les 22-23 octobre 2026, Tennis Actu (source C) annonce une règle antidopage qui change en 2027 et une suspension provisoire d'une joueuse lituanienne.",
+     "ids": [
+      "c456e306461e",
+      "a2716bf744b4",
+      "aaa7ae53df5b"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Le calendrier saoudien est mouvant (tournoi reporté, joueur réintégré, joueuse remplacée). C'est une lecture à partir de [fc4f0efc6436] et [6105293a0e20], sans confirmation sur les causes.",
+     "ids": [
+      "fc4f0efc6436",
+      "6105293a0e20"
+     ]
+    },
+    {
+     "texte": "Les sources ne disent pas si le départ du Masters WTA est lié à la guerre régionale évoquée par Les Echos ; ce lien reste une hypothèse.",
+     "ids": [
+      "060aecdb6b44",
+      "f87b2b884965"
+     ]
+    }
+   ],
+   "risque": "Un athlète Nike jouant en Arabie saoudite peut exposer la marque, et indirectement Tie Break, à un débat d'image auprès d'une partie de la clientèle.",
+   "opportunite": "La forte couverture médiatique du retour de Sinner fin décembre peut relancer l'intérêt pour son équipement en période de fêtes."
+  },
+  {
+   "axe": "T4",
+   "tendance": "hausse",
+   "resume": "Sinner domine l'actualité : forfait jusqu'à la fin de saison, traitement PRP au genou, retour annoncé fin décembre, rumeurs de tension avec son entraîneur. Alcaraz gagne à Vienne et Sabalenka est présentée comme l'athlète la plus « bankable » de 2026 (sources C). Beaucoup d'éléments reposent sur des sources C.",
+   "faits": [
+    {
+     "texte": "Le 26 octobre 2026, Le Figaro indique que Sinner est forfait jusqu'à la fin de saison ; Ouest-France évoque le 27 octobre sa « longue blessure ».",
+     "ids": [
+      "97810ccb2d82",
+      "c04d8f06ab20"
+     ]
+    },
+    {
+     "texte": "Le 27 octobre 2026, Ouest-France rapporte la victoire d'Alcaraz contre Khachanov à l'ATP 500 de Vienne.",
+     "ids": [
+      "031ed6ee4ca6"
+     ]
+    },
+    {
+     "texte": "Le 28 octobre 2026, Tennis Temple (source C) classe Sabalenka athlète la plus bankable de 2026, et le Times of India (B) indique qu'elle est passée de la 27e place en 2025 à un rang supérieur (titre tronqué). Le doublon [fae8a149a552] est ignoré.",
+     "ids": [
+      "73b239ec7d5c",
+      "445dd2945a30"
+     ]
+    },
+    {
+     "texte": "Le 20 octobre 2026, Eurosport titre sur des « tensions et malaise » entre Sinner et Cahill ; le 27 octobre, Ouest-France évoque un possible nouvel entraîneur surprise en 2027 (titre interrogatif).",
+     "ids": [
+      "fac8e8daf9f6",
+      "9c120ae55a65"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Sinner risquerait de perdre 4,5 millions de dollars selon Tennis Actu (source C, deux versions du titre) ; le motif exact n'est pas précisé dans les titres.",
+     "ids": [
+      "ffb74fc1b418",
+      "e4541d208732"
+     ]
+    },
+    {
+     "texte": "Sinner traité par PRP au genou (source C unique) : le retour fin décembre dépend de son état physique.",
+     "ids": [
+      "955512715fb9"
+     ]
+    },
+    {
+     "texte": "Polémique autour de Learner Tien et d'une décision de Sinner, relayée par un média C avec une citation très partisane, à ne pas utiliser telle quelle.",
+     "ids": [
+      "c1188cc48e2c"
+     ]
+    },
+    {
+     "texte": "Fils proche du top 7 mondial (source C) : bon signal pour l'intérêt du tennis en France, mais l'article ne mentionne pas Nike.",
+     "ids": [
+      "3236d2b972f1"
+     ]
+    }
+   ],
+   "risque": "L'absence de Sinner réduit la présence de Nike sur le circuit pendant la fin de saison, et une rupture avec son entourage ou une rechute ajouterait de l'incertitude.",
+   "opportunite": "Alcaraz et Sabalenka (valeur commerciale élevée) offrent des supports de vitrine et de communication pour la clientèle compétition et le tennis féminin."
+  },
+  {
+   "axe": "T5",
+   "tendance": "stable",
+   "resume": "Adidas affiche un T3 record et relève ses prévisions, tandis qu'ASICS progresse aux États-Unis : la pression concurrentielle sur Nike s'accentue. Nike réduit Jordan chez Foot Locker (source C) et un modèle Air Force 1 baisse de prix. Les avis d'analystes sont partagés (Barclays à l'achat, JP Morgan pessimiste, sources C).",
+   "faits": [
+    {
+     "texte": "Les 20-21 octobre 2026, plusieurs médias (Boursorama, Zonebourse, Retail Dive) rapportent le T3 record d'Adidas et le relèvement de ses prévisions annuelles ; Retail Dive et Boursorama le présentent comme une difficulté supplémentaire pour Nike. Sources C.",
+     "ids": [
+      "6a8515eca3d3",
+      "2d8b3cf27fa7",
+      "5dcabf7a4802",
+      "743411ad68e1",
+      "c974377edd71"
+     ]
+    },
+    {
+     "texte": "Le 27 octobre 2026, Nikkei Asia (B) titre qu'ASICS talonne Nike dans son retour sur le marché américain.",
+     "ids": [
+      "f9c5e9975fb2"
+     ]
+    },
+    {
+     "texte": "Le 28 octobre 2026, 20 Minutes rapporte la baisse de prix d'un modèle Air Force 1 chez Nike ; le 23 octobre, Le Parisien présente Air Max et Air Force comme les paires stars de l'automne.",
+     "ids": [
+      "c1e94a9eee09",
+      "b6b0adfd6c48"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Un recul de Nike sur Jordan chez Foot Locker pourrait signaler une réorientation de sa distribution wholesale (source C unique, lecture à confirmer).",
+     "ids": [
+      "3e14735d62ff"
+     ]
+    },
+    {
+     "texte": "Barclays reste à l'achat (22-23 octobre) et JP Morgan reste pessimiste (source C, Zonebourse) : les avis sont divergents sur le cours de Nike.",
+     "ids": [
+      "5019a34e950c",
+      "da809b97e656"
+     ]
+    },
+    {
+     "texte": "La baisse de prix d'un modèle lifestyle pourrait être du déstockage ou de la pression tarifaire. C'est une interprétation, la cause n'est pas donnée dans le titre.",
+     "ids": [
+      "c1e94a9eee09"
+     ]
+    }
+   ],
+   "risque": "Une pression sur Nike (concurrence Adidas/ASICS, repositionnement du wholesale) peut modifier l'offre, les conditions et les prix accessibles à un revendeur indépendant comme Tie Break.",
+   "opportunite": "La baisse des prix et la demande lifestyle peuvent soutenir les ventes de chaussures hors tennis si Tie Break maîtrise ses marges et ses références."
+  }
+ ],
+ "priorites": [
+  {
+   "sujet": "Retards de livraison Nike et lien réel avec le fret maritime",
+   "axe": "E2",
+   "probabilite": 3,
+   "impact": 3,
+   "justification": "Le retour par Suez est avéré par plusieurs sources B, mais la cause des retards de Tie Break reste à établir et touche 70 % du CA."
+  },
+  {
+   "sujet": "Retour de Sinner au Six Kings Slam en Arabie saoudite fin décembre",
+   "axe": "E3",
+   "probabilite": 3,
+   "impact": 2,
+   "justification": "L'événement est confirmé par de nombreux médias B et crée un débat d'image possible, avec une visibilité utile en période de fêtes."
+  },
+  {
+   "sujet": "Absence de Sinner jusqu'à la fin de saison et incertitude sur son état physique",
+   "axe": "T4",
+   "probabilite": 3,
+   "impact": 2,
+   "justification": "Le forfait est confirmé par Le Figaro, tandis que le traitement PRP et la perte de revenus relèvent de sources C."
+  },
+  {
+   "sujet": "Pression concurrentielle d'Adidas et d'ASICS sur Nike",
+   "axe": "T5",
+   "probabilite": 2,
+   "impact": 2,
+   "justification": "Les résultats record d'Adidas sont largement relayés, mais l'effet direct sur l'offre et les conditions de Tie Break n'est pas démontré."
+  },
+  {
+   "sujet": "Évolution de la distribution wholesale Nike (Jordan/Foot Locker) et baisse de prix de modèles lifestyle",
+   "axe": "T5",
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Une source C unique et un signal de prix peuvent annoncer des changements de conditions pour les revendeurs, avec un fort enjeu vu la dépendance à Nike."
+  },
+  {
+   "sujet": "Hausse des taux de fret malgré la demande en baisse",
+   "axe": "E2",
+   "probabilite": 2,
+   "impact": 2,
+   "justification": "Source C unique : un fret élevé pourrait annuler le gain du retour par Suez sur les coûts d'approvisionnement."
+  },
+  {
+   "sujet": "Instabilité du calendrier saoudien et du Moyen-Orient",
+   "axe": "E3",
+   "probabilite": 2,
+   "impact": 1,
+   "justification": "Tournoi reporté, Masters WTA parti et compétitions qui fuient la région, mais effet direct faible sur les ventes de Tie Break."
+  },
+  {
+   "sujet": "Remboursements de droits de douane et marges Nike",
+   "axe": "E1",
+   "probabilite": 1,
+   "impact": 2,
+   "justification": "Seul Adidas est cité (source C) : aucune information ne concerne Nike."
+  }
+ ],
+ "recommandations": [
+  {
+   "action": "Demander au commercial Nike un calendrier écrit des livraisons des prochaines collections (dates d'expédition et de réception prévues, retards constatés et leur cause) pour savoir si le fret en est responsable.",
+   "axe": "E2",
+   "horizon": "immédiat",
+   "destinataire": "gerant"
+  },
+  {
+   "action": "Préparer un court argumentaire neutre sur Sinner et le Six Kings Slam (faits, retour fin décembre) et le mettre en avant en magasin et sur les réseaux, sans prise de position.",
+   "axe": "E3",
+   "horizon": "immédiat",
+   "destinataire": "vendeur"
+  },
+  {
+   "action": "Anticiper les commandes pour les Grands Chelems 2027 avec des précommandes plus précoces, et prévoir des alternatives (raquettes, accessoires) en cas de collection tardive.",
+   "axe": "T5",
+   "horizon": "3 mois",
+   "destinataire": "gerant"
+  },
+  {
+   "action": "Relever chaque mois les prix des modèles Nike lifestyle (Air Force 1, Air Max) chez Tennis-Point, Decathlon et Intersport avant de fixer les prix du site en construction.",
+   "axe": "T5",
+   "horizon": "3 mois",
+   "destinataire": "e-commerce"
+  },
+  {
+   "action": "Étudier, après vérification des conditions du contrat de revendeur officiel, l'ajout d'une marque textile complémentaire (par exemple Adidas ou ASICS) pour réduire la dépendance à Nike (70 % du CA).",
+   "axe": "T5",
+   "horizon": "12 mois",
+   "destinataire": "gerant"
+  }
+ ],
+ "a_verifier": [
+  "Aucune source n'établit que le fret maritime explique les retards Nike de Tie Break : recouper avec les informations logistiques de Nike (origine des expéditions, plateforme de distribution).",
+  "Le titre Reuters « Nike pulls 'Betsy Ross Flag' sneaker » daté du 2 novembre 2026 : vérifier la date réelle de l'événement et son contenu avant usage.",
+  "L'article rts.ch sur le forfait d'Alcaraz à Roland-Garros (date du 30 octobre 2026) est incohérent avec la saison en cours : ne pas l'utiliser sans vérification.",
+  "Les causes du départ du Masters WTA d'Arabie saoudite (« quitté » ou « dû quitter ») et leur lien éventuel avec la guerre au Moyen-Orient (Les Echos) : confirmer auprès de la WTA ou d'une source B.",
+  "Le motif et le montant des 4,5 millions de dollars que Sinner risquerait de perdre (sources C Tennis Actu) : recouper avec un média B.",
+  "Le statut officiel du Six Kings Slam (exhibition, report, réintégration de Sinner et sort de Learner Tien) : confirmer les dates et le calendrier avec les organisateurs.",
+  "Les liens équipementiers de Sabalenka et de Fils : le classement « bankable » est de source C, et l'article sur Fils ne mentionne pas Nike.",
+  "Le recul de Nike sur Jordan chez Foot Locker (source C unique) et les raisons de la baisse de prix de l'Air Force 1 : recouper avec Nike ou la presse économique.",
+  "Remboursements de droits de douane : vérifier si Nike est concerné comme Adidas (source C unique)."
+ ],
+ "generated": "2026-11-03T06:51:40Z",
+ "model": "claude-sonnet-5-5",
+ "window_days": 14,
+ "n_articles": 57,
+ "sources": {
+  "e35505d3bf61": {
+   "title": "The Week in Charts: Premier Alliance adds more Suez services as Red Sea return accelerates | Oil from ‘significant spill’ washes up on UAE beaches",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPandOcF80YW4xZVU3VFFKR0ktYnFLeHFMb3BBSnQyYmVETFJ0bXlZMFR3MEVWTEdsN28wQk5EVkFvOTBNOVJ6LVVDa2VEMEVkN3dWZldfZWNDVHJOQ1NDSzhBaEp1d0NVeEIxS3pXejNNQ1B2NnRjVld4Q1NDY0Q1SlUzNlgxZ2NuVmFDcnFBWU01UW4wcmg3UHoxc1JPLU1pRXlMLWNSRFZjMlBoNEQxT2lqWU5zbER5eDMxeVFLTGxZUHNZREU4OVZOMlAyVmlKOU9TMlZ3SFVjMXFFZWVYdFowU2tzY1Z3d3owcGdpTUZ6ZXpvbnFUdXNyWVJFZl9IVHRZTXRSOWJ4ZzQ?oc=5",
+   "source": "Lloyd's List",
+   "date": "2026-11-02",
+   "reliability": "B"
+  },
+  "a102fa9a7885": {
+   "title": "Maersk says another container shipping service will resume Suez sailings",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd010ODE4aVY4dkotX2kyQ3hVdXJ6NFdBVXhrV1IzUkltNkhtcXBrZzhCcG15dU1tMVVWOFRISC1idS0tSjAwbVdvQ0Znc2IxM19ydW1hMjJVdVZMZVQ3MXZ4b25HNWRCcGxERlQycFVvYnFiMDFIVmRJaUduNVRpUGg1WS1pdWpXazFsNENZWkhjUFg5dTZDQnhyOVFBQjA3NWtvMk1WZUFVa1pFTFV3d1UyWjN0d3pM?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-02",
+   "reliability": "B"
+  },
+  "d93885754b54": {
+   "title": "Premier Alliance adds more Suez services as Red Sea return accelerates",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVUZqeTZjMnZmM1ZBN0FkRzJienVuMGtkT0ZsVWloVTNyM29lTmE0OEhjRENtUFVPUEJ5NEpwcFh4NnNINEZlUDhPVkh1bjY0MFBiU2JuVGVxaUJKYW01Q3RrQUttNjY0Q0VFbV9BY1VpbVNQZ3RoRGc1b0x5V01oQWZackduWU55VmVFYWZ1am9iems4WEs2V0F5NTBXWjluUlZhYUxERHVqSUU?oc=5",
+   "source": "Lloyd's List",
+   "date": "2026-10-30",
+   "reliability": "B"
+  },
+  "c04d8f06ab20": {
+   "title": "« Un peu plus de Playstation », GP de Monza, maison Gucci… Comment Jannik Sinner s’occupe pendant sa longue blessure ?",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNME9aMlVmd2NreVF6NkJUU0I4MjBrRHZ4dzh1NXV3LXpRSmlRNnlFNDNTMlpfclhFY3ROSFNmUWVGVlZCb0lQVk9MRi0tclVsY3hPXzdoMVpTNWtSb2VCY3h5ZWJEUWdGMHpaOWljSWJIZmdfbGlxOW5CLWRlaGIwRGwwVEcydmRiVmp4MTBMVFQ2Vmp2Rk53cDRqUTNQNk00N1JZaW51SkdXSTNwZ3ZCMjhyVml5ZWRkZlVZLUdZRC0xQzB4ZHYyaFNOV2EyNnUyMTI4WTBIVUxTSWdWc1FEMllqSjd3MTRPVEdrR2VUQW1OS3lvUWxjWXBudW5waWsyU0R0bmEwUmpwQVhkTWd0RFdEeHVKX1dzaVhyTG95aWdjQmhVR240?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-10-27",
+   "reliability": "B"
+  },
+  "40c3fdaec2b5": {
+   "title": "The Daily View: Suez boxship return more than just a numbers game",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0JCdFdEcVBoY0VyYTlVYkFENTBPUldneG1LLXBMbnhlMVlKTjNiQTJOeUt4OHRMakZUcmVDN2JVVlJocjZ3dHk5ak0yMDYzUi1HQmxIWFdVWkdTVVpGR19VM0J1R1JFOXlMT0NVbS0yeFhTaU9IZWZURzdRbURRdmZjR19DYnRadmI4WS1pdW9VVDZ0RDZscUhjZXFiRmJHTzRr?oc=5",
+   "source": "Lloyd's List",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "97810ccb2d82": {
+   "title": "Tennis : forfait jusqu’à la fin de saison, Sinner participera à un tournoi exhibition fin décembre en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkljWGRTejhtU1VZV1dzM29PTjAxak9GN0FEWkU0VC1KMjZ5NzN0eWRCVlgwbEFWSGtURXRsVEhuWEdwMmV2Z1g1Y0g5VGYzYmlOeU1ZdGNndF83MVRJVllpRWFtcmdNeWlEVFlQd0tRUFljR3dTTnFVMnFWRkpURWdGeGZISHllOXJmNmpNQ05nWFMtaDRYNW1SVXBvR2tlaHlWUXBsNUQ0QnY2dUFGRVI3NWJNd0NlQXdUVzNqYnFEaHdLNE9N?oc=5",
+   "source": "Le Figaro",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "fb869b75590b": {
+   "title": "Tennis : forfait jusqu’à la fin de saison, Jannik Sinner participera à un tournoi exhibition fin décembre en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMkljWGRTejhtU1VZV1dzM29PTjAxak9GN0FEWkU0VC1KMjZ5NzN0eWRCVlgwbEFWSGtURXRsVEhuWEdwMmV2Z1g1Y0g5VGYzYmlOeU1ZdGNndF83MVRJVllpRWFtcmdNeWlEVFlQd0tRUFljR3dTTnFVMnFWRkpURWdGeGZISHllOXJmNmpNQ05nWFMtaDRYNW1SVXBvR2tlaHlWUXBsNUQ0QnY2dUFGRVI3NWJNd0NlQXdUVzNqYnFEaHdLNE9N?oc=5",
+   "source": "Le Figaro",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "7a9c4e065f39": {
+   "title": "Le canal de Suez désormais emprunté par deux porte-conteneurs sur trois sur les lignes Asie - Europe",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOT242NUtSMVZ4RGZObldTeUxvLVh6MVhNNE1aWkNsMFF1TU1pUVAxNklWMld5UHBGajVNYWhaV1RZTmM3dzhSOWVnXzRLS0pWZDNjYUJ5d2RWLXZnWHZqSXZlUWpHTFFrS1ZmVklta1RVMllySm9ad2x2Vy1zc01pZXEtRHA5R0JPVmlVeWR4endWVi1IODc4NGtwMEJVUHdMMF9RS0dTZkJrT0phSDVhNEdrOXplRUg2VG5xWFV1M2FQbjBoRkRJa1RpTkNtalRiNHdfSGN3cGVMSDBlYWEwMzhQdDlramdMaXhoaGRLWmRIY1JZdnV4N1hfeTFmUm8wUXFsMTg3SQ?oc=5",
+   "source": "Le marin",
+   "date": "2026-10-24",
+   "reliability": "B"
+  },
+  "f5477ff94438": {
+   "title": "Largest containerships return to Red Sea in force",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaUlEZS12ZHF3Y2Qxc2VBejlxZGpNWmpOVzh5bW5fSE5lMDRqUHRlT3dSZGJObG0zQUZBRjRYS1E2MnJ6Y2lncUQ1MFkzQkE2aVRZbHZFS0NOMlBqY0NJSzJxLWNvbGNrVFVuRmFCOGw2SWN6YVpDcGloOG43ZWx3dF9KT0hPXzkyNDhfbWl5MA?oc=5",
+   "source": "Lloyd's List",
+   "date": "2026-10-22",
+   "reliability": "B"
+  },
+  "b8bc5aea82f0": {
+   "title": "Kuehne+Nagel CEO expects most container lines back in Suez Canal by early Q2",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQXRhYXluWE9YQktud2hPb1BjekdnT19zTVZMTTdrZUZia0RpOFRXMWpDRUluNTk1dW82bTdFRkNxZndsaFZ1OHo3RjNFRDlBRGt3b3M1eUtkTlN3UGE4eE92ZE03dnBwalBsUF8zbEZJMi1tTXZBQ3cyYkJUUU1XWU5kbnpFalpCMjViQ3pfUUdWYWsyVlRnYlJvTE1rZ1N0cDc5UV96dzFiVG16QUtmcDM4WGJqMVFjYzdOeGZMd1dkLWEt?oc=5",
+   "source": "Reuters",
+   "date": "2026-10-22",
+   "reliability": "B"
+  },
+  "76ad5fd5a454": {
+   "title": "Jannik Sinner To Start Comeback At Saudi Arabia’s Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1lYU1JhU1N0a1dmNFdINlZ4LUxSNkhfc2xHMmZ4c1dfN1puOWtZMkVRMXl6MlpOUkkyOGtTTDEwbTFjMDVvTGllaXFYZE5SYk9VSVdqRzlRUjhfM0ZXWjBlVlhoVC10VjFjTWJxMkY3T3ZQTWdDeHd3VVplLV9LZUxxVmQ2b2FfX2NLTUc3ZjJyNnFibmhadVN1QU81MlU?oc=5",
+   "source": "ubitennis",
+   "date": "2026-10-26",
+   "reliability": "C"
+  },
+  "ffb74fc1b418": {
+   "title": "ATP - Blessure: Jannik Sinner risque de perdre 4,5 millions de dollars",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbWIyMUYwaG9uY1pFcUVpTnlTN3V3RWdVUUpzdXpwQ2JMclpCU1JXR1EwSmEwQ3cxMk5ZcEJQSTBNMnpVZU1kSDBsdHFiMFVqY3c0RUxtSWpTRWwxTGR1SjF3UTVnMDRlcXN3M1plQVFZRlJwbVhRQm9OMmRMLWltb0lhdlpucEZWSWJGZ0lHWkhIb29ZWmhlVW5YaDFwZkVtSFhsZ3VBSmk1RmxpZ0pCUtIBsAFBVV95cUxNRk5QOEZxOGh5UUx3QzRCcWZtZDdEbVRTSURUMzdKRkRlcXV2aU5FZ180bHdFcXVfcS1vTXFaYUdvUlpfUmk1T0FnTy1hWDZ5cFRocHk5TlQxN0t2bm1wTGxDMHVQUTltVV9qSDFkdHlidFE5RFpQUWpkdXhtdjFsUkVlcUxDNUREbnFUQ3I3X2NHZ19FbTg4WktrTkRLSzExcHl6NWdXWGJOb095c2hNVw?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "e4541d208732": {
+   "title": "ATP - Blessure: Jannik Sinner devrait perdre 4,5 millions de dollars",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDhlei1pa3c1NGR2SUZEZlRRdERCYzBKN2diVjd2MFFfX1pxUlJ1eWsyUTU4N3h6b0FPVzdCclAzeVpuUUxfbVYySGEzTi1wZ0JHanhZTjZuZ3VVcFViay02MTJFODhKOUNrM1NldUF5SWl5Y1Q3Q3ItTjVVRUhWRlNoeXBEcS10YWVpcWRzZnJaTF9Wb1pHS0llOWlrekg3TWNWWWNDR21LTWgzd0HSAa4BQVVfeXFMTXZXTjZqN0Q4VThjdzlidWU2UFRKZThrY1lKRHhPcFNyX1JEeUdiUHJ3MWdhQW01clNSdnlSUTNHbFd5RUFsclRMeC12RlZPc0FlVVAzRGd2ZXpYclY3VTVsR0hVbk53VEU2Ukw5ODhTcG9KOGJOYnV0VkdNems0TUtNMTI3V3ZNQ0FyTzR3OFB4dkdLQjFOT3phMW9lSV9JUUJNRHczQXNuLWVNbkJB?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "391601f2a6ab": {
+   "title": "Nike Reduces Supply Chain Emissions With the Introduction of the First Electric Barge in Vietnam",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMTVYaWpHVC16dFZsMWYtc21YREdObXBjOHFqS3JFLWVPeVZVeDNCUjM3SVcxd2pFb0Q0Tkx2b0ppOC0zRFV4VFhYYmlhaWZhY1ZDS3lxQUZlNVhWRlJpMEd6UHpWNGk1UmVJMUFvX0J0ckxSSGF4UHk0dkRCUDhOakVGeFFnZlExQ2lJbmpaZVU4RzhtTW5OR3N4OHQzYUJjb3FOZFdTcnNtRTYxOWw1Q2UwNGdYV0RiOHhGQnpFTjZwRmJpV3N3d2lJYzRFWmhwQmZMdVlBVQ?oc=5",
+   "source": "About Nike",
+   "date": "2026-10-28",
+   "reliability": "A"
+  },
+  "ad12af795285": {
+   "title": "Nike pulls ‘Betsy Ross Flag’ sneaker",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oRExUOEs4Q19VWVE0aVFWUmJTbThJVjFPMWZ1cEg2MjVJMzNiNTJVbnQ5MjE1UTJfYjlHaDNncFdqcFFVSzhoX2psZi02bDJVZmN3RHNBdWlkdVBC?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-02",
+   "reliability": "B"
+  },
+  "3c47ba6b2786": {
+   "title": "Le double tenant du titre Carlos Alcaraz (ATP 2) déclare forfait pour Roland-Garros en raison d'une blessure au poignet droit",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNX0ZqZjA3UDBkbHFxVHhDTnZ2bkZCN1ZkTXFHcHBBVk4yWFU4WDZzLXJUbklpRGRSM2xMd21UMUt0eUdwMDFUWTlTQnE0MzZtUkFFdF9HbnNHWFB2WGNJcGoxRDM0VDY0amlrYUZxdHB4RUl3cktjaDU0UlFZeFNhVG5EREFlSTRHQWxhbTJBVmp3VTJQS01VU0RhUl9wNzloRlZzME1vTWhDNHB4cGxhUzliejMxeEtpc3l2aHFBV2pqbnhOTDZ2QVhIVVdvNFVNVHRQWXVYYnQ3ZmRqSTY3STliZm54NFcxWWVYVUU2eEFXRHpGQlVXcHZ0bEktZ1c3RWNWS2xzZGRkWjUtNGZv?oc=5",
+   "source": "rts.ch",
+   "date": "2026-10-30",
+   "reliability": "B"
+  },
+  "060aecdb6b44": {
+   "title": "Paris Dakar, Formule 1, tennis : la guerre au Moyen-Orient continue de faire fuir les grandes compétitions sportives",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVjJCc3NCVHlEWDQ3XzBMUkZOUDM2cTFSNkcyaHFodFhndEdmbUlHSmd4NTNrU3ZDdXYxbzJ3U2hVVWdCMHJBdWRzU0VlRGNFZFkxZVNDSkJYSTFFSGs0eFp5aEhYM1p2Qm9wWkhILW5aMHNaMjVFdlRyeVQzOG5EUWZZN1U0OTBqWjhXeXZSUmI1X2ludFFWZnFXMEs1dUJWYVBNTUcwLUF0R2R3NVFXb0RBNDAwV002N2phdU9fZ2s2TklJSG5MX19uYlRPYlRiTWY3N25tck9SRVJtMFo1c2pVWGJQQlAzcHFZQ0MyQlVKYVl4SW03NldjWjlObmJXM1NDMU1zbmsyS1FZZ3BR?oc=5",
+   "source": "Les Echos",
+   "date": "2026-10-30",
+   "reliability": "B"
+  },
+  "445dd2945a30": {
+   "title": "In 2025, Aryna Sabalenka ranked 27th among the world's most marketable athletes; one year later, she surp",
+   "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxNWG1EU2IzSmtRcDhRa1AxQ1h4Y0NvdTZKQm1GTjN2clZKcVZ5N0cxVXJKeFM4S2xOM05kR3p3Y3FaenZCZjNLbnU1WktlWVQwRmZFMXBCN09QaUFHVXJfZTFUOUFrNW9KVndodlU5S1VydlpkU3Y4QW14V3RXU182RjRvOXZyWHlVYjhOZ0NpT1RqeGxiMVhaTHM2a2lhVG5LMm1haHZDYkxQbTR1TDVfRERmakIwdHMwTnVhOWRwYkhNSUdlNjFBaW5BcG5PZTNXUXhVRmRNeG50cXo3RXNSNlJsZ212bVJ5TzhMUGtRdnVwdmQ4V1lSN0RFb19ndzVKUllzRFZxbU9vMHVzQVNLUjJqb3AtSnF6eldlS2JWTmF1YVlfdUMwbXBkbkw2ZDZCQlh6VDlnS2ppRmhKbG5QSXJBVjg1M2hrd3VjM3Y4dEQwRk5YTTlFWTlGRnNtQUdDWmt3OGh4c9IB7AJBVV95cUxNUVliN1V3QXhfRWZtY2tteVZHRlNRY2lQMUtFYzlKc0pKVFM5TEtwcTRPblpJNGdOaG5OR2FibXlpVUxLeDZYTEUySWhEWmNaUDFrU0xjTWNLOVBKcmtzUFJBckZOZTZDSmFZSnVxek1iTEExQnd1d1lTME9CaGktMWNGVjQzNFpZeExkUUFacU5kRUhWN2FqQU9Db19hY1ZOU0tfUm90WkhCeVRpQk94Vk94OEI1Z2ZrYy1zd2FSWGVVOHhvN2FBMXd2cko5SEMxTC1uZU5DWUNZY3EwTF96RnhQd21wRlV3eWRGV1p1R3lselE4WEpjZ0RoakpUUzZLakFoU2lxamlhWEdUQ3l6OEZmYnc1VXBBM1RBRnNEdmF5VnZXUV95TkdrX2REdkJnSEprbFFVZ1RVY0lzSkZiV0hnVlFlVktVUWRYczBpNzExWlpQYmRLWHAyYUZBeFIyVUFBN0sxTU9ndUYw?oc=5",
+   "source": "The Times of India",
+   "date": "2026-10-30",
+   "reliability": "B"
+  },
+  "c1e94a9eee09": {
+   "title": "Avis aux fans d’Air Force 1 ce modèle voit son prix dégringoler chez Nike",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTEVsU1VWNEw2Vlc2MlViN3drM0VjRVpTVVB1dXRLVW1LWGpTR2h1X2RsenFuaHFWZGFpdUpXVE5lVGJSMTJqV0hDYkRrcXdBaHVpT1FwVTVhbjNEUlRmOHJtM1BMX0NONlZuSXB5cmFOS0FnTDVoeXRWWllGS2s5eTItcWFJd3h0dmdma2FqRnNGUzAwMWdzWUNIZkxza09WdndFdGFSblR5N2l3dVlEQ09URVdSc1RjY3U0NzJNVmJmMTBCcEk5VHhsaEdEMWItd3BOeWpjVUs0b2wxMFo1Z2VR?oc=5",
+   "source": "20 Minutes",
+   "date": "2026-10-28",
+   "reliability": "B"
+  },
+  "031ed6ee4ca6": {
+   "title": "ATP 500 de Vienne. Carlos Alcaraz écarte Khachanov au terme d’un match disputé",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWW5GcURZLW5JbE55N0dvVzN3QXMzTkdXQnJKTVN5a1p1Rlp1Zl8yVzUxaUVBN1ZUWC1RYXFsd0dDZW52RnY4cnF6VWpnWGNiQktETHNyX1VQZzgyQlV5TUt6My1JUkxFYmotekpWVFZNZk9XSWdXS2t6QUQxRG01WWIxTi1kOW9USEM1TUJWdGpvQlVSTzluVkt3MFdkbWV2a1FicWxPU2ZHWmh5cDc0Y2t3V1d0VmNqVkd3NEtpN0xVMkRMSUFPUk1TLVkxVTFaRy1Wa01XcUNaUzZpTDhwSE5sMWJmell0eXlhWmJENDhYc3lJaU9vQklPb19DQQ?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-10-27",
+   "reliability": "B"
+  },
+  "9c120ae55a65": {
+   "title": "Tennis. Un nouvel entraîneur surprise pour Jannik Sinner à partir de 2027 ?",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPNWx1WHpoUWdKNGdDeEdlVHJrNXFqWEZWQmN2bV9CRkdTQ251cGRKNVpHT0hXSGlWTEkzT1ZUdXhuTHV0ZVJkdTNsLUFYUGZrUVlNTHB0MnJhNTlKOXY2dy1XcnpHX0tvMHE2SlFaZU5QaEdzaHpfeUZqcDNyTzgzaGlreFkyemd6TWxnYWxBWENuLU1PdDY1WERlMHBmT0UzR2JuWWdhYTB6NHUzeUdmeDJDU29mRS03dTdTX2VaSFprYVRoZDd2eE1zbDhqRjBXM2dQOFVfdE43Y0xXRG5BbWNEQlhHNlZLejA1cWgxcW56OTRqckg0?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-10-27",
+   "reliability": "B"
+  },
+  "f9c5e9975fb2": {
+   "title": "ASICS on Nike's heels in US market comeback",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEZrZTcxRVR0RVpKVVotblZhNWtVc2N6X01TU1FadXh4NGFnY2hQZS1yLXhuVnlLQ3ljc1hPMVNOdWpITmp6UjRGTndjUGZEY3FYbi0xUDNHbzNZbzBJem9DUWRlbGo0NGE3d2lmcXl6TEtHQ3RIMENCa0llOVRmZE5lcDc0TWJ1OXp1WmxB?oc=5",
+   "source": "Nikkei Asia",
+   "date": "2026-10-27",
+   "reliability": "B"
+  },
+  "1007a10e5884": {
+   "title": "Tennis. Jannik Sinner participera à un tournoi d’exhibition en Arabie saoudite en fin d’année",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOb0VmS0x6ZE0zcGlzcFVmSFlGdU0xR2JDTTZscDFkNnBUdlRDMVpYTnZYcW90ZG9vNlh5VnV2THp4SEZGS1BGY3VmMC1tb0I0Szh5NEJsSWp0MXh4MVItUzg4UDU3a1ViMTluSmpUczJQdnVkTlBRVHBQb3h5RTNvckdQZFJmVFJrLVB3SVNZZ2VsbVRLUHhSX3FidlNnbXJnQjhNRVZvcER0Q185SVprUDdZYzVhc0VoLUhiczQyakVSaVgyeWRaRFBIVlRsYVJud1lPNE9FT1gxM054WmlxZ1o3ejJaUDRNMWYzeF9FdDg3VWZQUjE5YUpvZTVveXdOZ2JoTEFrTlpjcngyLWpF?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "fc4f0efc6436": {
+   "title": "Sinner set to return at postponed Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzdaTjNHUXpXZHp2QjJrQ0hWWmNabzY5aWszLUQ0TWtkNEVDajE3U1drYU0tVzl4c29nNnFCeVZ6eFd6MmJNaHFDZU1rRWdHTjNMWHpzWWh5cEJtSE1jYXNicmFtSlEySUpoQmxjWWdlUkozSXUwcjBBa09TakNVTXlha3J2MnB1aUxMVUZPeTFZbUw5ZGI4?oc=5",
+   "source": "Reuters",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "6105293a0e20": {
+   "title": "Jannik Sinner réintégré au Six Kings Slam, Learner Tien en fait les frais",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYzZJTllVNnBxVWdkOTk0U3J4YmJwRDlKdlJBdEMwQTZkLXN0VnVHWFNjYTJpU0xHVzFrU2dZLXJuMEFzR3dmT3ZRZkJEczgwVGRvUm5vbXVKRGpNQUZ2V3VRUWxLS3daaDlQUFBaNXJhR3J2VE85c18zU0oxSEZYTDI2NWZjdkU1LWtUQzVfWHA3eHlHYXB4amtUYzl4MG9henQxaV9EdmpvOHRjbTJrSDUxY1hhYVVwSVBETzh3?oc=5",
+   "source": "L'Équipe",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "f24b7d3b7acc": {
+   "title": "Tennis : Jannik Sinner annonce son grand retour pour un tournoi en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORFJOcXN3R1UyNGJSbDJlNEIzVnNhY2s5YzNQdjFMaTJXZzluaG1JdXdlTXVZdWNLSUF4dmtaQWpiNkhsb1BiZmlCdlR2NnAxbjJ2VWNsZlk3X200YzlxbHNieWNzOTRKUldBUS1kQ2hQbDdXVGNIcEV5RmdGVFM5SDVLd0JaZnRIZXc1dkNfd0R5MnNWSzh3N2U3VmZwalkyTmx4RU1KNzNQci1FS2FJM0gxT2tKUTQ2dG8yYWNmczluQ1UtWG5N?oc=5",
+   "source": "Le Soir",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "cf7006629c03": {
+   "title": "On le reverra en 2026 : Sinner participera finalement au Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObHdVUjJ5Z0RiZGhJa2ZFQlY0ekppdzA5anNNQ2IwaWtjMVIxRGM2UDZDSmJXLXhLU1g0V09GRndXM0I5aDR6eXJGd1BBb1FoOVZ6LTRRYzRhdWhTSS1QWWpxczMtQS0xVTRJSzY0OWp1RWV1dUFJVTBEMGwxWVQ0WVBxd3Y2Y3h4QkpheUR0R3R6ZVlLcTZtZTJfb2MzTl9qbmVfdUcxX0RxWnQ5M0ZvZ2VXN1pQeHhpYzlGRE1RZ3BIODZYd3dQdA?oc=5",
+   "source": "Eurosport",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "78910d262b87": {
+   "title": "Gap apparel supplier Gokaldas eyes doubling Europe exports share to cut US reliance",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHVCTVRsc3V1VkZ3dkhISThlYUdZZkFfbmplWFZyclRHZnlvb3ZyZW9TamF4cnJXUzI4RkRnbnp1SUoyME5NZlRRenFsMndrTnAyX09KQjQzUDdEUklPVmQwTGdqclM1bUpDbXBJTzg1eDZNX0ZsMFdkcnd6eEl0anB2MzF5Z1RteHBmeVQxT0ZBLTg5V1prSjRQNjNfVjVJVjZVOXhZTUtiZEVHUkljeVlZWjJ0cEdydzVrM2lPZTFmdG5nbzNrNnl1aGtORkVMMVpJY1ZoeXg?oc=5",
+   "source": "Reuters",
+   "date": "2026-10-26",
+   "reliability": "B"
+  },
+  "b6b0adfd6c48": {
+   "title": "Ciao les Air Max et les Air Force : ces paires Nike sont les vraies stars de l’automne 2026",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZGFtTllUYy1CWk9tMTRzbDRmbWY4Tk9PVENoQmJIdFVKZVhIWExYdnhHZVljYVBEWmY0Vll3QWktWUhteGpQUzJab3hqdWRjejIyb3N3eEZLQU1hVkEyR19CX01LTWVvZk94T2VBbUFXTi1HRHY4a2VfazVwYS00MDNFVm5idHdrdWpTRlZPelItcTV4MGgxY254aWxhbEl2Z0IwUVdfa2xYRkNqV0VsU3Zlb0tMLVhSbUdGUGpBd1AtWEJJdkt4eXNMcHlPMUtSbVFzM3hEX1NQVmd3MXF5U053ZDgxVVdqaWlaU2swVzNVSl9ENm94eDFPQjc5bTY2dEJ3VTlmNTRiZGZmaW1ucTNHRWtWQQ?oc=5",
+   "source": "Le Parisien",
+   "date": "2026-10-23",
+   "reliability": "B"
+  },
+  "fac8e8daf9f6": {
+   "title": "Coup de téléphone, tensions et malaise : Sinner-Cahill, la fin de la belle histoire ?",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0oyaGhVZFR6eTNrY3lib2RrVzFqalJEVnlCS0ZLYkVoaWdiM0Uxd0RnVV9SZHdrb2l3aERpbENzMWo4UzRuOEQ5RmNpdnpHWkpsZHp3Skt0SFVqd1RETTgyM2NDMDRyZHZQdWM1eGREYkhhUmExcXpEM2VsQkgtSGR5d0djZ01ObDVXWTVleWpyellTSWh2cnk1NDJiWmtkQkhmdmMteGhrVncyVThfTTBPTkNmRUh5dGpQRGZBMUNiOE1jQTZHVm8tUXhuUEFu?oc=5",
+   "source": "Eurosport",
+   "date": "2026-10-20",
+   "reliability": "B"
+  },
+  "ab7cceece277": {
+   "title": "Trump sued over Canadian tariffs in latest legal challenge",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UWTkteFRTU2lRNHVRMjc2alluMjU2NHd3X2g1XzhoOG5kVzAxUXRHb0gzM2k4cGI5U2NjVFB3NTlrVjBxWmR1V3p5VnJ6QnFISGlLYmRUcnM5bDA?oc=5",
+   "source": "BBC",
+   "date": "2026-10-20",
+   "reliability": "B"
+  },
+  "3236d2b972f1": {
+   "title": "Fils, bientôt 7e mondial : « Il n’y a que six mecs devant moi, c’est pas mal »",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUxUNklEaUZzRS1uQzVFUkdKVzQtVGVPUlRHLWdvY216aXBtd1AtazlocWpQYUZuWFpMdDdlbnRsY3pPRFZQYjlnck1vc25pZ25vbEVrWUxudFl0S1RIMWhiMXFTRGFtS3dzWnFZWTQzU3NGdHRLcGVzakIzbHdxWkRsQkFRQXFqX0tmTDB6NDNEZlM4UXhtaXRpQ2tCUVRheXliMVJjVWpNa2ZnTWJDWmtJSkhMeUFLc0cxMDZXSTlncEk4?oc=5",
+   "source": "tennismajors.com",
+   "date": "2026-11-01",
+   "reliability": "C"
+  },
+  "ff810aa33a25": {
+   "title": "Why container rates are climbing despite cooling demand",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hja1JPTF9ULU5jdUtib0pSTTZidi1PYkJsbFBMU2tLekc1RHlnQ3FvVmRuTTF3YUNRdGZ3b2lBcDYxaG9aajFiYjV5SFItNkhUSVQxTkJfaXdOMDhsMjgyUU1LRXo0am9WenVPS0tqakJEWk5EX0RnUmNiMncyeGswRmNBZTc5UF9adEY3cW9hcW8?oc=5",
+   "source": "FreightWaves",
+   "date": "2026-10-29",
+   "reliability": "C"
+  },
+  "3e14735d62ff": {
+   "title": "What Nike’s Jordan pullback means for Foot Locker",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHVzRHduTUFKS3dqUmFWQWlHYnBtdi1mZ2NfenJDTVE4VjFfdUtwXzFWRHRQYU5udkpKYzZKSEtaQVpiZE9wSkhoNTExWUVSVVlsUURHX0dtWG1lbzRlbWdDU19Md3NFUllsVVh6Q1REdkFnOUJ0ZVY1YjRULUZFX2Qta01MNDFEVERKRXlR?oc=5",
+   "source": "Retail Dive",
+   "date": "2026-10-29",
+   "reliability": "C"
+  },
+  "73b239ec7d5c": {
+   "title": "Sabalenka, l’athlète la plus bankable au monde en 2026",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWlBkMmozX19HTl9rbFpLX0c2MDFJOFRUMU90bXlBQmdQMDlQQkRpbzdueWV6TnVFajQ5UHl3NG5WMUtVR1RQdy1qVGlMQVNHY1JBSENIOWtld1ptZDJLVjJSc0hseDhWcHNKb2JkTEdobFRXZlVERWEwblQ0TUZLbVJnQnlZV0NhWnVfN3VB?oc=5",
+   "source": "Tennis Temple",
+   "date": "2026-10-28",
+   "reliability": "C"
+  },
+  "fae8a149a552": {
+   "title": "Sabalenka Named World's Most Bankable Athlete for 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSklIa1Y3ZXNXTGhQcU9qMVExdVlDNzRxNW9Ib0MxRjBCWlQ5UlQ0Y3h0NXNqTlVUQi1IeGZXbS1sWFlScWxyLVlsMXEyanM4Q3JQa2ZNQUpHazl1NG1PNkJKbmdyNWJWbXNmRENJbmdXZzZrTWFfT29HMjBuNGlrS21Bc2RvXzNIS3hONWZMZw?oc=5",
+   "source": "TennisTemple",
+   "date": "2026-10-28",
+   "reliability": "C"
+  },
+  "c1188cc48e2c": {
+   "title": "ATP > La décision de Jannik Sinner fait parler : \"Learner Tien inaugure la nouvelle catégorie du tennis, le cocu de l’année. Il va s’asseoir sur 1,5 million de dollars\"",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQNXFyWDY2SGZuR29zQVRBb2hNcHRReElJT3pvUjdLNWNYTDg5TkgtNHUzRk4zS2w2c0lETFFEdmI3TFlvQjNLNElENUVQcFdRUk53Q3FBVjhpN2pzOS16U19rSU8wME43WXJWUDNpdG1sYzBCRTZVaDBxS3pGS0pvY1lmQTFmZ2hQSUszQ2VTc3IyelF4QVlYZkN6ZmI1WE0zTHd0VXR0M2J6WFQzUFhvVTBLVElKdkItcFY0SGJ3LUV1V3hLcnoxN0NORkRSWXZrLVp2ODBDenNkTVZIQkVkajJpajdpeXFnekxIUEtiNmF0ZWVSbmJZRzRNOTYzWi11V09PU1hPUWFIM0NxZ3Q0clp6QQ?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-10-27",
+   "reliability": "C"
+  },
+  "dff0a52e4beb": {
+   "title": "ATP > Jannik Sinner sort du silence : \"Si la question est de savoir ce que j'ai découvert de nouveau pendant cette période loin du circuit, la réponse est rien, mais je ne me suis pas ennuyé pour autant\"",
+   "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNRlNnZ3NjQXl4ckJlZXZhSWhiR0dqVW1hejlZbWtENTZERkkyZXRLSEhYS1paODRRUGxGQ1FXdldkdUxIbzBZZTZzbnQ0LVlQZ3JmUndBTmk3YVppYVNPQ0E5d0Q4ZUp0eTN4dEN2eWE5eE9Va3QzaGR6Z1JrWExsRkQ0bmJteHRFOVVCTVdvaVc1YnVvcGxpbHgyYXFQQ3puVXdBNFpVVXJIZndJNTQyX0haU2VwWnRDSEZHdGlTSndKSzJZMENsTlJaSV9tT2k4bjFGWnpDUjFjNzFIQkROWXdtTHhCREZWa2s4WTNzakhzbEtjbWtTRVl1MmFhNlBPTmVxMklpV1JUT2Q5cnc0WGNVLWlvS09pTXh1LS1CYlZTS2JoWmNlS3kyTWh3VEJpRUFkYmdNb2N4bXc3bVRIdQ?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-10-27",
+   "reliability": "C"
+  },
+  "9390ab5a8951": {
+   "title": "Six Kings Slam: Jannik Sinner va finalement rejouer avant la fin de l'année 2026",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzl0V2JCeFA5Mnd5RjJIT1cwY0NZSTRkR0RwR0tCMGI1eE11bXhpM3F4UHlERHJmSmtPR0l2SDJXV2FDQ1lZQUExc3hITUluOGJMclpMMTFCZjkyYTlQR3ZnQ3dHLUtjNy1KVTJXcHFMNVNwNXlkM3pJRS1HUWNQT1NXWG9Lc3JpSE1ncVdEdzdsUldoUjV2UVFEdF9PWjlTcVdzM2syUUx1SE81Z2YxZV9PNWxBdFN0ektvR1JWWDXSAcABQVVfeXFMT2tfVkU4aFk2Q2RQNC1fY2llMU5aaWpQMVVqLWNITkJSVTJ3U2tiUUJ6YnFFeW1aaEtDNWs3OXc0YmVvQXlFTXBZZ016Y0dDekEzWFdVQkFVM0FxemIxcDBXNmdGVktneml4VktNREtyQVpvUkpnTUxjeEY0blFFUEJCazhYMzMyam5PbGNzOFY4TTFNQ0VCYTltaU9XMTR4T0xSc0ZYeFhJakNvVzRhbjJhUTZwZmtMTWp3S1pESHRU?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-26",
+   "reliability": "C"
+  },
+  "5d11d1733133": {
+   "title": "Six Kings Slam: Jannik Sinner devrait rejouer avant la fin de l'année 2026",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGhmQUlLcE9XUzFWTUVxczhURUZnSnc1cThLRlM5MzhTbFFwT21nMkxSUnh1RFBuWGIwTTctWDVEZXNaUmc2ODFaekNrUDdxNHdwMGIwdzRRdjlzS0xicWtRWWJTMUV3X25ZRmxvWkZnUDhFYkc2UzhEWkZPX2U3MjI0LXVUQUJ2YXZYbUloNGYycUlMWEZEWGJfY2VvVGZyZnBjZXp1SHVKUWNrWXJnN1VtTGhpMVFS0gG4AUFVX3lxTFBqZTlKQTY1dEM3azB4ejhMTEpiSDBhRGUtUjhzVWFyTmVzOFRsSDNyQlcyV2JySm1saUxfOEt0S18yN05zRGo3dkRJbXIyUFM4VUdCQVNPbTRNbDJZT05oS05pUElfMHJNd184QWdYb0lwejhGTlpEelFiVG16dkNmdGxwUm5Ud0tzeFpmS0pBaTg0LXBIWWc0SXZXVXhZRWloekxHMWVFRy03d3U2SUtBZzZOWGdkUUc?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-26",
+   "reliability": "C"
+  },
+  "955512715fb9": {
+   "title": "ATP - Blessure: Jannik Sinner suit un traitement par PRP pour soigner son genou",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRXpxcHBvQlRDNGhKY1BQVG1mZklFak5DNXk0Qm9NNnpDM2cxYnhXRU1BV2ZGMGtacGVoSUt3dVBhM1ltdFYwVm0zRElCWjJzRThkM1puVm9lTjBQODVQRFYxSGlMdTFQcnpMNjQ0Q0VrTFNzYnd3ZkhwVlU1MjMzZjBhNGdUeFVzVkctdFNGSWptcHo2NnJqM2FqSzRnNWFtbXZRVXdSVzREc1RtckMySG9XYUlyRzZfUS1oTdIBvAFBVV95cUxOV1VUdlBnaDdTNVJRUm5tbFlsdlZ2OUNMZG1adTRFaHQ3dVdLS0NGMlhaME41WWtQQ0VMZENVN3QySFNaZEZ3YWFGVXZRVjV4cHdnbU52NmhXSVNmc1VRd2l3QmhxazdMNFNhYU1fYlhheUhSUnkzMUhUamZmVUowNlY4RUxsczdINUlyay00Q3RwaXlsTHZDUlU2TVA3aWRzVzZEQ0FJNWVVRzVER3k5OXM1LXdwQTNzdGlwZQ?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-25",
+   "reliability": "C"
+  },
+  "aaa7ae53df5b": {
+   "title": "Dopage: Une joueuse lituanienne a accepté une suspension provisoire",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0M2Z0dpOTY0YURRVjlFWG9kaHVPdjVCQzc5all6QnQyT1AycEd2S3V4aEpCeHpmdkF5cXJlZ3hEblZiTWF6LWs5bEVhLVI1MmFFZm83d1diRDVGQ3M4MDhzeFQ2SE40TUVCdG1CdFQ2LXZZYXRvZ1dLOHMycERSS0FWLUQtS3RGZkw2Zm01Q1FENlM1R0daN2t0dEY3SFJGLXU3dEJpRVhTS2ZnSTlr0gGvAUFVX3lxTE9GemFfT2lSLWo1dEE4VVlNcXpCUjJaNS1GbzVKYjBjVkZrTFFLTUxzUTkzanNDclZyZTJxRjRsWWhBUWx0dE1qSmt2Y1FFN0dSckZLdjBNNG5GVzk2RFZvNmxhMndUUWl1TGM5UEJnZ1BOd2NrSWlqcEtpeHJsODZLMmpRS3o0MlE3X0pJVElEWVZDbTZ1dEpLQkkxeEZNbmdldjFnQmwwSVI1WFptdnc?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-23",
+   "reliability": "C"
+  },
+  "5019a34e950c": {
+   "title": "Nike, Inc. : Barclays toujours à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGF3a3E1em8tb1hfbVpmalZKLUJGZVg0bWpNZC02YlVQZjVFX1lsNldtcHp4TG93TzNIb1pPTncwU0E4UWZhN0wybU5XZ0h5TG12eVZ1b04teWJEYV81UTJ1YjFJV2lzMTZSSU5qX2p4VE45eGxYc3J0NzkzT1Y5MkNnUmplWk9TdUpGWXUtRnNPcFo4U2hLTVZpZFM?oc=5",
+   "source": "Zonebourse Suisse",
+   "date": "2026-10-23",
+   "reliability": "C"
+  },
+  "da809b97e656": {
+   "title": "Nike, Inc. : JP Morgan reste pessimiste",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSE5yWGw3SC1Ebk5KV3lEejEwd2U1bm1ZVzRQZnp5SHJPMjlsbkg5aktqSkZLeDRrdXFqYzV2N0hYNldidEhBeDctVFZVUVFreWw2NnJwd21Qbk5ZZnA5TjctYnpzVXF3RTJHbmFnVWdUY1pkWHZwZnBQRUxEbzh4SGN0QlNITGJFaWVocFdCcF9ZcWpWU2VEMEJWbw?oc=5",
+   "source": "Zonebourse Suisse",
+   "date": "2026-10-22",
+   "reliability": "C"
+  },
+  "c456e306461e": {
+   "title": "Dopage: Une règle importante va changer pour les joueurs en 2027",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTdGc01fY01UTmZ4dEhCUzl5bDZUem9tTURORDJBMHY5TEljXzhUd3NGRlZXMlR6Q19ud3VuOHlueUhiSzJhOVJ2dlJuLXFzeVNJekJPS212SmJDME96a3BqTE42TEF5VzZabVdUTmdKcUlVbVJEb09STnIwdmlpYmk2MDR6SGQ5cFFxXzlNTXYxS1lzaHJWaVZDN0ZrTWZ3MWwzVjFwWlhyM0XSAasBQVVfeXFMUDJjUnhpYWQzTzBuSWlpbWFpQVp2a09sOURhVS1YT2RORlVxSnVrV2xGdnNROXNzbEtTTXo2REFqX205RDk4T19YNGNWWVRtOUNYcTlzT2hrU19yTDVSanVKaFZTM05jR3ZkUnduWkJ4dlpfTk9zZ09yT0ZqcExnT0FrMGN4SzJwSFBMeTJPYkdqQmVDR0FNMDgtNU50aUh2VmVRazg0RmVNS2VN?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-22",
+   "reliability": "C"
+  },
+  "a2716bf744b4": {
+   "title": "Dopage: Une règle importante va évoluer pour les joueurs en 2027...",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVlRZR29sSTdFRGJLbEVyeWV3emFjNF9HQl9Xa2djYjE4X1k5UnV1NG8tNWwycEp5Z1RuRVI5YWF0YTNDbHExTnY4VXE4MTRta010bmhsNTR6eWYyT1pxUXEyNXNfN3ZlckE4WlJjYXZVSURLXzdhYWFVVHczRkN0cGx0YVVURks5VU0zZFllOWJ2MTNHbnhGajl1STA1c1hveTRvdldCWktLUkHSAasBQVVfeXFMTjBSWkRYOW1jMlpMQ0ZXdGwzV3dYVjQ5Y2ZoX3BqM0k5X3ZoTGQxYzh6R0ZQTVlpWjJyem9hSDdwQVU5bE1pV3pzaDNXOTZiT19PM214WnRIclN1eVBBeXVocm5aSTRBaERrRmU5NE04S3hqM0NoeUFXRXpncXdxMldMVS1zakkxVHltYUVndzFJQ2x5UXQxSDU4UHBlX2ZLdkM4RkxMM0VqX0NV?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-22",
+   "reliability": "C"
+  },
+  "743411ad68e1": {
+   "title": "Adida record Q3 is salt in the wound for Nike",
+   "url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
+   "source": "retaildive.com",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "cc7677285bbd": {
+   "title": "ATP > Jannik Sinner finalement de retour cette année",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5XeWVFdlhIZmx3NGNqM1ZxdGl1clVQUUVhVEtoY0FHNVZKX3l5RkdZQ0RTZXMtcTV1ejFOSGNYSHZDdFh4VmlFOWlrTU8yQQ?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "7e9df35312c6": {
+   "title": "News Nearly two-thirds of Far East-Europe capacity now back to Suez Canal",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcENfWVVNSUV6YnhnSzJEajBVUjRORFFmcFlTZTlGdDJhOFVFU0QyOURqcEVIeGFyYVhuc25HWmo1U01SbzdmaFhQMDJwemtrS0owMExlMkZ3U2phT1BHX09fU0FvV3BMT3F4ai1pY2lpbDYzT01oVUVNX1RiS05COFVlSFRRMUJ1N21VRXBxbXV3QWtYOXNZbQ?oc=5",
+   "source": "The Loadstar",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "5dcabf7a4802": {
+   "title": "Adidas accélère et creuse l'écart avec Nike",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlJRUkM1WGhOOE5wSEtUNExDUVpwUWowSEJjVW1vTzVNeDBDOXZjVmZfWER4U3lRZEpuOWZwMnVEVm5DSGZxTktTV1FUOHZSU0FfNUR1TEsxMFhXSHUteVlYT1RMb3FMaEJVTkJLeFFSeVhHMmFyUEE0Z0NtdjR6ZnpveHU0VkNvSVI4RGNSZ2Y0clNKa0pEX28ydjRiQ1d0Q01sUWV5OWlfcHNCenZENnZRc2RhSDFWbzBnRGpB0gHDAUFVX3lxTE5kVHp3QXJqdE9MQVI1ajJZUllmT2l5Q0lNYlNETUhsa3pPVnFDMjNZMzR2TDRXNUxUb2RwMzlPTFZqR2RKNk1wNGZWa242b3htSTgtdnU3RkxHV2F4RVk1VzVuVVNlZ0hvckVNQTJydTVJWlB6QU5NcUZMcDZpd2VWZ3hXa2lxaEJWQWI5ejNPZy1URF92b1RvT0QxcHZ1NGRvY3ZnOEhSLXAzVmlReUJXYzdtdHRJQlA2dTVQdFdmbDhkUQ?oc=5",
+   "source": "Boursorama",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "b97e6c4e3c9b": {
+   "title": "Adidas relève ses prévisions de bénéfice grâce au remboursement de droits de douane",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeldud2dPTkdWa2IyQWNKMjA5Y0tMR1pLd0FGTjZQc21YbDI4cjJxb3ZPRDZHODRlYjYyandJZVhhYUh3aFU5QVZ3SHVXTk1Za2tMSldzbXZ6V1M0UWZQZC1keEtvcjhCY2pMVTZHdUE1c21Ld042aVd6WWdQenRDcnZldDZHZTlPQmhfSDZmQjJtZjhQSGtscXdJa1duNDhyRkFzdDA5OGt1ZEZZaHBETWtLUk1UZ252ZkFsSkF5dEdmTEJ4Tkc1eUhMaV9Zc05ib1JNcTIxVUpCZ2tR?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "f87b2b884965": {
+   "title": "WTA Finals: Pourquoi le Masters féminin a-t-il quitté l'Arabie saoudite ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdld1NmlGb2NHcklCSVZUM3VrbkpNNmZ4Zy04OXBCNWpFWUNoaEtLVHQ0U2d3anBuSGJfN0NXNGxlbWFsZDFZb0N3NTdfcm9VZWRQbHhhaEFjZWtpRXJTd0NJUFo5N0dpTVFvRVptMEJ2QWg4LWg5aU14WHFwZmFSbjAxWXJoNy1IX1pMV3EtZmtaLWFzR0M4Y2FNNEFUTGJ4eGVQSDF5ZzRqU3ZWWG5rYzVpb2vSAbQBQVVfeXFMTXJXUjJubm9WVWo5VVhhbXh2T1Z3a2ZHSjZ1MU5yY1YtNnY4Uy1JeEs4R3ctLWNKUnRfMTBONmRBaWp3QjhWbVZwcWNVRUtHWnYwNTlxZWtwT0U3YWpjM1hORmVKSUwxM0JHelZVUVRnVDE3eTVIMU0temw0TnFvdmNtb25femdmU0RQZ01JVGZid09ReGxBT3RNNjNpZy0wWFVuYlFHTHp2c09iZ3pmZVlyUGVq?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "384098f1954b": {
+   "title": "WTA Finals: Pourquoi le Masters féminin a-t-il dû quitter l'Arabie saoudite ?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUhLNldBVjVGaFhDdHE0LWg1UklqMkhEMU5lTUE3X1IxeTQ2TldUTDJzbVhYOWZTR08tNUFWeDlTNzFDQ0FNWEZvVmx4SEhnSmhJNU13emFOdnJNZ2pxakZiNFByNHlHd1psMFhQMkpaa0lBMXVfRUw4Qmhld1h4RnBVNzdWQTFLOE0wMjRFV1BXZG9PTm9zQXQ1aXlBMUZCWVpXUWpZX293TmtVUHhfX0EtWlZzRlJqcVHSAboBQVVfeXFMUEl2MVRhNG0zTUNsV0h6VTVMRktmM09KQ1dOS2NxMXNOV0c0RlctalBzQlNkcU1CNXZMYk40b0NaU3VJWXRvSUVMZ0hiUzAweUFOM21vbDQtclM5OV9MZkxHV0c5WFUxaDgzRDNxN3hhY0ZqUTFjNHl0YXBfN3FHUDhpWm9NXzNHQjJINE5KQmNRS0lZN0s3VE5MRzhHRmhiRGtTT1FEZXRJaHlwYzNGRmQ1M0FaTTJESk53?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "c974377edd71": {
+   "title": "Adidas’ record Q3 is salt in the wound for Nike",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSS14aG1jX2Qya1hjcWQwZUVlSmNGdDNva1YyVWZaUlFtMDNzcWY5QUhGQ3FYeE9XRVhyVjJsRW9iUC10NFJJM2hHekktR2pQZENHMW43LTFHaEdvM2tXbmoxc2ZvdVdVQ3p0LVRVTHpkSENQQ3B0ZmxYd0o0cFFlOVd0czhWcXVQ?oc=5",
+   "source": "Retail Dive",
+   "date": "2026-10-21",
+   "reliability": "C"
+  },
+  "6a8515eca3d3": {
+   "title": "Adidas relève ses prévisions annuelles après un troisième trimestre record",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYU40dmRRaE5nUTlqTXNjTnpVS05GMm1VUDFuSXVXOHFFbnpWOG5fbUhVTDVqNDRQajdlRlBtNFAwaFNRb0VMLWRNbE9mQ1oyYnNJQUUxeXFDUzNSLTFzRWd0Y25UUExRUjBJMXZTWTB0SjhvVXV0aXVMTEJfTEN2a09kV2hhWnV1LVVTVmo5UnlBRmFRUmt2QnpqNFFxWkU2TkJJV0hlbU9nekhRTi1DZFZDS01zZU5vX0lNVWFDamhRUE11T0t1ZFNoRVd0MFFoeFZndlhxMXo3LUg4Qm40UlM3UVpzakMyLUtNWdIB7AFBVV95cUxNYU40dmRRaE5nUTlqTXNjTnpVS05GMm1VUDFuSXVXOHFFbnpWOG5fbUhVTDVqNDRQajdlRlBtNFAwaFNRb0VMLWRNbE9mQ1oyYnNJQUUxeXFDUzNSLTFzRWd0Y25UUExRUjBJMXZTWTB0SjhvVXV0aXVMTEJfTEN2a09kV2hhWnV1LVVTVmo5UnlBRmFRUmt2QnpqNFFxWkU2TkJJV0hlbU9nekhRTi1DZFZDS01zZU5vX0lNVWFDamhRUE11T0t1ZFNoRVd0MFFoeFZndlhxMXo3LUg4Qm40UlM3UVpzakMyLUtNWQ?oc=5",
+   "source": "Boursorama",
+   "date": "2026-10-20",
+   "reliability": "C"
+  },
+  "2d8b3cf27fa7": {
+   "title": "Adidas relève ses objectifs 2026 après un trimestre record",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWtXMmE0Sm1XbGd1dHhaZzdmajFVNjdmR2RQZ3l4LUM4ajBhWmYwWjFLX3lpSXd6VGQ2X25sQ3htNW9FUEViRDZxYVlvNDNOZG9MMU5mWEdaTzFfTzM4N3RvODY1UC1KcDl3dHJ4c3VLX2k5SkhHMUd1VWU0bEVOUmF0LTRyY201QW8zZlEwalkwR1NmLVB1ZkZMV0NIa2lBV3YzU1JIeXNSYXFTek1MMFNyVXBYdFhRYjRn?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-10-20",
+   "reliability": "C"
+  },
+  "39d0e8309dcf": {
+   "title": "Sinner de retour au Six Kings Slam ? Le doute persiste",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNkZtN3NKTWVXVkVJRFZQVmVuTkh6RmJ4cHU3TE9YS3lpcThzcXl1T0RYMGZnNkp2ZVB2MXV2TmRqcWJER0JUek1FMFQ5UTVmVUFmMF9pVHU4eEFKb24tQnRkc2dEd0U4WFU1azh0WTF2V1EtQXpyc3FQYkQ0ZmI5ekZ3Y0FKdHZw?oc=5",
+   "source": "Tennis Temple",
+   "date": "2026-10-20",
+   "reliability": "C"
+  }
+ }
+}
