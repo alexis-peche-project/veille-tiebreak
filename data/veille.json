@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T21:48:32Z",
+ "updated": "2026-11-04T02:20:26Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -10,9 +10,56 @@
  "stats": {
   "added_last_run": 3,
   "feed_errors_last_run": 4,
-  "rejected_last_run": 354
+  "rejected_last_run": 361
  },
  "items": [
+  {
+   "id": "93bcd082e7b3",
+   "title": "Fatwa issued against Nike for ‘promoting polytheism’",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEZ4bl9vdWpXbHNDYTBDMGFkWnU2MnJKMXpKTTZYSElLaGsyQTdUS0V1cUtSbHlnV3pHbVF0MldxTl9fVmV1UVlxc1YwTEFHNDJtTjNUOUdsNGdtemgyVkN4NFlEaWhSZkk1VkNlUVgwUzBCdS1vdTdNZTBFcWxOa2hFWmhoQ3ZY?oc=5",
+   "source": "The Telegraph",
+   "domain": "telegraph.co.uk",
+   "date": "2026-11-03T22:20:00Z",
+   "first_seen": "2026-11-04T02:20:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une fatwa contre Nike pour « polythéisme » pourrait ternir l'image de la marque auprès de certains publics, sans effet sur la distribution à ce stade.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "33a6681cf15a",
+   "title": "China's Temu, JD.com revamp business models amid tariff headwinds",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcXFvUWRfaHp5NU8zSVZHU3doQnl1aXRKUC1hcEZwaHlVS1NRbEZoVllOWmVGaDJNTFdET3gtVFhLb2JMYkh4LWJfTVVlS0EtakVYWElEZkloWnZBZE1XZy1tN29QV1FobTJUT2NTQzVSb2FRV2dNVVVKQVBaOU1RRWtTblNkaGlReTBDMHhEV3cyQ2RfSjQyMTJXZEhPRklrOFlkRUJ2Zw?oc=5",
+   "source": "Nikkei Asia",
+   "domain": "asia.nikkei.com",
+   "date": "2026-11-03T21:38:00Z",
+   "first_seen": "2026-11-04T02:20:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Lien indirect : droits de douane touchant le commerce en ligne chinois, sans mention de Nike ni du tennis. Pas d'effet direct identifiable pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "05ebf59ac887",
    "title": "« Skaï, ton papa il était joueur de tennis »… Monfils, le dernier adieu",
@@ -6861,6 +6908,29 @@
    }
   },
   {
+   "id": "b873ef5458d2",
+   "title": "America’s Steel Revival Looks Like a House of Cards",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT1E0by1JTGRNNFNybS1kVlQ4UG8zUFNlRm0ydUs0dGkzNUNYQTZFVGFrQUhDX0dXVzlDcXY5M0k1Qm5UY2FyU3NHOHVudEFIY0tsZkpzTVF6a2JfZy1Da3lTdXgzMU9VRUs5MnpNVVFpR0F5YnBsNG12cWktTDBlY2JUeFl1M0F4em9aVFBkWFJDbnVZX1lnTDNhblhZNkh6T3l1a1RtSHpxV2RKSkkxb1BqSERpQQ?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-10-10T07:00:00Z",
+   "first_seen": "2026-11-04T02:20:26Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
    "id": "e052ee2ea539",
    "title": "Pékin accepte de réduire ses exportations vers l’UE : “coup d’arrêt” dans l’escalade commerciale",
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNUW5WZ0xLaDRxbzhMWnctWm1haXVXUWZObTVRQ0tiZmZNa0RuZ2dCV1REa0liLWNqbXB0bVFDa211VEotYjU1MnE2ME9nNlExZW5NVW1vZnNDY1Rrai1DQUNwTlVrRDZVNEVOQWlyZUNHOVItTEZsc2V2T0JiLS0yb0ZZMXhIczdXNFBCa1UwVHFtbzdReGQxaUVvcnRYdmdTZ29fZHdYb1cwLVRPeExwYWtpVS1CdnFvQ0RwMWNoeDFhRUtnQzFpTjlqUnQtaGUyRVl4ajAyNzlyS01HMUZ1dG9TdE9Fa1gweWc?oc=5",
@@ -13606,5 +13676,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-03T21:53:53Z"
+ "ai_updated": "2026-11-04T02:25:35Z"
 }
