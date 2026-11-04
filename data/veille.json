@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T12:08:53Z",
+ "updated": "2026-11-04T19:45:27Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,10 +9,82 @@
  },
  "stats": {
   "added_last_run": 6,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 354
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 345
  },
  "items": [
+  {
+   "id": "db81c110533a",
+   "title": "| $126 bn in US tariff refunds: Who will compensate garment factories?",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNam9fUUVIS18yeGlKOWdndXRMU2VjOVJPTElXT0RIQUJsMlczanBxU3RnTzFzYV95ZExwdzJoampWcUNheUswUm5pcW1sY2E0X19VZm5lUXRiRHFZNV82dkJpM1hkeXkxTm1KMUhZaTBWUUNOb2F2b2tsS0xRRmhjeUR5cDVmY0E1VXRVcXVZbHlsTkRNSTJlbzBtakg1M2NfX3VqdUM4eXhRazRiel8wVGZUbndlQkwzVklkNm1KTzV6bjgwY24tajd0QkdmbUM2RU1HWEJWV2xrR3dQYklNOUN3WWJBcG85bUlKTmwzR095dFJR?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-04T16:57:50Z",
+   "first_seen": "2026-11-04T19:45:27Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Les remboursements de droits de douane américains pourraient alléger les coûts des usines textiles asiatiques, sans effet direct sur les approvisionnements de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "57bf4e4c5ea4",
+   "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-11-04T12:04:08Z",
+   "first_seen": "2026-11-04T19:45:27Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une évolution de la politique tarifaire américaine après les élections pourrait modifier les coûts de production et les marges de Nike, donc les prix d'achat de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5fd6d0bf9419",
+   "title": "Bangladesh's RMG workers to receive revised wages from January 2027",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVHBaM2FYYWZtZzRvN0pXbzRwOHIya0QzdGlsd3VzZFVzbVFSYXpwb0ttMG9CNTVFdGpOZHp3SW5yY29wRTZpaGVTWDFJVDJ5UjVYNlpqLTl3VlpOczdFQ1Y5ajhfd0xhWDBhWHEwZzhYWXRSOUZnNmpfWUxaU01jYlJtVjlzdVZlSHVoN3BNZE4yMWt3Ny1kWXhqUXlvWTd2VGY4NW9FVnotUmpNV0FKblBJQk9JS3E4dEFmMFF3VnBxN053enNndkVINTBTcUtxYzZ5SWJvNDg4WW1qSjNNVw?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-04T11:09:24Z",
+   "first_seen": "2026-11-04T19:45:27Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La hausse des salaires au Bangladesh à partir de janvier 2027 peut renchérir le coût de production du textile Nike et se répercuter sur les prix de vente en 2027-2028.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "c1c46a939789",
    "title": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official",
@@ -439,6 +511,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "7ad892179e4e",
+   "title": "Adidas toujours en forme",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT1k0ZHE3dU44QzY0RGd6emgyR3o4aG53Z01sZHUyd05PZTNmUTJKREw1OG81TmpUVERwdEd3N00zOHk3TzlsSjJGMVdPVWZFckJndXNLMDlhQXlhdVRwOGVlTVpzUUlJdjhIeGMydkZxUHNydUVpeDlndmxyRmlqVVBFalFxczFXOGZGeTU5UDhDR3VQNFpZaDUzOC1Udw?oc=5",
+   "source": "Investir Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-11-02T13:58:21Z",
+   "first_seen": "2026-11-04T19:45:27Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Bonne santé d'Adidas, concurrent direct de Nike dans le textile sportif : indicateur de dynamisme du marché, utile pour comparer les tendances de demande.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "837e7ae70a2b",
@@ -2873,7 +2968,7 @@
    "domain": "fibre2fashion.com",
    "date": "2026-10-22T07:00:00Z",
    "first_seen": "2026-11-04T12:08:53Z",
-   "axis": "E2",
+   "axis": "E1",
    "lang": "en",
    "query": "Nike tariffs",
    "origin": "Google Actualités",
@@ -2882,7 +2977,38 @@
    "signals": [
     "tarif",
     "tariff"
-   ]
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Les droits de douane américains font reculer des exportateurs asiatiques de textile enfant ; signal de pression tarifaire sans lien direct avec les approvisionnements de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "6154b3ba3338",
+   "title": "ATP > Marco Panichi, ex-préparateur physique de Jannik Sinner : \"Je n'ai quasiment jamais entendu parler de quelqu'un qui ait subi une opération pour ce type de blessure\"",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQbVFfQlM1YzZpUUpfRGREcHJycWxkYnlfNU9jR0VJRWFJNnlUVlJ5Q2FwU29iQ3BaZlpvRWVEUUprZ05raDdNOWdvdVhiLWhDNWdKVlROWGgyUUd4MVBoZTZ2NGVyWFNQNndmS0xrWkNpSVVUVWRyRmJiVFRaYTRyeVAydUNtd1NDRXJGNnlfdTFpSVR5VkdXNm1XTmZENk9fMHNqQWkzVndiVWdweU56NElYNmpEdlVkSWQ4blVhc0ZoaDItRVdkcE5FNEwzdzNHT09pTWQzMklPSDRpWkgyMmZOODRaN1VIeXYxZksxQ3F3aDJ2S24wNy1Oa0o4Ukg1OEp0NXNReTIxYkxGOVFCdzg1aWpsY0gz?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-04T19:45:27Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "La blessure de Sinner, athlète Nike, peut réduire sa visibilité et l'effet médiatique sur les ventes de textile et chaussures tennis en 2026-2027.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "67882707d0d2",
@@ -3742,6 +3868,28 @@
     "r": 2,
     "impact": "La baisse de 44 % de la juste valeur de l'action Nike, selon Morningstar, signale une pression concurrentielle pouvant peser sur la stratégie wholesale et les collections.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f900bf863378",
+   "title": "Jard-sur-Mer. 115 scolaires au tournoi de tennis de table",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUjBXNkZpNFVDMGl2alMxbzhjb2tBWXJ6UnZlcjN2MHQ0UnJ0WVFvWFN6Skp3LVFpWlN3enE1STZxTHBCVmhubVBIVHFBZnJ0Tm9USTJ6SE9BT0V6SnQ0MzJYbno4b3hiYUo0aGRHREQ2b0FhR0VtR1BNRUYwSmJWZXlCN3U1bWV6UDZjZ0RLWWpDMTV1RHNnUGZ6ckpjVnF4TE5NRGd2cUZpbk5qZmFjOWhLR2pRbEdFN0tTU3NZazh3d0RWMFg5aHhLbHQ2cVBDWlliYTNoY29HZ0VodVFFaHBNNTV4dHhTaW55NHJR?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-19T07:00:00Z",
+   "first_seen": "2026-11-04T19:45:27Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -13810,5 +13958,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-04T12:13:58Z"
+ "ai_updated": "2026-11-04T19:50:52Z"
 }
