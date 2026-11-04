@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T02:20:26Z",
+ "updated": "2026-11-04T12:08:53Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,56 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 361
+  "added_last_run": 6,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 354
  },
  "items": [
+  {
+   "id": "c1c46a939789",
+   "title": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMkJNTjRRcm1QVElrVU1QQ2hFcXZYc0NEWmlJekVIRTBYYWxrVDJZMm9WT0xwa1JYbGt1RzdYcFMtLVAzSWlJT1J4d0pLdGhLYW5Da3BiZlplazE2?oc=5",
+   "source": "WTA Tennis",
+   "domain": "wtatennis.com",
+   "date": "2026-11-04T09:35:55Z",
+   "first_seen": "2026-11-04T12:08:53Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Aperçu d'un tournoi WTA sans mention de Nike ; lien indirect avec la performance des joueuses et la visibilité du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "21cf40f7850e",
+   "title": "Bangladesh's RMG factories resume operations as wage board reviews pay",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTW9haWZxOEFSZmJ5cnRxZV9fYzVmZlk4TVd4bWl0OVNnY3RtRl8wbHVmTEtIeVpDc19JUmc2SFBFV3lRT0ZVa0NPaVNycDF1NWQyNFhQWGVUY25qSFNoVHBvbVlUUFlYTHJwdF9kUWx0dW1yeGE0bHVkRnBSeHM3c0owTURCVXRLM2U2STBIamljY1lIaW51SzRWZDdpSTBVcldrcXEtNXlubU5xY21BVkhDdzJCeEFrVmZ4WXoyRVYweVR4NTNRLVBYZjNoNHNNU2VKWFRTLTVCOHh2Qkd1QlJqLWw?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-04T05:04:39Z",
+   "first_seen": "2026-11-04T12:08:53Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Reprise de la production dans les usines textiles bangladaises pendant une révision salariale : risque de retards ou de hausses de coûts chez les sous-traitants textiles.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "93bcd082e7b3",
    "title": "Fatwa issued against Nike for ‘promoting polytheism’",
@@ -468,6 +513,28 @@
    }
   },
   {
+   "id": "f6faab46bb00",
+   "title": "INTEL Cours Action INTC, Cotation Bourse NASDAQ",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RbUhNa3JqQm9FLUZFS3hhR3J4NDF2elczYm9YMVpkc01EWTJJNGVNQXY4SDZUVDVWUEJoaUNFSVpPQmtoN3VhVVBwMFl1RUE?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-02T08:00:00Z",
+   "first_seen": "2026-11-04T12:08:53Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "fcaeabc9197e",
    "title": "Sur quelle chaîne TV voir les Rolex Paris Masters 2026 en tennis",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWx1MFVKV3Z1SHQwUy03VFBuM0pIZy1wOWVvQTlkNmJsOHpRVDIzNzFVa0p6RUZXTnZ5enhKZEZpOVlCNDZkSFl5d0ZsRUJWN3U3NV9BMEFUN1lIaVZkRVc5VVF2dkNEVEl6NklCdHBuZndLc1BmdFNYNThTTjU2ZU5FOTBRTmx0WXduXzFuSVBIaHlQY0RUZkR3VFZmaDBSOFRzeGpRc2c2Y0J4TzFUaFdFSV8?oc=5",
@@ -808,6 +875,30 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d58ad7b1bbc6",
+   "title": "NBA players decide to continue season after boycott",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FTUlzVFhnYjA4YTFJYmY3ejFKOGlpS1NOSG9fSUFWRjFhdmdrampMeVlpYVREeVJRcnJXZ3FseFlFZGY3Qkc0bTFGMG1heHhUX2RKRnVPS092MDh1?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-30T07:00:00Z",
+   "first_seen": "2026-11-04T12:08:53Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "boycott"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Fin d'un boycott dans la NBA sans lien direct avec Nike dans le titre ; indice contextuel sur la mobilisation des sportifs face aux marques.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1552,6 +1643,30 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f34f90fa03c0",
+   "title": "Jannik Sinner évoque sa blessure au genou : 'Mon corps est le seul adversaire que je ne peux pas battre'",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUlNURU9peG42Wm1XRnF4VGVTU3QyMDE3ZTFJaE4xejRVSXhjajhYWEs5dV9uUWFEdTFuVXp5c29Hd1JIbGtCVF8xem11a3Y3dFp3LVM4Rjl3ZWtaQmx0cUZKZ2draWJnY3o5d1FGb3pDWk0xcXlzSzc5MTB2ZTBsX21BXzM4MFAwSkRTVlF1bHM5QUJwSk1HTjF1SDlqaFdqNG5TNjUzNkRJQmxNQlpTc3h6NnhGN3VlZjB0T1ZydXVLWG5QdHFXTXI1TmFHNXBIWGM0?oc=5",
+   "source": "RTBF",
+   "domain": "rtbf.be",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-04T12:08:53Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure au genou de Sinner, athlète Nike : risque de baisse de visibilité et de ventes de sa gamme, à anticiper dans le calendrier d'approvisionnement.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -2749,6 +2864,25 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "562992d47493",
+   "title": "| India's share in US babywear imports plunges amid higher tariffs",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObkFxV09yYWRuR1ZoXzFmWXpTRk8yLVJaTHI4M0FqcEZvMVFvRURaOEFscm1vZmYxcGhNXzlEMjV0YmVQZUhqN3hOYXlpYTJabWJWOVdFdml1d3dEN0VtbGRGN0hPNUlvdlYweEJTT3pEQTg2UnVkUmF3LW0xRHIyV21jcGZQdm84UkJlSjBiUXh3bVp4Tjg3cWFNbFNvSUJtWUZMYnlob09qbC02OUVQQTBhaTd0YkZmZ2tWLW9VRG9oSjhBX1hqQU5GMDF4aVBXQzJ2bnZSNl9QZTZVUG1HZEFYVXozYVNoVzA0MW9NRFA?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-04T12:08:53Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ]
   },
   {
    "id": "67882707d0d2",
@@ -13676,5 +13810,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-04T02:25:35Z"
+ "ai_updated": "2026-11-04T12:13:58Z"
 }
