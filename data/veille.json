@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T00:54:31Z",
+ "updated": "2026-11-05T09:29:54Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,34 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
+  "added_last_run": 17,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 351
+  "rejected_last_run": 347
  },
  "items": [
+  {
+   "id": "bdfb4f34a487",
+   "title": "Tennis de table. Nationale 1 masculine : Lautaro Sato, la recrue argentine qui enchante Vibraye",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTWJOQWlLdlhRdFAwT3p6aWp5akxfamQ0UEVFc3VXQmhaSWVTY291aDFDMUNtOUR6N2V5SzBQcXZtT0V5NzNHSlVkNnlYSWNoeldwNFZWQnBQSmVjZTVjU1M5OEdGVG9IWnNmSHRHSUpuY0IxcXdibnFScGlzd19ObllVVDdlVGJKalB1X3lQWE01TnYyUkYxQ3dZdmtVcVdHNndoVzdYRkIxOGdNV0luYWdKVW11UDVvYUI5WjhERGlrVUgyTXVZbTV3b0lHYy13WE1WN0xVUXZOQmVfeFlza3FNQXhLb0I2Rnl2dWREREd5dHBtcFlqWWtiR01nZG8yNWtEZG1SMWFZUQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-05T07:21:02Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
   {
    "id": "f57f42722b84",
    "title": "LIV Golf: Breakaway league to wind down after potential financial backers withdraw support",
@@ -159,6 +182,29 @@
    }
   },
   {
+   "id": "0e672ecdd63d",
+   "title": "ATP > Learner Tien viré de la Six King Slam pour le retour de Sinner ne lui en veut pas : \"Pour être honnête, je m’attendais à ce qu’il fasse son retour, car le report de l’événement lui a donné deux mois supplémentaires pour récupérer\"",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbU9lMDFCbUVWYlRjZWczbGt2ZEtjNmtnalNXUWpfT2pnTjR4clNMcTZ4NjFfYmFWVEp4UFdpUnp0TGZZVzhtdHFNZmZLdjRZMVVYTE1xTUhZd1hhZzB2ZE15WGoxeFBqajNHeEs1NHpWbk03cGh0a1VKRll3a25yMzdncUJ3dGt3bXB0V29xNFMwS0RVQkVaT1VXRnFIdHRwSzVRU3lFd0s0VmFXNzNmU0J4d3h6c0ZCc05iYU1OS1dfZW1RLUhnVWtMMTdLZlJHZkd3S0ZCMm1kaFlaVTBTSlpfT1hnTTFZajJzWjJJNW1GQjVQV05JLWYyaXhyRmJPaFJRTG5GcU50ZzNXUGxfa2x4MFJsY2dSbHhOUHhMdzY1aUllYkE?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-04T10:56:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour de Sinner, athlète Nike, sur un tournoi : visibilité et demande potentielle pour les produits Nike autour de cette reprise.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "c1c46a939789",
    "title": "FAGE WTA Finals Indian Wells 2026 Overview | WTA Official",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oMkJNTjRRcm1QVElrVU1QQ2hFcXZYc0NEWmlJekVIRTBYYWxrVDJZMm9WT0xwa1JYbGt1RzdYcFMtLVAzSWlJT1J4d0pLdGhLYW5Da3BiZlplazE2?oc=5",
@@ -274,6 +320,29 @@
    "axis_original": "T5"
   },
   {
+   "id": "5e1cc9d7bd2e",
+   "title": "L'Indien Gokaldas, fournisseur de Gap, veut doubler la part de ses exportations vers l'Europe",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQ25FYmxKUkptUVBGcmt4Qno0dm9MZ2NuWTRqTlp2TUFjbDdodGF3R05oRzRyYlEzeER0dXRRelpjd0xKQUE2ZlNFbi0wa1ByTV9vbEd5MFROQlA1WVJtYXl5SElfMndMLXlnVjZKWlBzangzYk5IMXVBVGtidThrYzJlQ3VibWEwQUJnRkdPVUZ3MV9aUThaa3k4T0g0NHNjcTA1cHk0cGE0eElkOWFhUzFMU0tEcnpyMl9oclRacDZ2Vi1WNUZ4dlZYX0tINVJMMkh2SDBR?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "be.fashionnetwork.com",
+   "date": "2026-11-03T17:02:34Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Fournisseur indien de Gap cherchant à doubler ses exportations vers l'Europe : contexte lointain de la diversification des sources textiles, sans lien direct avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "c43cf24e62a0",
    "title": "Nike faces religious ban in Libya because it was named after Greek goddess",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBZWXg5Q3I3VGFKVU5LYjJvWjBvWkdEcXZzVzh5UE93UUxXSml5aW9GZ1B2eW5NUmdzVE9qbHg1R3VYLVdYcWxSTm5FRGxRbF8zY0lONFNMVXdNanFXYnc?oc=5",
@@ -309,6 +378,50 @@
    "origin": "Google Actualités",
    "reliability": "C",
    "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d444f1ed7e11",
+   "title": "Pfizer relève ses prévisions annuelles grâce à la forte demande",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaWllQm1WbmMwWE9teTk2Q0VxS2NaYXZaT19DOHVENkE4Q3kzZ3RlcU9lOWhPXzNaeUdLeHhkTkt1ZWlLX3Ezc2R0c0NEMkNIbDFWa2ctUWwyaFVZU05VU1BSOUZyZWtac2JxNi05eDBkMGtuQllSdEM1aW9vZnRoRk1fUXZIWTUwdHowYl9MTllMM2FTMWxPOTlIak4zY0VKdDU3M1psTFlaY2YtUmZidzNHZkVUMTF3TTNxUXBIQWI1eUhVOS1aOU12d1ZBa2lqMHhxTVM3QWFOd1FaWUHSAd4BQVVfeXFMUGlpZUJtVm5jMFhPbXk5NkNFcUtjWmF2Wk9fQzh1RDZBOEN5M2d0ZXFPZTloT18zWnlHS3h4ZE5LdWVpS19xM3NkdHNDRDJDSGwxVmtnLVFsMmhVWVNOVVNQUjlGcmVrWnNicTYtOXgwZDBrbkJZUnRDNWlvb2Z0aEZNX1F2SFk1MHR6MGJfTE5ZTDNhUzFsTzk5SGpOM2NFSnQ1NzNabExZWmNmLVJmYnczR2ZFVDExd00zcVFwSEFiNXlIVTktWjlNdndWQWtpajB4cU1TN0FhTndRWllB?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-03T12:13:04Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b3cebbaaf17f",
+   "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfVElSNTY2SkVSU0NJOUpBalpLNVRMUThqV3ZTb1RwcVhkWndyUHdFTTFJZVNhWXJOWDRXckVMVHVRdU1TLTFGdlNBbmMtM0JDdzlSbEVwanJrUElJT1huRGhsdUJDa3JZUGtxRm8tcjJ0UdIBd0FVX3lxTE5sX2ZVWW5pM29Fc2RUZ2lhLV9uM2RidDdWLXFGRkhhcnhpQ0NfVjBpVFBPbDloZU9HdXVhaF9nZXFrUTR1eVEtLU9uWUhNaXNKSmJmV2J3MUNybnVnVkFPU19QeWZ5QUJPdmFHbExqbFFoNHVFbEF3?oc=5",
+   "source": "CNBC",
+   "domain": "cnbc.com",
+   "date": "2026-11-03T12:00:26Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
    "signals": [],
    "ai": {
     "r": 0,
@@ -631,6 +744,30 @@
    "axis_original": "E1"
   },
   {
+   "id": "0c686e9ade9f",
+   "title": "Masters 1000 de Paris : les blessures en série bouleversent la hiérarchie au sommet du tennis mondial",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQc25Qb0JDbnlxNWVpZE5sdHBBb01UOUFSOTRpeTlTMmpsODllSlhraE10SUR2SllOVnl4QXQxenhrOGFMdnl1NTk5ZHZKVHdkbUtESzJSeEFpblpmR1dRRlBkOVIyVnBCZHZINWhxYmpTbmJSTi1ZeFVKVDZ5dVBodzBZWmlnaER0aDlMTjBnQ3VGa1pENExVZUk3RThVejcwcXlDS09GbDY3QlZ4b2JiWEl2bzdCc1ZJUkhxYjZYcnIwV2E0R3RHVHl0V3RKdU93TDVKaE5PV0dzQ2J5TWJmZWk5dmJZbHVMWjI2UmFqdkRNRWI5LWJQcg?oc=5",
+   "source": "Le Monde.fr",
+   "domain": "lemonde.fr",
+   "date": "2026-11-02T13:00:11Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Blessures en série au sommet du tennis : l'article ne cite pas Nike, mais elles peuvent réduire la visibilité des joueurs sponsorisés.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "837e7ae70a2b",
    "title": "Rolex Paris Masters: Sascha Zverev entre dans l'histoire et sera célébré ce lundi",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOEpNazF1clFFbUU3MGJiWW5NUlJNODRuU05lWDFpT2hQSUxBbVZkMXVoQnR1el9aR0FOVVdkMzhjWTk5NmRFdkRMZ09Pb05YNWJibXpGUFRiaVpNTi05elUteW1UVjBweHJ2X1pGREdqWk5NRWRPSzZJeXlwX210QVpyRTRBalBLVVQ4X2ZWRVhyUW94bmdNXzMtUmVfRkVOenQzRFBTMW51ems5T0VUU2owb2Q3M1JLazdXUkVOM1ZqQdIBwgFBVV95cUxQN2tBWDgzaTRiZFpBTC1xUWRGN1pvWU5DakZURW1lbW45d1g1WTUtanRyaWV1dnlKUDhsaHVyNXRrbkU1eVNMbmRtNEdWUW93ZVVJaThCOEhsN1lzSGQ4a29QWkZiT202MjRwTjRVV1RCOHNjYzNCRDRSOS1Cd1hhN0o1SmpWcVo3YlR3NjgyNXh3NDRGbW02VE5GNlFwcXNvLVU0RjlleC1YVDVqUGRVcU9sak11SUxtNEJtbEpWX08zUQ?oc=5",
@@ -674,6 +811,28 @@
    "ai": {
     "r": 3,
     "impact": "Retour des porte-conteneurs par Suez qui s'accélère ; délais Asie-Europe pourraient se raccourcir, à vérifier pour les livraisons Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "bc9de267a2ca",
+   "title": "Vietnam: CMA CGM et Nike lancent une barge électrique sur le Mékong",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5GSzJFVUwzOFpuTFFfTGJrejdwNmFyeUdhZEFPbUI0ODgxVzFTOWphT2ZEN1Y5VnlGZjF4U2E1U0YzakFGREVmQ0F0Z3Z2bERGUUdNc0stMS1tTWRYbWE5Q0RCVVZUQTNKTXFCenZCQ0lQNUV6aEZGbXlPUkdxMGxUUE5pZzVJaEpIc2RuNkpsQU1KWUNoa2dHdC1PdEpYOTBMUWNtdDVIWWV5bGswbzJ0eGg?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "tn.fashionnetwork.com",
+   "date": "2026-11-02T10:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike usine Vietnam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Barge électrique CMA CGM et Nike sur le Mékong : premier signe d'une logistique décarbonée sur l'approvisionnement asiatique de Nike, avec effet possible sur les délais.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -743,6 +902,28 @@
     "r": 1,
     "impact": "Information sur la diffusion TV d'un tournoi ; effet indirect et limité sur la visibilité des équipements tennis.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "636e418d0c3f",
+   "title": "Tennis. Carlos Alcaraz triomphe à l’ATP 500 de Vienne et s’offre un quatrième titre cette année",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNQ2hjcW92anpGS1l5X01PRUVMSFp2MFpRQzRxWnZSd2I3Rmh1UVZkSFNLMmlQQjVTTnl5MGRHcU9kazdIOGhPRDB2UlNkck9IUGZZMWlYYktFNlU4X092LTlIY2NVZmE0OThJOEt0a1FoeGNDTUlXZE1jdVE0VFdRTHl3N2dqRG5oZ1JlUnp5Yjc3VEJqSmkyaV9vUU16M3VETTRoOE1kTGRRaGtPNU5hM2dNTjZUZjFjc3Z5ZkNxTENUSHlSLXRBRjRuMDBGb3g0ekJmOGJxdVZDdk1fblJ2M1NtMkRWWjdxeGRfdU5DcWNRb2FKbnN6dlY1N0hSaVBzQjkxbUJzVE9ENWRad3lHbkxWcw?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-01T15:15:10Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Quatrième titre de l'année pour Alcaraz, athlète Nike : renforce l'attrait de la marque auprès des joueurs de club et du public.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -837,6 +1018,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "8262ca270b4d",
+   "title": "ATP 500 de Vienne : Alcaraz domine Medvedev et rejoint la finale",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRzFXejl5VjNQLUZrT0d1ZFJpMGpqMFIxZWQ0Z0xaTDUxTTA3QWFaZ09rLTB5Z3JUSENFYVZVdzl5cDQxVVJFQ250X01UamF2TjF6SkF5QzBnYmdEOXhHRlhxQ3U5Mk9DWGJ4b00wUWJBX1dvSXhsN21oMVhRS25PQ3FwV3g0ZkUxeGp1NG50cVRSbnNvLVFEYWxmcWhvbnZEakZGOEtaemxGWVB0bHBmWTVJZFVfQQ?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-31T16:09:55Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Qualification d'Alcaraz en finale à Vienne, même événement que le titre : information redondante, intérêt limité pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e7c45cfa95b9",
@@ -1883,6 +2086,28 @@
    }
   },
   {
+   "id": "5c27f50261f3",
+   "title": "Jannik Sinner entraîné par Magnus Norman à partir de 2027 ?",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVHdEbUMxSnZadm9oQUloajQ5enBHWHJPWVZjV2VBVmZCNHg3M25XR3l1VTdEWHdKNjVIRUdrYWJsTDJidEg0VTBVNlNKYnFXY0xSaGt4aEtmY2NYQU84ZDVrbms0ak5mMDh6cnlkdjJBeWN3MGdnNllMbFR3QW4zWW9CNUVIeC00VW5qeFg2a3V2Mzl1Y3BfdzVfU0lCa1VjbnpMZVFnSTJoUQ?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-10-26T20:20:36Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Possible arrivée de Magnus Norman auprès de Sinner en 2027 : changement d'entourage d'un athlète Nike, à confirmer, pouvant influencer son image et sa visibilité.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "76ad5fd5a454",
    "title": "Jannik Sinner To Start Comeback At Saudi Arabia’s Six Kings Slam",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT1lYU1JhU1N0a1dmNFdINlZ4LUxSNkhfc2xHMmZ4c1dfN1puOWtZMkVRMXl6MlpOUkkyOGtTTDEwbTFjMDVvTGllaXFYZE5SYk9VSVdqRzlRUjhfM0ZXWjBlVlhoVC10VjFjTWJxMkY3T3ZQTWdDeHd3VVplLV9LZUxxVmQ2b2FfX2NLTUc3ZjJyNnFibmhadVN1QU81MlU?oc=5",
@@ -2919,6 +3144,28 @@
    "axis_original": "E2"
   },
   {
+   "id": "f0289d9d2279",
+   "title": "Nike, Inc. : Bernstein toujours à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenMwTlRMZnlWVEtZNl92M0EtaEFHRlV0ZGdqRmwySmVja25ZNUEwazVWVXE4b0FkVlJfTGsySlRaVVphRWYwc0RHRWpGYU4zNlpqM1hTQ0FPWDF6Ylh3bnRzb2ZfbEN0UDJPZ21xemFNY05RWnBpOEZPemd1OHk3MDRQcTZ2b2hlTTJidDYtc0dGYTlueTlQc3VQR1YzQ2M?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-10-22T12:19:08Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Opinion d'analyste favorable (Bernstein, achat) sur Nike : indicateur de sentiment boursier, sans effet direct sur les approvisionnements du magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "da809b97e656",
    "title": "Nike, Inc. : JP Morgan reste pessimiste",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSE5yWGw3SC1Ebk5KV3lEejEwd2U1bm1ZVzRQZnp5SHJPMjlsbkg5aktqSkZLeDRrdXFqYzV2N0hYNldidEhBeDctVFZVUVFreWw2NnJwd21Qbk5ZZnA5TjctYnpzVXF3RTJHbmFnVWdUY1pkWHZwZnBQRUxEbzh4SGN0QlNITGJFaWVocFdCcF9ZcWpWU2VEMEJWbw?oc=5",
@@ -3125,6 +3372,30 @@
     "r": 2,
     "impact": "La blessure de Sinner, athlète Nike, peut réduire sa visibilité et l'effet médiatique sur les ventes de textile et chaussures tennis en 2026-2027.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c56e463fcb7d",
+   "title": "« Presque personne ne se fait opérer » : l’ancien préparateur de Sinner évoque sa blessure",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVWJ1bFRWSjJXN2NiTTdsZERtSWJRZFA5c1psc3VTeFZaeGUzZG1iZHlHN1RsalZYRHFMc0Q3bEtOM0hfclVSa0hHNUFhWUxlREFkUWc4dk8tN09qQUpGQVRJeDdhN1R0SW80cEdjUllwRl8yb1pYX1h2RHE1el9BT1Nla3RUREE?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Ancien préparateur de Sinner commente sa blessure : rappelle le risque de disponibilité d'un ambassadeur Nike majeur en 2026.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6959,6 +7230,28 @@
    }
   },
   {
+   "id": "857bd5e01ea4",
+   "title": "Sinner blessé au genou : Ljubicic fait un parallèle avec Federer et livre son analyse",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWRHaTM4NmFaWHR6aWtmWGRrbjJCekx3eHMzdTFOWHdwalpkTkRVeUNYV00wZVdUOFhoQ2I3NjdBaWdLd3hxNWIwWG5ONmtVU204a3Y2cEQtTFg1NUNzbWxET2Yxd0VKeS1IbExJaGNjTm04QTVoN2ZwTEthY1ZBb1gxT25QNTg0Yy1mSDByZWk?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-12T07:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure au genou de Sinner, principal athlète Nike : impact potentiel sur les ventes de textile et chaussures et sur la demande pour la saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "c9e4ccee21aa",
    "title": "Paris sportifs en ligne : le PSG, les Bleus, le tennis et la NBA… comment misent les Français",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVlNJamF2UUhkc2lBRFk4Z0RpS3BjRG9GWWdPQWlOQWpNdERueEQ2UEhNYzdyMzJSR25rLWVPVEhNOV8talBTS1o4R0s3ekppVVhEWWlMSTA4aUJOc1JmdGJBMURUMVdyazVKOUthZUhhSHdxcTJFQnNwR2UwX0F0M3ltMXhscmIyRmdDMElsZnNfRW1KQTdBc1FQQ2Z3Z3haR1FSdWFGR1g4UGlKdXRfRlRpU0o3SjFsUGVabWt6Y1FwVGx4T0NmTHpRSUlBLXlZSWtPbUpwUDhCcGJEN3h2Yk1uWGQ4emJRTHN0NHhyRE5mOEN0bFE?oc=5",
@@ -7329,6 +7622,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "0364525f48e0",
+   "title": "| US' exports of textile & apparel dip 5.9% in Jan-Aug 2026",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVXhZUFJVZ2dRbmlyNGQ0RTZzMHI5MzBTdU1reS1aSVV4OGdJaXBWZEFaQVJVaTZFV3A0X3MwRFU3RjdfVThoY0RkdDJDbFM5SUY3M0VDbGJPOTlDNzlJRUJ6azJ4a2xFaF9JamtXemNlbzN0S1JOeGlVcHdMVFZjZjQ2SFhGRG1vSjNlNlc3aDdlczdBeHZfUDRkWkY2UHk5cVRuZVhORm5ycFJ2V1hpNmQtd0RGaTQxc2FHZVNuNHNCOWY5S0ljR0tnQ2JqVTU0RjNLZHVRUHBVVG1qVmpFVnRn?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-10T07:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Baisse de 5,9 % des exportations américaines de textile et habillement : indice de tension commerciale, contexte macro sans lien direct avec Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e052ee2ea539",
@@ -7956,6 +8271,28 @@
    }
   },
   {
+   "id": "a8feee5f63cf",
+   "title": "Alcaraz prend la défense de Rune après sa nouvelle défaite : « Il doit être patient »",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMlkxcEdUMGxBa192R0lZTHAzeWVnYWFwVDdiUEN3MmtPSGpTd0pjc2VUUWZiQk9MZmh0N0t5MFdkZnRvUmVyUHBIQ0hMcEVHMEI0WnAxRWJGcHlwTDhKNkNSR2pHVzVvR252REpvd3YyYkRFMFlvUmc4NmJvckZtb3kyZXFDem9fb1p5NXBIUC1PUQ?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-08T07:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Commentaire d'Alcaraz sur Rune après une défaite : contexte de vie du circuit, sans effet direct identifiable pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f9d377a8c435",
    "title": "Voici la paire de Nike P-6000 la plus convoitée de la saison",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSXpvQ3d0VmYyM1dCRWpMdnFEZlIxV2lFc1N1ODZNamlCdzl6TWFTSk9jZzdLRmI5UVA0MTMwNmZ1a0hBOU80Q3BiT21wUE53YzR1SE5tVXA5dFZ0MEJScmUyLVRqMlJRb1ZobHpkT3JxM1d2ZnpNem9Xa0lrY0lueVpKeHpoUk1ITk14TTJKMGNZTmxKVmNIOGNhQ0xERHI1Y0hhdGgya3p4MWx2X29wcS0zZlJPN1p0Z05Ia0RRNWE2dVM5UFppdW51LWVfMHludy0xaElIVUtLelhrZEE?oc=5",
@@ -8307,6 +8644,52 @@
    "ai": {
     "r": 1,
     "impact": "Mouvement de cadre d'un ancien dirigeant Nike vers Lululemon ; impact direct limité pour Tie Break, indice du contexte concurrentiel.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a2961083cd61",
+   "title": "ATP : Djokovic & Alcaraz, le retour des rois",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmZGMmdEa1c5ZWExc1lSOGFnYm0xd0hfNGVpeHlPRnNJdlZuLUVaaDNHU1BKWVNrNHNZeTg5Mmk3WC1pNDBWYWt1d09PU2ZXX0NwbmZVZXpLNEZ5ZXlWakM4VUpZRVpmeVBDQW1YelBLMGJXSlFSMXM5MzBSNzhkRVZGelRBWGMyaVBPbDV4S25PMmdDM2VmdTlQQlVYMFpmSEtCOEN4OEg?oc=5",
+   "source": "Roland Garros",
+   "domain": "rolandgarros.com",
+   "date": "2026-10-07T07:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article sur le retour au premier plan de Djokovic et Alcaraz : donne du contexte sur la hiérarchie, Djokovic n'étant pas athlète Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8d9018c6f207",
+   "title": "Le conseil sincère et honnête de Berrettini à Sinner suite à sa blessure",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVZ2YnVNS20yMkNoa0d2OHdLRnRxSkd4d0tzSXllaHBZbWd2Z2xXZ0xnZVpzaWplZ2ZBcU9WRHVnMS1jdnpoS3g1NklpdTRzUXUzUno4NGlRbGgwckl4aFlobmxHc0R5NVAzaFlMa2YwZ051R1pWSmVaRi1uc09mV1ZQNjJKTjBwT25jVDBIQUVSS2tDUmIzZGg0VGowS2F4TGpEMmtWVldNWF8t?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-10-07T07:00:00Z",
+   "first_seen": "2026-11-05T09:29:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Conseil de Berrettini à Sinner après sa blessure : commentaire d'entourage, utile seulement en complément de l'information sur la blessure.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -14076,5 +14459,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-05T00:59:01Z"
+ "ai_updated": "2026-11-05T09:35:20Z"
 }
