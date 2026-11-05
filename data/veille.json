@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:01:49Z",
+ "updated": "2026-11-05T23:38:24Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 12,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 341
+  "added_last_run": 3,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 349
  },
  "items": [
+  {
+   "id": "7d77ba91b1f8",
+   "title": "Les actions de Nike reculent après la dégradation de la recommandation de Truist",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTdFbVA5NXE4bGFiRC1RbzZoVzN6T09XWUNLQ1EtSE5Dbk9ndTZfVXhnaWNYSWpOMkR4OTV5Wi1PbXhtYjZLZkU1M3h0WHduMjhkSFdNamFlNXAtLVlzNjRwek5BeWZxNkJiQTg2YkRJWEZtajJScEV2M0RBUEEwRkNsOW5HYWMzRGY1SFVvdDBmUEJ6MFZ0empWbXBSS2pYSkpxLWltNENVYy1OWk15Wnd3MVZBX1BhN2xwVEh5ODJkcWtrV3ZGU3UwMWc2VE12ZTRhVFZUdUU?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-05T20:45:11Z",
+   "first_seen": "2026-11-05T23:38:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Dégradation de la recommandation de Truist sur Nike : signal de défiance des investisseurs, sans effet direct connu sur les commandes ou les livraisons de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b63e9dec1768",
+   "title": "Le Met Gala annonce un nouveau thème après la polémique autour de Galliano",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWJabmRYdEhNYTh3d1A3UkNYWS0tbHlmSnVwQjVodnY1eUo2b2R2R1Zyb0txZ0Yxc2J5d1lnaTZjcnBlTFRQeFZ1VDdmUkhlN0RwaWZtWkJ6VU5xbkNGb2piODRQZGszampDR3JjNzJ1bmVJSW9BMjM2WkVFbFVJVjhHYjUzckdDSXNrZmxHOTRYd19mZ29yTHNRdUl6YmxGWmNzQVo4dFVVTHIyN0tRZDdMZTBiRjdjVDBtWXFabw?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "be.fashionnetwork.com",
+   "date": "2026-11-05T18:00:42Z",
+   "first_seen": "2026-11-05T23:38:24Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "49fe86427a80",
    "title": "Nike, CMA CGM Launch Vietnam’s First Fully Electric Container Barge",
@@ -53,6 +99,28 @@
    "ai": {
     "r": 0,
     "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8ab870857fe1",
+   "title": "Newcastle owners inject a further £95m: What does this mean for the club? - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDZQVW42R0R2aW1BdUY1RXdvb3BsLXF3QWhtZTk5OWpaeWhrZGJkck5WNEhNdEJCQ2loZ3B2UVV2c1Y3OVlSaE1xRndVeXlFaGhmdnphZnl4eHFGeGlqMF9Xd0l6cjYzaVAtb0NYdFM3WDVJWkVocGc2aHRVZUNFY1lLSGVNUnlPb05RRnRVcTFXXzkwcF9YRmVR?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-05T11:53:43Z",
+   "first_seen": "2026-11-05T23:38:24Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Investissement du propriétaire saoudien de Newcastle, football : contexte lointain de la stratégie sportive du PIF, sans lien direct avec le tennis ni Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -14729,5 +14797,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-05T18:07:09Z"
+ "ai_updated": "2026-11-05T23:42:18Z"
 }
