@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:45:27Z",
+ "updated": "2026-11-05T00:54:31Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,84 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
+  "added_last_run": 5,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 345
+  "rejected_last_run": 351
  },
  "items": [
+  {
+   "id": "f57f42722b84",
+   "title": "LIV Golf: Breakaway league to wind down after potential financial backers withdraw support",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tR1h6dXc5b3pzRkZZOHpiVUtONzk2NlBHNmEzQldPaFpkVGZMbDJQbC1FZ2o4azBRZk8za2lQVUFaeFJuNEx3YkN1TXB4TURORms5YjhfVEhtRFNQQmpteTh0dw?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-04T21:52:13Z",
+   "first_seen": "2026-11-05T00:54:31Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "withdraw"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Retrait possible de financeurs d'une ligue golf soutenue par des fonds saoudiens : indice sur la durabilité du sport-power saoudien, à suivre pour le tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d3131a8ee24a",
+   "title": "Arthur Fils qualifié pour les Nitto ATP Finals, premier Français depuis Monfils en 2016",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEZIa2ZyckJic29oaGRqbTJHcFl0cFRTMXpFVUJTb0tWUy1QaFp2Q0J4ZlFzdE1WT0YxcktqWmMxYkw0SjdRbmJPQnNMM2VVYmNFRERFd2hJeGZtNklwcllLRTZ2UEp3RTlJTXJsai13MUZRMlJkUl90YnM5SnFiU0paTVFVNElaaUdnWW9DSGNiQ2N1Wjg3VGRfYVpvUnY0UmpPY0NFZ0k5Sk1qcXNqUFA5ZnU3RHhTLXVuY1o2WmhGbXphRlJxWU5rX1B1YTBOS2ZsQXJYMnhQUlE5VXFjblFkSnFVRm4yRG52czlaakkzSXZUN2c?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-04T20:43:39Z",
+   "first_seen": "2026-11-05T00:54:31Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Qualification d'un Français pour les Nitto ATP Finals : possible hausse d'intérêt pour le tennis en France, à relier à l'équipementier du joueur, non précisé ici.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "83e597131787",
+   "title": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczlOdTByTHY0VkhOcmp4UUtzUGgzWERrTHpuSDZ2VmNfRHZ0NjJ1aGxFSUJ5NEpDSkkxbUR3QzRZQ1l0bUlHMjJIOUduRWNiRXoyUm5oRFBaaWtnS0labkVoazNHelktWGRoYUFrbjZrNDlqejgwdml3OFdyNXNsX2tXU3FHSTBLSW1qcUx1VnBlTy15NnpoZWZYQWRZbU83VlIwYzRsZDRqa00yMmM3QUlYdHhJZlMx?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-11-04T19:47:44Z",
+   "first_seen": "2026-11-05T00:54:31Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Faillite d'un partenaire attribuée à la perte d'un contrat Nike et aux droits de douane américains : signal de fragilité des partenaires et de l'impact tarifaire.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "db81c110533a",
    "title": "| $126 bn in US tariff refunds: Who will compensate garment factories?",
@@ -285,6 +358,28 @@
     "r": 2,
     "impact": "Collab lifestyle Travis Scott sur Air Force 1 : produit de niche peu pertinent pour le tennis, mais possible pression sur les allocations de collections Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cc69376394b4",
+   "title": "Carburants : baisse des prix entamée pour 6 000 stations-service ce mardi, selon le ministre Serge Papin",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQV3NBNHNaRTczQTBKZm5pZjRlTU9raFd3bnNwWmtncDFTaHROUGtvQ1JrQzNoRHBwQXB2RXE4TmJEZWxZdkZ2RHpVd2pTb1VycmhQblNvU2FNUzNOVXIyamgwU2RiRFBvcWhaMjd0b2ZFclNvM3FNSWpsb0VMN0kwcnVsdGZCZG5IeGhZcUhnOU94eWhsTGxmMGt4NU5Ub0g4LUNPQUFvd3lMcUVfYW56YW53OTMwQU1MSmZ2bHdvZ2hfODRkNFlTRzlTZFVaWVhIZGQ1clpyVkt1RGotT0E?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-03T10:44:57Z",
+   "first_seen": "2026-11-05T00:54:31Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -2664,6 +2759,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "e6885e06abb3",
+   "title": "Le look de Luis Enrique, l'humble rigueur du vainqueur",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnR0N09ia05TS3A1YnFCMFhSUWhkTGtJdThBcm53YUVJbm5iOGhBdEhUVTBJY0lFTDFDNVRtdlA3TmtzRDAxWmdlZkhqLUd4Nl9VM3Vmc2NmX3dXeWZWRVhicGtQTU81NFZLdnFGdVdoVFc0WGFZVExDMzNvOWFRSUZLN01wcXdGcFFyZDdHbkswa3hDaFg2d1ZfNVBFTEliMEVEV1l3?oc=5",
+   "source": "Les Echos",
+   "domain": "lesechos.fr",
+   "date": "2026-10-23T07:00:00Z",
+   "first_seen": "2026-11-05T00:54:31Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "5019a34e950c",
@@ -13958,5 +14076,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-04T19:50:52Z"
+ "ai_updated": "2026-11-05T00:59:01Z"
 }
