@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:29:54Z",
+ "updated": "2026-11-05T18:01:49Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,170 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 17,
+  "added_last_run": 12,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 347
+  "rejected_last_run": 341
  },
  "items": [
+  {
+   "id": "49fe86427a80",
+   "title": "Nike, CMA CGM Launch Vietnam’s First Fully Electric Container Barge",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVEU2YUhqbnM0VEY1bktJQVJvTjJoc1ZNRHlFUVBqa3F4Q0l3eGVDeDQ5OTktYTc2ZFdYMktRczBJeW1zUkVIOGFFdU1ES1hjNnlyeFc5NkZNN1BRRXNUd1RDc2VkbmJ4SGhWYnNDT01PS1dMZnFfV0dGSXhqS0hkdjlGV2tfcm9PbzNTaFhVMmh1YnBqVzBaQTNUeEg5Q1BGWXBINV9EMUFua0JaeTA0bVA4R29OYXdkSHl3OEMwQQ?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-05T14:01:29Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike s'engage dans la décarbonation du fret Asie-Europe via CMA CGM ; effet direct limité sur Tie Break, mais pertinent pour les délais de livraison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "aa664421110c",
+   "title": "Newcastle owners inject a further £95m: What does this mean for the club?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDZQVW42R0R2aW1BdUY1RXdvb3BsLXF3QWhtZTk5OWpaeWhrZGJkck5WNEhNdEJCQ2loZ3B2UVV2c1Y3OVlSaE1xRndVeXlFaGhmdnphZnl4eHFGeGlqMF9Xd0l6cjYzaVAtb0NYdFM3WDVJWkVocGc2aHRVZUNFY1lLSGVNUnlPb05RRnRVcTFXXzkwcF9YRmVR?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-05T11:53:43Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "75b25d09b8d3",
+   "title": "Berrettini déclare forfait touché au bras, Alcaraz en quarts de finale sans jouer !",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSUhxTlRBVHNMRzBPUTExZU0wXzRxX2NnUVB0TXY5R3AtM3I3TGlnbFdhTm0za2VfWmI4XzdqdWhtNU5OS2xVMHRFSUtuYzMzQklLcE1aOFprbERQcFY3UGdodWVpOEdZMzV5VU44ZFdxSmdPbXJ2YlJxdkhfUFF1UG5jN21BTXlXVm85ZHBWb2MzdHpWY2ZaVzhaXzJOb2JwazItZzdVR0c5X3c2bGJGLXVBWm52MzJ2ZmFqNktScHBVZGNfU0E0YlhubmNZaVVCU21RUmF2OEFTSHNPdUMxU1prZGlKUlR3eFRQcHV3?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-05T11:33:00Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz (athlète Nike) se qualifie en quarts du Paris Masters sans jouer ; visibilité de la marque, sans effet direct sur les ventes à court terme.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "20c69dfbe98e",
+   "title": "Matteo Berrettini forfait, Carlos Alcaraz en quarts de finale du Rolex Paris Masters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGU2SFVPSUt1ZTJMV0V1dTNQMXpxWEprS0pLMkNxd2VYS2ZBX2E4MWhGVWROTkF2cU9YVVhzYndDQnBSRGdTaE9PSURObjA5TlkwWlZSUzAtb09sUWN0Qm8yd0ZoN1BuRnVNRnp4UUZoNXNtYXVyVnk2eG1fR2tVUkttWm5lTXRTSVBnWUZsX1oyWmxacVE4TTVzTzlBb0dYYTdFNnlsRTZaZGxucDBTQ0FONE9jTWM2dXdOam9xTkpHb1FBTnRsczk0dTc?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-05T11:31:22Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz (athlète Nike) qualifié en quarts du Paris Masters après le forfait de Berrettini ; l'exposition de la marque à Paris reste limitée.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7a67c9adc1f5",
+   "title": "Blessé au bras, Berrettini renonce face à Alcaraz au Rolex Paris Masters",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVhJQmJRM3poY2swSG1aZXU4YUZEWkltejZ0Vy1wQS1mUmNRWXdQcmxRQ1JYTDl1dS1iZ05mNjlfc3dmdmJKVmlxdmhGTUoxRUlGWEtkVHBoalpBb1dUSTBXLUt1TDFfc2RMNHQtdHdxd0p0cTJxWEpEYUlaUWxaS213S19RYUNWUTBacWk0cw?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-05T11:13:59Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Forfait de Berrettini sur blessure au bras, Alcaraz qualifié en quarts ; l'événement n'affecte pas directement le catalogue Nike de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "69926aed0888",
+   "title": "Fils et Halys détiennent les clés de la qualification de Tiafoe et Jodar ce jeudi à Paris",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxON2drREhDaGFZN1k3NWM4ay05dUgzTE5yd1p1V1BhOW94MzF1V2VIM212YUxHMnFyVWl4Nm15eHRPRGF3Q2FLaC1JNG5RXzdWMG5pQUkyb3U5ejA1WmhGbnVPbnlKazRjOWg0VHNtMnFoOXRQOEl1Nkd4NzVsX05WMzFrZXFVR3hveGhrLTNsd1UxRUl3X2c3TDNxeE1zUC03OWRaM29VNU9HZ2F4NVhYelItSXJHZHRneG9MXzNNMUlEWFBqaE9CaFpXT21acVhuOFpNNVlIcnB4ZGdhemU2cnpSYVFLcUFzaTNzNUx2NkU0ZzdtOG9ESTJn?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-05T10:34:00Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Qualifications de Tiafoe et Jodar à Paris ; aucun lien direct identifié avec Nike ni avec les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "d9c6555ebbfa",
+   "title": "« Je m’y attendais » : Tien accepte de céder sa place à Sinner au Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW1LaXZ2MGlGMVh1WUhNM3BUYUkxUUx5U09FeVRkNmlhY0Y2amw2TXpvMVIwS3EtdFM3TlpGdjliWkh1emxoWEYya2NWUkNmeE8wVEg1OU1SRmxiSnhNYVkxZ0haQzVsVENjQmZISnFWb2k2QTN5SEptNENEYVZCc0UyT3l5U1VHQTZBR2RVSQ?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-05T09:36:54Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner (athlète Nike) remplace Tien au Six Kings Slam ; cette exhibition peut renforcer la visibilité de la marque auprès des joueurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "bdfb4f34a487",
    "title": "Tennis de table. Nationale 1 masculine : Lautaro Sato, la recrue argentine qui enchante Vibraye",
@@ -246,6 +405,28 @@
     "r": 2,
     "impact": "Reprise de la production dans les usines textiles bangladaises pendant une révision salariale : risque de retards ou de hausses de coûts chez les sous-traitants textiles.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9dea4fa13fc8",
+   "title": "Isigny-le-Buat. Des animations Balles roses au club de tennis",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWVlWbWh4bkpPMkZoNTRBSWF4aGRuZmxYZlM1VGx2cTZURnVQdlJFckh0dlcyQ0ZCOHFZOU42NHhOdkFfeUFmVzBtcVVoeUtMWktBVGQxdjk3QUZyUWZvVlg2TVBCNl9Pc2stMWNYYkVVN2NMcmdpeUJBaHd0N0Zmd2RNN1Jmb2lCQ2FXUVhaNEdrYUtNcXJ4OVRlWGlTM1Q2NVJmZDlBMEgwbG1zVjZqb0hSTGlQZHhCSTVOVVNhakRRR1hGWmd2RmJ5cEc0MHJCTzNrUnVUS3FKdlVISUxQOFZpUTY0cHpHbGs2TA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-04T04:14:41Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Animation de club de tennis en Normandie, sans lien avec Nike ni avec Tie Break ; signal limité sur la vitalité du tennis de club.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -515,6 +696,28 @@
     "r": 1,
     "impact": "Benchmark e-commerce : l'assistant d'achat IA de Zalando peut inspirer le futur site de Tie Break, sans effet direct sur Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "347d91417bae",
+   "title": "Saudi PIF raises $3 billion from Italy's credit export agency",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR3NVa29tbWtKd2NLZU5EU0VmM3dGT1lhY2swVkJ2VlFWZFB2UnNvZnhlUjVMUzh6MEZNWmdJbXB0Mm1oekI5Y1IzeGJ4elZjNHU1dmt2aWpPYjRZd1hkSmw4c3d2RHVmM1lCaHRJNkREYnNRNGkzTDZoZnl2am1KcXlxTTlpdWE2QjRmWGM5dlBpWkc4bHFLVGpRdlBxZllPV0FpWGZZbGdoSm53?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-03T09:37:45Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le fonds saoudien PIF lève 3 milliards de dollars auprès d'une agence italienne ; lien indirect avec le financement du tennis et ses tournois.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -949,6 +1152,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "51eaf73eefbe",
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "source": "The Guardian",
+   "domain": "theguardian.com",
+   "date": "2026-11-01T12:00:00Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La trêve commerciale US-Chine serait fragile ; un retour des droits de douane pourrait renchérir les produits Nike fabriqués en Asie vendus chez Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "5505632a32fb",
@@ -3396,6 +3621,28 @@
     "r": 2,
     "impact": "Ancien préparateur de Sinner commente sa blessure : rappelle le risque de disponibilité d'un ambassadeur Nike majeur en 2026.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6410255a0391",
+   "title": "Alcaraz prend déjà date : l’Espagnol fera son retour sur le gazon du Queen’s en 2027",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYVZyYmMzYnhJMF9ZWHhvc0JWM1lWaWlKU0s3YnhQaW9YQVh4bktvMnh5Wkt3U2xBQWVibVZWbHJEN2htQVBmUkw1T0kyYU1OaHN3S19fYkVqNG56ZVR0LVdnVlBQeEw4cUFxakw2empfaVk1VTlIMkxnY2pubnhnaFlONlhRdnk0VFhIX19pdEw?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz annonce son retour sur le gazon de Queen's en 2027 ; à surveiller pour le calendrier de la saison sur gazon et la demande en produits Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -7381,6 +7628,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "6fae03176128",
+   "title": "Prisée des runneurs, la légendaire Nike Pegasus chute de 30 % ce dimanche",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSG8xX3JEVHJnYkpBM1d0TktGQ1E0YXNkMVB6QWwxMi04TkRTcGwzSmpSOXFuR3NsZEFRd1Nza1B5b0dRdk4xdy1sa0EyNkZKYXkxcXlrVXo2UWpkUlZTY3hLUFBaX3JyclNTbDJ2RHhRbmRqX0NpN2dKMlVicWRkMVphc205a25oN21lMXJiUEJmeUVUWUFnWlRMSGJjZjlrLTVWWkRydUtaWWdUNVZUdVBuY2N5V19LbV9PMkJpSjgwZlE?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-11T07:00:00Z",
+   "first_seen": "2026-11-05T18:01:49Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Baisse de 30 % d'un modèle running Nike ; signal possible de promotions chez Nike, sans lien direct avec le catalogue tennis de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "dd11aab0bd95",
@@ -14459,5 +14729,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-05T09:35:20Z"
+ "ai_updated": "2026-11-05T18:07:09Z"
 }
