@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:46:48Z",
+ "updated": "2026-11-06T15:55:49Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,99 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 350
+  "added_last_run": 10,
+  "feed_errors_last_run": 5,
+  "rejected_last_run": 356
  },
  "items": [
+  {
+   "id": "205ee1b5d62a",
+   "title": "Nike, Inc. : RBC Capital Markets confirme sa recommandation neutre",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVp2MkV3bWNJc0hscDlTUUJIVV90cG5hYlN5eUVZWUVqM0RybWp1UmtSVFlrSjFfWFF5NUk5VVhTZkctVk9KTTFLVFo1ajhleG1NM3d3MS1GNURYSDI1LU9wbFFCZ1JDWE5XbHdGSlVPYjl2aGlDdXJqUlhCZHpXbnF0RjJ2b19SeWR6aWYwN1BSYncwVWpHMFg2Sk9USWdOdzF1U3NOMUkyOWkweEFvZzhkNE9saG8tc0xsa09PbmU?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-06T15:30:23Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Recommandation neutre de RBC confirmée : signal boursier sans effet direct attendu sur les approvisionnements ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "955e8b1cf253",
+   "title": "Nike, Inc. : RBC neutre sur le dossier",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGVIa2ZWRDZmd0NJUzc1MHB3bVdMelozSjRGczByLVNGcTljbUlxTnBtMXlITnpkVk9hclJKMGpQN3ViZWxZeHM3VWdmN2dKTktJWWpraC00dmxjYmJJdGJCcW0zeERjTEkza09paEpqM05PYVpJMmNlZFVTb1BQaEs0QmhwUHVSQWtZSjd4aGtGaUxwVjBzS1lR?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-06T11:10:44Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Doublon de la même recommandation neutre de RBC sur Nike : pas d'effet distinct pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "425a971fa5f4",
+   "title": "Tennis. Ancien numéro 2 mondial, finaliste à Roland Garros… Qui est le nouvel entraîneur de Jannik Sinner ?",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMnNtcnBQX1FtanRxUjZxQmUyN3otWDgxc08yeWxaTFRBQnpSR3M4RUczQnRSUkJKRVpUZ2cweHV5WXhEZGs2dGxoMlNZY1VETERRSGhwcWhvakFQLWY4THBrNkpOZGlZRVJXVlFRbTAtSUhtbmdPSTNWdDRCQjdmSFdvM0IwUjJRczRxMGhPOThxeC1FdlhPUlBzenpySWdTWk55dGJXcURVUm1YbXp0WUlBdHM0RV8tRzR0ZGtac3NVY1gwcFkwcTNnMlE1UUlXU3pESUlOSmFyWV9hZ1BFU2JwU2pNV0pHTzRGZDhqQmxDY3NfZFBKQW9mdzZtTVFQUFlnNUNUd25JZldTM2tNVjdkbzR1a09nV0xjbkFFNA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-06T10:38:04Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Changement d'entraîneur de Sinner, Nike-athlète : peut modifier sa trajectoire sportive et la visibilité de la marque en 2027.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f4354c5cca32",
+   "title": "LIV Golf was a league that mistook money for a soul. It met its rightful end",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEh6dFlCay0yUzBnWDludEJ2bUQ5TE1pMjRVV1BWRHNOc2ZLX1VQdlZHZGZvRW1HNzMzQ0xkLVVxZVN5S0xJT1JjX19lNk5nNURMVGN5QmRjN2dzVDN5MDJmSzZ3R0o1OW9vUHd0YWNBOXFNc093LXR5WVFJYi15OUEyNnBUanRrZ0Z6QkFR?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-05T22:28:52Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Fin annoncée de LIV Golf, ligue financée par l'Arabie saoudite : contexte lointain du sport-power saoudien, hors tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "7d77ba91b1f8",
    "title": "Les actions de Nike reculent après la dégradation de la recommandation de Truist",
@@ -100,6 +188,31 @@
     "r": 2,
     "impact": "Nike s'engage dans la décarbonation du fret Asie-Europe via CMA CGM ; effet direct limité sur Tie Break, mais pertinent pour les délais de livraison.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6a7b04fc0ff4",
+   "title": "| Vietnam's $47.5 bn textile target: Can it overcome the US tariff gap?",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQWR6SDZlazFGLS0zeHZRamZGYTB2RVoxRHRRUEpZNWUwbHhjLXFyUnZIeFZDTkFiQW1JZ2lTMS1xVG5oWkNySExLRXFmanY5QnN0QWY4ZGVNNEtTTEhVeW5QeG5wZlB2R3RIdlo1QmZqdU9BN3VqeUJGZTg4YjdHVmk2RF9pZlVNUDlZaUc1R1RGU1d4Z1ROSzltc2xWY0xzZ1p6cTZVcURwWGlFS01UUlY4LWtUUXNIQzBfeGlmMjBQczZpbEJEM0p1UzRaSVZCQTBsalBnRG9wMlBrX1gwOUJn?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-05T12:26:03Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Écart tarifaire américain et capacités textiles vietnamiennes : peut peser sur les coûts et les prix des collections Nike importées.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1079,6 +1192,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "821b0fdb0e44",
+   "title": "Action Dr. Martens plc | Cours DOCS Bourse London S.E.",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GUnN0WU9zaFRlVEdPbnZCZ1NWSWpXcUdwV1BweFBMRlBwaDcwd1phdVZSUThEcEdnQmM2SXZPWkgxMTlkMVhtRW1zTGVKVTlaVE15bXhCMFhNVUdxNlJOYXgxVEhPaUpfZW1ESk5pU2d1aDg?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-02T13:18:00Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0c686e9ade9f",
@@ -2948,6 +3083,54 @@
    }
   },
   {
+   "id": "8df8eb83b19c",
+   "title": "ATP - Blessure: Panichi sur Jannik Sinner : «Si c'est bien cette blessure...»",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzFpYVMtOEc4NU44MkFNZEVISEVpSnZBSVdvczFlU205c1JVVjZrX0ZuU0NzQXFpc0hVOXMxbkhhWTVXY0hQeXF1VS04dlNablltWEpBeW9vZ0MtdFNNd1lmMXdmUG1xaFZ4MWEyUnZZRk5nZzh2akpiU25CS05IVnl4RHFxeGV5MWFPRWVFVV9aMVVXN3JjdFRjVlBiZ1BwNUx0Z1puX3dzT3VhNi1hM9IBsAFBVV95cUxQak50YkVPMzdyYVVENGJwNGtKampMb3ZWVnNXa1BFMkFmTzU1TWQ5djhKb2Z6dWwxbExXYmNnR2lEY0RlSzRmWlhFSWpScG95eXJOSjBFai1mLTVmcV94WUJEdDQyblFhSXh0SkJiLVloRndCUWxRRWlOWTZISmhXd21vY3duQjFrMzRzZDZMemlTMjg0YWp5UjJtT2pmZjVvVURnMlRKVm9qVmtvUG4zbA?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-25T07:00:00Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Hypothèse d'un ancien joueur sur la blessure de Sinner : risque de calendrier perturbé et d'exposition réduite pour Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e7fdc13a035b",
+   "title": "ATP - Blessure: Jannik Sinner suit un traitement par PRP au genou, les détails",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSVNwUE1zcG9QMXVKWkYxdEJiQ1diakhoNHVmUVNYSWRjXzMtU0IzQno2MDBRbVVWejd2VU1CV3RTMWtwQXZOSWpiWTJ0d1FTOWpxVlB5MUd2cGNGSE84Y2FLdnJlcWRRQ3J4ZUVYZXNRTXEyVDA1OFItMW9Hc3VsdWpMUkRvOGg5WVR4MEJnektNbjlDX0huTERGaE1IeWNFNlg4U2VIVVBiV2tyOHpueVBuaWV5TjNTVVHSAboBQVVfeXFMTWw0NVRjZWw5VjMxLU1ySWFJbjM5eWo3STlueFI2THNWVmxJcGFEcDc1Z3dJM1pjcjhURFVqZG9PTjQ3cmx0bnlTT29DR2R0VHZmbmRDUmIwekxIVjV1R0JxaGFVUU1VSGpWLTdWZG5Ranphb25NVmFyaWkyMXZuQkdLdEFWSWM1M2JNTGVYdzFLZVRZdUdPQ3RzLUJVbUFZNTZGYktxb2RJU3lmaXdYdExVSjZ4TTRLbEx3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-25T07:00:00Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner suit un traitement PRP au genou : blessure avérée d'une figure Nike, impact probable sur son calendrier et la visibilité des produits.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "cd44ae3f2b25",
    "title": "Trump Defends Tariffs at Rally as He Touts New US Audi Plant",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0JOZjVEWWowZW1iS2tiQXA0MDAycnQxZVFpQk9jRjgzTlFuUjJLLXQ2UjVzQUZSUFJ3SC1qaTVhQ2FvYmVfNHBFRVBvWk9zS2NrU05mYm1PdjVPYWJ5Rzcxa0hGcnBPLVR4aFRDMHlkdG1hWFN3ektsc2tvODB4U2x0c1YwMlplWnFEaURxajdOUW1fZzZkSzhiSThLWUU4OFUtT0JoTFJIWi1oSFMwU0pQNmJuZw?oc=5",
@@ -3088,6 +3271,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "66c36830dae2",
+   "title": "ATP - Blessure: Brignone prévient Sinner : «J'en ai payé les conséquences…»",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUZPb3J5eGdHSF9ZS0RVcGdCMTZSLWI5T1p5YzdaV0hNQ2hqOER0Ym5yTlJaZjFlMnQxdzJoZ24xdWJZblNnRHhPNVo0MS04QTdYVklXX21rTEJadTdmUjA3c2lZS2hhbjJWaWtYNGRVSUhRSmdmbVJLZWZuMW1BN21GdXFJeHZrZEgzRllPR2tSaS1iYkZxSjBoZDBrYlhUTEJJS09aazdZSjZEeFpoStIBsAFBVV95cUxQN01jdFB1RndQTXFNU3dSaExJbDhncDVXWnpGN2tKYjRYZUZIOFFzVTQxc2pZSWNuOXNKRjJrYlhiYjJTUV8ta043dTk2VTZYNVVOR0ZDdVh0V0piZ0tQYWFWX2pRR1UwUTdHcnhDd1pnUmxNU1JtMXRnWHFBRW9MazBfd0ZxdTVJQWllTTA0Q1g5YnNWaHU0aS1zN0l1b2JNWmE4UWY3am02X3pNaHFVNA?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-24T07:00:00Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Témoignage sur les conséquences d'une blessure, sans information nouvelle sur l'état de Sinner.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "d60751c21d31",
@@ -3776,6 +3983,30 @@
    "ai": {
     "r": 2,
     "impact": "Alcaraz annonce son retour sur le gazon de Queen's en 2027 ; à surveiller pour le calendrier de la saison sur gazon et la demande en produits Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6e7a31ad6053",
+   "title": "ATP - Blessure: Gilbert pour Sinner: «On préfère éviter la chirurgie mais...»",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjRlR0kzVjhmQWZxaVFwYUk1T2poUFlGdThsY2ZHdkpvOWl0MGNnTGVad3hhTkhWb0t1SmtNakNwOHF4Wmhxd1djbG9QSkRycUFVeGNwdXAzZ2JWLTRfYkJZNmtVMzdmZFNtdzNadkg1TDE1a2ZzYWRTMUpNN2VCUHVteHp0dmZuQ1pyMDJvdThLbzM4SWhnTmVkS0Y5aUJmdV91dUJ1S3o3cHE1dG0yVmdR0gGyAUFVX3lxTE1Yd3l0YlhsZmZSb2Z5TUNtaGp0ZUJFMnMtaEhjU0FtdmV3V2pyaUdNM3Vfb3BzTFFTUDZZQVEyY0FWejU5cGF6RVZaSElPdmwzaWhLUUdVNExveUpUMzMzZ1JYQkJHX2xJaGJPQ1NQdXhyTjk3cGxmSDBRMFNQVkhRY2N0NTJIRWZPWHNwNDQ4VWRodmdBNWR6dTBMelNsLU5qaGtuMjlSdE9yVzZLNHlJQ1E?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-06T15:55:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Avis médical évoquant d'éviter la chirurgie pour Sinner : indice sur la durée possible de son indisponibilité.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -14863,5 +15094,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-06T06:51:56Z"
+ "ai_updated": "2026-11-06T16:01:25Z"
 }
