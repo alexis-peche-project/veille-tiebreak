@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T23:38:24Z",
+ "updated": "2026-11-06T06:46:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 3,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 349
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 350
  },
  "items": [
   {
@@ -31,6 +31,28 @@
    "ai": {
     "r": 2,
     "impact": "Dégradation de la recommandation de Truist sur Nike : signal de défiance des investisseurs, sans effet direct connu sur les commandes ou les livraisons de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d74d1e392e01",
+   "title": "Nike, Inc. : Truist Securities abaisse sa recommandation à vendre",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVVqYTVQQUU3d0lpaTU2Q25zWHNXUWVUamF5c3NkeWlFVExpdmNGZTd4dmJNZGZyTXo2Vm56Sjh3R0RIeUFkbDE5UXZXaGstSkVoLTFzcEdXNnJ1aGJwTTVzLW5ldTJMV2R4WXN1NjdLakZqYVdSblBGbnZnMmJiS21Sd2xjSmtNRFdKUWtFUDd4cVVpMG9LVGtVX2h2aF9pbi1PX1lTX25ucWFDQ0dGbW05alJxbVd4LTFLR25uWQ?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-05T19:01:11Z",
+   "first_seen": "2026-11-06T06:46:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une recommandation de vente sur Nike traduit un scepticisme financier qui peut peser sur la stratégie wholesale et donc sur les délais et volumes livrés à Tie Break.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -192,6 +214,28 @@
     "r": 2,
     "impact": "Forfait de Berrettini sur blessure au bras, Alcaraz qualifié en quarts ; l'événement n'affecte pas directement le catalogue Nike de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ceb4e804c052",
+   "title": "Nike, Inc. : Truist Securities moins négatif, passe à neutre",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWFjYmpGWktjOHFvSXFIWm1IUmtsRGZfeXB6NVdHNUVSZDRrWWZNOGxlMzdRVWNfenpnWE1OV3BjbV9YQzZlLWZDLTY2WC1wWThqS2ZKbFh5cFd0ZFFKSldFODFZTWZRN1pudHQzbU9meC1CMGdJbExTdllMNjFxbFRkMUpBd2pod2xacnJDbE5XQ2tLMGRuc1duTGYteHZuX1BxcGhjczd3T29LYWh2ZHhGSzZaYTg?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-05T11:00:52Z",
+   "first_seen": "2026-11-06T06:46:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le passage à neutre atténue le scepticisme sur Nike, sans changer à court terme les approvisionnements ni la stratégie wholesale de Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -430,6 +474,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "bf6143cea9ff",
+   "title": "Réseaux sociaux : le marché des créateurs de contenu français est estimé à près de 9 milliards d’euros en 2026, selon une étude",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPRDBMMm5YV0lpbTNkVHhWWXFUR2FNbjlyME5LXy0tVGViVTFIR0x5WHVQbkZ3MVFheWJScDZsQUVCVnBoMzZ0aktrbmpRR2FoeW9hb1VuMVVZaHRrcVJrSV84TllVdVBtYUVRU3hwTGs3cjBFcW13YzV1dVRLVkE4R2pMbzFzeEwyaG5kTUM4LUNVWlBBNzZ6Mm9FdlhLZXBQSmdRWmpITFJrRzliTHZ6eTJVVXBaeGl1MkhjR2pkd1phMXV2Vm9SRkpxbVRkeUNOaGxGTWQyNEt0WC01QTRlSUFZX1U2eXlFMTBIYjFHNlUtYmZMWTRPN3VpcG1YaWVDSVR4Qnc2WlVPN0VoWE82VUZYM1U?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-04T09:38:52Z",
+   "first_seen": "2026-11-06T06:46:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c1c46a939789",
@@ -14797,5 +14863,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-05T23:42:18Z"
+ "ai_updated": "2026-11-06T06:51:56Z"
 }
