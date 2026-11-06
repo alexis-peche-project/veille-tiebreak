@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:55:49Z",
+ "updated": "2026-11-06T21:29:41Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,78 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 10,
-  "feed_errors_last_run": 5,
-  "rejected_last_run": 356
+  "added_last_run": 5,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 362
  },
  "items": [
+  {
+   "id": "9bc204430547",
+   "title": "Tennis: Van Assche qualifié à Paris pour sa 1re demi-finale de Masters 1000",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakNBaUF1Z2UyYmhESEpla3duZTRCN2g3SjRTa3k4U2pmZWxTSGJteGdFNnRHdkdYMXlRQXRMRG1NdjU3LXZIa2NXSzhIcFBEOTVVQkdtandoa0otek1SNGhBVDlhel9pN3JWcm5XRlAzSDBzQ3JnM1F6TVg2TklQOGtxX0JwbWZNemxKSms4al9KUzg3Tml5VGZEbGJKcm12MnN6NTBPVW9FQVhwc0xyY2RjaEZVMjZwTUVsZVUxYjJ3cjQ0STdfckNIa2Nzd3Y3MUVN?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-06T18:30:09Z",
+   "first_seen": "2026-11-06T21:29:41Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'un joueur français en Masters 1000 ; le titre ne mentionne pas Nike, donc lien avec les ventes de Tie Break à vérifier.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "55bdbc635fec",
+   "title": "Les objectifs financiers à cinq ans de Nike devraient s’inscrire dans le consensus, selon RBC",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObXN2WEtOWVZWZnZuY1daOG10NGhTd2xFOVgyZjZDTVF6VEE1anViRlpDZENCVHZmRjh6MUZWY0pFYm9HU1MyT3I1bmp5QmZNa05oUHVPSG1oYkhrMEppd1NvWDVMT0YxMm1hZ1ZHaExjZTBxc3RxeTY3ekI0ZnBua3JpbVROMFlhbFhYUWZka3V2NmlGOVdYV2Q2VUtwbFdnd3RvaUVLcGhUR2NPRE5tV2E2WWlzWlBndEVfbEpvWHdSMEdwMXVSNzllUEVMcnQxRldRTXRNLXBCcnAzem95dkJNeG14WVds?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-06T16:50:49Z",
+   "first_seen": "2026-11-06T21:29:41Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Objectifs financiers à cinq ans de Nike alignés sur le consensus : indicateur de la stratégie de Nike, donc du cadrage des collections et de la distribution wholesale.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0458e08ee28f",
+   "title": "RBC ajuste sa cible sur Nike avant les journées d'investisseurs",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdS1LdmgyMmh0Z081Zm42bG1uXzZza0lHT0Jqc0pFelUtMVkyb1lfN0kwR0NVWDM2QllZNnlnSmpkVE9XaDhPaW9NZUlib2tTTUpnSVdkQ3BIYzdXVU45YjBabEdMS0RBZm5FTzdVUUFXckcxTGZMOFlTMXB3TnljbGVFRGxjYTN0c3ViQVJXbTJiaV9YU25JMURMdE1OZ2cxR2FTTGN6SmhlRUN1REpSbjdhS1hUQW5URllIckJYSUU?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-06T15:57:28Z",
+   "first_seen": "2026-11-06T21:29:41Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Ajustement de l'objectif de cours de Nike avant les journées investisseurs : annonces stratégiques possibles pouvant modifier la politique wholesale et les délais de livraison.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "205ee1b5d62a",
    "title": "Nike, Inc. : RBC Capital Markets confirme sa recommandation neutre",
@@ -769,6 +836,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "1766615b0ba4",
+   "title": "Bangladesh garment workers stage fourth day of wage protests",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0VYQlJKckJ0eWh5QVdLX2tDQ0JXMjkxS1BDMUw4VkNRMDBkR0g0OTJTM0FCTEk5UFlQelVad0hRN252YW8yS01qdGJTaXZ5VXp3ZDJpMWN1U01vMzFGMDlRMVg4eW15NGh0YWMtSHlGaDFFVU0xc180Mlpxb29zRXM1MThtNkdKc3V5Vml4YklsZjFISURyN294azJpSXdkZkUwZWJNNUowYVdmLW9TbzlFaDZac2c5a0E?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-03T16:25:07Z",
+   "first_seen": "2026-11-06T21:29:41Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Grèves salariales dans l'industrie textile bangladaise : risque de perturbation de la production de vêtements sous-traités, donc des délais de collections, sans lien Nike dans le titre.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "c43cf24e62a0",
@@ -2554,6 +2643,28 @@
     "r": 3,
     "impact": "Blessure au genou de Sinner, athlète Nike : risque de baisse de visibilité et de ventes de sa gamme, à anticiper dans le calendrier d'approvisionnement.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "476a3cd66e7f",
+   "title": "EU loan to Airbus threatens trade truce with US, Trump trade official warns",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQampQeEJ6OWl0bXcySkR5SGZKV2ZxcnYyZVdrdGF1TUtBQUVObnNsdHJuYU5GOTZVWVZ5Z1g2Q2tIeHNVNmZOUDJXNUszWVhUTUlBX0loQWo3S0pfblNuM2ozNFdVQnNmb29KX0ItdFpsUEFYNDBoVklvVkE2MGhFMjNtNHI?oc=5",
+   "source": "Financial Times",
+   "domain": "ft.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-06T21:29:41Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un responsable commercial américain menace la trêve commerciale UE-États-Unis : risque de hausse des droits de douane touchant les flux transatlantiques et les coûts indirects de Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -15094,5 +15205,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-06T16:01:25Z"
+ "ai_updated": "2026-11-06T21:35:00Z"
 }
