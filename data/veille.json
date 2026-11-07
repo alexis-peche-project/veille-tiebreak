@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T01:56:12Z",
+ "updated": "2026-11-07T08:47:34Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 373
+  "added_last_run": 2,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 356
  },
  "items": [
+  {
+   "id": "a237e01082a5",
+   "title": "AI, Cooperation, Space Among Next Frontiers for Fashion and Sustainability",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVM4UFF3ODRLQzNERFR6SE1UMEdLTGF1NTJHOXdvVmdmOXlTYzZYdkExRzRzODlENnJfNjZvU2pVbUhUQmhHRzhmcmtwbV9qb3Z3YmlSQTFtc052UzBRd183Q1RHNUs1N1doS1p0TkY5R2lPdHhiS3B5WERoRnhQcWh4ellPQVZicEY4eFhvMFhLY01QbmQwc3MtSmJCWE9ENW1Z?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-06T20:56:13Z",
+   "first_seen": "2026-11-07T08:47:34Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "9bc204430547",
    "title": "Tennis: Van Assche qualifié à Paris pour sa 1re demi-finale de Masters 1000",
@@ -606,6 +628,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "e2e27de2266f",
+   "title": "Les fonds négociés en bourse et les contrats à terme sur actions progressent avant l’ouverture mercredi, les investisseurs réagissant aux résultats des élections américaines de mi-mandat",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX3ZRVkhIQk05dzExcU1tMUhwNVVmTy1kUXNYTENhaGN2T2ttbVZ0cFctazJKNjd6eklTb2lDakstM3lhSGZRd0htUWt0WTBCazZlQzA3bVhSTE5pVFdUVF9WeFZoa0UxYmJLNkxsTnRfVkU0TVRLU2pRMjd2TkNjbVhSLVdOUGx2Rmc4RG13UURldzk5c0Y1SGNiM2ZqbEptWEZwc2RXbzJ0aGMwdEU3SGZaRVRzazg1cDdDcHBja2JVZ1V5VWluTkpFUjY0eU1kMjRtTXZfTHlmc0Y2QnpOY25oX2EtOXdibE96YWViNWdzUQ?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-04T15:09:57Z",
+   "first_seen": "2026-11-07T08:47:34Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre sur la réaction des marchés aux élections américaines de mi-mandat, sans lien direct avec Nike ou Tie Break dans le titre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "57bf4e4c5ea4",
@@ -15227,5 +15272,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-07T02:01:38Z"
+ "ai_updated": "2026-11-07T08:51:38Z"
 }
