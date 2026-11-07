@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:29:41Z",
+ "updated": "2026-11-07T01:56:12Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
+  "added_last_run": 1,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 362
+  "rejected_last_run": 373
  },
  "items": [
   {
@@ -559,6 +559,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "5da093be6f92",
+   "title": "Nike, Inc. : Morgan Stanley maintient sa recommandation à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3dMcWtzcndSVERqV0NwdGxfT3hmd3R5QjdvSjAzWFJBaUhibngyTmhJNjBQQ1RnNmlDUEUxbi00WGF1Y3FwbjVhR2NxNzNrRFp4ODFHZzZ4U21hTERMSmFIWVg4b3RwNnYtUDRjS3d6NVdRSm85QURWbVlUWHc1UkFDM1ZTMVdZR2sxMEdMMzl6eGgwSzNva3NoMVdCRG5zNnFINnNwcVRzZmpLeUZBZF8zc1VtT19YSkRjT01n?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-04T17:09:41Z",
+   "first_seen": "2026-11-07T01:56:12Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Confiance d'un analyste dans le cours Nike ; pas de conséquence directe connue pour les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "db81c110533a",
@@ -15205,5 +15227,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-06T21:35:00Z"
+ "ai_updated": "2026-11-07T02:01:38Z"
 }
