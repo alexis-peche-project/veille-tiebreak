@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T08:47:34Z",
+ "updated": "2026-11-07T16:26:46Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,77 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 356
+  "added_last_run": 3,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 365
  },
  "items": [
+  {
+   "id": "3c32820349f4",
+   "title": "Pourquoi Nike fait l'objet d'une interdiction religieuse en Libye",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56aFVhWTBBRG53UHFZM1ZFaXFMXzhqZjFUSkZ5cmJyXzVqS1p1X1R5VUNpUE5UblFYeXVNbV9xdWU5QjN2LWJwdWVVcjdfM1B1bEJuTUVYTDlCRFZ2Wm840gFkQVVfeXFMUDNMbi1HdnNMMGszV1kwUlFKOVJGN0tDSUdoQVBMekhKRmNrUXJjbEVEd1J5c0dFY3J5ang0LURObnUtdVE5aVNwbWQyb3lPMmNZZ2t5WWh4MjJXU2hWeVM1ejdoRw?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-07T13:41:15Z",
+   "first_seen": "2026-11-07T16:26:46Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre seul : interdiction religieuse visant Nike en Libye, marché hors zone de Tie Break. Pas d'effet direct attendu, mais à surveiller pour l'image de la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d168f9cb319b",
+   "title": "Tennis : Gaël Monfils nommé capitaine de l’équipe de France de Coupe Davis",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQc1F5aEZqV0xpNktzS0l6enMwS1RLVmtoenJkTHdXVUdDV3VDdVdid04wMnZQeWVVQ0p1eC0zbDBLdndadmdRZ1dkNkxERWlBNkI1RlhRNWRyNUNSVE5fb2FlZzVVQUduN0hUZFBqWGdfVFB2ZnJLV0YxNkJpVm5USUoyalRGRWhzZFFFYVdkZ05zYlJHQkY5V291YlVFVVJqakt3RnlEeUU1SmxIcHlEeFh6emRiUQ?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-07T11:09:25Z",
+   "first_seen": "2026-11-07T16:26:46Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nomination de Gaël Monfils à la tête de l'équipe de France de Coupe Davis, sans lien direct avec Nike ; possible effet sur la visibilité du tennis en France.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "871bd94358db",
+   "title": "Tennis : énorme surprise, Gaël Monfils nommé capitaine de l’équipe de France de Coupe Davis",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPS2NYYk5WX3h2TzZBN0l1eTdBankzM0pWQ1h0UGlscGJ5OWsyQmRheFA4SW9HU3dkLVgwOGtjV3dTOFpIc1J2dWFTM1BBWDlJS2JIRURaVmRCMEhQaDc0aUN0cWZLOEVQV3p6a3dZWDJzTHRVa3Zncm9uMk13b2ZRZ3VGYWU0eHg4dVllZDVWMlQ0NW9zZjFnNHVPczFXZ3ZOOXh1RXFEM0xSSEh2Tzl1UzdFT2I5bjJoeGFWTWZPYUpIeG50SlFyWFhnNHc3d1k0UUpvRkRHa2Fsd0tmNUlUS3F4d2lRV0RVTWtNQkxTWDZZSDAzanFqWjRXc0o2QQ?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-11-07T10:51:27Z",
+   "first_seen": "2026-11-07T16:26:46Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Même nomination de Gaël Monfils à la Coupe Davis, relayée par un autre titre ; sans lien direct avec Nike ni avec les approvisionnements de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "a237e01082a5",
    "title": "AI, Cooperation, Space Among Next Frontiers for Fashion and Sustainability",
@@ -15272,5 +15338,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-07T08:51:38Z"
+ "ai_updated": "2026-11-07T16:30:18Z"
 }
