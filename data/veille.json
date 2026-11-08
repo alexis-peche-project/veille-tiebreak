@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T01:26:44Z",
+ "updated": "2026-11-08T08:59:29Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 0,
+  "added_last_run": 2,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 356
+  "rejected_last_run": 372
  },
  "items": [
   {
@@ -231,6 +231,50 @@
     "r": 2,
     "impact": "Changement d'entraîneur de Sinner, Nike-athlète : peut modifier sa trajectoire sportive et la visibilité de la marque en 2027.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c723efb56c04",
+   "title": "Asian stocks plunge : Kospi tumbles over 7 %, Nikkei sheds 3 , 000 points as AI - linked shares drag markets",
+   "url": "https://timesofindia.indiatimes.com/business/international-business/asian-stocks-plunge-kospi-tumbles-over-7-nikkei-sheds-3000-points-as-ai-linked-shares-drag-markets/articleshow/135592890.cms",
+   "source": "timesofindia.indiatimes.com",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-11-06T05:00:00Z",
+   "first_seen": "2026-11-08T08:59:29Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne cite pas Nike : baisse boursière asiatique liée à l'IA, sans lien direct démontré avec les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4a037aa88580",
+   "title": "Retail News and Trends | Retail Dive",
+   "url": "https://www.retaildive.com/?page=2&_sp=e7dcd5e9-6656-4c4c-bded-df9d09894174",
+   "source": "retaildive.com",
+   "domain": "retaildive.com",
+   "date": "2026-11-06T04:00:00Z",
+   "first_seen": "2026-11-08T08:59:29Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -15338,5 +15382,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-08T01:32:19Z"
+ "ai_updated": "2026-11-08T09:04:28Z"
 }
