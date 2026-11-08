@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:59:29Z",
+ "updated": "2026-11-08T16:40:45Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,81 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 372
+  "added_last_run": 6,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 382
  },
  "items": [
+  {
+   "id": "88e508dc332d",
+   "title": "Paris n’allait pas lui résister : après une saison freinée par les blessures, Alcaraz ne laisse pas passer sa chance de gagner un Masters 1000 à Paris",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRWVHSHoxNzNzM09GRUxTRGlvOUpRYUhfa3BlOHh1aVBhN1Z2VFV2eTA0U0IwemhYQk9vdkRjdDZicjFaTkxsTUhtU3E5bjlaYUFHNnZrQVF2d3pQOGJzNTkwNDJJMHJwRWx0UmxkQkNuS2p6U2VoTnNLUzg4TmJFUHN1aHhaUjNta0x6RVBJUTBTTTE2RHN6S0Z6bDl3SzZXV1lkTVRQSklxQWtHTkxHZk5GbkYyMmpuVW5WcGF1TEV5cUN4ekVOMHFwZDhpeUdUX0JNd25HcDBXbnFScjMzZVJLdG9sSkRaQnZfejg3UGRMcmJXeUVhYkl1a2Z5QVZpdjgwYWdUX0p6eHBhd0M2X3Z4SFlYb3VhOHNPcHdIQ083VmgwRE92TEpsX2FaSldLMWNaM3RoNEFTR2pmbWdHMWQ3c2YyZw?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-08T16:31:22Z",
+   "first_seen": "2026-11-08T16:40:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, athlète Nike, peut renforcer la visibilité de la marque en tennis si son retour au premier plan se confirme à Paris, après une saison marquée par les blessures.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "81625749e22a",
+   "title": "Carlos Alcaraz prévient Ben Shelton avant la finale : « J’ai vrai­ment envie de prendre ma revanche »",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX21sb0EwRnFGWUswS1pFNF9fTGZiWER2VUd1VHdHci1ZUk8zaTJCeGRrbndTMzE0M1plZWFRQ1BPbThLbjBZQ2lZTUJZdFlkWjdObGdqcm0wT0JmcjZsckJwSTV2NHJrb1BDYlExY1JiakxVd054eDNTbUt1emtyY3NWMXRZN2I1N2RiWU9Oc21jVVBfRDVnQUtSNTkzVm8zLVViU2xVRzlWQTJnc3NGY1JXeEFhTVJuNExybXd0UllUTkNJZC1YemJsZ1c0SVVwVmFFeEtFdVRPanBaU2dDbUtvMA?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-08T08:02:00Z",
+   "first_seen": "2026-11-08T16:40:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La finale contre Shelton met en avant Alcaraz, athlète Nike, ce qui peut soutenir la demande pour les produits Nike de tennis lors de la fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "aacd82d1d747",
+   "title": "Gaël Monfils nommé capitaine de l’équipe de France de Coupe Davis : comment les Mousquetaires sont restés dans le monde du tennis après leur retraite sportive ?",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNczl2XzQ0dkpUX0ZrYllYRDdpdW5fczhGQS1FbzBCeDZ3YWdiRG85cHg1VWk2bzhIZVVkblQzcEN1Y1R3dVloZmZfUU95V2M4V2lud3h6R0E1RVU0eDNwenFPTmpyRXYyUlg1ajdMaGpGQklhYkJUdnFsZnFpTW9kTW0xTUxsaHpXMUt3ejZ6YVB0OUEzbm1BQ1NHbWJITVBqVGxuMXFidVRUdEhzWV8wMVNtcW1iYXl5YUFIU1NQazVuVkNMSlB2TGN6M2hKbTh5eGd3V2lpYWJTbmNqOF9sZE5icWxiMmpfSjNENE9UTWFQU2lPNGNVdkhWUzlWVmJxVEwxMkRKNzF1RlJSQUZsM25uMzR0SWhPMXgxeHpXT0tLMzEyTkFrWUhKM2hjeXM?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-07T16:57:47Z",
+   "first_seen": "2026-11-08T16:40:45Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "retrait"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "La nomination de Monfils comme capitaine de Coupe Davis donne un signal sur le tennis français, sans lien direct avec l'offre Nike ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3c32820349f4",
    "title": "Pourquoi Nike fait l'objet d'une interdiction religieuse en Libye",
@@ -75,6 +145,28 @@
    "ai": {
     "r": 1,
     "impact": "Même nomination de Gaël Monfils à la Coupe Davis, relayée par un autre titre ; sans lien direct avec Nike ni avec les approvisionnements de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e577104d4288",
+   "title": "Tennis : Benoît Geldof, Réunionnais, en route vers la finale de la Coupe Davis Juniors 2026 !",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQnNrR05ZM3p4R2llUURkTzE1QXVtUlVYZ082X0t6eGRmWGZoM0hhRExDN21fNnVJRXpBM1I2UFMzRVJMak5LRlZYMk1HM0dIVHdUV01JNU4wSzFjS3NVRjkxTGFMWkpWQjN5NWluSUNpLXlNQTVYTlNHMjJXRy1RV2ZjVjI4X1lvcVZCZV9KNERBMXB2c01EejJBU1lrMmdPQkNOTEZCdm50WEdxSzRmNlpDZ3JUNHgyU1ZXUmVhN2djZ0U0WnRSRG9URDU0V1JHOTF6dWlB?oc=5",
+   "source": "Outre-mer La 1ère",
+   "domain": "la1ere.francetvinfo.fr",
+   "date": "2026-11-07T08:00:00Z",
+   "first_seen": "2026-11-08T16:40:45Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "La finale juniors de Coupe Davis concerne un jeune joueur de La Réunion ; effet indirect possible sur l'intérêt des clubs pour le tennis junior.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -667,6 +759,32 @@
    "axis_original": "E3"
   },
   {
+   "id": "8eba2e6f90d3",
+   "title": "Shoe Prices, Material Costs and Tariffs Are Top of Mind for the Industry: Can a New Congress Help Ease Concerns?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXJZeDQxazdEeHBJci00M2lBb0diQ3BENnFEUUVkeDBYdHFScHRSX2trajgwYUczMC16WGNGdFYyTjRHRFRUdm05R0U5UzJkX1hZYldlN1YxZUhqZ1FVWHRlMHp5WkQ4SU5OcF9YX0RZcThqdnFybnB1WUlYUzVzUm9UYnpfaUtYRFduUlNxV0NhOVZnbmdnYVpwUi0yVjlKZmxBV3ZPeGo2UjRTWDRfLXRZS28tLVlHLThz?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-04T20:29:46Z",
+   "first_seen": "2026-11-08T16:40:45Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Hausse possible des coûts de matières et des droits de douane sur chaussures et textiles pourrait peser sur les prix Nike et les marges de Tie Break en 2026-2028.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
    "id": "83e597131787",
    "title": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczlOdTByTHY0VkhOcmp4UUtzUGgzWERrTHpuSDZ2VmNfRHZ0NjJ1aGxFSUJ5NEpDSkkxbUR3QzRZQ1l0bUlHMjJIOUduRWNiRXoyUm5oRFBaaWtnS0labkVoazNHelktWGRoYUFrbjZrNDlqejgwdml3OFdyNXNsX2tXU3FHSTBLSW1qcUx1VnBlTy15NnpoZWZYQWRZbU83VlIwYzRsZDRqa00yMmM3QUlYdHhJZlMx?oc=5",
@@ -1055,6 +1173,28 @@
     "r": 1,
     "impact": "Controverse culturelle sur le nom Nike en Libye : marché lointain pour Tie Break, impact direct faible, mais signal d'un risque d'image pour les marques étrangères.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "94b5df3f29f5",
+   "title": "Hugo Boss’ Bruising Q3: What Will New Owners, Frasers Group, Do Now?",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU2ZUYjM5OS1YYjRiRm5DYi1XSXZPNUtiWHllVlI1LUtNUVhnaW50NHF0dkNjSWRyWl84NmVvOTdhNW1JOU55SDI3cWsxaElmWGdpeFVValc0amlSbjVaSmRYSkRxeUhNQm1sVGxiT0FsNlFrRHpuZXhFUmZ0YXliX0oyVzFXbnJCeEJ1R1R1cnRqd3VKeDNvT3VsWXFLV19FSmF0Vl8zOThxU3k1SHNhM1pHa25BUnNfcHNGRGhzQVZ0ZF9RQl9BcS12V2F2djNqd0t0RGxaNDY?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-03T14:33:56Z",
+   "first_seen": "2026-11-08T16:40:45Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -15382,5 +15522,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-08T09:04:28Z"
+ "ai_updated": "2026-11-08T16:45:25Z"
 }
