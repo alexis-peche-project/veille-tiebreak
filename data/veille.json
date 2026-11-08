@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T21:51:48Z",
+ "updated": "2026-11-08T01:26:44Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 0,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 355
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 356
  },
  "items": [
   {
@@ -15338,5 +15338,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-07T21:56:03Z"
+ "ai_updated": "2026-11-08T01:32:19Z"
 }
