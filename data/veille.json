@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:40:45Z",
+ "updated": "2026-11-08T22:05:46Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
+  "added_last_run": 1,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 382
+  "rejected_last_run": 355
  },
  "items": [
+  {
+   "id": "91a30fdd9a49",
+   "title": "La France remporte la Coupe Davis juniors pour la première fois depuis 21 ans",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX1NyaTZpS3pic3MydGc1MmZwZUd3MDd2aFB0MFJWUGRfU0s1NjV3RUczN2RzNmxWakI3UGFsSkdZazBNYWVUT0M5emNMYlhxT1RMelFWZXNrbWZvd0dITE0tSGxlSkFBbDU3akttOVIyTUF2bnBkZTVrQUItZEY1WEJVdzFFVi0zQTRBOVNYOTFhUGxYYl9kcjFLaDE2NTRMVWJoU2s0Vll4dmM4VHhHdThJZUI5Ni1sR3kxd0hQT3EtSzBw?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-08T22:00:24Z",
+   "first_seen": "2026-11-08T22:05:46Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Victoire française en Coupe Davis juniors : possible effet d'engouement chez les jeunes joueurs français, sans lien direct avec Nike ni son approvisionnement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "88e508dc332d",
    "title": "Paris n’allait pas lui résister : après une saison freinée par les blessures, Alcaraz ne laisse pas passer sa chance de gagner un Masters 1000 à Paris",
@@ -15522,5 +15544,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-08T16:45:25Z"
+ "ai_updated": "2026-11-08T22:10:28Z"
 }
