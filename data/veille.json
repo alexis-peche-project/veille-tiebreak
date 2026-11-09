@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T09:48:56Z",
+ "updated": "2026-11-09T20:44:14Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 353
+  "added_last_run": 3,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 376
  },
  "items": [
   {
@@ -2098,6 +2098,29 @@
    }
   },
   {
+   "id": "fad74f7a8fdd",
+   "title": "Le projet secret de Nike pour Kylian Mbappé annulé au dernier moment",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUlFiSmJ2MW9UUlBEXzRnU0xUVEV1QkRyY0NWVTZXMTRCbmtxajRWdGFQMlBHSmx4SWVqM1UxNzVSbWcwcmRyMTZPSjhrb3RvQ1F6YW1IR3A1NzFhNW5TOG1ZUUdtMVF4eVkxdGJoS0Y1b3B6eGlwR0h6cE14VFMwTEpFUjZtNkZSeFNNUWlIWVJfVFM2THdhcTVEamRNbzIwbThnWlpWd00tM05XVVkxREVuNDFWS19weklmdFNuUnhJTEtWRUd0VA?oc=5",
+   "source": "Sportune",
+   "domain": "sportune.20minutes.fr",
+   "date": "2026-10-31T07:00:00Z",
+   "first_seen": "2026-11-09T20:44:14Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Projet de signature Nike sur un athlète football annulé : indice possible d'une stratégie athlètes recentrée, sans lien direct avec le tennis ni les ventes de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "e7c45cfa95b9",
    "title": "Action Alpargatas S.A. | Cours ALPA4 Bourse Sao Paulo",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMblZ0TlRxZjJwOWhreExZYnR5SENHdVd4VExrRUZhbFhVX19OM2V1VWc3bjZwdGk0dm9tLTUzNnVSdzFkMXhKWENzLUQ1cU1uTHV5LW9kVzNmTVgtNXpJbFltbUdPbnJEQ0xILW96aDk?oc=5",
@@ -3530,6 +3553,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "991bebe86363",
+   "title": "Piégés par les caméras à 1 heure du matin à Montauban : deux jeunes de 19 ans interceptés en pleine revente de vêtements Nike et Adidas contrefaits",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNZXM4cUowbktEem9jT1dfTFJBRXdUY3d6Rkk4VXJhOUJ3aFFNMkFoRVRacjZKUEUzZGYybnhVOUFxZzFGSzdGNmlDSjdSLVJLOG9BNWNhRUdWQlVrYzR1UzNwNC1JZERmUkRzTnNibUFFOWU1cVUzcW04bW4zZkh4S2J2eVNuRG9WNFFyb3ZpS0ZYN0haNDAtMUh6bDhkVF9kRngyVHNyaHN2T2ZUYXpxeFYzTUN5OGVjbHB0d2l1QjhVbHQwanhpSU9lLVpTRFRpUVRFSjNjSG1xY2c4TEFmWWt2bUtZNHBCRHZLU0ZHSDNUdHVVM284bVc4QUw0SkozN3lQbVRVXzlzczBLT2hYNkRfX1hkMlZob2NIYjZmTQ?oc=5",
+   "source": "ladepeche.fr",
+   "domain": "ladepeche.fr",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-09T20:44:14Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Contrefaçons Nike revendues dans le Sud-Est : risque de dilution de l'image de la marque et de concurrence déloyale sur les prix locaux, à surveiller.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "0965b25274ae",
@@ -6253,6 +6299,29 @@
     "r": 1,
     "impact": "Rumeur d'engagement d'un footballeur avec Nike, sur fond de départ de Mbappé : indice de la stratégie d'endorsement de la marque hors tennis, sans effet direct sur l'offre de Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "36cef61f2e7f",
+   "title": "Michael Olise valide un énorme contrat qui n’est pas avec le Bayern Munich",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOc3o3dHpudVFnSlRscDBFY3FsS0ZuS3prekpmSlNheEpuOE5reUFqMzVRSEhXZ19rUVctTFJQYXR2QmhDakdtei1OLXlXVXIwcUZxSmpWT1puMXFWVWxSRy1ZdVVzTDBmekNYRDh6RzRMR3RGcmZvU3V1RFBZNV9rTFFfek5uRkZZZ211MGZmd1ZkR2hXOVdmM0Q3dVZqUGNFTWI5VWpGYVhPeG5DTXB5UF9obGpPZmdlaWE4c3dQXzAxZUYyTmFlWUVhRmJrOFFHMTJWUnhB?oc=5",
+   "source": "Sportune",
+   "domain": "sportune.20minutes.fr",
+   "date": "2026-10-16T07:00:00Z",
+   "first_seen": "2026-11-09T20:44:14Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
@@ -15771,5 +15840,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-09T09:53:39Z"
+ "ai_updated": "2026-11-09T20:48:12Z"
 }
