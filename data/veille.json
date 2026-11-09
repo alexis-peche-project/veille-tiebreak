@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:05:46Z",
+ "updated": "2026-11-09T01:44:02Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 355
+  "added_last_run": 4,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 345
  },
  "items": [
   {
@@ -31,6 +31,50 @@
    "ai": {
     "r": 1,
     "impact": "Victoire française en Coupe Davis juniors : possible effet d'engouement chez les jeunes joueurs français, sans lien direct avec Nike ni son approvisionnement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "794e9c564d12",
+   "title": "WTA Finals Riyadh 2024 Overview | WTA Official",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NeUdkb3FRNXFiRDR0NVZlQ19xV25yZ0NEUG5nZUdSNGtZdGlIOXlaMlRneTI0ckVxVjBRUGdaT3F4emZPSkNhMDNwbWVJekdCTUY5WkRuWi1PYjVDamZJM2FDT045ZE1B?oc=5",
+   "source": "WTA Tennis",
+   "domain": "wtatennis.com",
+   "date": "2026-11-08T21:19:36Z",
+   "first_seen": "2026-11-09T01:44:02Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les WTA Finals organisées à Riyad illustrent l'investissement saoudien dans le tennis féminin, un contexte à garder en mémoire pour la gouvernance du sport.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8168db38f3d3",
+   "title": "Une militante LFI victime d’insultes et crachat sur le marché de Périgueux : pas de plainte, mais « une agression raciste » dénoncée par La France insoumise",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQaGFhSGhtVzFkZUpmamtHazlQaU5YcGkwb3g4clowOS1yZ2JfRUVZM2w3SDUwakR6YlJNWWt5ZFdHdmNsWXIwTzZfUm8zV2lXd3pjWDVFRFA2THl0VzBCVURPLUtOd09YQVdWRkw5N3hvSUJ1dmpXMFNWU2lzQTdUemlieURxYWItOFlnbTBQVEljME1vWWFXRGEwZGRLQ1d5X1VQc0lOOE1MWjg1TmtYR0V3Mk1zMzU3ckFvTUlPVGowUXlBYlE3VFFYUDJEaFNLUlBES1Q3R1R2M2twakRzMGJGSXFSNGNLaklZNVFiSWpEem5QQ0lkOVpNOEMwSHhEWmd0NDNvUllDYXZHUXhOd3RDbzlmTlBaYWRudVpGWGhuYjh0SjQ4V3dnRndQZw?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-08T16:45:00Z",
+   "first_seen": "2026-11-09T01:44:02Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -80,6 +124,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "9b4cea8868df",
+   "title": "Nike : les parisiens ne jurent que par ces Air Jordan 1 stars de l'automne",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXV4UTRtMlJkWUJNQ21NdUEtZW43X0lzS2ExdTV3TkhneHhIOUVNeGthdnd6eVAxSVlvNWZUQmlBLWFkNUVGM29xSUk1WTBxSnhBdHNER0RwOEQxSDNHY3J0Zkx1Rkh2RmJ4MFQ3LWpTVjBSMmF0LURYMDZUMDM5ZU5CRkx2TGJ4VTNuU09lWlE2cHlVYWZBUjVZUDN6X25qWS1aYUoyZ1J1ZDhNU0JYazQxUU9hcUU?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-08T06:52:00Z",
+   "first_seen": "2026-11-09T01:44:02Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Alcaraz Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "La demande parisienne pour les sneakers Nike de type lifestyle reste forte, mais ce basket n'est pas le tennis : effet indirect sur l'image de la marque en magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T4"
   },
   {
    "id": "aacd82d1d747",
@@ -2214,6 +2281,30 @@
     "r": 1,
     "impact": "Fin d'un boycott dans la NBA sans lien direct avec Nike dans le titre ; indice contextuel sur la mobilisation des sportifs face aux marques.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ec81de9d3bd7",
+   "title": "La Chine et la Suisse scellent un accord supprimant la quasi-totalité des droits de douane",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEJvUzVsd21wSV9ZU29YaV9keWFXZTRUV1NYX3dwcnR6dFFIcGh3a1owMktXdGVXTW13Sm01YzR5eWhHdXJOQ2Y0TldPVkd6MklULVNaTG9DMDU0ejFCX09rQ2d0eUJrR1lycFBUNk1mNm43eksyYUNlYzBzbl9HZE1LQ09fajhSQWtuR1p5Z3hreWVCSUZiTnNaR0tLbWt6VERvMnVrTFNJdngxRXoxOExKc080aVdLbTRVbFNqcFVBUUgxYU44WEI1TUh5Z2ZsOXpucA?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "be.fashionnetwork.com",
+   "date": "2026-10-30T07:00:00Z",
+   "first_seen": "2026-11-09T01:44:02Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "droits de douane"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Accord entre la Chine et la Suisse sur les droits de douane : la Suisse n'étant pas dans l'UE, l'effet direct sur les approvisionnements de Tie Break est négligeable.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -15544,5 +15635,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-08T22:10:28Z"
+ "ai_updated": "2026-11-09T01:49:39Z"
 }
