@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T01:44:02Z",
+ "updated": "2026-11-09T09:48:56Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
+  "added_last_run": 6,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 345
+  "rejected_last_run": 353
  },
  "items": [
+  {
+   "id": "1ab2e6e4d72a",
+   "title": "How yesterday's waste is becoming tomorrow's fashion",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBEbGRfVmctNTRyeG5BbHVEUDZ1WWNYTHVxX3FLQ1ZLa0pMWXpRYkNKdHpnUTNRWUZHM0dFYldfS19RS08tSjNUUC1aNWFybGkwZmtkd3BkQ3V5RTg?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-09T06:05:15Z",
+   "first_seen": "2026-11-09T09:48:56Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article général sur la mode recyclée, sans mention de Nike ni du tennis. Contexte RSE possiblement utile pour argumenter sur les pratiques d'approvisionnement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "91a30fdd9a49",
    "title": "La France remporte la Coupe Davis juniors pour la première fois depuis 21 ans",
@@ -102,6 +124,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "d507247065ea",
+   "title": "Sur quelle chaîne et à quelle heure voir la finale Alcaraz - Shelton",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaElKelY2Y2d1ck9IUm95M3EtRXJUX0tiNzNDTVh3MUlVM1J4SXQza0hOUTJBd29FaHR2bkVEOWFnQmtQRmg0RXVtZnF6NmxIeTctU0NuME9hTU11b0tpY19wUGlhSmk4WG94dGhOekVVRUljSUdUUHF1YUxhSWgtWWpCM0ZraVB4WjFnYXhkOGdBNUhaX0FrOE9EeVl1dkhtTERuRUhxVGZpRzJVUTdHVlBDRno3WkJONGZ5dXZiSEM?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-08T08:26:00Z",
+   "first_seen": "2026-11-09T09:48:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Programme TV d'une finale impliquant Alcaraz, athlète Nike. Visibilité ponctuelle, sans effet direct établi sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "81625749e22a",
@@ -256,6 +301,28 @@
    "ai": {
     "r": 1,
     "impact": "La finale juniors de Coupe Davis concerne un jeune joueur de La Réunion ; effet indirect possible sur l'intérêt des clubs pour le tennis junior.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "40617a2625ae",
+   "title": "Tennis. Fils, Zverev, Alcaraz… Les huit qualifiés pour le Masters sont désormais connus",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM09sNFNCMlJORU1oZTQ2TEx1cnFZUzZlOEdhb3FRdGxoQjZ3ZE5zeVBFV3RDaVZBdnp4SXNoS2JJc2JGT1JUYXVjdm0ydmUzaGQ0Z0p2VlVVYl9nLWxyT0hhd25CNElfdG9jaGNtMXEtOE9RVDc1WDFwY0M1Z1RaYkctSG50QzhoMThfLVQ4RF9CbmdKZDF5VHd3eHZhQXhXYlNLTlExblpHYk9FcnpnRHE0djZNR0N2WDIwWWN1X01tRTYwTHd0STZvSXk4TEJibkdvcE5nNzVjbS11TXQ0OGFOSjFSRm84U243cTE3bVJiVDQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-06T22:48:36Z",
+   "first_seen": "2026-11-09T09:48:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Qualifications pour le Masters incluant Alcaraz, athlète Nike. Fin de saison porteuse de visibilité pour les modèles associés, utile pour anticiper la demande.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -5282,6 +5349,28 @@
    }
   },
   {
+   "id": "18fe1112e6f5",
+   "title": "PSG et Nike 2es, les 10 plus longs contrats de sponsoring des clubs de la Ligue des champions",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2xRTmk1Yk53VllHSXFzcHdjcGJleURaOWw1WDFpU3ZFVlRGR3EtaFBSTUxSeXg2bFd1dTVXelhJOWpzREQ4RGFscnk1cVFLSDc0MGJ6dzZjaXJGME1DRDRURFBKb3hkNmgycGQ4NnJpSzN1LTdVY0dZeWN2eDZaeV9uMmpoRFkxUjhZalIxWjM3Nk5NMUxfSWh0dWkxclNHTFBJYVpNay1mRUVIRmhvb1ZHTHlYS1RmM1dtYmMxZzJ0cVZYWEs2MGg2QmdabDRoZnJJclBDb05MMVFfTFpkN18xTGNYWGQ0?oc=5",
+   "source": "Sportune",
+   "domain": "sportune.20minutes.fr",
+   "date": "2026-10-20T07:00:00Z",
+   "first_seen": "2026-11-09T09:48:56Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Classement des contrats de sponsoring football où Nike figure, sans lien direct avec le tennis. Indique la place de la marque dans les grands partenariats sportifs.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "54f47c7d77ac",
    "title": "In 1971 , Nike co - founder Phil Knight hired college student Carolyn Davidson to design the iconic Swoosh logo for $35 ; in 1983 , he gifted her a gold Swoosh ring and 500 shares of Nike stock",
    "url": "https://timesofindia.indiatimes.com/world/us/in-1971-nike-co-founder-phil-knight-hired-college-student-carolyn-davidson-to-design-the-iconic-swoosh-logo-for-35-in-1983-he-gifted-her-a-gold-swoosh-ring-and-500-shares-of-nike-stock/articleshow/135058352.cms",
@@ -5781,6 +5870,53 @@
    "ai": {
     "r": 2,
     "impact": "Recul saoudien sur ses ambitions sportives et tensions Houthis en mer Rouge : moins d'événements à Riyad et risques sur le fret Asie-Europe.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3e76a0a75b59",
+   "title": "Lamine Yamal. « La plus grosse erreur de Nike depuis des décennies »",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGhBWkdFMndLUnpEMGpLenMyMnE5U3duel82akJoMDE3S052enc3VWJ5WHhvX01xeXlRR2RncGhuT29ULUJlYzNtNFVkdTgzRmhsejVZYlJCWThlMElxUlRvQlZwb3Joa3ZvS2lTcXVHMDA0V2FrdDZfaEpfSjBaWHVzQ3g2SzJfYURTOXZ0Ylo0bkRPVUZUckhrU3FlRVdZUW5WOHEwQVhuSWljcnVuWERHVmI4TU41eEpveU5MaTlvUQ?oc=5",
+   "source": "Sportune",
+   "domain": "sportune.20minutes.fr",
+   "date": "2026-10-17T07:00:00Z",
+   "first_seen": "2026-11-09T09:48:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Critique virulente d'une décision de Nike envers un athlète, présentée comme opinion. Risque d'image pour la marque, impact tennis indirect à surveiller.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "cd67eba49411",
+   "title": "« Ce n’est pas si surprenant » : Keys et Pegula réagissent à la blessure de Sinner",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbUxsV3BTeXY3QXp6R2pDM0xkNHZVeUdoaE1oWmlqRVF4N3ZIenh1MDM4dHExQ1RmRmVNNVNyTDU3ZnpTMVB0ZzRMWGZOekhjbkVGU05KNS1VS0ZxaHlHRUlxM3JHVlhOTFNOaktST3ZueGhZck1WLWg2Sl9rUDNXZFRFVUc?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-17T07:00:00Z",
+   "first_seen": "2026-11-09T09:48:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure de Sinner, athlète Nike majeur. Peut réduire la visibilité et la demande pour les modèles associés à court terme, à suivre pour les commandes.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -15635,5 +15771,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-09T01:49:39Z"
+ "ai_updated": "2026-11-09T09:53:39Z"
 }
