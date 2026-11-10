@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:39:24Z",
+ "updated": "2026-11-10T20:49:32Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,99 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 352
+  "added_last_run": 7,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 353
  },
  "items": [
+  {
+   "id": "6765ba72a968",
+   "title": "Jannik Sinner : « L’objectif est d’aller en Australie », l’Italien évoque son retour sur les courts",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUURRN2FEVWNjVThDSGQwNV8zMF9mM0ZnRTJTUnQxMXFUWkxYcDRTb19CN0tpd3BDalJhXzR2QmhEa1lfb0lBR2xoWHJoek9KVC1QR2NVYTRwWVRpazl4b0RzSDZ0dWY2Vld4R3JFYVhqaE5yQjFFY0tzdjU3REVCRko1X21GbVBfdXFWemZ0UGJPTktsOGtNa0Y0UGgweGp0MHZTTHZsNDVmVko1TzM1ZEQxVy1zOEpITF80SmF3N0Z4WjVkUGJJY3dfaXVDMTdwREw0ZUtEclEtdE1iWjB6QTdTejJFbUtzT3JXaDBiSUI3TTVVTWkxb1NPU3dieXFPblI5YXMteVRheW5tc2c?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-10T20:20:30Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Retour attendu de Sinner, athlète Nike : visibilité accrue sur les gammes tennis et calendrier 2027 à anticiper pour les modèles signés.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cc9ff69a0658",
+   "title": "« Un dossier important » : au conseil municipal de Potigny, la situation du projet de la halle du tennis a été évoquée",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSWVWMTdzRXc3LXIwZFI3cXN0RWtXQVp0NHRsY1RlZF9CbUdjUUVlLV9TLVEtcWVqaEIwdk5WVHNoSUhnOENuNVc0LXNpVHhCdWtJSXZzS1pNYzQ0Sl9fTE45MlJPQXZDN2k1UVVFSnlRRm1rcmFGWjd4ZDlCZ0hNU3FuYjZMTmFRdGFWWjZVRkM5WkZQbVZjM29aZnU5elhpZXJ1ei1YUFRCMDJ3VGI5RkUxcUduRU9QMHZxbFBFM1NLdmljd0c3eW1lOUtqbngtRlJET050Ui1tTXJOeVczVnRBMmxfR252dUgzSTRTdnFZWFl3anR4Q0l0VXJmSG1nZ3lURUFkUFMzMi14eXNRdnlkLTN4TXp2?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-10T15:33:42Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Projet local de halle de tennis en Normandie : indice limité sur la demande des clubs, sans lien direct avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a7db4a35a4b0",
+   "title": "JD Sports recherché à Londres, Citi mise sur l'effet Nike",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGxubUduSzRRbnhCZm90MURrWGNOZWdseURjX1p0ZkF6ZXVxRldRZ0JfbUtMNmtwTHF0Snp3Q09FWFBpbUowdFBISnB5NGtlZkkyc0NyZ2RabVg1RkhINWU0ZklqcHJoQVB1a040aldjeHk2dVlLY2MtLTZ5RDJHTS1mOC01dk0zTnoybEpaLUpFU1YyUmdnV1BHdWFpRHp2YnZHS1QzOGVBWk1mWXhOQmlCYkI0ZU41akhvWEU3ZDdnT1d1Z3QtX1gxWTdFajZ5NHdlVdIB1AFBVV95cUxPaGxubUduSzRRbnhCZm90MURrWGNOZWdseURjX1p0ZkF6ZXVxRldRZ0JfbUtMNmtwTHF0Snp3Q09FWFBpbUowdFBISnB5NGtlZkkyc0NyZ2RabVg1RkhINWU0ZklqcHJoQVB1a040aldjeHk2dVlLY2MtLTZ5RDJHTS1mOC01dk0zTnoybEpaLUpFU1YyUmdnV1BHdWFpRHp2YnZHS1QzOGVBWk1mWXhOQmlCYkI0ZU41akhvWEU3ZDdnT1d1Z3QtX1gxWTdFajZ5NHdlVQ?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-10T13:39:00Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un analyste mise sur l'effet Nike pour un distributeur sportif : signal de marché sur la demande en articles Nike, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fec934694632",
+   "title": "ATP > Absent depuis quatre mois, Jannik Sinner prend enfin la parole : \"Je suis un joueur de tennis, pas un médecin, donc la seule option à ce moment-là était de leur faire confiance\"",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOaDFGc01xaE5VSWFieHdBS1AwbGdDN0tvV0JORHJrcnc5NzdHRldBUWVFdmdubG16elhlR01CM0ZieTgwWHc3OUJvVmdPOVl5NnlONllLLXdLZjdPM0p0R1FJRUF6SjJNaG93WTh5QW1USTRKNHVFbDdhTXZzWXhBbzNEcVJYaHFUXzUtdlhKOUwwcGZpV05GTWdfM2F1b1NkVzRER3dSb3hOMnFwWXl3ckNNcEhyamNlcTZ2anp4blJMTFlLcHVZbTl1Z1RoVGpVdnpJZ3pIOWp3NW1wM2l6cGJsZXIyMUNUMUxkMy1iVnhyNENOMXFmUWpJSUUzbncyRnNrdnlVUlhhY0NUX1lGN21yRGRfWmo1RTZnb2l0TmljOFpZVFduMFRR?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-10T11:24:06Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Absence de quatre mois d'un athlète Nike majeur : baisse de visibilité et de ventes possible, retour à suivre pour les commandes de textile.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "31e0b18355e7",
    "title": "ATP - Blessure: Jannik Sinner : «Ces derniers mois ont été difficiles...»",
@@ -62,6 +150,29 @@
    }
   },
   {
+   "id": "457073870d69",
+   "title": "La marque de vêtements de sport On « écoute et apprend » en Chine après le faux pas de Mbappé",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb3UyZVVlb1pZTGpXYzVWU0dFVmQtQUN2NnVFTGVMSVhDMnpxTkJ0eWZ0VXU1UkJSaXZubkItNjFqZHQ5alM4X2NpWDU3anRSYjlrcjVVSndpVVROa2pOSUwxeHQtc0pRVzRmT1RKM2dIT0pWU2N3S2N0NmV4NnZpcFlpcXhiVmh4SXhTZFJuZE45N1VDbmNoNDJ3dFhxdkRPZnNZVEM2aXRpRjZ0ellpUGpUY3lfVlZVQlBLUzgyWWdBeUdhM3VvT01obF9MdmRQYVVZdmNHT0RLVTEwMWdMS09WTk1vTTB2eUdQR0hzWGpTdw?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-10T10:01:10Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Crise de réputation liée à un athlète chez un concurrent en Chine : leçon sur le risque d'image des ambassadeurs pour une marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
    "id": "c5c9d1e2a356",
    "title": "Excédent commercial chinois: la barre des 1000 milliards de dollars dépassée",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNank4NTZrNkdWeE9mdlZwTi1QTDJvMnhwcHNkWF9TUEVtLXJOVk5XUWxQM1BwZHRRWkxMV2ZwUk1hZXNodktGbnNvQWlsX29fbVBHSlFOMHRhMzRjNlZyRGFma2E2Z2FJWUllQW4xRmtIbUZESnVaTWNOc2h2a25RZGJ2NzZNck13b3NyWExraUZCS1dZNVhVSHRDNmFZZEc3b0VvRm9PSWtyZ2VnT0lzdnpnbmxPWDdjRm9UZy1BVDZoVi1jM2Y1NWtfS2RvQQ?oc=5",
@@ -80,6 +191,28 @@
     "r": 1,
     "impact": "Contexte macroéconomique : un excédent commercial chinois record peut alimenter les tensions commerciales et les droits de douane, avec effet indirect sur les coûts d'approvisionnement.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "91d65414bded",
+   "title": "NIKE, Inc. annonce des changements au sein de sa direction, prenant effet le 9 novembre 2026",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbkMzMG1zT2RBTEpLYWxhM3dHZWRMaFJ3ME1aMWwybElrRnpzYnB4YUNjNlU2YnduNWJYbVRKWXgtMWRDSld2R1duUjFTbmRHM214bzNFQWpPWk1ZVVRnU3AxaEtiVFc4NVFlRmlSU2Y0VTNIOHNiTEpVTG1TRzV6RUhHbEpKNzVySm5hTXF4dnhNVE1KU1RKT25IOUszdC1JTGQ1c2FSQXdZWkU1Q1Z2TmJrcS1rUTRfTlpiUUEwZTF5MmdyMDJrYnZYa1pvc0dBd1MycDFHM0tXdUMybVZsaW03Ymo?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-09T21:42:00Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Changements de direction chez Nike au 9 novembre : impact possible sur la stratégie wholesale et la distribution, à surveiller pour les commandes.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -549,6 +682,28 @@
     "r": 2,
     "impact": "Changement d'entraîneur de Sinner, Nike-athlète : peut modifier sa trajectoire sportive et la visibilité de la marque en 2027.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "1aeec29903de",
+   "title": "Why WTA Tour Finals is leaving Saudi Arabia, and the future of women’s tennis’ flagship event - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJDbElhaTQ4aURZWFpFUERaejJSUm1za1p6cGVDQjJLWVFQcklBaFF5WHpEc2JuWjNsU2JqMUoxSkdTbGhfVUNEejE5bXlCTFpHRGtpeE9DRTg5SUtoMGtYTTRuN3RSbzA5WUlFMmxhRWF1U2FEQWFiZmtJeHdVbWowVWNscjhmN2Q0cDM5NHlkWk41RmJ1WA?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-06T08:00:00Z",
+   "first_seen": "2026-11-10T20:49:32Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les WTA Finals quittent l'Arabie saoudite : signal de recul du sport power saoudien, impact possible sur l'image du tennis et le calendrier.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -16001,5 +16156,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-10T12:44:04Z"
+ "ai_updated": "2026-11-10T20:54:45Z"
 }
