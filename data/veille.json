@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:44:14Z",
+ "updated": "2026-11-10T04:07:12Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 376
+  "added_last_run": 2,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 389
  },
  "items": [
   {
@@ -478,6 +478,28 @@
    "ai": {
     "r": 2,
     "impact": "Changement d'entraîneur de Sinner, Nike-athlète : peut modifier sa trajectoire sportive et la visibilité de la marque en 2027.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fc828c02f18d",
+   "title": "Conteneurs: le retour à la normale s'amorce",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHhFTHhFWW11bkxTVERzLUo3YkVfYUxtaFhZM2FaYjEwNElvWTNQUzBzOEZLeEw2Z3ZYWEM4dmlBM2NhRXRMREt2WVc5UE5YRl9XQmJqNFBqTTZFMFIzQjF2VkJnU2phcFd1NmFMVHBTajN5dEt3R2VOTXB6WFkxaEhVbVNJZmJXT3QwMFk3SzVQVkl4RDVUMDZYRmdrOHNDWFYtMUlsY1lCUWlaSUIxZFB3?oc=5",
+   "source": "Ports et corridors",
+   "domain": "portsetcorridors.com",
+   "date": "2026-11-06T06:00:45Z",
+   "first_seen": "2026-11-10T04:07:12Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "mer Rouge conteneurs Suez",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un retour à la normale du fret conteneurisé pourrait réduire les retards de livraison Nike, sans que le titre précise le corridor concerné.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -2119,6 +2141,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "af79f2264b4a",
+   "title": "AAFA urges USTR to ease barriers for US apparel firms",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHFTRl80N25TdnFwNXVlVjU4MHV0V3hrUk1EZ1NYTkU2eElfby00RWZGVm52UkgxcTRzcElIYktPT0pob3AwOF9CT2FDR0k0SnR1dnJLVVdxU2NmVjNPN2dqZXNVSVJwVERPUTZ1WWJYdjZhSWlpLVIwQjBpZTN5NlFEcTdrMDFVc1B6RzdkbWo2dW02YXBFS3R1dnZUelR4ci1uOTh6cGc2cWNqZGlTU2VNS0lPNzJHQms3SGZHNFNZQQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-31T07:00:00Z",
+   "first_seen": "2026-11-10T04:07:12Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Demande de l'industrie américaine de l'habillement pour alléger les barrières commerciales, ce qui pourrait peser sur les droits de douane du textile et les prix Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "e7c45cfa95b9",
@@ -15840,5 +15885,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-09T20:48:12Z"
+ "ai_updated": "2026-11-10T04:11:51Z"
 }
