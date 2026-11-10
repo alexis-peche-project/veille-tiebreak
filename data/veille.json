@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:07:12Z",
+ "updated": "2026-11-10T12:39:24Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,81 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 389
+  "added_last_run": 5,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 352
  },
  "items": [
+  {
+   "id": "31e0b18355e7",
+   "title": "ATP - Blessure: Jannik Sinner : «Ces derniers mois ont été difficiles...»",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZG52YlhVOXBsRUtsR0MxUHVtOC1uRDdOd21HdWtpTDc5QTh1c1lIU2FhS1BMcHR6dEJCWHF2TlNPN0h5WF9zZHFKRVpTVy1sQlRxeWNmOEhwZTh6Ykh1U3pENjJ1endhTnhCUVNLUkZkQkV0U0pGQm5STVgwNzcyZm8xaUxhRm1TTnU5bDM3VG1WZGVLc0s0M1U3NEJmenNUZzE0WkN1c3lnZHPSAasBQVVfeXFMT2RudmJYVTlwbEVLbEdDMVB1bTgtbkQ3TndtR3VraUw3OUE4dXNZSFNhYUtQTHB0enRCQlhxdk5TTzdIeVhfc2RxSkVaU1ctbEJUcXljZjhIcGU4emJIdVN6RDYydXp3YU54QlFTS1JGZEJFdFNKRkJuUk1YMDc3MmZvMWlMYUZtU051OWwzN1RtVmRlS3NLNDNVNzRCZnpzVGcxNFpDdXN5Z2Rz?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-10T10:27:00Z",
+   "first_seen": "2026-11-10T12:39:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Blessure annoncée par Jannik Sinner, joueur phare de Nike : ses absences peuvent réduire la visibilité et les ventes des produits associés, avec un calendrier incertain.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7844c8de25f1",
+   "title": "ATP - Blessure: Valentino Rossi a rencontré Sinner : «Son genou le gêne un peu»",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY25jY0ZwVFlzeWZkQ1hPNWhSbkJycm5TMlN2LVgySWhyY2hoQjRndkZnOW1SLS14bEVFeFJRWlUzUklsV1NvdkJveURmRmJMZUtOcTZjeUhlYmpEMm9rYno5Yk9VcmRSVjlhRVc3b0xGZm5hVEQ1MmM4RVhGTGFDdWVDcVAzcjFRY1lmQ1Q1dEVkNjYxODZQZ0RvdG9aYmxmSVR2MzFHMk9oTHNKQWdjNmF0dGR6bzjSAbcBQVVfeXFMTkNIWmJIaEE5YXpNUkRDWFg5SHpJTmtkYW1wUVhIaUxsZFZlRkV3WHgzYmtKOFVxMzNVWk5MZkE2VDhqTGxYU2xDc09ueUFfektPRzRRcVNkMktPQ3huanhRa2ZiWHlTWWNqQ0xyU2NOUmczeUI4N3FJOHBuekxzdVU1b3BnaWladkJSeTdYaUkxVlNGd2VRNUdmTU1FeTlKT2ZRSWtrdVNQV1JWazQ0ZXJZMmtyd0l3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-10T10:02:00Z",
+   "first_seen": "2026-11-10T12:39:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Un proche de Sinner évoque une gêne au genou, information de seconde main : à surveiller pour l'impact sur le calendrier et la demande autour de Sinner.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c5c9d1e2a356",
+   "title": "Excédent commercial chinois: la barre des 1000 milliards de dollars dépassée",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNank4NTZrNkdWeE9mdlZwTi1QTDJvMnhwcHNkWF9TUEVtLXJOVk5XUWxQM1BwZHRRWkxMV2ZwUk1hZXNodktGbnNvQWlsX29fbVBHSlFOMHRhMzRjNlZyRGFma2E2Z2FJWUllQW4xRmtIbUZESnVaTWNOc2h2a25RZGJ2NzZNck13b3NyWExraUZCS1dZNVhVSHRDNmFZZEc3b0VvRm9PSWtyZ2VnT0lzdnpnbmxPWDdjRm9UZy1BVDZoVi1jM2Y1NWtfS2RvQQ?oc=5",
+   "source": "RFI",
+   "domain": "rfi.fr",
+   "date": "2026-11-10T09:46:41Z",
+   "first_seen": "2026-11-10T12:39:24Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Contexte macroéconomique : un excédent commercial chinois record peut alimenter les tensions commerciales et les droits de douane, avec effet indirect sur les coûts d'approvisionnement.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "1ab2e6e4d72a",
    "title": "How yesterday's waste is becoming tomorrow's fashion",
@@ -1870,6 +1940,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "d9dfb7e3e87d",
+   "title": "Tennis. Alexander Zverev officiellement en tête du classement ATP, Arthur Fils gagne une place",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPd1pjaTc4eUZ6SVlYUmdVbDF4b0ZmeUJ6Nkd0Nm5xTXhucDBiWlNMRzFobl9GUVdzR1FZWS16dC1La3U5d0NjSy04OHNTbnpZdEtwR003QXVCVjBka1JXc004SV9zNlVnbmhYOW1XYlA4dHZyTHdVUjBvWnNDVGpvOU1hSl9KVUp4aXctWVV3ZEw1aEdBNW5WaUJ5bG5WMklyd3d6Y09mQkdOOWRnb3pJc0VvQzlWQkk3bUhYOFZiZVc4cUxTR3hRQWVXQjM3QW8xQ0Fzc0RjcFZfbFNpWUV5eUxicXlHMTYzdVVtOVhYeXdUNUdfLUdhcEpRd2FNWC1qRl93Wg?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-02T10:34:03Z",
+   "first_seen": "2026-11-10T12:39:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Changement de numéro un mondial ATP : il modifie la visibilité des joueurs et des marques qui les équipent, mais l'effet direct sur Tie Break reste limité à ce stade.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "bc9de267a2ca",
@@ -5614,6 +5707,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "d6dd0494aeaa",
+   "title": "Falaise. Simonne Mathieu, résistante et championne de tennis, à l’honneur au Mémorial",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNM2JZNUh2eXBuZXluME9uVU0zQmp2dkNIUG1zekRCUDhhTzk1bm11SVVyREpodms2OUd4aVdJOWdlQ2xjWWFDbDl3WnZickR4ZVZwN2xvRzlTWkN6YVJmNTkwcU5QOFl5YTlBUjd1REg4NmZ5MzNoa3FobEc2OEpqS2M4OERUeWl5dmF5cVJMT3dXZGNaejlkWjFKaXhzQnExa25iQ1RNem1BVENJdTJZNjdSeDh1OTJtTC1XWkNYcjRSNWlfTXAyN2lfa29zOWhnYlJYNUV1MmpPUjAtVzU1V2FTdjdVT1AtUVQwLUoyYW9DRmxSWW5Ga3poeHh0NmM?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-19T07:00:00Z",
+   "first_seen": "2026-11-10T12:39:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "83e9a96bb404",
@@ -15885,5 +16001,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-10T04:11:51Z"
+ "ai_updated": "2026-11-10T12:44:04Z"
 }
