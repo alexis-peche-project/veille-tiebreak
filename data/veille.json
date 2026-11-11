@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:26:19Z",
+ "updated": "2026-11-11T17:53:35Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 4,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 366
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 361
  },
  "items": [
   {
@@ -127,6 +127,28 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "dc5f3f9fc214",
+   "title": "ATP > Jannik Sinner : \"En plus d'Alcaraz, deux joueurs du circuit m'ont tout de suite écrit quand j'ai annoncé la fin de ma saison\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oaEVOSjlocUxtSkdLQldIcnk1aGliX3B1dExuRElaVjlrZU1ZOFotcjlfeWR5WXoxbzJSRWN3Uzl5V29TcUgzNUhvQTY3UQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-10T16:40:00Z",
+   "first_seen": "2026-11-11T17:53:35Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "L'arrêt annoncé de la saison de Sinner, athlète Nike phare, réduit sa visibilité en fin d'année et pourrait freiner la demande pour ses modèles et pour la collection associée.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -3031,6 +3053,29 @@
    "axis_original": "E1"
   },
   {
+   "id": "699ced89ecc3",
+   "title": "Petits colis: les deux euros de frais additionnels entrent en vigueur au 1er novembre",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWjd3VHpkYkx1bVdyVzhENkF0OU8zQS1mbEh4YnJPUkl1b0FjM0k4VFQwUUR6bEk4VV9uZUhNTFVEb2lyN3V3bXZEV3g3YUVJWC1JLXpScGpqdkdFR1JlRHJtQjYxUGVVZDRHMmhFQWxnamZqZnN0eS1qMGVYRnhDZU9LbW1NNGk0bjFWakJaN2FhazFKUGEyTHlHTlB1VDVOc1BpaklwNVVJVDlHdEpCM0FXbzFpVEVwWHRzdGRnLWw3Qjc0eWRsWkozSDU?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "be.fashionnetwork.com",
+   "date": "2026-10-29T07:00:00Z",
+   "first_seen": "2026-11-11T17:53:35Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike droits de douane Europe",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les frais de 2 € sur les petits colis entrant dans l'UE renchérissent les achats transfrontaliers en ligne, ce qui peut influencer la concurrence des sites web et les coûts d'expédition du futur e-commerce.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "b6c755684ad5",
    "title": "Nike renforce sa présence en Inde avec une nouvelle chaussure de running, à la recherche de nouveaux moteurs de croissance",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMlB0UFVubUxFWkxER25la1FJbnE4eHRlUGl4YmtaVExudy1FQkxDTHpfTHNDcVVFWVlMUVpHdExseTBWUm1GYjZzQjZXNmxCZWZoVzRFRXpaWVNuT0l0aUVfSXZJVWROenM3Q0xuV3RTYVp2aVEzMlQyVEg4M1Ixdm01X0x4aGdWdndWVWk0b1RDVmZhQ1J0ZDMwTk8wUmFxSzB6Smg0d2l4UGlfclNsWVZfSnRZTDlUdTlzUWN5RWw4NktNNmYwVVlVSU5oTk1jNV9kTGs0YlFOS1N6UWhQTi1lamF3WVN0OFFub2JGMlZydw?oc=5",
@@ -4239,6 +4284,29 @@
    }
   },
   {
+   "id": "5697bd4b2bec",
+   "title": "Nike fait des heureux en sacrifiant le prix de cette paire de Vomero 5",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFVxQTc1dy03YWU4eWI5aHA1aGJiT3VQMDh5YlplSkgzNjhxZTBJU3JkNDdTX1lQOVVQOS1IcVVuWkxOVmdaZXBaR3NLMXhCZzVhdHRHQkRPbU82QlBuYVlyUEhISUdYZUU4RjdwUDh0aFBYUWp1VE1GM1RjQ1hwTTJqZVI0b0s0N2lTUHh0bnFMRFM4QndvempKOWRJcFFwTWRXc0Zvem53ZzBHVzVIdFhsb3lXaUI5VnRJQktPZWZBM3JTZVpTaw?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-25T07:00:00Z",
+   "first_seen": "2026-11-11T17:53:35Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Une baisse de prix Nike sur un modèle lifestyle peut signaler une pression promotionnelle sur le textile et la chaussure, avec un effet possible sur les marges et le prix perçu en magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "cd44ae3f2b25",
    "title": "Trump Defends Tariffs at Rally as He Touts New US Audi Plant",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0JOZjVEWWowZW1iS2tiQXA0MDAycnQxZVFpQk9jRjgzTlFuUjJLLXQ2UjVzQUZSUFJ3SC1qaTVhQ2FvYmVfNHBFRVBvWk9zS2NrU05mYm1PdjVPYWJ5Rzcxa0hGcnBPLVR4aFRDMHlkdG1hWFN3ektsc2tvODB4U2x0c1YwMlplWnFEaURxajdOUW1fZzZkSzhiSThLWUU4OFUtT0JoTFJIWi1oSFMwU0pQNmJuZw?oc=5",
@@ -5118,6 +5186,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "6263d2d0bd3e",
+   "title": "Les parisiens se jettent sur cette paire de Nike Air Jordan 1",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHBBTmhUSnVUV212VHVPZlpZZXZrQjBnWGFya2RkdzNqeEdfbE9YZmhnR1FWTnRLS2hBVTY0Sm1HU2FXX1U4bUEyZ0RxUDA4N1dKTE9aUGdfNWRUU3k0dnNURlA3cWRnVE9IODZvNG5FWXE0eDJBQV9zQmYxMHBpdl9HQ1VXdTYtYWc2Mktpal9vbFBJeDNoUjlxSlBmLUd6bDZHbnQzVjFfVUNUMlE?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-11T17:53:35Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "L'engouement parisien pour un modèle lifestyle Nike illustre la demande sneakers urbaines, peu transposable directement à la clientèle tennis de Tie Break à Nice.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "67882707d0d2",
@@ -16317,5 +16408,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-11T09:31:58Z"
+ "ai_updated": "2026-11-11T17:59:07Z"
 }
