@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T01:56:55Z",
+ "updated": "2026-11-11T09:26:19Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 361
+  "added_last_run": 4,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 366
  },
  "items": [
+  {
+   "id": "3373e71f3e78",
+   "title": "Le coach de tennis padel vendéen invité à New York lors des matchs du Grand Chelem",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZzBPOFRKS0Y1WU1FaTlhMmJYRVRGOUs0UG9TelM4TWRRUWliTmhfa29Qdi02MDJOTjg2OGRSd20taUJJQkxTUmxvSnN4c2dNLUJCNHpRQzd2SFdBdmFSMUczdHdTbV80QVZZb3dZdjU3RHJQWFlQR3dvOEpZeHkyME1ZbjRXYnlsdGNxN3dlWkRtT2VWVzNhbUtWTnZfUmtaN29LUVlHeFRqUFdUdDVORDVLLUp0ZjhHYzJTLWZNN3dYOXNGRmRLTnJPa2ZURzBadHNMb1k2dmJTalhxYVd1MlVVdEdLRlZHc2dUdnRtUWVwVkVBczFDYjZtQXpYY29vclhsZFlqTUxiX0k?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-11T06:49:01Z",
+   "first_seen": "2026-11-11T09:26:19Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "6fb31d89261c",
    "title": "India garment makers rethink reliance on US after tariff shock",
@@ -126,6 +148,28 @@
    "ai": {
     "r": 1,
     "impact": "Projet local de halle de tennis en Normandie : indice limité sur la demande des clubs, sans lien direct avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "315bb88d0f84",
+   "title": "Les fonds négociés en bourse et les contrats à terme sur actions évoluent en ordre dispersé avant l’ouverture mardi, dans l’attente du rapport sur l’inflation des consommateurs d’octobre",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNb3I2QU1lWU1QUFhUTDRYVTJLb1E4cWNBYVA2ZWVpNUlUY3F2VW15VzFSN05PY2h3LVpTdTN3Zk1CRnhkb2RSQ01ZTjg3ajN1VjVSZEFGa254SkdEY09JT2dSZ2VJb1Rha2tlQTQ5ckhwMHhVbExoZGtyRk9raS0tdjhteTZHN19WXzZORl9DWHJJbmFES1pBQ21idGZDZktFa0xXa3diODEwVi1RQ2tDSG1qSmctbm9KUl9OV3FoUmd6b00zMEUxN3VVSk5XaGc2eEpBb0ZtZjNQUFJoSkoxZkNRMUxsZExNUnNnRE03c1dvdw?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-10T14:23:45Z",
+   "first_seen": "2026-11-11T09:26:19Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -286,6 +330,28 @@
     "r": 3,
     "impact": "Changements de direction chez Nike au 9 novembre : impact possible sur la stratégie wholesale et la distribution, à surveiller pour les commandes.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2abe0907c2d7",
+   "title": "Musetti et le numéro 1 Zverev : \"Sinner et Alcaraz restent meilleurs\"",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkpkempMUmFrWkRxZDc2c2wteGVWM21sRXB1RXoxZGYzM09hQmp4dTRKTk5ZRGF0Nm1MQlZkQjl5dkFhRVU1MmRnekxYMGRiVWFSUEM4ckc1Y0txdFpYY2dLSnBkM2RfYWxxdEJHSzJtSU9PUlNTRmtUd01pMldJZkZuTGFBREVYWXhReEpHcWRFdExDcU5FUGppbzQ5YldKTDAxU3lFM05CU1lz?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-11-09T20:10:37Z",
+   "first_seen": "2026-11-11T09:26:19Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner et Alcaraz, athlètes Nike, restent au centre de l'attention : visibilité favorable à la demande en textile et chaussures Nike.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -2394,6 +2460,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "850e97f3da7e",
+   "title": "ATP 500 de Vienne: Alcaraz confirme son retour au premier plan",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQnJzVVlMQ0VoeDlQM0lPTG1mY3d1WVppUGloWndTN3NJUmFOTVQwNTFWM0swQ2o3VWlXdmNzZ0Jtem1lSjllM1I4S3ItRjRSMzBPallmMG9HQUZST1BTdGxhakd4dWtVSW1FWG9mbWtzQm5HZnR3RnNZVzVmcWFNc2dDU0NsTDIwenV4ZFZPVWVvRnFGSGZRdFdoV3hxMUR0Z1YzZ3ZZZVprMWtGUXVERUItcDQ?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-01T07:00:00Z",
+   "first_seen": "2026-11-11T09:26:19Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le retour d'Alcaraz au premier plan, athlète Nike, peut soutenir la visibilité et les ventes de la marque en 2026.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "99275c0b6449",
@@ -16229,5 +16317,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-11T02:00:46Z"
+ "ai_updated": "2026-11-11T09:31:58Z"
 }
