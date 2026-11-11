@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T20:49:32Z",
+ "updated": "2026-11-11T01:56:55Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,62 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 353
+  "added_last_run": 3,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 361
  },
  "items": [
+  {
+   "id": "6fb31d89261c",
+   "title": "India garment makers rethink reliance on US after tariff shock",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeDdIZ0RwVjNYVGVNbFY5SnFjcFlkdHUtNk1hVjRyVzNKbS1mOUtEZDdjQzgtV2phQy1oSXBVY3hlcHE2WUVxaDlreGo4d3kyU2NYZDc2anN6Zm5GWjBoRmpKMGs1YktyOU5XSDBEMjhNS2hEUXR2OWZuWm1XZVBvRWpnSTUwcW0zdFpYOTgySG5JYTVna29OdVlPYU82TnI0eENTQjJrQk85NFNiMVBN?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-11T01:33:00Z",
+   "first_seen": "2026-11-11T01:56:55Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Les droits de douane américains sur le textile indien poussent les fabricants à diversifier leurs marchés, ce qui peut redistribuer les flux d'approvisionnement textile sans effet direct démontré sur Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e732532885ac",
+   "title": "Here’s How Some Footwear Companies Are Using Tariff Refunds",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDlVLXNzZlRkVHlLSVhodUxiTk40WFJXQ2NPRVVZdnFOQ3V3WHdCWVhRYlAxcF9oMC1GYUtwc204bG8wdXQ1M3k5Wk5HUEl0X0ZYbG1OZ1Qyc1FKT3JlSlMxUk1leTFDaUpTM0tmQ1pEU2xjQWV4VkdCdllaTGFaRnd1Z3ZMZl9INkhtSURuQ1N1UWdDendEV0tMWXhfOVR6S0JCUHp4dGZmTm9WVTVoOEY5aDdtSUtWb09WYQ?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-10T22:59:19Z",
+   "first_seen": "2026-11-11T01:56:55Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "L'utilisation des remboursements de droits de douane par les fabricants de chaussures peut modifier leurs marges et leurs prix, donc potentiellement les conditions d'achat et tarifaires de Nike pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "6765ba72a968",
    "title": "Jannik Sinner : « L’objectif est d’aller en Australie », l’Italien évoque son retour sur les courts",
@@ -32,6 +83,28 @@
     "r": 3,
     "impact": "Retour attendu de Sinner, athlète Nike : visibilité accrue sur les gammes tennis et calendrier 2027 à anticiper pour les modèles signés.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9e11fe30141c",
+   "title": "« Notre pays a besoin d'un grand service public du sport » : Philippe Bana, président de la FFHB, regrette les économies demandées à France Télévisions",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdGpPaHJiN0w2NnMwS1d0TTAxQWRpMGxtLW1BXzE3aUNzcFNpRnVCdmE1bU9VemtETVJnc1FoQzRMT2tua1FGMm1rQ3VFZWp5bnhJaWUtQnJ5a1c3MVFQM21Xc3BhdjBZVnR5RzJuTUJNMmw0c0R1Y3Y4ZXhMTmVOQmpNMkdxSU9EOUFDMGppRHhTS1lvWGdsZGFiRkFYSzYxVUhycktKZG9ybVNqdEkzb2NMRHFrekpZaHdwaUo0VzFZX2Nkc3NpTFdOTTI4a2k2YUxKZ1YtdW1jU1NEMHVBNUlIdEpyU29ZVG9sMy1sYy1tcWM2MElVb1BWb1JIYXBqTWRQMk1HaWZaQnBGZTJzUXp2TjBEN2RXdWJUbnhEVDlEbDJNUXFRdFFXTUpoT3hDVC1F?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-10T19:30:27Z",
+   "first_seen": "2026-11-11T01:56:55Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -16156,5 +16229,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-10T20:54:45Z"
+ "ai_updated": "2026-11-11T02:00:46Z"
 }
