@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T00:43:48Z",
+ "updated": "2026-11-12T09:50:26Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
+  "added_last_run": 2,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 401
+  "rejected_last_run": 368
  },
  "items": [
+  {
+   "id": "507d193b52f6",
+   "title": "\"Il y a des jours où je ne sentais aucune douleur, et d'autres où je ne pouvais pas bouger\"",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORWVncDB4NGxuUUJXSDJ3Z3pvWm1SLWhXSklnQ1JlaUZNYVdDdG9RTldEUHBhUElNUGFocUZPcXdPa0R3OHdiOEFxY0RiTklLRE9vZlhhb1hXbmZmc3RmMTlYMlRHUG9SQVRLZzJmU25jaFhwNXlaSXNGaVZGeWF2WW02TzRWU3NUN0w2RjcwTU5UNHlxTVlvMDF6UFVydTJGYWZHd0JOaXQtX2E5dE9VeU9KYS16U1dlOWJTT0RxWWJ1b3Z4R05KbDF0Um5QVm4yaUxqaVMyLVI2aDlFQjFIMUVqdGFuelNDWXFid0Myck5HYmdOb0tfR1R6S2NrV3lmenpxb0xvdTBqZjdvRGc?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-11-12T09:12:00Z",
+   "first_seen": "2026-11-12T09:50:26Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Citation d'un athlète sur des douleurs et une immobilisation ; l'athlète et un lien avec Nike ne sont pas identifiés dans le titre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "5b55ab22bd3f",
    "title": "ATP - Blessure: Jannik Sinner se confie : «Le pire pour moi avec cette blessure…»",
@@ -1091,6 +1113,28 @@
     "r": 2,
     "impact": "Une recommandation de vente sur Nike traduit un scepticisme financier qui peut peser sur la stratégie wholesale et donc sur les délais et volumes livrés à Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "64996f5f418f",
+   "title": "LIV Golf is done after 5 years and $5 billion spent dividing the sport - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSlg0aE1pQVB1MjYweWstWUFRZTlzS2RiSEpKci1NRlVTYWM2cmxDLVF2cU5nOTZQblJseGxhLXY0aXZPRFV0aWxYUWJmZkhFOUlHQTZ6VG8xU1VYb3RoX29Wek93YVBpOFo5MU1VLTN2cGFibmlXLV9Kcng5OXdfMW5UQ2JmVW5KWDE5M3ZyZw?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-05T18:12:16Z",
+   "first_seen": "2026-11-12T09:50:26Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Fin de LIV Golf après 5 milliards dépensés : signal sur les limites du sport-power saoudien, sans lien direct avec le tennis ni Nike.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -16502,5 +16546,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-12T00:48:28Z"
+ "ai_updated": "2026-11-12T09:54:55Z"
 }
