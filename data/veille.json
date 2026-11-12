@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:53:35Z",
+ "updated": "2026-11-12T00:43:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,10 +9,78 @@
  },
  "stats": {
   "added_last_run": 4,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 361
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 401
  },
  "items": [
+  {
+   "id": "5b55ab22bd3f",
+   "title": "ATP - Blessure: Jannik Sinner se confie : «Le pire pour moi avec cette blessure…»",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVlGX1JxTHNIS0xYZjZGUnZCS3lPSEgwdWpsX3RacktJZ0hDR05acERXS3R3MlQ5dXdQU1JzOXA2b0EzNUtPOUk0TUZ0VDA4UWROY0gya2VrVm5HQVJoQUZXRXF0SnZWdHhTX1BVZlRMd0hDRF9veFFhS0dFam96QmdNRlhUQ2huZnpRaGp2RTlkekIxWm1iTUE5OU9PR2VQblZFOWwzUW93V3FHa0l6QnJTcGZqaUVU0gG4AUFVX3lxTFB1RUZtZlNncGxOZ1huVm15bGF6YXc1NGdCVWxHSkEzY01xOWUtRHZhdW1yLW1VQVhSdkxkeFhTWmVETFlXYVpDV3kyNWNaZE9oTkZ2ZkNjWTRZdkZCT2N1bDdIX1BZVkRGaHRRcnUxcXVQb3plQlVrVEVqbndXQ2NCLWY3VDRSQlFMNDlJOHJkVGl3N0NEc1ZTUXZyUXBURzdaQXMzRVpHV3RXSmVkOGJUM3JRX1ZyR3c?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-11T19:13:00Z",
+   "first_seen": "2026-11-12T00:43:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure de Sinner, joueur Nike : une absence prolongée réduirait la visibilité de la marque et la demande pour ses équipements en boutique.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "dfbf1413202a",
+   "title": "ATP > Jannik Sinner, interrogé sur Carlos Alcaraz : \"Pour être honnête, je n’ai pas beaucoup regardé de tennis à cette période parce que je voulais être là-bas moi aussi\"",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRU5DTkNMMVZoQ25iUm4xOEYxLUtuOWtCWEE4RmV0cmVDZTYtMFhpblA2NWh1clVZMVRlbXlIS1dkTUttUHZKLUtWUF8yM2pfOWxwbFZ0c2x6dHJmUFpLZmQyUXo3c0ktT29xOEY3TVJIb3pCTUVjQUxHTGZRS2RobmNzZXQxWW9DNGZDZzhpQ0FLQzg5UkdpTTFxNTR3M0xfNnE1SWxUcGZVVHNqVjl2TDFIUTYyTEUzV2dkcUtxYVpmQm14MndxMkM0UEFVWm1HT2VNVjh4cDdaOVZSMVFrTkUxcFJMNE4wMGRrOTVuWkJ0SXpKYmFtdnNLOW9VOUZndlJnZ29pa284RjcwY3dJTGZ2czFHWGx0?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-11T17:50:00Z",
+   "first_seen": "2026-11-12T00:43:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Propos de Sinner sur Alcaraz, sans lien direct avec les ventes ; contexte de rivalité utile pour suivre l'image des joueurs Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "119e9d9e9734",
+   "title": "L'IA redonne de l'élan au Nasdaq, mais le Dow manque de souffle",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcEIwRDZ4d0JMV00taUp1S05maTZVcnMxeGNhVG8yNlVvV0U4WlY1RXdrMDZja0hJd05kRFQzTlhLVlRfV3pmd19LZEVCWGxrbE9TTGZQY0hYUnIwLWk2UkE1OVdsT05ZVC10QkFTeTd4ejN5YmNGVUlPVW91NTRMNV8wcVBsQ2I0M180eVlidGdjY0tBWkQ3a0lJaHZrY2NoZTRaT3VEV0tsZk9PNnF0djVicnZabUZHY05LbW5hQi1iV2MxeW5nSWlNd2ZPUUtHUmp0RFIyVC1nWWNP0gHcAUFVX3lxTE1wQjBENnh3QkxXTS1pSnVLTmZpNlVyczF4Y2FUbzI2VW9XRThaVjVFd2swNmNrSEl3TmREVDNOWEtWVF9XemZ3X0tkRUJYbGtsT1NMZlBjSFhScjAtaTZSQTU5V2xPTllULXRCQVN5N3h6M3liY0ZVSU9Vb3U1NEw1XzBxUGxDYjQzXzR5WWJ0Z2NjS0FaRDdrSUlodmtjY2hlNFpPdURXS2xmT082cXR2NWJydlptRkdjTkttbmFCLWJXYzF5bmdJaU13Zk9RS0dSanREUjJULWdZY08?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-11T16:22:00Z",
+   "first_seen": "2026-11-12T00:43:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3373e71f3e78",
    "title": "Le coach de tennis padel vendéen invité à New York lors des matchs du Grand Chelem",
@@ -34,6 +102,32 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "11552b09a2c3",
+   "title": "Here What We Know About Tariff Refunds for Shoe Firms and Retailers",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-firms-retailers-ieepa-refunds-corporate-price-decrease-1239408697/",
+   "source": "wwd.com",
+   "domain": "wwd.com",
+   "date": "2026-11-11T02:30:00Z",
+   "first_seen": "2026-11-12T00:43:48Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Remboursements possibles de droits de douane pour fabricants et distributeurs de chaussures américains ; effet indirect sur les prix et marges de Nike, à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "6fb31d89261c",
@@ -16408,5 +16502,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-11T17:59:07Z"
+ "ai_updated": "2026-11-12T00:48:28Z"
 }
