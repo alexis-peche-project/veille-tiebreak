@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:50:26Z",
+ "updated": "2026-11-12T18:19:24Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,123 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 2,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 368
+  "added_last_run": 12,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 408
  },
  "items": [
+  {
+   "id": "98767616d452",
+   "title": "Ruud valide l'arrivée du Masters 1000 en Arabie saoudite : « Les joueurs en bénéficieront »",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzBnNUZ3dFlvX3BYTGVoTVU5U1k3MWxpdzNRbXl6MjlTcHc1Y0IwQmN2LU9TRG5wSHcybzFlclNvTjhwOU5lUXdXNEhTVGpJb2wzM0U3ejhJWHdMTU9DSzFmUy1VUXhjb0ZxVUpYVjlkV1JyR1dCNmZPaVRYWjRLYnF4bFpFVm1HZVAydg?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-12T17:19:02Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Arrivée d'un Masters 1000 en Arabie saoudite : possible recomposition du calendrier et renforcement de la visibilité des capitaux saoudiens dans le tennis professionnel.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b240292c0089",
+   "title": "« Je veux protéger mon genou » : Sinner se confie sur ces jours où il « n’arrivait plus à bouger » et sa perte de poids",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOOUk2YmRadFJmTzQ1NlNKWXE1ZGNPbnJ5SXltUTdBYzBIOXFmaG82T0xXMGYyeFVqajB3OXhCZ28yS01mcnVjTk52OUIwRFVXRTAwaDRxLTZZd2tKaHVrMVlfbXNwTjFmTktEN0c1VGU4c0ZzbGU1ZjNLYW9seHcwYlVKZHpYWVZxcGkzaElIbzF3ZEtzMzhrRGo0anM4cGhxa0pyTXpOclplNVJOcjI5cjdMSzBsY0RXLUVUNUNnQkZNQld5RHplSHdBd0ZrSVBqZnA1cnlvWDV3d1FNMFZQMFNabk5OQlp6M2FscHlQQzZfS3lKSlZYemNiLS1SNWxaOG16Z1UzMTVTRk5uVEdpUHNFTTdiSkFZSWxNVEdxVU10bm52U2hV?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-12T15:23:18Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure au genou et perte de poids de Sinner : risque de baisse de visibilité pour une figure majeure de la marque, donc pour la demande associée.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ef416e810e80",
+   "title": "VIDEO. « Je n’arrivais même pas à bouger » : blessure au genou, opération des amygdales… Jannik Sinner revient sur sa longue convalescence",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPemIySUM3TkFXd3B1aWRjVGpoVXU5TURjSmRWcEZpUzFtSWRXLUYyVlpVcURXZURVS0hBQS1kSFZycmUzQkRMc2ZtNk0wOVk0cDlRME1Eb3pWUm1odkZUYTlCX1daZW50SmJlM0FqTDVYSDFwcjhlUTJxZmViUHVFczFSQnpaYkh3cTJvLVVQSVFDQnlSdnFZWG42ekpxU1dpZDVteGY0WEM4M3RwRTRhS3ZRRkJqdnZLaXFBbExFLUZFVDBMc3QxWEo0dmFiWm54OTdRLWdwZ2o4M0gyZ2hfU1VXdUlhaTFBWS0tX1ZRZTBiR1lwVzFoWlNtcTJ1VC1XUVE?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-12T14:56:18Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Doublon du même sujet sur la convalescence de Sinner ; pas d'information supplémentaire pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "27b1cdd52287",
+   "title": "ATP > Taylor Fritz rétablit la vérité : \"La prime de participation au Six Kings Slam n’est pas aussi élevée que ce qui a été dit dans les médias\"",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMlcxWWV0M2tuV19qZjFfSDdMNDE2T0hzNVcxZE0zaktiWGxDT28xVjU1TDJCU3ZlckZTNm5ianZyYXRra2hIWU1LYTM4N29FU0ZLRkVVYzNkSzl4ZHB2SjhKNThabm5vRVpJTWh2M0JKZW5zZHN2RDQ5bGFoek81Zy0yRTU4WWlydE1Vb1FwWms4eXJwVXZyUXBGTGFKLVAtdGJ6aGljNldzaU1yVHEzSFZsV3B2ZDZ0Ql9WaVVmOXZUUHdXenJRdjZCX1ZlcW5TS0JkVktFNlNuRGlGQ1ppWmRlUWRCa1VYcHlTSkFZU1pIVDh4ZjNkbC1R?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-12T10:45:00Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Précision sur la prime du Six Kings Slam, exhibition financée par l'Arabie saoudite : éclaire le modèle économique des événements soutenus par le PIF.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a6e6a92df6c1",
+   "title": "« J'ai perdu beaucoup de poids » : Jannik Sinner s'est fait retirer les amygdales",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUTdnREZFUWpIZjVDY0xEODItdF9qWS1ubzV5ZHlpLWRyVmJpVmhMLWtJMkw2b0FtWHFGdXlqWndiS0dybDE2dG05cE1YcG1CeTQ3LUMzaWVlcFBqcXRsT2JCd20zU1JjWjB5WG1DeGJtZ19oakpvVnBKOWZuVm1CRjhkeVlXcnlsM1dHVmdHU0xpQXc4WDlGZmg3QnViOERTMnRrSzh4aFpQU21RSU1lMXBoRlo3TjRvbTBDMi1DQUxERzQ?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-12T09:13:09Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Ablation des amygdales de Sinner et perte de poids : impact possible sur son calendrier et donc sur la visibilité de Nike Tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "507d193b52f6",
    "title": "\"Il y a des jours où je ne sentais aucune douleur, et d'autres où je ne pouvais pas bouger\"",
@@ -36,6 +148,74 @@
    }
   },
   {
+   "id": "2ad913ba8f93",
+   "title": "Burberry grimpe en Bourse, le T2 dépasse les attentes",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEM2UERvRGFmWF94cFl5MzFoQnlVWG9PdHZpQlI1ZUU0a2IwSmRMVEp5QjhJdjAwTWZIYVRDeENCN1l6NnFGc0VmNldNdnVKRk5JTTVEYmRNTHBFOXZiYmk2bkR4VzRIczhJSFR3QmR4bTFuTENyNGw0RlJGN3RGSUl0b2t6amh2OXlXek1sNC1zY3haWnp6ZTVFSVc2dTVFWjNxNWtqaDI1SjFCcFp2QXRiU09NQllaZ3lHVjA5X0RFY2M?oc=5",
+   "source": "Investir Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-11-12T07:27:33Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "669e0c6c90fe",
+   "title": "The Questions Nike Needs to Answer at Investor Day",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFdvSEx2cWc2cEhhbVhMdG9YN2hFMGx4UVN2dW16Qzl3dXp3emxzWExrMnI2V3FYdzh4NWpUbkFNeWFMY2lMeF83RU1DOVhvR3RlY0hRSXY2bjFfZTJWVk1QSUdsTk1mTFQtT1g5a2djQ0NSUklfSW5ab2hYRC1QamJZajUyamgxX1VqUlpYT0hYWHc?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-12T05:30:00Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike doit répondre à des questions lors de son Investor Day : stratégie de distribution wholesale et collections pouvant modifier les conditions offertes aux revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8e2eac93e396",
+   "title": "Red Sea Return Shifts More Container Congestion to European Ports",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0tOZVJkVjctTFFxQWlqZEtZbVdoLTA3T2hFb0g0dGVIWk9yTTJWMGNmbXNtaWhxTXgtOWE5UC1yNUVWRkkyWHZ0UXJ0RThXNTRwQjRWRzZ3OURVZ2FUTTViT004TnB1S3hiOC01T281TEo1UjBEQm85VWlvT2RlOGk0THFadGhZS0YyVURHR0VXaUoyQ1ZhNnJINnhaODFWZDczR0FQYTNwa1I1MGxzVkQ2LXgwUVZkZU4zdw?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-11T21:58:25Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "red sea"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour des navires par la mer Rouge crée une congestion dans les ports européens, susceptible d'allonger encore les délais de livraison des collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "5b55ab22bd3f",
    "title": "ATP - Blessure: Jannik Sinner se confie : «Le pire pour moi avec cette blessure…»",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVlGX1JxTHNIS0xYZjZGUnZCS3lPSEgwdWpsX3RacktJZ0hDR05acERXS3R3MlQ5dXdQU1JzOXA2b0EzNUtPOUk0TUZ0VDA4UWROY0gya2VrVm5HQVJoQUZXRXF0SnZWdHhTX1BVZlRMd0hDRF9veFFhS0dFam96QmdNRlhUQ2huZnpRaGp2RTlkekIxWm1iTUE5OU9PR2VQblZFOWwzUW93V3FHa0l6QnJTcGZqaUVU0gG4AUFVX3lxTFB1RUZtZlNncGxOZ1huVm15bGF6YXc1NGdCVWxHSkEzY01xOWUtRHZhdW1yLW1VQVhSdkxkeFhTWmVETFlXYVpDV3kyNWNaZE9oTkZ2ZkNjWTRZdkZCT2N1bDdIX1BZVkRGaHRRcnUxcXVQb3plQlVrVEVqbndXQ2NCLWY3VDRSQlFMNDlJOHJkVGl3N0NEc1ZTUXZyUXBURzdaQXMzRVpHV3RXSmVkOGJUM3JRX1ZyR3c?oc=5",
@@ -55,6 +235,30 @@
    "ai": {
     "r": 2,
     "impact": "Blessure de Sinner, joueur Nike : une absence prolongée réduirait la visibilité de la marque et la demande pour ses équipements en boutique.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "fa86de9d7093",
+   "title": "ATP - Blessure: Jannik Sinner révèle une opération: «J'ai perdu beaucoup de poids»",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3BNS3BwWlZsM1hCUTd1cXRBN3JJOGdOX0d3VTM5VGdIdkNwb1Nwd3dtVFdTUVpuRVlxMklpblJMNXhNQ3Y3enhhazVaTlN0X1ZudDgxaURoZm9EdGRPajNFcDFiWEw5LWNEVWN5SjFzSmFOWUxWeDZxMVhpelVwRjgzUkI0SkxHMzhhZEZ3djNvVlhvQ0hKTFpEdEtUMC1JRG1iano1VjFNQTZVTDZIRmRSNjdWUGg4azF2YdIBvAFBVV95cUxOS2VSZ1BZSWpyMU1xTUw0cnhlWVpMNmV2bnQ2SGRpRmVpMVo5dkNSd29NT1BzY1VQWTFENS0xZmtZRUZGTEZKRDY0bklYSU1LN0MxUTVXT3hVRldqQ05abmFablk4TVh5SHNMTWFkU3VCQTBia20tM0F4ZGdLTEE0dVR3alpQckRGTmprUElsbFBGYkZsRzdldkFCdHNQdmFvQjU0OWN1cXBzclc3UHJzTVJfYkRzUGpjNEN1NA?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-11T19:13:00Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Doublon de l'annonce de l'opération de Sinner ; sans effet nouveau pour Tie Break.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -245,6 +449,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "1b12527d9bbc",
+   "title": "Ces baskets rétro Nike vont faire de l’ombre à toutes les autres paires",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaG03YXkyWXFXcGc0cnZhY21Db3FNLVE2MS1pSnlzN202OElrb0VadlE0N3o2SGxEbzd4Q2lrOXg5Q0lBQVcyVlVDZlpFd1FlZmFUTWZkWlplc2txcmJVQnhoby1idUNrVUdWU1lBbDZ5UjZsY2ZKQkVkRk9OMGhvSG1xU3B4c3hoS0ZTZ2dwZUs3amdfT1ZxUG1oa0Vob29wM3RIc3Y5UjlIN3JtLTV3?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-10T17:12:00Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Retour de modèles Nike rétro en tendance lifestyle : possible soutien à la demande en sneakers, à confirmer par les ventes.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "dc5f3f9fc214",
@@ -803,6 +1030,28 @@
    "ai": {
     "r": 2,
     "impact": "Qualifications pour le Masters incluant Alcaraz, athlète Nike. Fin de saison porteuse de visibilité pour les modèles associés, utile pour anticiper la demande.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "69d6815f9d79",
+   "title": "Photos: The WTA Finals singles and doubles player portraits",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcW9Cdnd1ZS0tOGY2NkVlYW5NS3ZpM3VTSmlRZ2Z4blhUeUJvQ3o5MGh0a3pzcHlCQXZScVd6Tzg3TktYWWFxTVhhZklLT285SG1qa3lEWFRpZ2JKV2ZDRHNxVTNaVDFGN2NGR0dvZ3lmWHBIRTl2eDRENUtLbW5SS2xZTFRuc3RWRFJsYlNzWjZMWEtKNTh4Tl9YNkMtQQ?oc=5",
+   "source": "WTA Tennis",
+   "domain": "wtatennis.com",
+   "date": "2026-11-06T22:05:46Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Portraits des joueuses des WTA Finals, sans information commerciale directe pour Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -2095,6 +2344,30 @@
     "r": 1,
     "impact": "Chute de Zalando après une marge brute décevante : signal de pression sur la rentabilité des distributeurs textile, utile pour cadrer le site Tie Break.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8c2ec97695f6",
+   "title": "News Major liners set to resume all Asia-Europe services through Suez",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObG1aZTJqXzZPY0UydkxpaU42bkl3OWpleEQ4cFZic1dKQVlYMDBienI3Mlp3QjdpQ3ZTV3QyMHFjYkc5enVMSmpCVkRMYzFkS1ZqSkswZXZoV2ktTW9Kb1BhaHRNTVJFVU1TOVRhMUVsenJWZFFqRG5WVEVBMkozc2oxejRhdjgxQm9fVWZWcFU2NkU?oc=5",
+   "source": "The Loadstar",
+   "domain": "theloadstar.com",
+   "date": "2026-11-03T08:00:00Z",
+   "first_seen": "2026-11-12T18:19:24Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Reprise annoncée de tous les services porte-conteneurs Asie-Europe via Suez : potentiel d'amélioration des délais d'approvisionnement, à confirmer.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -16546,5 +16819,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-12T09:54:55Z"
+ "ai_updated": "2026-11-12T18:23:55Z"
 }
