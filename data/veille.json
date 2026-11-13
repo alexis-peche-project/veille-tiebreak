@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T18:19:24Z",
+ "updated": "2026-11-13T01:05:13Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 12,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 408
+  "added_last_run": 4,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 403
  },
  "items": [
   {
@@ -99,6 +99,28 @@
    "ai": {
     "r": 2,
     "impact": "Précision sur la prime du Six Kings Slam, exhibition financée par l'Arabie saoudite : éclaire le modèle économique des événements soutenus par le PIF.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7a023174ece3",
+   "title": "ATP > Jannik Sinner, pas seulement blessé au genou : \"Je me suis fait enlever les amygdales il y a quelques semaines et j'ai perdu beaucoup de poids. Vous le voyez peut-être à mon visage...\"",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNUJBT0JZY2t4LS1icVdEOFRKNzR0X3p6Zm95Z1VhSDVSZWRUZnNjTFU0amxtNWg3XzJGcC1NVUNrcFNQMTdnV3RVNmR1ZWVNWFRjaXdKaEVxUUh6U2NDTERMU3ZZQmZrN09Jd0gxUlc1a0pRckpDdElzUDByOXU4RWFYUXFxbE1qeWV0ckxiMl9QWjc0ZWxBUXB2YTNaSWxTSjNmMWtHQkhqQnpCa2IyTEpLWUdsZlR5VmlMdXgzTU13OU1lV2piRlo1aS1lbEJiZ0U5LXBDYWI4RUFuVGx6YzJaOGgxekQxclAzSmdJU1BYTWFaYVF5bGU0S3oyM3N4czAxa0RfQnlqMTQxMEVwRDQ2WW5NMUZoaEtDblNpMnJWWFRjZzhPWU1qRU9ES1U?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-12T09:34:00Z",
+   "first_seen": "2026-11-13T01:05:13Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Absence prolongée de Sinner, athlète Nike, pouvant réduire la visibilité de la marque et la demande liée aux tenues et chaussures du magasin.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -264,6 +286,30 @@
    }
   },
   {
+   "id": "e80b831a23a3",
+   "title": "ATP - Blessure: Jannik Sinner sur son opération : «J'ai perdu beaucoup de poids»",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczB6Rko3ekFxMUF5S1BROE5lNEN2bXlMWncwVXFIcktuTUlkYmtaaUFkWWh4Ums3M1hhN3MzYUtGZ0lqTHVGaWtiS0xBMm9VRlAtVDgwN20zLTZiYkg0aTFlZHJBTXlBdV9LbHp0VlZlRmdEcmlpcFRaVmN2U2YtUHRWYy1ibVRuOU5fNGdVZzNfTDlHRjAxRmlPYTVJLVY4cXlWdFl1S21tYTlxWWlkS29BVjVBZGl30gG4AUFVX3lxTE5uWDFJeUp4ei15aU5zMVlGUGxlUU5pXzlQd2hza2xUTTVDNTZSNk0zeGhBZkJNOGlKR045NmhQR3BObktmb3FXaGljeEo0eFRJNVV3dlQ2SjdaVGptaFo3SWl1N0tDNGx6Rmt2M25lRzVKYk5oTXNCVC1EdmlGQjF3R0NEY08tUXprejJLeHZlQVhEWEdXdnZzXzVIa01jSmJNM1loWUxIQjYza1BCb2l2elpfQmg4WDY?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-11T19:13:00Z",
+   "first_seen": "2026-11-13T01:05:13Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Opération de Sinner, athlète Nike, pouvant peser sur sa présence compétitive et sur la visibilité des produits Nike vendus par Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "dfbf1413202a",
    "title": "ATP > Jannik Sinner, interrogé sur Carlos Alcaraz : \"Pour être honnête, je n’ai pas beaucoup regardé de tennis à cette période parce que je voulais être là-bas moi aussi\"",
    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNRU5DTkNMMVZoQ25iUm4xOEYxLUtuOWtCWEE4RmV0cmVDZTYtMFhpblA2NWh1clVZMVRlbXlIS1dkTUttUHZKLUtWUF8yM2pfOWxwbFZ0c2x6dHJmUFpLZmQyUXo3c0ktT29xOEY3TVJIb3pCTUVjQUxHTGZRS2RobmNzZXQxWW9DNGZDZzhpQ0FLQzg5UkdpTTFxNTR3M0xfNnE1SWxUcGZVVHNqVjl2TDFIUTYyTEUzV2dkcUtxYVpmQm14MndxMkM0UEFVWm1HT2VNVjh4cDdaOVZSMVFrTkUxcFJMNE4wMGRrOTVuWkJ0SXpKYmFtdnNLOW9VOUZndlJnZ29pa284RjcwY3dJTGZ2czFHWGx0?oc=5",
@@ -304,6 +350,30 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "36aea84f00a4",
+   "title": "ATP > Holger Rune : \"Une partie de moi est amère. Avec les blessures de Carlos Alcaraz et de Jannik Sinner, il y a avait tellement d’opportunités à saisir sur le circuit cette année\"",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOYlVpODVxUFFkTzBsdFp4TzZnQ1VyN0pVdmxoT1B4TE1XNHBVc2VYTDcwZzBsaTRYeFZVQ3RyTzUwelFRTjlmN21hS0dNSEZfOUoxMVRiMEYzcjFiMUJuOU90OXpDSDdLZXpUbFBmREdxbFdqSnlUM2J3aFNRMjBJal9JRHVid2dRcUdFN09hNzRSeWRJRExNdDUwU1ZVTzFUZUNoNVVyOHNMZmtDX2NQQTIxNkpITlpxZl96aWZyRURWUEZJMDBfOVRNem1yM3E2ZUQ4SEd4dmpqRl9ERVVHN0tnSDRSbzhUUmczdXFkWS1wRVVIdUFLRzlKVll5aF91ZlVRQ0pwMTNDakhrUTYyQVQxdWhSTUl4d1BvTGVsb1JNcmZzSzFYSg?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-11T15:26:00Z",
+   "first_seen": "2026-11-13T01:05:13Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessures d'Alcaraz et de Sinner, deux athlètes Nike, pourraient affaiblir l'exposition médiatique de la marque sur le circuit en 2026.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1251,6 +1321,28 @@
    "ai": {
     "r": 2,
     "impact": "Un retour à la normale du fret conteneurisé pourrait réduire les retards de livraison Nike, sans que le titre précise le corridor concerné.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f27745de815a",
+   "title": "Conteneurs : Un début de retour à la normale aux perspectives peu réjouissantes",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHhFTHhFWW11bkxTVERzLUo3YkVfYUxtaFhZM2FaYjEwNElvWTNQUzBzOEZLeEw2Z3ZYWEM4dmlBM2NhRXRMREt2WVc5UE5YRl9XQmJqNFBqTTZFMFIzQjF2VkJnU2phcFd1NmFMVHBTajN5dEt3R2VOTXB6WFkxaEhVbVNJZmJXT3QwMFk3SzVQVkl4RDVUMDZYRmdrOHNDWFYtMUlsY1lCUWlaSUIxZFB3?oc=5",
+   "source": "Ports et corridors",
+   "domain": "portsetcorridors.com",
+   "date": "2026-11-06T06:00:45Z",
+   "first_seen": "2026-11-13T01:05:13Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "mer Rouge conteneurs Suez",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Retour progressif à la normale du fret conteneurs, sans précision sur les routes Asie-Europe ; effet sur les délais Nike à confirmer.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -16819,5 +16911,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-12T18:23:55Z"
+ "ai_updated": "2026-11-13T01:10:42Z"
 }
