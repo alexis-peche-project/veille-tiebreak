@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:45:53Z",
+ "updated": "2026-11-13T23:34:30Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 371
+  "added_last_run": 1,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 373
  },
  "items": [
   {
@@ -4717,6 +4717,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "038c38ced5fc",
+   "title": "Sinner finalement de retour au Six Kings Slam après avoir annoncé la fin de sa saison",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWUxaEJrM1dVQ2xYcWl4eE9FSUhSTGFsSUd4c25BY29pVTJpR2dHYUxpdHRGcDhibk9hdFBUZndIWUlUaTlpRzR5MnFjck5obzNpbFJVTzFGdzAxRkpFUERleFh3MVJEd19aZzJmWW43ZGFWZ3c5emRhd1l0UmE1d3VWTVFGM2t6Ml9N?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-13T23:34:30Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour de Sinner, athlète Nike, sur un exhibition saoudien : visibilité accrue de la marque, mais effet direct limité sur les ventes d'un magasin niçois.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "0965b25274ae",
@@ -17073,5 +17096,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-13T17:50:54Z"
+ "ai_updated": "2026-11-13T23:39:41Z"
 }
