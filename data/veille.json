@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T09:31:42Z",
+ "updated": "2026-11-13T17:45:53Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,35 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 389
+  "added_last_run": 3,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 371
  },
  "items": [
+  {
+   "id": "bfa30dd7891d",
+   "title": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUml2X0p5WGZidXhoZ2JmUGtZNnNYcDZIcURGOVRJWTB6Q09uYkttckJTS3N3RVNBOWZQUGlwQWJQMWFqYUd2X09mdVZ6QWhhelpxLXFTQmhxSDdnU2FOVUdfbUdjU0RVWnB2ZVpvdGYtclhJd0k0aElKQ19UX0RxTmlsTGR2T3MwdnpER1hBZ21BaUVWZlg2Xw?oc=5",
+   "source": "gCaptain",
+   "domain": "gcaptain.com",
+   "date": "2026-11-13T17:09:56Z",
+   "first_seen": "2026-11-13T17:45:53Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "red sea"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Retour des services en mer Rouge et hausse du fret : délais d'approvisionnement Asie-Europe possiblement réduits, coûts de transport sous tension pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "d9c09d8495f7",
    "title": "Para tennis de table. « Je ne suis plus le pote joueur » : le nouveau défi de Gilles de la Bourdonnaye, patron des Bleus",
@@ -21,6 +45,28 @@
    "domain": "ouest-france.fr",
    "date": "2026-11-13T07:00:39Z",
    "first_seen": "2026-11-13T09:31:42Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8d563a32c763",
+   "title": "Saint-Barthélemy-d'Anjou. Huit sportifs distingués par la Ville",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQLVhnanNRN0hyWElwQXZpRnA0ZExqVHBDY1NqUjJGa01qVmpaU0FZLWVJc3lIeUxsV2QyWFBvYi11Wlo1Z3cwZ3JPZmxabGU5RlE0UHhxRm5odDFqYTB5Mmx3Z1FRLWdqcnlxeWM0TWl6LUVvYndJUWJYU0picTFfeVVXQlNWTmJDZENiNGtDQ2E4ckI4dFhTbmJZdmZ3VFBtTlR5WjItZnQtQ0JaVC1EaVo3eHphTUdVS3h2NF9pU1Y2YkJDMmllRnBXallRdHpJVXJrQy12UWYtbkQ1OC1uQkcwYzI3ZzVodmtkT0hSTDBqMEU0emtjb1g5SHBrdUZpYVU3MA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-13T04:19:14Z",
+   "first_seen": "2026-11-13T17:45:53Z",
    "axis": "T5",
    "lang": "fr",
    "query": "marché du tennis France",
@@ -349,6 +395,30 @@
    "ai": {
     "r": 2,
     "impact": "Opération de Sinner, athlète Nike, pouvant peser sur sa présence compétitive et sur la visibilité des produits Nike vendus par Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8dc37b00722b",
+   "title": "ATP - Blessure: Jannik Sinner opéré des amygdales : «J'ai perdu beaucoup de poids»",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjBUd20xVWZ2ZE5iWUlwVlRxTmI3MFEwV0x2U0t5bVgxQURQaXVxLS1heGpiWEZnREd5VUdvUWlKQU5KVHo3ZzZBZDdxcXdRRXEzZUlIajJHblFoVVZhaVd3a3FDVVRWbjRkZlF3LXU4OTNDT21ybkFpTm9Ncm54dmU5Zl9YUmhSNGhvUVFfdDVRWkJiTnBNTlNrYjlra3FlYm1ScjlBbjRmTHFPNE5wckRURVVnVjZ0LWdz0gG7AUFVX3lxTE51eFZsTnRVRUNOejFvYmJyUkVySW56ZXMxbS1iOTBRNThUblB6aEl0WUZ3VUZRckJiSXVoZGZ4VUlCYXFBTU9oay1ORFNTMnNkV2U2blNYMGM5WXFiekl4Z0lWeEN1MlllT1lUbC1vREFqUlB4Qm5iYnpIbnNESy13allBcF9rMGVIVHBNSV9PMC02aG1XdDNoRjVKNGtqemVxeWExa0lIdzJPMTVFdVZIT2VJUGFkRl9BOTg?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-11T19:13:00Z",
+   "first_seen": "2026-11-13T17:45:53Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Opération de Sinner, joueur Nike phare : effet direct limité en novembre, hors saison, mais calendrier 2027 et demande en équipements à surveiller.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -17003,5 +17073,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-13T09:36:04Z"
+ "ai_updated": "2026-11-13T17:50:54Z"
 }
