@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:05:04Z",
+ "updated": "2026-11-14T20:43:12Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 378
+  "added_last_run": 7,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 385
  },
  "items": [
+  {
+   "id": "7c4a3df3a6bb",
+   "title": "Nocta x Nike Air Modmax Pink Spell Release Date IQ6711 - 600",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nocta-nike-air-modmax-pink-spell-iq6711-600-release-date-1239416635/",
+   "source": "wwd.com",
+   "domain": "wwd.com",
+   "date": "2026-11-14T20:00:00Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Sortie d'une sneaker lifestyle Nocta x Nike, hors gamme tennis : effet direct limité sur les chaussures et textiles tennis proposés par Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8ad34c9891bb",
+   "title": "mondial, ne le laisse jamais tomber’. Puis je suis devenu ce que je suis devenu, mais il faut beau­coup de chance »",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSC1ZSzJza25nUXFScmFsMmwxcGoxYmh5NEJnclRHa0xFMDFpMlhIUThJZ25CT2JGN05BdFFzTUVTd3Z2RHlOekw4RjZMdmNWaXJ2UVFudGRhbGQ2Z3Q1VGJXcVB5UUFYNGxnUG5FWkJfWVF6SWVpU0FzZTdpeWxUc1E1M3dLWUdBWm5YTUtnX2IzVmpiY3A4aV9xenIzeFVTeVhVajhuYW9sRGtBd21yQjBfbFdBNVNXVks5VFhieFdOd09Pc09oY0NuVGktWjJHNjBuY1JqMGgwVXd3SldrdnVkZGRRWVY4dGJxRmRwQWdPNHpFYTRLN2hfSkJPVEZlODJHWHgyS1Z4SDRSVTlMY3hnNk9EM0tQbTBuVjBCSC1YazJXWVd3?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-14T18:43:35Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Témoignage de carrière d'un joueur sans lien identifiable avec Nike dans le titre ; pas d'effet mesurable sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "c9a75577a12a",
    "title": "LEGO dévoile sa collaboration avec Nike : la paire de baskets Air Force 1 déjà iconique fait un carton chez les enfants",
@@ -435,6 +479,28 @@
    "ai": {
     "r": 2,
     "impact": "Un joueur Nike critique la rémunération du Six Kings Slam, tournoi d'exhibition soutenu par l'Arabie saoudite. Impact indirect sur l'image du tennis et le calendrier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b48b6170dd67",
+   "title": "Fritz, sur le Six Kings Slam : \"Ils ne paient pas autant que ce que disent les journaux\"",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1Z4YkVvNXc2blNFa0xnTU9yYWg4NndYWDFBNU5ZNlhnUWM5N2RuclZfZms4TUIyTlJnUkl4LXptUm5WT0NoYzVxcndTalE5RjE1c1FiTUFSU25nYkZxamRtalRqUFNSaTh6RFE5YzNqcEZvdFEtZ0FuaEN2dlRibWJkU2xoc1ktSG5tQTUzQ3A4V0ZrWi1vR1o5aldwZXdheVAxd0w1RThieHBMejBreTVTd25aLWhTLUE?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-11-11T21:32:42Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un joueur critique la rémunération du Six Kings Slam, tournoi soutenu par l'Arabie saoudite ; sujet utile pour suivre la contestation du sport power saoudien.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -2004,6 +2070,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "c8f09b4e0110",
+   "title": "ATP > L'information surprenante annoncée par Jannik Sinner",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWTlwWmhlcS0zYTEwNjMtS0tQQmQ4TjBCTXVaa1ktaXd2Sk40VkpuQXdXa3laY2dQSkdMWnBoN1J0VWRmaGhpdmhSRnJia2ZTX1NVNk5kSEl4alo0MXcyNFdtaXE0M0VoMDhVMHJwbHo3NjcxRVQ1N3NXS0FwdVZTaGJMYlJRRHQ1OXpF?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-05T08:00:00Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Annonce de Jannik Sinner dont le contenu n'apparaît pas dans le titre ; à vérifier avant d'estimer un effet sur la demande liée à l'athlète.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "bdfb4f34a487",
@@ -3652,6 +3741,30 @@
    }
   },
   {
+   "id": "9cb4b6c8d5f6",
+   "title": "ATP - Vienne > Alexander Zverev : \"Beaucoup peuvent dire que je suis devenu numéro 1 mondial uniquement à cause des blessures de Jannik Sinner et Carlos Alcaraz, mais la condition physique et la santé font partie intégrante du sport\"",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNUktRbDZZQUNqQXFhOVFBdGUxcmdZQk82Nmg5dm1Bd2tYMUpzTkpCM2JZcVVCWnYwWUg4SHowQTMzSWpnLWZxaVB1NExWcldoeDdEYlE2Y3pLdmVaY0xKM3lPY3Zad3RWVXJKYTBCTG9palZjWklQMWx6YUhwLVNqX3VQeG03TWowRk1rakZhQk10cVF5THNJU2l1M2l1TEpEVm5GbDB1ejJFNllHTExGTDc5QmRBdGxxOTdReFlVR2lOVWhzdUpWbVlUQWRjbmZ3azB1WTdhWXJLcGR4NnYxSUlpRGE4UEwxdklxUGtPRFIzVlF0LW9WU2dTd1cyaFQ0eGswcFlNclRwVUJtY3JkU2ZCMUhVdEN5VUl2aWNUME0ycU5MY0k0T3ppZVN2cGtqYzIyT3gxdWx3RFVVOENKN2ZoSXRjTEo3MVRucDNHNGpJMDRCQkZSZUtR?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-30T07:00:00Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Zverev évoque les blessures de Sinner et Alcaraz ; une absence prolongée des stars réduit l'effet d'image et de vente des collections Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "ff810aa33a25",
    "title": "Why container rates are climbing despite cooling demand",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ2hja1JPTF9ULU5jdUtib0pSTTZidi1PYkJsbFBMU2tLekc1RHlnQ3FvVmRuTTF3YUNRdGZ3b2lBcDYxaG9aajFiYjV5SFItNkhUSVQxTkJfaXdOMDhsMjgyUU1LRXo0am9WenVPS0tqakJEWk5EX0RnUmNiMncyeGswRmNBZTc5UF9adEY3cW9hcW8?oc=5",
@@ -4460,6 +4573,51 @@
    "ai": {
     "r": 2,
     "impact": "Un responsable commercial américain menace la trêve commerciale UE-États-Unis : risque de hausse des droits de douane touchant les flux transatlantiques et les coûts indirects de Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "990012d6a747",
+   "title": "ATP - Bâle: Novak Djokovic, l'imperturbable : «Cela ne m'énerve pas»",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVkNWNU1mNlRLU3Zqck1iTFp3VE12Y0poVjU4Z0RzMk9BX0t0NEJHU2lNNTBTaXl6UkVLa3AydkQ0NXNYNUJJVncxbC10a09iSkZVblBSM19ZNjVpS0pvVF9DYkNla0VOWno2aGxZQjRfRXcwYTI1RjhDNUljYWJOcWI3YnQ1SC0tQ0pwVkZmQVMyQm81TkdNTFFQVlVxSkJWQ1hfTnlnRi1yUDZQZEVfVUVEa9IBpwFBVV95cUxQSkVQWU1DdUkxZXBzalNBRXNCTWxwYndhMjloVTQ3WjU0Ymhad0RCY0JsMWp2LURCRjVJWFJvTE1WU1g2ZloyVkI3VTRaWVZ6ck5Ub3pBdEgwZklyZmdyeF9PaWc1UVlPRmtDX0k0TGtQOU9sS045Sms5SGdCb2F2RnJJcWx3S2o4T2huS29iNVRyLXJwaVVpS0FydW1IdjFzb2lGZkYyUQ?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "5ef47890bbfe",
+   "title": "Tennis - Jannik Sinner : \"Le corps est le seul adversaire que l’on ne peut pas battre\"",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUlhiYVhlVThVa2w3YS0xWXk0Ul9NeHZQQkRQNWRoVXJUY0pFSmhKMWpCZmY1WnRJa1VLbnBFNDFXUGtVWUU1d0w0Qi1RNk9xVVp6M3FxV2VOYnQzT3d1MTFnMHVFZ21wZjI2VzRuNEYxa2FBYVJHMkZjd3FBcEd1NThWUW5WZmphQUdvMFQ3Y0JoV0E0X2dUc21abVdlUzNYNjFlb1IwQUlBeVlxaXJYNWowU2xlRjNhckxCWHlEN19Zc2pZMDZXZGpjYkFrY216?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-14T20:43:12Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Propos de Sinner sur la condition physique, rappel du risque de blessure pour l'athlète phare de Nike et pour la demande associée en magasin.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -17276,5 +17434,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-14T15:10:09Z"
+ "ai_updated": "2026-11-14T20:47:13Z"
 }
