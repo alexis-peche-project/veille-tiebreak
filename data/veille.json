@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:23:38Z",
+ "updated": "2026-11-14T15:05:04Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,101 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 0,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 369
+  "added_last_run": 8,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 378
  },
  "items": [
+  {
+   "id": "c9a75577a12a",
+   "title": "LEGO dévoile sa collaboration avec Nike : la paire de baskets Air Force 1 déjà iconique fait un carton chez les enfants",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOS1hza19QVm9rbEktV1B1NVMydVJkb3U5SGhONGVoOTJRaEdmaDdnMm5STHBTV2Nybm1yUFBwenpBQmh1b3VBc0hvcEJtcjZlTzNURTg1ZjZJWjdrM25abnE5YUUtWmdOcnFFaDVjWVdWUnZKV1lEbVNuTWZNalNwY2tReWk1NGxFbWZHZFFPdzZsZkZTczV0Wkg2bXBCdUtMQkhvZ0pSdlNwZTRwRHdKd0Q0M2REeDRkbWVlSktuLXVxTmdFN0dOdThudkFvRklDdmVqZThHLUxtM3NGcFN5TzZOVjVLeVdyQVZCNDdLTXA0OFU2S3NRVVpB?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-11-14T10:19:00Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Collaboration lifestyle Nike hors tennis ; effet limité sur les collections tennis de Tie Break, à surveiller seulement pour la demande en sneakers.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "a43c4e741eaf",
+   "title": "WTA - Finals: Katerina Siniakova entre encore un peu plus dans l'histoire",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnV3WEMzTi0wYldOWHlud0ZsZVRYdmhCdXBVRlRIdmt3dzh3VnFPc3JMZmhESFk0UW5NblQyVUJTY0dCQjg4a3l0QUgtdDR3ZDNJUm1OVXAtSmFmTUhNZjBGczZtSlNMVU85NG1CWVJJUlNGeUhJS3NHaDhmSmo3cnpxc0kzenVmd2djZGhJNHlQQ3ctMThxZm8xZ011emJLMl9RbWZCNVN3U3IzLTI3bWJKN2TSAbQBQVVfeXFMTnpnZUh3elNld2VGc3RqdjJZYjhkR0N6VnFxMVZTSkhCaDZWdXFOUnZOcTdqdmxjV2J0SC1qdTRHT0hxTC1naTU3ZlJ3WjdWRnJ5dXBmUkFzSEZGQXVSVWFwTWptU1JrVURzakxuUWh6dmlMdHRQTHVtdUlvLV9FZXFwNTYtdFNCU2E5Nnd2b1ZNV0MtLVAyOGhGenZjU19xTjVGSTFQSHlRNFVaaWlDMkgxSTF3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-14T09:10:00Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Performance d'une joueuse dont l'équipementier n'est pas précisé dans le titre ; effet indirect sur la visibilité du tennis en fin de saison.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "175555458137",
+   "title": "France - Afrique du Sud (21-19). « Ça a bien marché » : Dupont-Lucu, une charnière improvisée avec succès",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONjFlaC02Q2JRYmRuZy1penR6N20zaUVYcHRKV1J1Rng4d0NTaEE0Uzc3SXF1YkpkamZCUlBZczNlVXdZMXoxUW5TWWtqYWZRUTJ6RDhIdmJpMXRmMzBPQzh5eGVpckxOQkxnRm1TcE1wQ1c5MXcxaldSU05jaFRIOWVScHc0SmgwSTdKN28wUHd6VF9TRUxLVlpxalFuZzgyRWRuWTVPRk5ZUm9FZ3l0YXowSnFuVkswMmF0ejhMWXVSSDY2SjQxLV91Q2pUdlg5dkpfMDduMlFQWFd0bDRTSXMzUUpBY0VKUGlv?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-14T07:57:06Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4a108855386b",
+   "title": "Cambodia achieves a first in global garment supply chain",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUlBQT2VIYzV1S2NEUEl1cVFKRFBnSVFXUGU2dWhpY0JxR3c1bkR4RzlUSkoxd29udGVER1B5Uk9URkJMV3h3MkhLbktIbklGd1lVV1F0eDhBUGh2MWM2ZWlBV2F3WVRVRHRIMGZoZGxhQXQ2TkVwbEVKX1lMR1BwemI5M2NqWmpsV203N2VNWjlyNktBd2NBbUt1c19nYUdpZnZ3MmY4bU1vY2JXckQ3RlhOVmFkSkxGOHBYTnBpd2VYVGUxQldsV1NxM1Q3M2F3d0NHakxCZ0xyYzNzemxQcGlURkM0MmZ1ZlZv?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-14T01:10:18Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre sans lien avec Nike ni Tie Break ; à surveiller seulement si le Cambodge devient un site de production du textile Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "bfa30dd7891d",
    "title": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return",
@@ -234,6 +324,28 @@
     "r": 1,
     "impact": "Citation d'un athlète sur des douleurs et une immobilisation ; l'athlète et un lien avec Nike ne sont pas identifiés dans le titre.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "96697211aa0f",
+   "title": "Fritz tempère les rumeurs sur les primes du Six Kings Slam : « Les chiffres ont été exagérés »",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmc5dDY3YjlRNVoyVU1YVGNNNWVsOGVDZWZZNzVCaVh0V2RYV21BVExvVS1za3UwVmJwS3VpZVJCelJsSXNOZW9FVEtTcXMxeUdEVG5ZTnU2LU5BU04yVEtaaU9BekFGcHBQVEhHa2FuZkJ6SkhNcE1yajE4RXBNOTBDZ0UwSHV1TkItWmhR?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-12T08:48:30Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Rumeurs démenties sur les primes d'un tournoi saoudien ; signal sur l'attractivité financière du circuit et le sport power saoudien.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -703,6 +815,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "f99bdd47c28e",
+   "title": "Jannik Sinner targets late-December comeback, keeps Australian Open 2027 in focus",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT3h3ZGxsb2Y4SXdJalRoVms3S09GWUN3UzF2NWE1ZVNQUG40eXBnWTBjblRlUEtVUW1Nem9haTNIUXJkb1dpbWtneTFXdnhBU0J4dFVyb1JBaTFVcGlzS1NNUjQ4dzg0RmllNnVkWThSbGctZEprN19tcmZYTkJQSFdzakFxNlpGLUtIeGtHVk9FVC1MbjlxOHRMYVAtakNwVnduZlVDaDBJcC1Tc2pmLTFGdURrX0tDM0kxaHlzaVNKTlJUT29pNUlVOGotRU1hV1pmUTJUQV9qWndrZ2xObUpMbm1uR1pKcXlKdWtOZlhHb2ZZVTdmLW1adUPSAYICQVVfeXFMTkI2ek5UQ283UEFkZEljQnNyWGpfQTJPeHNsUVRGT25RMXh3VVIzZFVtLUp6YktXemNKTjBUdGFXS3FkUW1mZ2ZwZ0ZyMFdyZWlKM0NORl9UUHQtclJFa2NfQTZaMFpvVU5MQV94SjF3ZzhMdVItaXRyRmJDTmVRZ2F2SFY4RkNTeDBmTk94YVhCUXhiSGlhOUdHS25yWmZEaXlGMXVHbEZNNFV4cW1TNUt1WFR6b2pwVjlkdWhFM3Ntd0FkTVctUGc1YUpaZW0yUnZvaWpYU0c3ZnF2M09NQmZiYjZIWWhEY3c2ZGdHQkRDZjN6NjBBcDJ3STBudkNpZklR?oc=5",
+   "source": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-11-10T16:28:00Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Retour visé de Sinner, athlète Nike phare, fin décembre ; sa présence dès 2027 pourrait soutenir la demande en textile et chaussures Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "cc9ff69a0658",
@@ -4740,6 +4875,51 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "2ce54f9e6b92",
+   "title": "ATP > Jannik Sinner dévoile la date de son grand retour",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1FrRHZweFR1TUlLblhBZU1UcjVsZmVaNmhMLVVwQjZRWGlTejlhbXo0SjZUZmZDanFXMVVEZlZod1ZBUXRycDdfM2ppTk1VdGFmbXc0TE9XbmRMT0pGc3FEOVZIZ0gxb0JnVW1BTlQtTloydjF1d2d3WkduRjc5WXUzZmR3aFBZ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Date de retour de Sinner annoncée ; calendrier à intégrer pour anticiper les pics de demande en produits Nike et les commandes de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "c49d5b9e3044",
+   "title": "Un « Six Kings Slam » au féminin va voir le jour avec six stars du circuit",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYU5fd2dMZmxvaVlScVltQ0pEV0tUSFdOZkF4NFlKcmg4VWZDTUJBQm4yMWEzdmwybFd5RDYwRkJoTUxHeGxBLUk2QUtFZ1NEZlZrZmlJWHg5LXgtb0hhXzdkekpCRFVRS1RKdW1sTThXTTllaVJkY3dqczdfS2ZTNnA5a21ma3NpYlc0QW5HRTU?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-14T15:05:04Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Projet d'extension féminine du Six Kings Slam, tournoi lié à l'Arabie saoudite ; à suivre pour la gouvernance et l'attractivité du circuit.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0965b25274ae",
@@ -17096,5 +17276,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-14T06:28:39Z"
+ "ai_updated": "2026-11-14T15:10:09Z"
 }
