@@ -1,0 +1,871 @@
+{
+ "synthese": "La période est dominée par deux sujets. D'abord, Sinner, athlète Nike phare, a expliqué le 10-12 novembre son absence de quatre mois (genou, ablation des amygdales, perte de poids) et vise un retour fin décembre, avec l'Open d'Australie 2027 comme objectif [6765ba72a968][f99bdd47c28e][a6e6a92df6c1]. Ensuite, la logistique maritime évolue : le retour des services Asie-Europe par Suez s'accélère, mais des sources C signalent un risque de congestion portuaire, donc pas de gain de délai garanti pour les livraisons Nike [a102fa9a7885][8e2eac93e396]. Côté Nike, l'Investor Day approche, des changements de direction ont pris effet le 9 novembre et les analystes se partagent (une seule série de sources C, à recouper) [669e0c6c90fe][91d65414bded][0458e08ee28f]. Pour Tie Break, l'enjeu est donc de sécuriser le calendrier de réception des collections et de calibrer le stock sur le retour de Sinner et la dynamique d'Alcaraz. Il faut aussi suivre toute annonce wholesale issue de l'Investor Day. Les sujets d'image (fatwa, tarifs, Arabie saoudite) restent à surveiller mais sans effet direct visible sur la boutique.",
+ "axes": [
+  {
+   "axe": "E1",
+   "tendance": "stable",
+   "resume": "Aucune escalade nouvelle entre États-Unis et UE n'apparaît dans les articles. Le thème tarifaire reste présent, via la fragilité de la trêve US-Chine, les remboursements de droits de douane aux chausseurs américains et la faillite de FitLab. Les polémiques d'image sur Nike (fatwa, sneaker Betsy Ross) sont isolées et sans lien établi avec la distribution.",
+   "faits": [
+    {
+     "texte": "Le 4 novembre 2026, Bloomberg rapporte que FitLab attribue sa faillite à la perte du partenariat Nike et aux droits de douane de Trump (le détail de l'article n'est pas fourni).",
+     "ids": [
+      "83e597131787"
+     ]
+    },
+    {
+     "texte": "Le 1er novembre 2026, The Guardian estime que le calme apparent de la guerre commerciale US-Chine est trompeur.",
+     "ids": [
+      "51eaf73eefbe"
+     ]
+    },
+    {
+     "texte": "Les 10 et 11 novembre 2026, WWD publie deux articles sur les remboursements de droits de douane pour les entreprises de chaussures et la façon dont certaines les utilisent (sources C, contenu connu par le titre seulement).",
+     "ids": [
+      "11552b09a2c3",
+      "e732532885ac"
+     ]
+    },
+    {
+     "texte": "Le 3 novembre 2026, The Telegraph signale une fatwa contre Nike pour « promotion du polythéisme ».",
+     "ids": [
+      "93bcd082e7b3"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Les titres de Bloomberg et de WWD évoquent une évolution possible de la politique tarifaire américaine après les élections (nouveau Congrès). Le contenu n'est pas disponible : c'est une hypothèse à documenter.",
+     "ids": [
+      "57bf4e4c5ea4",
+      "8eba2e6f90d3"
+     ]
+    },
+    {
+     "texte": "Reuters annonce que Nike retire une sneaker « Betsy Ross Flag » (dépêche du 2 novembre 2026). La date et le contexte sont à vérifier.",
+     "ids": [
+      "ad12af795285"
+     ]
+    }
+   ],
+   "risque": "Un retour des droits de douane ou une hausse des coûts de matières pourrait se répercuter sur les prix d'achat Nike et réduire la marge de Tie Break, seul revendeur à 70 % dépendant de Nike.",
+   "opportunite": "Un apaisement tarifaire ou des remboursements aux fabricants pourraient stabiliser les prix de gros, ce qui permettrait à Tie Break de tenir ses prix face aux sites web."
+  },
+  {
+   "axe": "E2",
+   "tendance": "hausse",
+   "resume": "Le retour des porte-conteneurs par Suez s'accélère (Maersk, Premier Alliance, grandes compagnies), avec des effets mixtes : possible raccourcissement des délais Asie-Europe, mais congestion signalée dans les ports européens et de la mer Rouge, et fret en hausse. Côté RSE et production, la situation au Bangladesh (protestations, reprise des usines, nouveaux salaires en janvier 2027) renvoie au risque de coûts et de retards chez les sous-traitants textiles. Aucun article ne relie ces événements directement aux usines de Nike.",
+   "faits": [
+    {
+     "texte": "Le 2 novembre 2026, Reuters indique qu'un nouveau service Maersk reprend ses traversées par Suez, et Lloyd's List note que Premier Alliance ajoute des services Suez.",
+     "ids": [
+      "a102fa9a7885",
+      "e35505d3bf61"
+     ]
+    },
+    {
+     "texte": "Le 3 novembre 2026, The Loadstar annonce que les grandes compagnies s'apprêtent à reprendre tous les services Asie-Europe via Suez (source C).",
+     "ids": [
+      "8c2ec97695f6"
+     ]
+    },
+    {
+     "texte": "Les 11 et 13 novembre 2026, des sources C signalent des craintes de congestion dans les ports européens et de la mer Rouge, et Hapag-Lloyd fait état de taux de fret en hausse avec le retour des services en mer Rouge.",
+     "ids": [
+      "8e2eac93e396",
+      "a8d49cab93c7",
+      "bfa30dd7891d"
+     ]
+    },
+    {
+     "texte": "Au Bangladesh, Reuters rapporte quatre jours de protestations salariales des ouvriers du textile (3 novembre) ; Fibre2Fashion indique que les usines reprennent pendant la révision des salaires et que les salaires révisés s'appliqueront dès janvier 2027 (4 novembre, source C).",
+     "ids": [
+      "1766615b0ba4",
+      "21cf40f7850e",
+      "5fd6d0bf9419"
+     ]
+    },
+    {
+     "texte": "Les 2 et 5 novembre 2026, Nike et CMA CGM lancent une barge électrique sur le Mékong au Vietnam (sources C).",
+     "ids": [
+      "bc9de267a2ca",
+      "49fe86427a80"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Une source C (Ports et corridors) évoque un « retour à la normale » du fret conteneurisé, sans préciser le corridor.",
+     "ids": [
+      "fc828c02f18d"
+     ]
+    },
+    {
+     "texte": "Le Vietnam cherche à atteindre 47,5 Md$ d'exportations textiles en composant avec l'écart tarifaire américain (source C) ; pas de lien avec Nike établi dans le titre.",
+     "ids": [
+      "6a7b04fc0ff4"
+     ]
+    }
+   ],
+   "risque": "Un transit par Suez ne garantit pas la ponctualité : la congestion portuaire et la hausse du fret pourraient encore retarder la réception des collections Nike après les Grands Chelems.",
+   "opportunite": "Si les délais Asie-Europe se raccourcissent réellement, Tie Break pourrait recevoir les collections plus tôt et gagner en crédibilité face aux sites web."
+  },
+  {
+   "axe": "E3",
+   "tendance": "stable",
+   "resume": "Les articles montrent un mouvement contrasté de l'Arabie saoudite dans le tennis : le NYT explique que les WTA Finals quittent le pays, alors qu'une source C indique que Ruud valide l'arrivée d'un Masters 1000 saoudien. Les débats sur le Six Kings Slam portent sur le niveau réel des primes. Il s'agit d'un contexte de gouvernance, sans conséquence directe observable pour Tie Break.",
+   "faits": [
+    {
+     "texte": "Le 6 novembre 2026, le NYT/The Athletic publie un article sur le départ des WTA Finals d'Arabie saoudite et l'avenir de l'événement (le détail des raisons n'est pas fourni).",
+     "ids": [
+      "1aeec29903de"
+     ]
+    },
+    {
+     "texte": "Le 12 novembre 2026, Tennis Temple (source C unique) rapporte que Ruud valide l'arrivée d'un Masters 1000 en Arabie saoudite.",
+     "ids": [
+      "98767616d452"
+     ]
+    },
+    {
+     "texte": "Du 11 au 12 novembre 2026, Fritz déclare que la prime de participation au Six Kings Slam est moins élevée que ce que disent les médias (plusieurs reprises de sources C).",
+     "ids": [
+      "27b1cdd52287",
+      "96697211aa0f",
+      "d5ca6a864ca7",
+      "b48b6170dd67"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Le document WTA classé A, daté du 8 novembre 2026, concerne les WTA Finals Riyad 2024 : il s'agit probablement d'un contenu ancien, à ne pas traiter comme un fait de la période.",
+     "ids": [
+      "794e9c564d12"
+     ]
+    }
+   ],
+   "risque": "Une recomposition du calendrier vers l'Arabie saoudite pourrait décaler les temps forts médiatiques et ajouter des controverses autour des athlètes Nike, sans levier pour Tie Break.",
+   "opportunite": "Rien de concret à ce stade : la contestation autour des primes et du calendrier peut nourrir un contenu de veille ou d'animation en boutique."
+  },
+  {
+   "axe": "T4",
+   "tendance": "hausse",
+   "resume": "Sinner a expliqué le 10-12 novembre son absence par une gêne au genou, une ablation des amygdales et une perte de poids, et vise un retour fin décembre avec l'Australie en ligne de mire. Alcaraz a assuré le spectacle (titre à Vienne, quarts du Paris Masters, finale contre Shelton) et se qualifie pour Turin. Les sources C pointent la saison freinée des deux athlètes Nike.",
+   "faits": [
+    {
+     "texte": "Le 12 novembre 2026, Sinner évoque des jours où il « n'arrivait plus à bouger » et sa perte de poids ; il dit avoir été opéré des amygdales (France 24, Ouest-France, L'Équipe, tous B).",
+     "ids": [
+      "24dd74a689dc",
+      "b240292c0089",
+      "a6e6a92df6c1"
+     ]
+    },
+    {
+     "texte": "Le 10 novembre 2026, Sinner dit viser un retour fin décembre et l'Open d'Australie 2027 (Times of India et Ouest-France).",
+     "ids": [
+      "f99bdd47c28e",
+      "6765ba72a968"
+     ]
+    },
+    {
+     "texte": "Le 6 novembre 2026, Ouest-France présente le nouvel entraîneur de Sinner, ancien numéro 2 mondial et finaliste à Roland-Garros.",
+     "ids": [
+      "425a971fa5f4"
+     ]
+    },
+    {
+     "texte": "Alcaraz remporte l'ATP 500 de Vienne (4e titre de l'année, 1er novembre) et passe en quarts à Paris sur forfait de Berrettini (5 novembre) ; il est annoncé en finale contre Shelton le 8 novembre, et Tennis Majors titre sur sa victoire à Paris (à recouper).",
+     "ids": [
+      "636e418d0c3f",
+      "20c69dfbe98e",
+      "81625749e22a",
+      "88e508dc332d"
+     ]
+    },
+    {
+     "texte": "Alcaraz, Zverev et Fils figurent parmi les huit qualifiés pour le Masters de Turin, et Fils est le premier Français qualifié aux ATP Finals depuis Monfils en 2016.",
+     "ids": [
+      "40617a2625ae",
+      "8b4340b9a3fe",
+      "d3131a8ee24a"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Un proche de Sinner (Valentino Rossi) évoque une gêne au genou, information de seconde main (source C unique).",
+     "ids": [
+      "7844c8de25f1"
+     ]
+    },
+    {
+     "texte": "Sinner remplace Tien au Six Kings Slam, événement reporté, ce qui laisse penser à un retour en exhibition avant le circuit officiel (sources C, date de l'événement non précisée).",
+     "ids": [
+      "d9c6555ebbfa",
+      "0e672ecdd63d"
+     ]
+    },
+    {
+     "texte": "Rune estime que les blessures d'Alcaraz et de Sinner ont laissé des opportunités sur le circuit en 2026 (source C).",
+     "ids": [
+      "36aea84f00a4"
+     ]
+    }
+   ],
+   "risque": "Un retour retardé ou une rechute de Sinner réduirait la visibilité de la gamme Nike la plus demandée par les joueurs de club.",
+   "opportunite": "Un retour de Sinner fin décembre avant l'Open d'Australie, et la dynamique d'Alcaraz, peuvent soutenir la demande textile et chaussures dès janvier si le stock est prêt."
+  },
+  {
+   "axe": "T5",
+   "tendance": "hausse",
+   "resume": "Nike se prépare à son Investor Day dans un contexte de changements de direction (9 novembre) et d'analystes partagés. Aucun détail sur la stratégie wholesale n'est encore connu. Les sources sont presque toutes de fiabilité C.",
+   "faits": [
+    {
+     "texte": "Le 12 novembre 2026, The Business of Fashion (C) liste les questions que Nike doit éclaircir à l'Investor Day.",
+     "ids": [
+      "669e0c6c90fe"
+     ]
+    },
+    {
+     "texte": "Nike annonce des changements au sein de sa direction avec effet au 9 novembre 2026 (Zonebourse, C ; contenu non détaillé).",
+     "ids": [
+      "91d65414bded"
+     ]
+    },
+    {
+     "texte": "Début novembre 2026, plusieurs analystes se prononcent : RBC confirme « neutre » et ajuste sa cible, estimant que les objectifs à cinq ans seront dans le consensus ; Morgan Stanley reste à l'achat.",
+     "ids": [
+      "205ee1b5d62a",
+      "0458e08ee28f",
+      "55bdbc635fec",
+      "5da093be6f92"
+     ]
+    },
+    {
+     "texte": "Les articles sur Truist divergent : l'un indique une dégradation à « vendre » avec recul de l'action, l'autre un passage à « neutre » (Zonebourse, C, 5 novembre).",
+     "ids": [
+      "d74d1e392e01",
+      "7d77ba91b1f8",
+      "ceb4e804c052"
+     ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "Boursorama (C) indique que Citi mise sur l'effet Nike pour JD Sports, signal d'une demande de distributeurs sur la marque.",
+     "ids": [
+      "a7db4a35a4b0"
+     ]
+    },
+    {
+     "texte": "Une Air Force 1 est brandie « à prix bradé » (20 Minutes, B) et des collaborations lifestyle (Travis Scott) sont annoncées ; ces produits ne concernent pas directement le tennis et leur impact sur les allocations n'est pas démontré.",
+     "ids": [
+      "b34d8f0b7d5b",
+      "06340b727be2"
+     ]
+    }
+   ],
+   "risque": "L'Investor Day ou le nouveau management pourraient changer la politique wholesale (allocation, conditions, calendrier) au détriment d'un petit revendeur dépendant de Nike à 70 %.",
+   "opportunite": "Si Nike réaffirme son engagement avec les revendeurs spécialisés, Tie Break peut négocier de meilleurs délais et une priorité sur les collections tennis."
+  }
+ ],
+ "priorites": [
+  {
+   "sujet": "Calendrier de retour de Sinner (fin décembre, Open d'Australie 2027)",
+   "axe": "T4",
+   "probabilité": 2,
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Sinner est l'athlète Nike le plus porteur et son retour est annoncé, mais le calendrier reste conditionné à sa santé."
+  },
+  {
+   "sujet": "Annonces wholesale de l'Investor Day et changements de direction chez Nike",
+   "axe": "T5",
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Nike représente 70 % du CA de Tie Break, donc toute modification de politique de distribution a un effet direct."
+  },
+  {
+   "sujet": "Fiabilité des délais Asie-Europe après le retour par Suez (congestion portuaire)",
+   "axe": "E2",
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Le problème opérationnel actuel (collections reçues après les Grands Chelems) dépend de ces délais, avec des signaux mixtes."
+  },
+  {
+   "sujet": "Coûts salariaux au Bangladesh (janvier 2027) et hausse du fret",
+   "axe": "E2",
+   "probabilite": 2,
+   "impact": 2,
+   "justification": "Ils peuvent renchérir les prix de gros en 2027-2028, mais le lien avec les usines Nike n'est pas établi."
+  },
+  {
+   "sujet": "Droits de douane et remboursements tarifaires pour les chausseurs",
+   "axe": "E1",
+   "probabilite": 2,
+   "impact": 2,
+   "justification": "Le sujet influence les coûts et marges de Nike, avec une transmission incertaine vers les prix de gros européens."
+  },
+  {
+   "sujet": "Dynamique d'Alcaraz et visibilité de fin de saison (Turin)",
+   "axe": "T4",
+   "probabilite": 3,
+   "impact": 2,
+   "justification": "La visibilité est quasi certaine, mais les effets sur les ventes de novembre-décembre restent modérés."
+  },
+  {
+   "sujet": "Controverses d'image sur Nike (fatwa, Betsy Ross)",
+   "axe": "E1",
+   "probabilite": 1,
+   "impact": 1,
+   "justification": "Peu d'effet attendu sur les ventes de tennis à Nice à ce stade."
+  },
+  {
+   "sujet": "Recomposition du calendrier ATP/WTA autour de l'Arabie saoudite",
+   "axe": "E3",
+   "probabilite": 2,
+   "impact": 1,
+   "justification": "Le sujet est médiatique et structurel, mais sans effet direct sur le magasin."
+  }
+ ],
+ "recommandations": [
+  {
+   "action": "Demander par écrit au contact Nike le calendrier précis de livraison des collections tennis 2027 (dont la période de l'Open d'Australie) et formaliser les dates promises.",
+   "axe": "E2",
+   "horizon": "immediat",
+   "destinataire": "gerant"
+  },
+  {
+   "action": "Suivre les annonces de l'Investor Day (sources A/B) et prévoir un point avec le représentant Nike sur les conditions wholesale, les allocations et les délais.",
+   "axe": "T5",
+   "horizon": "3 mois",
+   "destinataire": "gerant"
+  },
+  {
+   "action": "Préparer une mise en avant en magasin et sur le futur site de la gamme tennis Nike autour du retour de Sinner et de la saison australienne, en ajustant les quantités commandées plutôt qu'en sur-stockant.",
+   "axe": "T4",
+   "horizon": "3 mois",
+   "destinataire": "e-commerce"
+  },
+  {
+   "action": "Ouvrir un suivi simple (une ligne par mois) des signaux coûts : fret Asie-Europe, droits de douane, salaires au Bangladesh, pour anticiper des hausses de prix de gros fin 2027-2028.",
+   "axe": "E2",
+   "horizon": "12 mois",
+   "destinataire": "gerant"
+  },
+  {
+   "action": "Préparer un court argumentaire client sur l'origine des produits Nike et les engagements RSE, fondé uniquement sur des sources vérifiées.",
+   "axe": "E2",
+   "horizon": "3 mois",
+   "destinataire": "vendeur"
+  }
+ ],
+ "a_verifier": [
+  "Le contenu de l'annonce de changements de direction chez Nike du 9 novembre 2026 et ses conséquences sur le wholesale (source C unique, détail absent).",
+  "La contradiction entre les articles Truist du 5 novembre (dégradation à vendre contre passage à neutre) : identifier la chronologie exacte auprès d'une source A/B.",
+  "La date et la nature réelle de la dépêche Reuters sur la sneaker Betsy Ross : possible contenu ancien.",
+  "La date et le statut du document WTA « Finals Riyadh 2024 » classé A : contenu ancien, à ne pas utiliser comme fait récent.",
+  "L'arrivée d'un Masters 1000 en Arabie saoudite (Tennis Temple, source C unique) : à confirmer auprès de l'ATP ou d'un média B.",
+  "Le résultat final du Paris Masters (Alcaraz vs Shelton) : seul un titre de source C le suggère.",
+  "Le lien éventuel entre la grève et les hausses de salaires au Bangladesh et les usines fournissant Nike : aucun article ne l'établit.",
+  "Les conséquences réelles de la congestion portuaire sur les délais Asie-Europe pour Nike France : recouper avec le transporteur ou le représentant Nike.",
+  "Le détail des articles Bloomberg et WWD sur les tarifs et les remboursements (contenu inconnu, seuls les titres sont disponibles).",
+  "Le lien de Nike avec Fritz et Fils : les articles ne confirment pas leur équipementier, à vérifier avant tout usage."
+ ],
+ "generated": "2026-11-15T09:32:31Z",
+ "model": "claude-sonnet-5-5",
+ "window_days": 14,
+ "n_articles": 70,
+ "sources": {
+  "24dd74a689dc": {
+   "title": "Tennis : \"J’ai eu des jours où je n’arrivais même pas à bouger\", révéle Sinner",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLWEzUC02R2dPaUxxbmt6ZmgxMEpSd3REZ3RIbkJ1d3Npemp1R2w4b012VGNQOWdHSGJpemEwQzZBYUFmN1BoSWZJLThsMFdKOGRCYmZ4a3dDZjNVX3NUdGpZc19sQU1iNG5mdm1lcmJEUTBQd0VsVDNYWVdMVUpBaFFpTnVoSE51WDk2NjlvdHBxRnFlaTViMGRtX1Izc0xlTnZrZDhNT25pOW9MUThTMGJnWkZfX0JpWmJZbUk3UFVyQnBTbTFJQkNyRS12TFVUUGNEN25ld0NMcF9FVXRfMHFFRVA4UQ?oc=5",
+   "source": "France 24",
+   "date": "2026-11-12",
+   "reliability": "B"
+  },
+  "6765ba72a968": {
+   "title": "Jannik Sinner : « L’objectif est d’aller en Australie », l’Italien évoque son retour sur les courts",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUURRN2FEVWNjVThDSGQwNV8zMF9mM0ZnRTJTUnQxMXFUWkxYcDRTb19CN0tpd3BDalJhXzR2QmhEa1lfb0lBR2xoWHJoek9KVC1QR2NVYTRwWVRpazl4b0RzSDZ0dWY2Vld4R3JFYVhqaE5yQjFFY0tzdjU3REVCRko1X21GbVBfdXFWemZ0UGJPTktsOGtNa0Y0UGgweGp0MHZTTHZsNDVmVko1TzM1ZEQxVy1zOEpITF80SmF3N0Z4WjVkUGJJY3dfaXVDMTdwREw0ZUtEclEtdE1iWjB6QTdTejJFbUtzT3JXaDBiSUI3TTVVTWkxb1NPU3dieXFPblI5YXMteVRheW5tc2c?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-11-10",
+   "reliability": "B"
+  },
+  "f99bdd47c28e": {
+   "title": "Jannik Sinner targets late-December comeback, keeps Australian Open 2027 in focus",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT3h3ZGxsb2Y4SXdJalRoVms3S09GWUN3UzF2NWE1ZVNQUG40eXBnWTBjblRlUEtVUW1Nem9haTNIUXJkb1dpbWtneTFXdnhBU0J4dFVyb1JBaTFVcGlzS1NNUjQ4dzg0RmllNnVkWThSbGctZEprN19tcmZYTkJQSFdzakFxNlpGLUtIeGtHVk9FVC1MbjlxOHRMYVAtakNwVnduZlVDaDBJcC1Tc2pmLTFGdURrX0tDM0kxaHlzaVNKTlJUT29pNUlVOGotRU1hV1pmUTJUQV9qWndrZ2xObUpMbm1uR1pKcXlKdWtOZlhHb2ZZVTdmLW1adUPSAYICQVVfeXFMTkI2ek5UQ283UEFkZEljQnNyWGpfQTJPeHNsUVRGT25RMXh3VVIzZFVtLUp6YktXemNKTjBUdGFXS3FkUW1mZ2ZwZ0ZyMFdyZWlKM0NORl9UUHQtclJFa2NfQTZaMFpvVU5MQV94SjF3ZzhMdVItaXRyRmJDTmVRZ2F2SFY4RkNTeDBmTk94YVhCUXhiSGlhOUdHS25yWmZEaXlGMXVHbEZNNFV4cW1TNUt1WFR6b2pwVjlkdWhFM3Ntd0FkTVctUGc1YUpaZW0yUnZvaWpYU0c3ZnF2M09NQmZiYjZIWWhEY3c2ZGdHQkRDZjN6NjBBcDJ3STBudkNpZklR?oc=5",
+   "source": "The Times of India",
+   "date": "2026-11-10",
+   "reliability": "B"
+  },
+  "e35505d3bf61": {
+   "title": "The Week in Charts: Premier Alliance adds more Suez services as Red Sea return accelerates | Oil from ‘significant spill’ washes up on UAE beaches",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPandOcF80YW4xZVU3VFFKR0ktYnFLeHFMb3BBSnQyYmVETFJ0bXlZMFR3MEVWTEdsN28wQk5EVkFvOTBNOVJ6LVVDa2VEMEVkN3dWZldfZWNDVHJOQ1NDSzhBaEp1d0NVeEIxS3pXejNNQ1B2NnRjVld4Q1NDY0Q1SlUzNlgxZ2NuVmFDcnFBWU01UW4wcmg3UHoxc1JPLU1pRXlMLWNSRFZjMlBoNEQxT2lqWU5zbER5eDMxeVFLTGxZUHNZREU4OVZOMlAyVmlKOU9TMlZ3SFVjMXFFZWVYdFowU2tzY1Z3d3owcGdpTUZ6ZXpvbnFUdXNyWVJFZl9IVHRZTXRSOWJ4ZzQ?oc=5",
+   "source": "Lloyd's List",
+   "date": "2026-11-02",
+   "reliability": "B"
+  },
+  "a102fa9a7885": {
+   "title": "Maersk says another container shipping service will resume Suez sailings",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd010ODE4aVY4dkotX2kyQ3hVdXJ6NFdBVXhrV1IzUkltNkhtcXBrZzhCcG15dU1tMVVWOFRISC1idS0tSjAwbVdvQ0Znc2IxM19ydW1hMjJVdVZMZVQ3MXZ4b25HNWRCcGxERlQycFVvYnFiMDFIVmRJaUduNVRpUGg1WS1pdWpXazFsNENZWkhjUFg5dTZDQnhyOVFBQjA3NWtvMk1WZUFVa1pFTFV3d1UyWjN0d3pM?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-02",
+   "reliability": "B"
+  },
+  "669e0c6c90fe": {
+   "title": "The Questions Nike Needs to Answer at Investor Day",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbFdvSEx2cWc2cEhhbVhMdG9YN2hFMGx4UVN2dW16Qzl3dXp3emxzWExrMnI2V3FYdzh4NWpUbkFNeWFMY2lMeF83RU1DOVhvR3RlY0hRSXY2bjFfZTJWVk1QSUdsTk1mTFQtT1g5a2djQ0NSUklfSW5ab2hYRC1QamJZajUyamgxX1VqUlpYT0hYWHc?oc=5",
+   "source": "The Business of Fashion",
+   "date": "2026-11-12",
+   "reliability": "C"
+  },
+  "8e2eac93e396": {
+   "title": "Red Sea Return Shifts More Container Congestion to European Ports",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX0tOZVJkVjctTFFxQWlqZEtZbVdoLTA3T2hFb0g0dGVIWk9yTTJWMGNmbXNtaWhxTXgtOWE5UC1yNUVWRkkyWHZ0UXJ0RThXNTRwQjRWRzZ3OURVZ2FUTTViT004TnB1S3hiOC01T281TEo1UjBEQm85VWlvT2RlOGk0THFadGhZS0YyVURHR0VXaUoyQ1ZhNnJINnhaODFWZDczR0FQYTNwa1I1MGxzVkQ2LXgwUVZkZU4zdw?oc=5",
+   "source": "WWD",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "a8d49cab93c7": {
+   "title": "News Return to Suez transits raises congestion fears at Red Sea ports",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHNwZngycTdJamZaRWJTTHRvdWdTVmZyZTI2RVRiR1lpYUt1cGR2ekNFajNBdnZHU3JOd3huX0wzSmxsdFMxaTlsZVBwd3RxUTRLMHJFYmJjOHBTT09HbUxCSkQweGFfYkIwUC1KSXc1VDVpYjZrUGtXdHlsamdEVHZXbHdzNG9Nem5MUWd3cEg2bWs?oc=5",
+   "source": "The Loadstar",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "dc5f3f9fc214": {
+   "title": "ATP > Jannik Sinner : \"En plus d'Alcaraz, deux joueurs du circuit m'ont tout de suite écrit quand j'ai annoncé la fin de ma saison\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oaEVOSjlocUxtSkdLQldIcnk1aGliX3B1dExuRElaVjlrZU1ZOFotcjlfeWR5WXoxbzJSRWN3Uzl5V29TcUgzNUhvQTY3UQ?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-10",
+   "reliability": "C"
+  },
+  "fec934694632": {
+   "title": "ATP > Absent depuis quatre mois, Jannik Sinner prend enfin la parole : \"Je suis un joueur de tennis, pas un médecin, donc la seule option à ce moment-là était de leur faire confiance\"",
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOaDFGc01xaE5VSWFieHdBS1AwbGdDN0tvV0JORHJrcnc5NzdHRldBUWVFdmdubG16elhlR01CM0ZieTgwWHc3OUJvVmdPOVl5NnlONllLLXdLZjdPM0p0R1FJRUF6SjJNaG93WTh5QW1USTRKNHVFbDdhTXZzWXhBbzNEcVJYaHFUXzUtdlhKOUwwcGZpV05GTWdfM2F1b1NkVzRER3dSb3hOMnFwWXl3ckNNcEhyamNlcTZ2anp4blJMTFlLcHVZbTl1Z1RoVGpVdnpJZ3pIOWp3NW1wM2l6cGJsZXIyMUNUMUxkMy1iVnhyNENOMXFmUWpJSUUzbncyRnNrdnlVUlhhY0NUX1lGN21yRGRfWmo1RTZnb2l0TmljOFpZVFduMFRR?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-10",
+   "reliability": "C"
+  },
+  "31e0b18355e7": {
+   "title": "ATP - Blessure: Jannik Sinner : «Ces derniers mois ont été difficiles...»",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZG52YlhVOXBsRUtsR0MxUHVtOC1uRDdOd21HdWtpTDc5QTh1c1lIU2FhS1BMcHR6dEJCWHF2TlNPN0h5WF9zZHFKRVpTVy1sQlRxeWNmOEhwZTh6Ykh1U3pENjJ1endhTnhCUVNLUkZkQkV0U0pGQm5STVgwNzcyZm8xaUxhRm1TTnU5bDM3VG1WZGVLc0s0M1U3NEJmenNUZzE0WkN1c3lnZHPSAasBQVVfeXFMT2RudmJYVTlwbEVLbEdDMVB1bTgtbkQ3TndtR3VraUw3OUE4dXNZSFNhYUtQTHB0enRCQlhxdk5TTzdIeVhfc2RxSkVaU1ctbEJUcXljZjhIcGU4emJIdVN6RDYydXp3YU54QlFTS1JGZEJFdFNKRkJuUk1YMDc3MmZvMWlMYUZtU051OWwzN1RtVmRlS3NLNDNVNzRCZnpzVGcxNFpDdXN5Z2Rz?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-10",
+   "reliability": "C"
+  },
+  "91d65414bded": {
+   "title": "NIKE, Inc. annonce des changements au sein de sa direction, prenant effet le 9 novembre 2026",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbkMzMG1zT2RBTEpLYWxhM3dHZWRMaFJ3ME1aMWwybElrRnpzYnB4YUNjNlU2YnduNWJYbVRKWXgtMWRDSld2R1duUjFTbmRHM214bzNFQWpPWk1ZVVRnU3AxaEtiVFc4NVFlRmlSU2Y0VTNIOHNiTEpVTG1TRzV6RUhHbEpKNzVySm5hTXF4dnhNVE1KU1RKT25IOUszdC1JTGQ1c2FSQXdZWkU1Q1Z2TmJrcS1rUTRfTlpiUUEwZTF5MmdyMDJrYnZYa1pvc0dBd1MycDFHM0tXdUMybVZsaW03Ymo?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-11-09",
+   "reliability": "C"
+  },
+  "8c2ec97695f6": {
+   "title": "News Major liners set to resume all Asia-Europe services through Suez",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObG1aZTJqXzZPY0UydkxpaU42bkl3OWpleEQ4cFZic1dKQVlYMDBienI3Mlp3QjdpQ3ZTV3QyMHFjYkc5enVMSmpCVkRMYzFkS1ZqSkswZXZoV2ktTW9Kb1BhaHRNTVJFVU1TOVRhMUVsenJWZFFqRG5WVEVBMkozc2oxejRhdjgxQm9fVWZWcFU2NkU?oc=5",
+   "source": "The Loadstar",
+   "date": "2026-11-03",
+   "reliability": "C"
+  },
+  "794e9c564d12": {
+   "title": "WTA Finals Riyadh 2024 Overview | WTA Official",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NeUdkb3FRNXFiRDR0NVZlQ19xV25yZ0NEUG5nZUdSNGtZdGlIOXlaMlRneTI0ckVxVjBRUGdaT3F4emZPSkNhMDNwbWVJekdCTUY5WkRuWi1PYjVDamZJM2FDT045ZE1B?oc=5",
+   "source": "WTA Tennis",
+   "date": "2026-11-08",
+   "reliability": "A"
+  },
+  "8b4340b9a3fe": {
+   "title": "Tennis : Zverev, Alcaraz, Fils… Les huit maîtres prêts à conquérir Turin passés au crible",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDZHc3A0OTBweXV3ODZjZDloQndFQjlLc3FiMnVKOHB4S1lNWW44OVYwTlJPcVFDNGVFZ3ZJMzJCS2JqZ1doRDN6RG1veTMyV09EOHQtcXVaVlRGWkNiV256SDNmNml5WjVEcC1kMnpGRHpZZERrLVNKalM2MkZBWmJFWGUtQ0o1YVpPSlE1M2lRMkFwb0c0SGJFNDlCT01VTktZMUhDcnFFdDY0TTZFUnU0MmRyYUlkSE4xMHp1cm0wSlExNjBHdDU4cw?oc=5",
+   "source": "Le Figaro",
+   "date": "2026-11-15",
+   "reliability": "B"
+  },
+  "b34d8f0b7d5b": {
+   "title": "A prix bradée sur Nike, les parisiennes se jettent sur cette paire d’Air Force 1 au détail iconique",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb2tBSHp1VkxpWmo3NHJjMmF1MGN4bXpmUHducFVxUUlZaWQzR1RZVmpBczVCLXpoTVNaM3lmYmNXckRXR3B4SjJjWlZWeldRZ0VuYVJTRktXYWJQRGxfbWNkRlVCeG00ZGxXZ2IwQjBiNS1ZNHdXbHJOdmswMUYyNzB6VDVTaDBmWEhkenE2RGZPaXViRzMybzNzT1FQZEtZSXB6WU5GUVJWZmc0VkIwOUR1YVI3V2V6RkVTbjJHUkZBZ253T3RhbGNaMkM1aV9NdUNCdw?oc=5",
+   "source": "20 Minutes",
+   "date": "2026-11-14",
+   "reliability": "B"
+  },
+  "b240292c0089": {
+   "title": "« Je veux protéger mon genou » : Sinner se confie sur ces jours où il « n’arrivait plus à bouger » et sa perte de poids",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOOUk2YmRadFJmTzQ1NlNKWXE1ZGNPbnJ5SXltUTdBYzBIOXFmaG82T0xXMGYyeFVqajB3OXhCZ28yS01mcnVjTk52OUIwRFVXRTAwaDRxLTZZd2tKaHVrMVlfbXNwTjFmTktEN0c1VGU4c0ZzbGU1ZjNLYW9seHcwYlVKZHpYWVZxcGkzaElIbzF3ZEtzMzhrRGo0anM4cGhxa0pyTXpOclplNVJOcjI5cjdMSzBsY0RXLUVUNUNnQkZNQld5RHplSHdBd0ZrSVBqZnA1cnlvWDV3d1FNMFZQMFNabk5OQlp6M2FscHlQQzZfS3lKSlZYemNiLS1SNWxaOG16Z1UzMTVTRk5uVEdpUHNFTTdiSkFZSWxNVEdxVU10bm52U2hV?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-11-12",
+   "reliability": "B"
+  },
+  "a6e6a92df6c1": {
+   "title": "« J'ai perdu beaucoup de poids » : Jannik Sinner s'est fait retirer les amygdales",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUTdnREZFUWpIZjVDY0xEODItdF9qWS1ubzV5ZHlpLWRyVmJpVmhMLWtJMkw2b0FtWHFGdXlqWndiS0dybDE2dG05cE1YcG1CeTQ3LUMzaWVlcFBqcXRsT2JCd20zU1JjWjB5WG1DeGJtZ19oakpvVnBKOWZuVm1CRjhkeVlXcnlsM1dHVmdHU0xpQXc4WDlGZmg3QnViOERTMnRrSzh4aFpQU21RSU1lMXBoRlo3TjRvbTBDMi1DQUxERzQ?oc=5",
+   "source": "L'Équipe",
+   "date": "2026-11-12",
+   "reliability": "B"
+  },
+  "40617a2625ae": {
+   "title": "Tennis. Fils, Zverev, Alcaraz… Les huit qualifiés pour le Masters sont désormais connus",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM09sNFNCMlJORU1oZTQ2TEx1cnFZUzZlOEdhb3FRdGxoQjZ3ZE5zeVBFV3RDaVZBdnp4SXNoS2JJc2JGT1JUYXVjdm0ydmUzaGQ0Z0p2VlVVYl9nLWxyT0hhd25CNElfdG9jaGNtMXEtOE9RVDc1WDFwY0M1Z1RaYkctSG50QzhoMThfLVQ4RF9CbmdKZDF5VHd3eHZhQXhXYlNLTlExblpHYk9FcnpnRHE0djZNR0N2WDIwWWN1X01tRTYwTHd0STZvSXk4TEJibkdvcE5nNzVjbS11TXQ0OGFOSjFSRm84U243cTE3bVJiVDQ?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-11-06",
+   "reliability": "B"
+  },
+  "425a971fa5f4": {
+   "title": "Tennis. Ancien numéro 2 mondial, finaliste à Roland Garros… Qui est le nouvel entraîneur de Jannik Sinner ?",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMnNtcnBQX1FtanRxUjZxQmUyN3otWDgxc08yeWxaTFRBQnpSR3M4RUczQnRSUkJKRVpUZ2cweHV5WXhEZGs2dGxoMlNZY1VETERRSGhwcWhvakFQLWY4THBrNkpOZGlZRVJXVlFRbTAtSUhtbmdPSTNWdDRCQjdmSFdvM0IwUjJRczRxMGhPOThxeC1FdlhPUlBzenpySWdTWk55dGJXcURVUm1YbXp0WUlBdHM0RV8tRzR0ZGtac3NVY1gwcFkwcTNnMlE1UUlXU3pESUlOSmFyWV9hZ1BFU2JwU2pNV0pHTzRGZDhqQmxDY3NfZFBKQW9mdzZtTVFQUFlnNUNUd25JZldTM2tNVjdkbzR1a09nV0xjbkFFNA?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-11-06",
+   "reliability": "B"
+  },
+  "1aeec29903de": {
+   "title": "Why WTA Tour Finals is leaving Saudi Arabia, and the future of women’s tennis’ flagship event - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzJDbElhaTQ4aURZWFpFUERaejJSUm1za1p6cGVDQjJLWVFQcklBaFF5WHpEc2JuWjNsU2JqMUoxSkdTbGhfVUNEejE5bXlCTFpHRGtpeE9DRTg5SUtoMGtYTTRuN3RSbzA5WUlFMmxhRWF1U2FEQWFiZmtJeHdVbWowVWNscjhmN2Q0cDM5NHlkWk41RmJ1WA?oc=5",
+   "source": "The New York Times",
+   "date": "2026-11-06",
+   "reliability": "B"
+  },
+  "20c69dfbe98e": {
+   "title": "Matteo Berrettini forfait, Carlos Alcaraz en quarts de finale du Rolex Paris Masters",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdGU2SFVPSUt1ZTJMV0V1dTNQMXpxWEprS0pLMkNxd2VYS2ZBX2E4MWhGVWROTkF2cU9YVVhzYndDQnBSRGdTaE9PSURObjA5TlkwWlZSUzAtb09sUWN0Qm8yd0ZoN1BuRnVNRnp4UUZoNXNtYXVyVnk2eG1fR2tVUkttWm5lTXRTSVBnWUZsX1oyWmxacVE4TTVzTzlBb0dYYTdFNnlsRTZaZGxucDBTQ0FONE9jTWM2dXdOam9xTkpHb1FBTnRsczk0dTc?oc=5",
+   "source": "L'Équipe",
+   "date": "2026-11-05",
+   "reliability": "B"
+  },
+  "83e597131787": {
+   "title": "FitLab Blames Bankruptcy on Loss of Nike Partnership, Trump Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQczlOdTByTHY0VkhOcmp4UUtzUGgzWERrTHpuSDZ2VmNfRHZ0NjJ1aGxFSUJ5NEpDSkkxbUR3QzRZQ1l0bUlHMjJIOUduRWNiRXoyUm5oRFBaaWtnS0labkVoazNHelktWGRoYUFrbjZrNDlqejgwdml3OFdyNXNsX2tXU3FHSTBLSW1qcUx1VnBlTy15NnpoZWZYQWRZbU83VlIwYzRsZDRqa00yMmM3QUlYdHhJZlMx?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-04",
+   "reliability": "B"
+  },
+  "57bf4e4c5ea4": {
+   "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
+   "source": "Bloomberg.com",
+   "date": "2026-11-04",
+   "reliability": "B"
+  },
+  "93bcd082e7b3": {
+   "title": "Fatwa issued against Nike for ‘promoting polytheism’",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaEZ4bl9vdWpXbHNDYTBDMGFkWnU2MnJKMXpKTTZYSElLaGsyQTdUS0V1cUtSbHlnV3pHbVF0MldxTl9fVmV1UVlxc1YwTEFHNDJtTjNUOUdsNGdtemgyVkN4NFlEaWhSZkk1VkNlUVgwUzBCdS1vdTdNZTBFcWxOa2hFWmhoQ3ZY?oc=5",
+   "source": "The Telegraph",
+   "date": "2026-11-03",
+   "reliability": "B"
+  },
+  "1766615b0ba4": {
+   "title": "Bangladesh garment workers stage fourth day of wage protests",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0VYQlJKckJ0eWh5QVdLX2tDQ0JXMjkxS1BDMUw4VkNRMDBkR0g0OTJTM0FCTEk5UFlQelVad0hRN252YW8yS01qdGJTaXZ5VXp3ZDJpMWN1U01vMzFGMDlRMVg4eW15NGh0YWMtSHlGaDFFVU0xc180Mlpxb29zRXM1MThtNkdKc3V5Vml4YklsZjFISURyN294azJpSXdkZkUwZWJNNUowYVdmLW9TbzlFaDZac2c5a0E?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-03",
+   "reliability": "B"
+  },
+  "8a33d27b0f60": {
+   "title": "Bangladesh garment factories become second schools for women",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWxYQWkyREl2UDNEY0w4cWZiakJZQ2R3T2V0aHV6TXFOaHRubjRoS0ZBdmxXZ2g2ZlBPRWQ3WmEyLW9laFNqSUJLRk5VMXA5RmhEbGlRTDE2VjEySGZPc2NXVFR4LUlfTl9hTW55eFR6NGFPbldVbkxSWm15R2NQOEhaRHRkYXl6aW14ejJfamowV1J4ekM1SFN4OEthSVk?oc=5",
+   "source": "Nikkei Asia",
+   "date": "2026-11-03",
+   "reliability": "B"
+  },
+  "ad12af795285": {
+   "title": "Nike pulls ‘Betsy Ross Flag’ sneaker",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9oRExUOEs4Q19VWVE0aVFWUmJTbThJVjFPMWZ1cEg2MjVJMzNiNTJVbnQ5MjE1UTJfYjlHaDNncFdqcFFVSzhoX2psZi02bDJVZmN3RHNBdWlkdVBC?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-02",
+   "reliability": "B"
+  },
+  "636e418d0c3f": {
+   "title": "Tennis. Carlos Alcaraz triomphe à l’ATP 500 de Vienne et s’offre un quatrième titre cette année",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNQ2hjcW92anpGS1l5X01PRUVMSFp2MFpRQzRxWnZSd2I3Rmh1UVZkSFNLMmlQQjVTTnl5MGRHcU9kazdIOGhPRDB2UlNkck9IUGZZMWlYYktFNlU4X092LTlIY2NVZmE0OThJOEt0a1FoeGNDTUlXZE1jdVE0VFdRTHl3N2dqRG5oZ1JlUnp5Yjc3VEJqSmkyaV9vUU16M3VETTRoOE1kTGRRaGtPNU5hM2dNTjZUZjFjc3Z5ZkNxTENUSHlSLXRBRjRuMDBGb3g0ekJmOGJxdVZDdk1fblJ2M1NtMkRWWjdxeGRfdU5DcWNRb2FKbnN6dlY1N0hSaVBzQjkxbUJzVE9ENWRad3lHbkxWcw?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-11-01",
+   "reliability": "B"
+  },
+  "51eaf73eefbe": {
+   "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdmpCZmREMXNzTEFKc0hKLW5oYktlNDNfZW5PWFhqdGlaZE9rejItRWhrU2hTZ0dzMmhEbzNNdGZ1dVA5WTF2cVRFQVBoTUt6dFAtQXlCVGlyY1NXWjV2Y3hjNEY4YlZRUFFiREVyWmFnZ1kwVjMzSGloY0xjdw?oc=5",
+   "source": "The Guardian",
+   "date": "2026-11-01",
+   "reliability": "B"
+  },
+  "bfa30dd7891d": {
+   "title": "Hapag-Lloyd Profit Surges as Freight Rates Rise, Red Sea Services Return",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUml2X0p5WGZidXhoZ2JmUGtZNnNYcDZIcURGOVRJWTB6Q09uYkttckJTS3N3RVNBOWZQUGlwQWJQMWFqYUd2X09mdVZ6QWhhelpxLXFTQmhxSDdnU2FOVUdfbUdjU0RVWnB2ZVpvdGYtclhJd0k0aElKQ19UX0RxTmlsTGR2T3MwdnpER1hBZ21BaUVWZlg2Xw?oc=5",
+   "source": "gCaptain",
+   "date": "2026-11-13",
+   "reliability": "C"
+  },
+  "98767616d452": {
+   "title": "Ruud valide l'arrivée du Masters 1000 en Arabie saoudite : « Les joueurs en bénéficieront »",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzBnNUZ3dFlvX3BYTGVoTVU5U1k3MWxpdzNRbXl6MjlTcHc1Y0IwQmN2LU9TRG5wSHcybzFlclNvTjhwOU5lUXdXNEhTVGpJb2wzM0U3ejhJWHdMTU9DSzFmUy1VUXhjb0ZxVUpYVjlkV1JyR1dCNmZPaVRYWjRLYnF4bFpFVm1HZVAydg?oc=5",
+   "source": "Tennis Temple",
+   "date": "2026-11-12",
+   "reliability": "C"
+  },
+  "27b1cdd52287": {
+   "title": "ATP > Taylor Fritz rétablit la vérité : \"La prime de participation au Six Kings Slam n’est pas aussi élevée que ce qui a été dit dans les médias\"",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMlcxWWV0M2tuV19qZjFfSDdMNDE2T0hzNVcxZE0zaktiWGxDT28xVjU1TDJCU3ZlckZTNm5ianZyYXRra2hIWU1LYTM4N29FU0ZLRkVVYzNkSzl4ZHB2SjhKNThabm5vRVpJTWh2M0JKZW5zZHN2RDQ5bGFoek81Zy0yRTU4WWlydE1Vb1FwWms4eXJwVXZyUXBGTGFKLVAtdGJ6aGljNldzaU1yVHEzSFZsV3B2ZDZ0Ql9WaVVmOXZUUHdXenJRdjZCX1ZlcW5TS0JkVktFNlNuRGlGQ1ppWmRlUWRCa1VYcHlTSkFZU1pIVDh4ZjNkbC1R?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-12",
+   "reliability": "C"
+  },
+  "7a023174ece3": {
+   "title": "ATP > Jannik Sinner, pas seulement blessé au genou : \"Je me suis fait enlever les amygdales il y a quelques semaines et j'ai perdu beaucoup de poids. Vous le voyez peut-être à mon visage...\"",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNNUJBT0JZY2t4LS1icVdEOFRKNzR0X3p6Zm95Z1VhSDVSZWRUZnNjTFU0amxtNWg3XzJGcC1NVUNrcFNQMTdnV3RVNmR1ZWVNWFRjaXdKaEVxUUh6U2NDTERMU3ZZQmZrN09Jd0gxUlc1a0pRckpDdElzUDByOXU4RWFYUXFxbE1qeWV0ckxiMl9QWjc0ZWxBUXB2YTNaSWxTSjNmMWtHQkhqQnpCa2IyTEpLWUdsZlR5VmlMdXgzTU13OU1lV2piRlo1aS1lbEJiZ0U5LXBDYWI4RUFuVGx6YzJaOGgxekQxclAzSmdJU1BYTWFaYVF5bGU0S3oyM3N4czAxa0RfQnlqMTQxMEVwRDQ2WW5NMUZoaEtDblNpMnJWWFRjZzhPWU1qRU9ES1U?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-12",
+   "reliability": "C"
+  },
+  "96697211aa0f": {
+   "title": "Fritz tempère les rumeurs sur les primes du Six Kings Slam : « Les chiffres ont été exagérés »",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcmc5dDY3YjlRNVoyVU1YVGNNNWVsOGVDZWZZNzVCaVh0V2RYV21BVExvVS1za3UwVmJwS3VpZVJCelJsSXNOZW9FVEtTcXMxeUdEVG5ZTnU2LU5BU04yVEtaaU9BekFGcHBQVEhHa2FuZkJ6SkhNcE1yajE4RXBNOTBDZ0UwSHV1TkItWmhR?oc=5",
+   "source": "Tennis Temple",
+   "date": "2026-11-12",
+   "reliability": "C"
+  },
+  "d5ca6a864ca7": {
+   "title": "Fritz on the Six Kings Slam: \"They don't pay as much as the newspapers say\"",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXBoRkpEaE43N3g0T05rdk5DVmdvQ1dPY04zdURGSU1rY0oxMC1Dc0xuU1UxeDdpcWFfcF8xRVlVY0Jpb1h5M05yZFk3Z3hDLWJrSkRKRFNaZG1JLUVmWnI1VTItck1nRjNxM09Bc255MXp1Q2xLTkVmUWRIWXNXWHVzTjg5TVFFYkQybnBQZFBqYmpSY3B4TEhvS2ZhXzU4aG12SkZpYzRPMlZXZGZ3TDNRZnQ?oc=5",
+   "source": "Punto de Break",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "b48b6170dd67": {
+   "title": "Fritz, sur le Six Kings Slam : \"Ils ne paient pas autant que ce que disent les journaux\"",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1Z4YkVvNXc2blNFa0xnTU9yYWg4NndYWDFBNU5ZNlhnUWM5N2RuclZfZms4TUIyTlJnUkl4LXptUm5WT0NoYzVxcndTalE5RjE1c1FiTUFSU25nYkZxamRtalRqUFNSaTh6RFE5YzNqcEZvdFEtZ0FuaEN2dlRibWJkU2xoc1ktSG5tQTUzQ3A4V0ZrWi1vR1o5aldwZXdheVAxd0w1RThieHBMejBreTVTd25aLWhTLUE?oc=5",
+   "source": "Punto de Break",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "5b55ab22bd3f": {
+   "title": "ATP - Blessure: Jannik Sinner se confie : «Le pire pour moi avec cette blessure…»",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVlGX1JxTHNIS0xYZjZGUnZCS3lPSEgwdWpsX3RacktJZ0hDR05acERXS3R3MlQ5dXdQU1JzOXA2b0EzNUtPOUk0TUZ0VDA4UWROY0gya2VrVm5HQVJoQUZXRXF0SnZWdHhTX1BVZlRMd0hDRF9veFFhS0dFam96QmdNRlhUQ2huZnpRaGp2RTlkekIxWm1iTUE5OU9PR2VQblZFOWwzUW93V3FHa0l6QnJTcGZqaUVU0gG4AUFVX3lxTFB1RUZtZlNncGxOZ1huVm15bGF6YXc1NGdCVWxHSkEzY01xOWUtRHZhdW1yLW1VQVhSdkxkeFhTWmVETFlXYVpDV3kyNWNaZE9oTkZ2ZkNjWTRZdkZCT2N1bDdIX1BZVkRGaHRRcnUxcXVQb3plQlVrVEVqbndXQ2NCLWY3VDRSQlFMNDlJOHJkVGl3N0NEc1ZTUXZyUXBURzdaQXMzRVpHV3RXSmVkOGJUM3JRX1ZyR3c?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "e80b831a23a3": {
+   "title": "ATP - Blessure: Jannik Sinner sur son opération : «J'ai perdu beaucoup de poids»",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczB6Rko3ekFxMUF5S1BROE5lNEN2bXlMWncwVXFIcktuTUlkYmtaaUFkWWh4Ums3M1hhN3MzYUtGZ0lqTHVGaWtiS0xBMm9VRlAtVDgwN20zLTZiYkg0aTFlZHJBTXlBdV9LbHp0VlZlRmdEcmlpcFRaVmN2U2YtUHRWYy1ibVRuOU5fNGdVZzNfTDlHRjAxRmlPYTVJLVY4cXlWdFl1S21tYTlxWWlkS29BVjVBZGl30gG4AUFVX3lxTE5uWDFJeUp4ei15aU5zMVlGUGxlUU5pXzlQd2hza2xUTTVDNTZSNk0zeGhBZkJNOGlKR045NmhQR3BObktmb3FXaGljeEo0eFRJNVV3dlQ2SjdaVGptaFo3SWl1N0tDNGx6Rmt2M25lRzVKYk5oTXNCVC1EdmlGQjF3R0NEY08tUXprejJLeHZlQVhEWEdXdnZzXzVIa01jSmJNM1loWUxIQjYza1BCb2l2elpfQmg4WDY?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "8dc37b00722b": {
+   "title": "ATP - Blessure: Jannik Sinner opéré des amygdales : «J'ai perdu beaucoup de poids»",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjBUd20xVWZ2ZE5iWUlwVlRxTmI3MFEwV0x2U0t5bVgxQURQaXVxLS1heGpiWEZnREd5VUdvUWlKQU5KVHo3ZzZBZDdxcXdRRXEzZUlIajJHblFoVVZhaVd3a3FDVVRWbjRkZlF3LXU4OTNDT21ybkFpTm9Ncm54dmU5Zl9YUmhSNGhvUVFfdDVRWkJiTnBNTlNrYjlra3FlYm1ScjlBbjRmTHFPNE5wckRURVVnVjZ0LWdz0gG7AUFVX3lxTE51eFZsTnRVRUNOejFvYmJyUkVySW56ZXMxbS1iOTBRNThUblB6aEl0WUZ3VUZRckJiSXVoZGZ4VUlCYXFBTU9oay1ORFNTMnNkV2U2blNYMGM5WXFiekl4Z0lWeEN1MlllT1lUbC1vREFqUlB4Qm5iYnpIbnNESy13allBcF9rMGVIVHBNSV9PMC02aG1XdDNoRjVKNGtqemVxeWExa0lIdzJPMTVFdVZIT2VJUGFkRl9BOTg?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "36aea84f00a4": {
+   "title": "ATP > Holger Rune : \"Une partie de moi est amère. Avec les blessures de Carlos Alcaraz et de Jannik Sinner, il y a avait tellement d’opportunités à saisir sur le circuit cette année\"",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOYlVpODVxUFFkTzBsdFp4TzZnQ1VyN0pVdmxoT1B4TE1XNHBVc2VYTDcwZzBsaTRYeFZVQ3RyTzUwelFRTjlmN21hS0dNSEZfOUoxMVRiMEYzcjFiMUJuOU90OXpDSDdLZXpUbFBmREdxbFdqSnlUM2J3aFNRMjBJal9JRHVid2dRcUdFN09hNzRSeWRJRExNdDUwU1ZVTzFUZUNoNVVyOHNMZmtDX2NQQTIxNkpITlpxZl96aWZyRURWUEZJMDBfOVRNem1yM3E2ZUQ4SEd4dmpqRl9ERVVHN0tnSDRSbzhUUmczdXFkWS1wRVVIdUFLRzlKVll5aF91ZlVRQ0pwMTNDakhrUTYyQVQxdWhSTUl4d1BvTGVsb1JNcmZzSzFYSg?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "11552b09a2c3": {
+   "title": "Here What We Know About Tariff Refunds for Shoe Firms and Retailers",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/shoe-firms-retailers-ieepa-refunds-corporate-price-decrease-1239408697/",
+   "source": "wwd.com",
+   "date": "2026-11-11",
+   "reliability": "C"
+  },
+  "e732532885ac": {
+   "title": "Here’s How Some Footwear Companies Are Using Tariff Refunds",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObDlVLXNzZlRkVHlLSVhodUxiTk40WFJXQ2NPRVVZdnFOQ3V3WHdCWVhRYlAxcF9oMC1GYUtwc204bG8wdXQ1M3k5Wk5HUEl0X0ZYbG1OZ1Qyc1FKT3JlSlMxUk1leTFDaUpTM0tmQ1pEU2xjQWV4VkdCdllaTGFaRnd1Z3ZMZl9INkhtSURuQ1N1UWdDendEV0tMWXhfOVR6S0JCUHp4dGZmTm9WVTVoOEY5aDdtSUtWb09WYQ?oc=5",
+   "source": "WWD",
+   "date": "2026-11-10",
+   "reliability": "C"
+  },
+  "a7db4a35a4b0": {
+   "title": "JD Sports recherché à Londres, Citi mise sur l'effet Nike",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaGxubUduSzRRbnhCZm90MURrWGNOZWdseURjX1p0ZkF6ZXVxRldRZ0JfbUtMNmtwTHF0Snp3Q09FWFBpbUowdFBISnB5NGtlZkkyc0NyZ2RabVg1RkhINWU0ZklqcHJoQVB1a040aldjeHk2dVlLY2MtLTZ5RDJHTS1mOC01dk0zTnoybEpaLUpFU1YyUmdnV1BHdWFpRHp2YnZHS1QzOGVBWk1mWXhOQmlCYkI0ZU41akhvWEU3ZDdnT1d1Z3QtX1gxWTdFajZ5NHdlVdIB1AFBVV95cUxPaGxubUduSzRRbnhCZm90MURrWGNOZWdseURjX1p0ZkF6ZXVxRldRZ0JfbUtMNmtwTHF0Snp3Q09FWFBpbUowdFBISnB5NGtlZkkyc0NyZ2RabVg1RkhINWU0ZklqcHJoQVB1a040aldjeHk2dVlLY2MtLTZ5RDJHTS1mOC01dk0zTnoybEpaLUpFU1YyUmdnV1BHdWFpRHp2YnZHS1QzOGVBWk1mWXhOQmlCYkI0ZU41akhvWEU3ZDdnT1d1Z3QtX1gxWTdFajZ5NHdlVQ?oc=5",
+   "source": "Boursorama",
+   "date": "2026-11-10",
+   "reliability": "C"
+  },
+  "7844c8de25f1": {
+   "title": "ATP - Blessure: Valentino Rossi a rencontré Sinner : «Son genou le gêne un peu»",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY25jY0ZwVFlzeWZkQ1hPNWhSbkJycm5TMlN2LVgySWhyY2hoQjRndkZnOW1SLS14bEVFeFJRWlUzUklsV1NvdkJveURmRmJMZUtOcTZjeUhlYmpEMm9rYno5Yk9VcmRSVjlhRVc3b0xGZm5hVEQ1MmM4RVhGTGFDdWVDcVAzcjFRY1lmQ1Q1dEVkNjYxODZQZ0RvdG9aYmxmSVR2MzFHMk9oTHNKQWdjNmF0dGR6bzjSAbcBQVVfeXFMTkNIWmJIaEE5YXpNUkRDWFg5SHpJTmtkYW1wUVhIaUxsZFZlRkV3WHgzYmtKOFVxMzNVWk5MZkE2VDhqTGxYU2xDc09ueUFfektPRzRRcVNkMktPQ3huanhRa2ZiWHlTWWNqQ0xyU2NOUmczeUI4N3FJOHBuekxzdVU1b3BnaWladkJSeTdYaUkxVlNGd2VRNUdmTU1FeTlKT2ZRSWtrdVNQV1JWazQ0ZXJZMmtyd0l3?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-10",
+   "reliability": "C"
+  },
+  "2abe0907c2d7": {
+   "title": "Musetti et le numéro 1 Zverev : \"Sinner et Alcaraz restent meilleurs\"",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkpkempMUmFrWkRxZDc2c2wteGVWM21sRXB1RXoxZGYzM09hQmp4dTRKTk5ZRGF0Nm1MQlZkQjl5dkFhRVU1MmRnekxYMGRiVWFSUEM4ckc1Y0txdFpYY2dLSnBkM2RfYWxxdEJHSzJtSU9PUlNTRmtUd01pMldJZkZuTGFBREVYWXhReEpHcWRFdExDcU5FUGppbzQ5YldKTDAxU3lFM05CU1lz?oc=5",
+   "source": "Punto de Break",
+   "date": "2026-11-09",
+   "reliability": "C"
+  },
+  "88e508dc332d": {
+   "title": "Paris n’allait pas lui résister : après une saison freinée par les blessures, Alcaraz ne laisse pas passer sa chance de gagner un Masters 1000 à Paris",
+   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRWVHSHoxNzNzM09GRUxTRGlvOUpRYUhfa3BlOHh1aVBhN1Z2VFV2eTA0U0IwemhYQk9vdkRjdDZicjFaTkxsTUhtU3E5bjlaYUFHNnZrQVF2d3pQOGJzNTkwNDJJMHJwRWx0UmxkQkNuS2p6U2VoTnNLUzg4TmJFUHN1aHhaUjNta0x6RVBJUTBTTTE2RHN6S0Z6bDl3SzZXV1lkTVRQSklxQWtHTkxHZk5GbkYyMmpuVW5WcGF1TEV5cUN4ekVOMHFwZDhpeUdUX0JNd25HcDBXbnFScjMzZVJLdG9sSkRaQnZfejg3UGRMcmJXeUVhYkl1a2Z5QVZpdjgwYWdUX0p6eHBhd0M2X3Z4SFlYb3VhOHNPcHdIQ083VmgwRE92TEpsX2FaSldLMWNaM3RoNEFTR2pmbWdHMWQ3c2YyZw?oc=5",
+   "source": "Tennis Majors",
+   "date": "2026-11-08",
+   "reliability": "C"
+  },
+  "81625749e22a": {
+   "title": "Carlos Alcaraz prévient Ben Shelton avant la finale : « J’ai vrai­ment envie de prendre ma revanche »",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNX21sb0EwRnFGWUswS1pFNF9fTGZiWER2VUd1VHdHci1ZUk8zaTJCeGRrbndTMzE0M1plZWFRQ1BPbThLbjBZQ2lZTUJZdFlkWjdObGdqcm0wT0JmcjZsckJwSTV2NHJrb1BDYlExY1JiakxVd054eDNTbUt1emtyY3NWMXRZN2I1N2RiWU9Oc21jVVBfRDVnQUtSNTkzVm8zLVViU2xVRzlWQTJnc3NGY1JXeEFhTVJuNExybXd0UllUTkNJZC1YemJsZ1c0SVVwVmFFeEtFdVRPanBaU2dDbUtvMA?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-08",
+   "reliability": "C"
+  },
+  "55bdbc635fec": {
+   "title": "Les objectifs financiers à cinq ans de Nike devraient s’inscrire dans le consensus, selon RBC",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObXN2WEtOWVZWZnZuY1daOG10NGhTd2xFOVgyZjZDTVF6VEE1anViRlpDZENCVHZmRjh6MUZWY0pFYm9HU1MyT3I1bmp5QmZNa05oUHVPSG1oYkhrMEppd1NvWDVMT0YxMm1hZ1ZHaExjZTBxc3RxeTY3ekI0ZnBua3JpbVROMFlhbFhYUWZka3V2NmlGOVdYV2Q2VUtwbFdnd3RvaUVLcGhUR2NPRE5tV2E2WWlzWlBndEVfbEpvWHdSMEdwMXVSNzllUEVMcnQxRldRTXRNLXBCcnAzem95dkJNeG14WVds?oc=5",
+   "source": "Zonebourse Suisse",
+   "date": "2026-11-06",
+   "reliability": "C"
+  },
+  "0458e08ee28f": {
+   "title": "RBC ajuste sa cible sur Nike avant les journées d'investisseurs",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdS1LdmgyMmh0Z081Zm42bG1uXzZza0lHT0Jqc0pFelUtMVkyb1lfN0kwR0NVWDM2QllZNnlnSmpkVE9XaDhPaW9NZUlib2tTTUpnSVdkQ3BIYzdXVU45YjBabEdMS0RBZm5FTzdVUUFXckcxTGZMOFlTMXB3TnljbGVFRGxjYTN0c3ViQVJXbTJiaV9YU25JMURMdE1OZ2cxR2FTTGN6SmhlRUN1REpSbjdhS1hUQW5URllIckJYSUU?oc=5",
+   "source": "Zonebourse Suisse",
+   "date": "2026-11-06",
+   "reliability": "C"
+  },
+  "205ee1b5d62a": {
+   "title": "Nike, Inc. : RBC Capital Markets confirme sa recommandation neutre",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWVp2MkV3bWNJc0hscDlTUUJIVV90cG5hYlN5eUVZWUVqM0RybWp1UmtSVFlrSjFfWFF5NUk5VVhTZkctVk9KTTFLVFo1ajhleG1NM3d3MS1GNURYSDI1LU9wbFFCZ1JDWE5XbHdGSlVPYjl2aGlDdXJqUlhCZHpXbnF0RjJ2b19SeWR6aWYwN1BSYncwVWpHMFg2Sk9USWdOdzF1U3NOMUkyOWkweEFvZzhkNE9saG8tc0xsa09PbmU?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-11-06",
+   "reliability": "C"
+  },
+  "fc828c02f18d": {
+   "title": "Conteneurs: le retour à la normale s'amorce",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHhFTHhFWW11bkxTVERzLUo3YkVfYUxtaFhZM2FaYjEwNElvWTNQUzBzOEZLeEw2Z3ZYWEM4dmlBM2NhRXRMREt2WVc5UE5YRl9XQmJqNFBqTTZFMFIzQjF2VkJnU2phcFd1NmFMVHBTajN5dEt3R2VOTXB6WFkxaEhVbVNJZmJXT3QwMFk3SzVQVkl4RDVUMDZYRmdrOHNDWFYtMUlsY1lCUWlaSUIxZFB3?oc=5",
+   "source": "Ports et corridors",
+   "date": "2026-11-06",
+   "reliability": "C"
+  },
+  "7d77ba91b1f8": {
+   "title": "Les actions de Nike reculent après la dégradation de la recommandation de Truist",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWTdFbVA5NXE4bGFiRC1RbzZoVzN6T09XWUNLQ1EtSE5Dbk9ndTZfVXhnaWNYSWpOMkR4OTV5Wi1PbXhtYjZLZkU1M3h0WHduMjhkSFdNamFlNXAtLVlzNjRwek5BeWZxNkJiQTg2YkRJWEZtajJScEV2M0RBUEEwRkNsOW5HYWMzRGY1SFVvdDBmUEJ6MFZ0empWbXBSS2pYSkpxLWltNENVYy1OWk15Wnd3MVZBX1BhN2xwVEh5ODJkcWtrV3ZGU3UwMWc2VE12ZTRhVFZUdUU?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "d74d1e392e01": {
+   "title": "Nike, Inc. : Truist Securities abaisse sa recommandation à vendre",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYVVqYTVQQUU3d0lpaTU2Q25zWHNXUWVUamF5c3NkeWlFVExpdmNGZTd4dmJNZGZyTXo2Vm56Sjh3R0RIeUFkbDE5UXZXaGstSkVoLTFzcEdXNnJ1aGJwTTVzLW5ldTJMV2R4WXN1NjdLakZqYVdSblBGbnZnMmJiS21Sd2xjSmtNRFdKUWtFUDd4cVVpMG9LVGtVX2h2aF9pbi1PX1lTX25ucWFDQ0dGbW05alJxbVd4LTFLR25uWQ?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "49fe86427a80": {
+   "title": "Nike, CMA CGM Launch Vietnam’s First Fully Electric Container Barge",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVEU2YUhqbnM0VEY1bktJQVJvTjJoc1ZNRHlFUVBqa3F4Q0l3eGVDeDQ5OTktYTc2ZFdYMktRczBJeW1zUkVIOGFFdU1ES1hjNnlyeFc5NkZNN1BRRXNUd1RDc2VkbmJ4SGhWYnNDT01PS1dMZnFfV0dGSXhqS0hkdjlGV2tfcm9PbzNTaFhVMmh1YnBqVzBaQTNUeEg5Q1BGWXBINV9EMUFua0JaeTA0bVA4R29OYXdkSHl3OEMwQQ?oc=5",
+   "source": "WWD",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "6a7b04fc0ff4": {
+   "title": "| Vietnam's $47.5 bn textile target: Can it overcome the US tariff gap?",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQWR6SDZlazFGLS0zeHZRamZGYTB2RVoxRHRRUEpZNWUwbHhjLXFyUnZIeFZDTkFiQW1JZ2lTMS1xVG5oWkNySExLRXFmanY5QnN0QWY4ZGVNNEtTTEhVeW5QeG5wZlB2R3RIdlo1QmZqdU9BN3VqeUJGZTg4YjdHVmk2RF9pZlVNUDlZaUc1R1RGU1d4Z1ROSzltc2xWY0xzZ1p6cTZVcURwWGlFS01UUlY4LWtUUXNIQzBfeGlmMjBQczZpbEJEM0p1UzRaSVZCQTBsalBnRG9wMlBrX1gwOUJn?oc=5",
+   "source": "Fibre2Fashion",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "75b25d09b8d3": {
+   "title": "Berrettini déclare forfait touché au bras, Alcaraz en quarts de finale sans jouer !",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSUhxTlRBVHNMRzBPUTExZU0wXzRxX2NnUVB0TXY5R3AtM3I3TGlnbFdhTm0za2VfWmI4XzdqdWhtNU5OS2xVMHRFSUtuYzMzQklLcE1aOFprbERQcFY3UGdodWVpOEdZMzV5VU44ZFdxSmdPbXJ2YlJxdkhfUFF1UG5jN21BTXlXVm85ZHBWb2MzdHpWY2ZaVzhaXzJOb2JwazItZzdVR0c5X3c2bGJGLXVBWm52MzJ2ZmFqNktScHBVZGNfU0E0YlhubmNZaVVCU21RUmF2OEFTSHNPdUMxU1prZGlKUlR3eFRQcHV3?oc=5",
+   "source": "Tennis Majors",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "7a67c9adc1f5": {
+   "title": "Blessé au bras, Berrettini renonce face à Alcaraz au Rolex Paris Masters",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZVhJQmJRM3poY2swSG1aZXU4YUZEWkltejZ0Vy1wQS1mUmNRWXdQcmxRQ1JYTDl1dS1iZ05mNjlfc3dmdmJKVmlxdmhGTUoxRUlGWEtkVHBoalpBb1dUSTBXLUt1TDFfc2RMNHQtdHdxd0p0cTJxWEpEYUlaUWxaS213S19RYUNWUTBacWk0cw?oc=5",
+   "source": "Tennis Temple",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "ceb4e804c052": {
+   "title": "Nike, Inc. : Truist Securities moins négatif, passe à neutre",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWFjYmpGWktjOHFvSXFIWm1IUmtsRGZfeXB6NVdHNUVSZDRrWWZNOGxlMzdRVWNfenpnWE1OV3BjbV9YQzZlLWZDLTY2WC1wWThqS2ZKbFh5cFd0ZFFKSldFODFZTWZRN1pudHQzbU9meC1CMGdJbExTdllMNjFxbFRkMUpBd2pod2xacnJDbE5XQ2tLMGRuc1duTGYteHZuX1BxcGhjczd3T29LYWh2ZHhGSzZaYTg?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "d9c6555ebbfa": {
+   "title": "« Je m’y attendais » : Tien accepte de céder sa place à Sinner au Six Kings Slam",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWW1LaXZ2MGlGMVh1WUhNM3BUYUkxUUx5U09FeVRkNmlhY0Y2amw2TXpvMVIwS3EtdFM3TlpGdjliWkh1emxoWEYya2NWUkNmeE8wVEg1OU1SRmxiSnhNYVkxZ0haQzVsVENjQmZISnFWb2k2QTN5SEptNENEYVZCc0UyT3l5U1VHQTZBR2RVSQ?oc=5",
+   "source": "Tennis Temple",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "c8f09b4e0110": {
+   "title": "ATP > L'information surprenante annoncée par Jannik Sinner",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWTlwWmhlcS0zYTEwNjMtS0tQQmQ4TjBCTXVaa1ktaXd2Sk40VkpuQXdXa3laY2dQSkdMWnBoN1J0VWRmaGhpdmhSRnJia2ZTX1NVNk5kSEl4alo0MXcyNFdtaXE0M0VoMDhVMHJwbHo3NjcxRVQ1N3NXS0FwdVZTaGJMYlJRRHQ1OXpF?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-05",
+   "reliability": "C"
+  },
+  "d3131a8ee24a": {
+   "title": "Arthur Fils qualifié pour les Nitto ATP Finals, premier Français depuis Monfils en 2016",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEZIa2ZyckJic29oaGRqbTJHcFl0cFRTMXpFVUJTb0tWUy1QaFp2Q0J4ZlFzdE1WT0YxcktqWmMxYkw0SjdRbmJPQnNMM2VVYmNFRERFd2hJeGZtNklwcllLRTZ2UEp3RTlJTXJsai13MUZRMlJkUl90YnM5SnFiU0paTVFVNElaaUdnWW9DSGNiQ2N1Wjg3VGRfYVpvUnY0UmpPY0NFZ0k5Sk1qcXNqUFA5ZnU3RHhTLXVuY1o2WmhGbXphRlJxWU5rX1B1YTBOS2ZsQXJYMnhQUlE5VXFjblFkSnFVRm4yRG52czlaakkzSXZUN2c?oc=5",
+   "source": "Tennis Majors",
+   "date": "2026-11-04",
+   "reliability": "C"
+  },
+  "8eba2e6f90d3": {
+   "title": "Shoe Prices, Material Costs and Tariffs Are Top of Mind for the Industry: Can a New Congress Help Ease Concerns?",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWXJZeDQxazdEeHBJci00M2lBb0diQ3BENnFEUUVkeDBYdHFScHRSX2trajgwYUczMC16WGNGdFYyTjRHRFRUdm05R0U5UzJkX1hZYldlN1YxZUhqZ1FVWHRlMHp5WkQ4SU5OcF9YX0RZcThqdnFybnB1WUlYUzVzUm9UYnpfaUtYRFduUlNxV0NhOVZnbmdnYVpwUi0yVjlKZmxBV3ZPeGo2UjRTWDRfLXRZS28tLVlHLThz?oc=5",
+   "source": "WWD",
+   "date": "2026-11-04",
+   "reliability": "C"
+  },
+  "5da093be6f92": {
+   "title": "Nike, Inc. : Morgan Stanley maintient sa recommandation à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ3dMcWtzcndSVERqV0NwdGxfT3hmd3R5QjdvSjAzWFJBaUhibngyTmhJNjBQQ1RnNmlDUEUxbi00WGF1Y3FwbjVhR2NxNzNrRFp4ODFHZzZ4U21hTERMSmFIWVg4b3RwNnYtUDRjS3d6NVdRSm85QURWbVlUWHc1UkFDM1ZTMVdZR2sxMEdMMzl6eGgwSzNva3NoMVdCRG5zNnFINnNwcVRzZmpLeUZBZF8zc1VtT19YSkRjT01n?oc=5",
+   "source": "Zonebourse Suisse",
+   "date": "2026-11-04",
+   "reliability": "C"
+  },
+  "5fd6d0bf9419": {
+   "title": "Bangladesh's RMG workers to receive revised wages from January 2027",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVHBaM2FYYWZtZzRvN0pXbzRwOHIya0QzdGlsd3VzZFVzbVFSYXpwb0ttMG9CNTVFdGpOZHp3SW5yY29wRTZpaGVTWDFJVDJ5UjVYNlpqLTl3VlpOczdFQ1Y5ajhfd0xhWDBhWHEwZzhYWXRSOUZnNmpfWUxaU01jYlJtVjlzdVZlSHVoN3BNZE4yMWt3Ny1kWXhqUXlvWTd2VGY4NW9FVnotUmpNV0FKblBJQk9JS3E4dEFmMFF3VnBxN053enNndkVINTBTcUtxYzZ5SWJvNDg4WW1qSjNNVw?oc=5",
+   "source": "Fibre2Fashion",
+   "date": "2026-11-04",
+   "reliability": "C"
+  },
+  "0e672ecdd63d": {
+   "title": "ATP > Learner Tien viré de la Six King Slam pour le retour de Sinner ne lui en veut pas : \"Pour être honnête, je m’attendais à ce qu’il fasse son retour, car le report de l’événement lui a donné deux mois supplémentaires pour récupérer\"",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbU9lMDFCbUVWYlRjZWczbGt2ZEtjNmtnalNXUWpfT2pnTjR4clNMcTZ4NjFfYmFWVEp4UFdpUnp0TGZZVzhtdHFNZmZLdjRZMVVYTE1xTUhZd1hhZzB2ZE15WGoxeFBqajNHeEs1NHpWbk03cGh0a1VKRll3a25yMzdncUJ3dGt3bXB0V29xNFMwS0RVQkVaT1VXRnFIdHRwSzVRU3lFd0s0VmFXNzNmU0J4d3h6c0ZCc05iYU1OS1dfZW1RLUhnVWtMMTdLZlJHZkd3S0ZCMm1kaFlaVTBTSlpfT1hnTTFZajJzWjJJNW1GQjVQV05JLWYyaXhyRmJPaFJRTG5GcU50ZzNXUGxfa2x4MFJsY2dSbHhOUHhMdzY1aUllYkE?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-04",
+   "reliability": "C"
+  },
+  "21cf40f7850e": {
+   "title": "Bangladesh's RMG factories resume operations as wage board reviews pay",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTW9haWZxOEFSZmJ5cnRxZV9fYzVmZlk4TVd4bWl0OVNnY3RtRl8wbHVmTEtIeVpDc19JUmc2SFBFV3lRT0ZVa0NPaVNycDF1NWQyNFhQWGVUY25qSFNoVHBvbVlUUFlYTHJwdF9kUWx0dW1yeGE0bHVkRnBSeHM3c0owTURCVXRLM2U2STBIamljY1lIaW51SzRWZDdpSTBVcldrcXEtNXlubU5xY21BVkhDdzJCeEFrVmZ4WXoyRVYweVR4NTNRLVBYZjNoNHNNU2VKWFRTLTVCOHh2Qkd1QlJqLWw?oc=5",
+   "source": "Fibre2Fashion",
+   "date": "2026-11-04",
+   "reliability": "C"
+  },
+  "06340b727be2": {
+   "title": "GTA 6 , Travis Scott and Nike Collab on Six - Star Air Force 1",
+   "url": "https://wwd.com/footwear-news/sneaker-news/gta-6-travis-scott-nike-air-force-1-low-release-date-1239396298/",
+   "source": "wwd.com",
+   "date": "2026-11-03",
+   "reliability": "C"
+  },
+  "bc9de267a2ca": {
+   "title": "Vietnam: CMA CGM et Nike lancent une barge électrique sur le Mékong",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG5GSzJFVUwzOFpuTFFfTGJrejdwNmFyeUdhZEFPbUI0ODgxVzFTOWphT2ZEN1Y5VnlGZjF4U2E1U0YzakFGREVmQ0F0Z3Z2bERGUUdNc0stMS1tTWRYbWE5Q0RCVVZUQTNKTXFCenZCQ0lQNUV6aEZGbXlPUkdxMGxUUE5pZzVJaEpIc2RuNkpsQU1KWUNoa2dHdC1PdEpYOTBMUWNtdDVIWWV5bGswbzJ0eGg?oc=5",
+   "source": "FashionNetwork France",
+   "date": "2026-11-02",
+   "reliability": "C"
+  },
+  "3236d2b972f1": {
+   "title": "Fils, bientôt 7e mondial : « Il n’y a que six mecs devant moi, c’est pas mal »",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTUxUNklEaUZzRS1uQzVFUkdKVzQtVGVPUlRHLWdvY216aXBtd1AtazlocWpQYUZuWFpMdDdlbnRsY3pPRFZQYjlnck1vc25pZ25vbEVrWUxudFl0S1RIMWhiMXFTRGFtS3dzWnFZWTQzU3NGdHRLcGVzakIzbHdxWkRsQkFRQXFqX0tmTDB6NDNEZlM4UXhtaXRpQ2tCUVRheXliMVJjVWpNa2ZnTWJDWmtJSkhMeUFLc0cxMDZXSTlncEk4?oc=5",
+   "source": "tennismajors.com",
+   "date": "2026-11-01",
+   "reliability": "C"
+  }
+ }
+}

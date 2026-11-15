@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T01:56:06Z",
+ "updated": "2026-11-15T09:27:03Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 3,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 384
+  "added_last_run": 9,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 367
  },
  "items": [
+  {
+   "id": "8b4340b9a3fe",
+   "title": "Tennis : Zverev, Alcaraz, Fils… Les huit maîtres prêts à conquérir Turin passés au crible",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMDZHc3A0OTBweXV3ODZjZDloQndFQjlLc3FiMnVKOHB4S1lNWW44OVYwTlJPcVFDNGVFZ3ZJMzJCS2JqZ1doRDN6RG1veTMyV09EOHQtcXVaVlRGWkNiV256SDNmNml5WjVEcC1kMnpGRHpZZERrLVNKalM2MkZBWmJFWGUtQ0o1YVpPSlE1M2lRMkFwb0c0SGJFNDlCT01VTktZMUhDcnFFdDY0TTZFUnU0MmRyYUlkSE4xMHp1cm0wSlExNjBHdDU4cw?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-11-15T07:05:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, athlète Nike, est en lice à Turin : visibilité de fin de saison pour la marque et les ventes de tennis de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "94d3d8165897",
+   "title": "Brest et Metz à l'offensive sur le marché des transferts : « Les deux clubs sont dans le game, ce sont des équipes qui comptent »",
+   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZGVoS1FxWGtacDhTZzRCcUZPcG40UWVyMUdVSGd4Q29WLTVEUHdKYlVlbTY3bElORm9MTUdmdHJUdlI0d1RZcERNeXVhb2RJcHY0S2N3Ql91Sjh4YmpWQlpOc2xRYVNrWWRIZDQ3U0s0cHlaQW42eWpUMHJNbXRzZk9SbjBCRFVFb3ZpQmdQcHZlNm5RenVEZmRkRFFYWVZRQ0pOeEcwQzdFXzZ6NDNieFFjWXhSWUM5NmRCU2NsYTk4ZXM4YzlVNWExR2pka3oxZzZOT0FhaUZqR2VqNXVWQ1hWOWx2RVZrcC1TdUFQTDdwbW5vSUxjVElWWUx0d29JSTlN?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-15T06:15:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "7c4a3df3a6bb",
    "title": "Nocta x Nike Air Modmax Pink Spell Release Date IQ6711 - 600",
@@ -78,6 +122,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "b34d8f0b7d5b",
+   "title": "A prix bradée sur Nike, les parisiennes se jettent sur cette paire d’Air Force 1 au détail iconique",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb2tBSHp1VkxpWmo3NHJjMmF1MGN4bXpmUHducFVxUUlZaWQzR1RZVmpBczVCLXpoTVNaM3lmYmNXckRXR3B4SjJjWlZWeldRZ0VuYVJTRktXYWJQRGxfbWNkRlVCeG00ZGxXZ2IwQjBiNS1ZNHdXbHJOdmswMUYyNzB6VDVTaDBmWEhkenE2RGZPaXViRzMybzNzT1FQZEtZSXB6WU5GUVJWZmc0VkIwOUR1YVI3V2V6RkVTbjJHUkZBZ253T3RhbGNaMkM1aV9NdUNCdw?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-14T18:22:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Remises sur une Air Force 1 : signe de déstockage Nike lifestyle susceptible de peser sur les prix pleins de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T4"
   },
   {
    "id": "7bc02bd50363",
@@ -282,6 +349,28 @@
    }
   },
   {
+   "id": "92f9d3b81a44",
+   "title": "5 Stocks With the Largest Fair Value Estimate Cuts After Q3 Earnings",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHpJSWVJYW9sTDNTTVYwckRHNEdscXJpZVpkSWg4RXdBSWpnelBZb0tlRnhtbGtPSkM0M0FzMFVBWXVDRGN2UUNKblRHWHFOVzF1RG0xcnBCS2VXRzFiM29KNXMyalh2Z2l2R2NENmdzTlBBT1FLdTl4ZDFSOWVjN3lTX3BYdVV4cVBfbFpkRFRLZkRvaHJSY1haa01zeFhUWDBv?oc=5",
+   "source": "Morningstar",
+   "domain": "morningstar.com",
+   "date": "2026-11-12T18:04:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne cite pas Nike : vérifier si la marque figure parmi les cinq valeurs dont la juste valeur a été revue à la baisse.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "98767616d452",
    "title": "Ruud valide l'arrivée du Masters 1000 en Arabie saoudite : « Les joueurs en bénéficieront »",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVzBnNUZ3dFlvX3BYTGVoTVU5U1k3MWxpdzNRbXl6MjlTcHc1Y0IwQmN2LU9TRG5wSHcybzFlclNvTjhwOU5lUXdXNEhTVGpJb2wzM0U3ejhJWHdMTU9DSzFmUy1VUXhjb0ZxVUpYVjlkV1JyR1dCNmZPaVRYWjRLYnF4bFpFVm1HZVAydg?oc=5",
@@ -302,6 +391,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "24dd74a689dc",
+   "title": "Tennis : \"J’ai eu des jours où je n’arrivais même pas à bouger\", révéle Sinner",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLWEzUC02R2dPaUxxbmt6ZmgxMEpSd3REZ3RIbkJ1d3Npemp1R2w4b012VGNQOWdHSGJpemEwQzZBYUFmN1BoSWZJLThsMFdKOGRCYmZ4a3dDZjNVX3NUdGpZc19sQU1iNG5mdm1lcmJEUTBQd0VsVDNYWVdMVUpBaFFpTnVoSE51WDk2NjlvdHBxRnFlaTViMGRtX1Izc0xlTnZrZDhNT25pOW9MUThTMGJnWkZfX0JpWmJZbUk3UFVyQnBTbTFJQkNyRS12TFVUUGNEN25ld0NMcF9FVXRfMHFFRVA4UQ?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-12T16:05:33Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner, athlète Nike, révèle des jours où il ne pouvait plus bouger : santé à suivre pour l'image de la marque et la demande de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "b240292c0089",
@@ -1056,6 +1168,28 @@
     "r": 3,
     "impact": "Absence de quatre mois d'un athlète Nike majeur : baisse de visibilité et de ventes possible, retour à suivre pour les commandes de textile.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c499cf1e6688",
+   "title": "EXCLUSIVE: Saudi PIF weighs fresh fundraising options to generate cash from companies, sources say",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMjE3ajZGdmNvVHI2NXJmM0NQSnRPWHRuQTRGNnZHVFlSc2huTXhaajNiX3M1WjA1M3FJSXVfUEFEZ1lLVEZEenZhSVQyQ2s3OWZsRjhYWjlnX1ZUQmxvOHJpN3lkQ24tRC1iYktjMWtTcFh4Z2hpWF9yaWJlb2hvT3RVVWFtMDVJRm4yMGlIdFpjczBSVk41Rzc3YTh2WXE4RmhDcjUyV3NnMFZxek5Kd19MRFlXc01CenJhcGJDa3BTR1daYUxtS09EVWs?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-10T11:02:25Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le PIF cherche de nouvelles sources de financement : à terme, pourrait influencer les investissements saoudiens dans le sport, dont le tennis.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -4282,6 +4416,31 @@
    }
   },
   {
+   "id": "55a2ee616ff1",
+   "title": "It is too soon to hold a funeral for US tariffs",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ0ZiUlpjUHhKcXE4czNlT2QwbnRXWEI0VHo1WTRzbEJWblBPUVVWdmRkV1E0OERMMGhyeGRld0xHSmtRTE5XamsyVDQ3czhQTlozUFMyZjZva292YUhiMkRSbmdMVmlWUmZHTjFvTlAzMm1jaUZ4b3o2ZUdSNUh5dWlPZnE?oc=5",
+   "source": "Financial Times",
+   "domain": "ft.com",
+   "date": "2026-10-28T07:00:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les droits de douane américains restent d'actualité : ils peuvent peser sur les coûts Nike et les prix d'achat de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "19daa8dacd09",
    "title": "Ben Shelton faces no competition from Carlos Alcaraz and Jannik Sinner, but keeps talking about them",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeFpzTms5dGFVR1hNWWE3M1Z0azN5UFhFb2ZPU0lZbG1HOXN2OXhWNldzQkZsMWtTRlBCNVV0ZHIzdE8zUUpGc2FiNThhLW9OYjlJaEVDazNWWFRmSEdnem82WnJfVk5mM3hsUnZJelpfRVJIdzBveDhsX2FIX2Jnb3o4STg2RW9ZTU4xRS1RY3JUdVhfdUFnMExtanJ2aFRYM01tSGp6RnVGS0lFUkxmcnQteDdYU091X3B0clNVU0drVlJHSmRPamNjTzlsMjdwMUJyRUUzYzJvYXhS0gHcAUFVX3lxTE94WnNOazl0YVVHWE1ZYTczVnRrM3lQWEVvZk9TSVlsbUc5c3Y5eFY2V3NCRmwxa1NGUEI1VXRkcjN0TzNRSkZzYWI1OGEtb05iOUloRUNrM1ZYVGZIR2d6bzZacl9WTmYzeGxSdkl6Wl9FUkh3MG94OGxfYUhfYmdvejhJODZFb1lNTjFFLVFjclR1WF91QWcwTG1qcnZoVFgzTW1IanpGdUZLSUVSTGZydC14N1hTT3VfcHRyU1VTR2tWUkdKZE9qY2NPOWwyN3AxQnJFRTNjMm9heFI?oc=5",
@@ -4685,6 +4844,28 @@
     "r": 2,
     "impact": "Propos de Sinner sur la condition physique, rappel du risque de blessure pour l'athlète phare de Nike et pour la demande associée en magasin.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ccc2aa735730",
+   "title": "Turki Alalshikh confirms Six Kings Slam will return in December as part of Riyadh Season",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamxKaHV5WnBKN3pRd3NJUjFveVo2ZHV2by1NLVIydm9PYW80cWp3alM2MkFZb3EzN3A0UXdsV3VhSkVoQ25Temx3XzFkLXpPOTg1UGxHTEZSZ2Z1bFU4OG9WcHltTW9wOHJrcVItcUdrSW5rMklXSG5NWHVGaU1Hb19LdnZQb2xwRTB5UjgwRDg5OGN0MFB3eFdMM1pPZ1lfR1VhNEFhT3UzUjhISHp2ejFzX2VNTGZwbVRzZjN6VjZVQzNaQ3c?oc=5",
+   "source": "Arab News",
+   "domain": "arabnews.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le Six Kings Slam revient en décembre à Riyadh : exhibition de tennis au calendrier, avec d'éventuels athlètes Nike en vitrine.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -5374,6 +5555,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "adf17cc46593",
+   "title": "Rallye-raid : le Dakar 2027 n'aura pas lieu en Arabie saoudite en raison des tensions géopolitiques",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY09vQUNKbDZNalNueGo2UXBqYUFZbHlBeHpkUHkxWmEyREZKaVAwZTcwSVQzU21fMDJSV2JtUXVwYjAzVGF5R2MzWmE0cHJPcmZrTDR5Y0FzXzQ0WjkyS0t6SGs4ajFQY2NjNDBrY1JOWTkxdlpZM2JOdHBLRzhhRkR1ZWtnaEcyN2YwT0VzQkplT3JrVkFXdjlOempVeG8tcDAwSHpYajg2Y1U2YjZfcmdOeHgzQldjd0RoWGlBZl9yVm1kWVE?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-10-25T07:00:00Z",
+   "first_seen": "2026-11-15T09:27:03Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le Dakar 2027 quitte l'Arabie saoudite pour raisons géopolitiques : signal sur la fragilité des événements sportifs saoudiens, sans lien direct avec Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "cd44ae3f2b25",
@@ -17500,5 +17703,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-15T01:59:51Z"
+ "ai_updated": "2026-11-15T09:32:31Z"
 }
