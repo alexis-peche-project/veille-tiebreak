@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:43:12Z",
+ "updated": "2026-11-15T01:56:06Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 7,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 385
+  "added_last_run": 3,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 384
  },
  "items": [
   {
@@ -53,6 +53,50 @@
    "ai": {
     "r": 1,
     "impact": "Témoignage de carrière d'un joueur sans lien identifiable avec Nike dans le titre ; pas d'effet mesurable sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "58d3d3e092d4",
+   "title": "ATP > Jannik Sinner : \"À 13 ans, mes parents ont dit à mon manager : 'Ne l’abandonne jamais, même s’il se retrouve 700e mondial, ne le laisse jamais tomber'. Puis je suis devenu ce que je suis devenu, mais il faut beaucoup de chance\"",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNSC1ZSzJza25nUXFScmFsMmwxcGoxYmh5NEJnclRHa0xFMDFpMlhIUThJZ25CT2JGN05BdFFzTUVTd3Z2RHlOekw4RjZMdmNWaXJ2UVFudGRhbGQ2Z3Q1VGJXcVB5UUFYNGxnUG5FWkJfWVF6SWVpU0FzZTdpeWxUc1E1M3dLWUdBWm5YTUtnX2IzVmpiY3A4aV9xenIzeFVTeVhVajhuYW9sRGtBd21yQjBfbFdBNVNXVks5VFhieFdOd09Pc09oY0NuVGktWjJHNjBuY1JqMGgwVXd3SldrdnVkZGRRWVY4dGJxRmRwQWdPNHpFYTRLN2hfSkJPVEZlODJHWHgyS1Z4SDRSVTlMY3hnNk9EM0tQbTBuVjBCSC1YazJXWVd3?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-14T18:43:35Z",
+   "first_seen": "2026-11-15T01:56:06Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Portrait de Sinner, athlète Nike, sur sa carrière : contexte de notoriété sans effet direct sur les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7bc02bd50363",
+   "title": "Tennis: pourquoi Alcaraz utilise une raquette sans cordage à l'entraînement",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPajl0MS10M1hfN2FnTlYtVERsSE9HaUhpLXo0NjlNTWNmV2hTYkhIbFRNWjM4YllpMFdsMXhjblI4ck14RHZ4bk92MUplU1B1aVJ5dWNXYmoyMnVyLVA1Zmw3WjdmejBuWk1MYXd4RFk1YzNqVEczZWQxbmM1bklEQl9IVWlmUjB4c290bWc1VVFzRGhSRHZGRTUydzYzYUNQc19GalhPUVg2cnZnQ3Q4OHZDNWF4bnBGeGw2VFBFbXhFUlg0Q1ZtUUJYNklnZw?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-11-14T16:05:58Z",
+   "first_seen": "2026-11-15T01:56:06Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Entraînement d'Alcaraz (athlète Nike) : tendance matérielle sans lien direct avec les raquettes Wilson, Yonex, Babolat ou Dunlop vendues par Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -168,6 +212,28 @@
     "r": 2,
     "impact": "Retour des services en mer Rouge et hausse du fret : délais d'approvisionnement Asie-Europe possiblement réduits, coûts de transport sous tension pour Tie Break.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5860fe850661",
+   "title": "PLUG POWER Cours Action PLUG, Cotation Bourse NASDAQ",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1WUxGUTdHQl9YSEhwdzdKUlliSUtrZ0RCVkE5MWtmbUZrOTVFSWlxRWk3dm83aHFWNUFPYVFpSzROUU9uaHdXeWwtUXc1YzA?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-13T08:00:00Z",
+   "first_seen": "2026-11-15T01:56:06Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -17434,5 +17500,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-14T20:47:13Z"
+ "ai_updated": "2026-11-15T01:59:51Z"
 }
