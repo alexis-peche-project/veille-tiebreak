@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:11:15Z",
+ "updated": "2026-11-15T22:49:01Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -13,6 +13,54 @@
   "rejected_last_run": 382
  },
  "items": [
+  {
+   "id": "092d9155b0f3",
+   "title": "ATP - Blessure: Jannik Sinner opéré des amygdales : «Ça se voit peut-être...»",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWWRoSS1LVmFkV21sX3d5eFM3UW9ZZy04RnlseGJJQnV4YzhFNjd4eEwwVi0yaXF6eG1NNEpkN0xUVWFTSTVSd1BwVk04WHVZZWVJc05QWmN4aE1DanZOcnpydWwwSXhaVWZCejcyMFE0UUVfMVpBbjdjSXZMd2hLRGV1MTByb3RRdnJXem5WX1ZvdWpoZDVOOVBwVmxQbXMzcnB6eXlaVzZfdFdubldvetIBsAFBVV95cUxOazdZd1RGQXhyd2o3NG9jN0NWQVpWcENpOUhBemFLSkM2Wjd2MWs2UU0yazJ2SG5fMEQtMHI5U1lXelBkNHQxa0VRUG5xaGg0WUs1X3g5X2pfcWt2eGNwdUF3TzVvNHFrd3BsSkNoYVBNVHI2bEVWZ1pDSmtlVFJkRVBXWnBER2w0YjA4WVJpZmtUMlRBZEI2YmZFSS1yclJpU2wtS3JjeVRLZWdYaDM2aw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-15T19:56:00Z",
+   "first_seen": "2026-11-15T22:49:01Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "L'opération des amygdales de Sinner, joueur Nike, peut réduire sa présence en compétition et sa visibilité médiatique à court terme, donc l'effet d'entraînement sur les ventes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e72a7593a2d2",
+   "title": "Japan shipping group ONE transits Red Sea choke point for 1st time in 3 years",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXMtd2xXRUhEMlFidC1EMEdNdlJUV0R4TmVtU0E4V1l5Vm9KeDBPdE5XZWkzM2FLcVpOMzA3LU83b1RfSzlxYlZIWDJWand2bGxZUzRkOGh3akJpVFZwaEp5YXVCZW53ZlJqQmlZUFlTR2lIRFlRbWVHM0NsVnkxeGdCTXMyTF9fdnZuOWpPSWZ3UG16VGtNa2Q3WU56UVJvU2RyNzhOeDZVeW1NT3ZQQVVIdUNISUNMUkdOaFRYMkduRUU?oc=5",
+   "source": "Nikkei Asia",
+   "domain": "asia.nikkei.com",
+   "date": "2026-11-15T17:46:00Z",
+   "first_seen": "2026-11-15T22:49:01Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "red sea"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Un premier transit d'ONE par la mer Rouge depuis trois ans pourrait, s'il se confirme, raccourcir les délais Asie-Europe et réduire les retards de livraison de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "c1da1caa3739",
    "title": "How Aryna Sabalenka’s $22 million net worth in 2026 reflects her rise from an unsponsored teenager to a g",
@@ -277,6 +325,28 @@
     "r": 1,
     "impact": "Titre sans lien avec Nike ni Tie Break ; à surveiller seulement si le Cambodge devient un site de production du textile Nike.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7e0341942241",
+   "title": "Action On Holding AG | Cours ONON Bourse NYSE",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FMGYyMTh3MXJlUDNxSnNUckJxZ0ZteldYQUVsMVl0VWZYWGFXcm05cjBVTTFETmdDUURXM3h1N0ZKUFR6T3BUbkE2U2dWaUNBaFMxTW5SaG54M1gwV1lGcGZHWEhvTWcwNXFWaVZYWGhiUQ?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-13T21:00:02Z",
+   "first_seen": "2026-11-15T22:49:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Cours d'un concurrent des chaussures de running, utile uniquement comme repère sectoriel pour comparer la valorisation des marques sportives face à Nike.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -7522,6 +7592,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "2a9b0e986f70",
+   "title": "Few major apparel brands pay garment workers a living wage: report",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcy13Y2U2MThDN0hBY1ZKYWlGNGFXT1FPTm1VRVVRQm11V1hTNTRManRLb1phOFNldW5DTi1UVzdqeW5VV3c1VlJBcVBRTllGellCY1FzRlRpNkpPWldyQkVqUHh4OS00ZFlFeGhWaFNVdW5mRWtadTZLQThmNTJvRm1xTGhtb3RHcVNnakFfcDBYdndfemlyN1BBMU5jT2E4T21MVDd3dGxSNlpvSUxR?oc=5",
+   "source": "Supply Chain Dive",
+   "domain": "supplychaindive.com",
+   "date": "2026-10-19T07:00:00Z",
+   "first_seen": "2026-11-15T22:49:01Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Rapport général sur l'absence de salaire vivable chez les marques d'habillement ; Tie Break pourrait être interrogé par ses clients sur la chaîne de sous-traitance Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "83e9a96bb404",
@@ -17793,5 +17885,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-15T17:16:08Z"
+ "ai_updated": "2026-11-15T22:53:42Z"
 }
