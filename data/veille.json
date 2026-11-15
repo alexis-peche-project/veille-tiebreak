@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:27:03Z",
+ "updated": "2026-11-15T17:11:15Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 9,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 367
+  "added_last_run": 4,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 382
  },
  "items": [
+  {
+   "id": "c1da1caa3739",
+   "title": "How Aryna Sabalenka’s $22 million net worth in 2026 reflects her rise from an unsponsored teenager to a g",
+   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNM1BsRWxmdTl1ZzBFclNRYzRqQUJPQk42dDAwRXE0M1dUQjc1MDBHUm95Tm9odXVLQk44SVU3R2tqc2tvbXpRS2liTXFiUlh0ZE9tTWRVMHlLRlFNY0paSHBrZGtMVHlpcFJ0QTktT0NiX1BnazAzQTN2ejNQMUt6UUoxejFkQk9uUHhSZm5qQk5aamItemRKcmRpaHM2VFlSclo3QURZZ1hLS0JuR29jOTBNcmVoSUhoeWNHc1RZTzFla0VlWGM3Nlc2T1hTSWlaSzdydEo1eG5lcV91Ni1lR0hsNTUyc2R1S2RkX3FWWW80SXNMaUtnLWtVcDVZb2hnN0pWYVBwMFB4SDhJeHUtS0dUbm96ZlRxSVhZbWIwcGZkUnozcE1sWDlaYWs4cVVGVzhKTdIBugJBVV95cUxQVWQtcEZienZCODlxa2pTaldUVDlZSEFwMG02QUV4V3Q0cUd0azdlNC1KY1RUSW1LSTYxT01DZG1hcjIydjN5SWdPUm0zRUF0SFBkY1VQVldYN05aeFQtRzAzM3JvVlN3MWt4VmxyTzNBNzlTZUxOcU45WnlCRHFGWi1aNVVhQ2w2bFVJUTJNLWZDNUllaXBDYmhzU0ppTGp2SFhhRnlKU0o2QTd1WXdGTGZXMVMyMTRvUWlJNnd5WDRBRGU2OGZ2d1ZBLW95Z19Zc3JReEhvQXZlU1hGMnNfS2ZCZU1xcHVnMl9VVnNqYmdnb2o0R0FpZjhvOXhZLVJmYXRVM3Vib0doOExYTTl0TFktUkdONE1rSHNJQklrRnNBUGhwbUJ1ZzJ3cVo2bVRvRk5ZOUk0bjR2UQ?oc=5",
+   "source": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-11-15T12:00:00Z",
+   "first_seen": "2026-11-15T17:11:15Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sabalenka, athlète Nike, voit ses revenus mis en avant : un signal de visibilité pour la marque, sans effet direct sur les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "8b4340b9a3fe",
    "title": "Tennis : Zverev, Alcaraz, Fils… Les huit maîtres prêts à conquérir Turin passés au crible",
@@ -1443,6 +1465,28 @@
    }
   },
   {
+   "id": "0ae7cb9f6312",
+   "title": "Carlos Alcaraz. Combien lui rapporte sa victoire au Rolex Paris Masters 2026",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2J4aWlNVEZLZU1VU3hXQWRkOXVlYVBTRThUdnlURDRJUDMzSDduMTQ0MmJGeXVQNHZMVFBwRG5DOE1aMFhxUHFrZXJOVnZsVXI1Z2tDYUhfNjE2V2dlbndBNV9oLVlucXpwNDVjX29FNmxYdThVYnpGa1pXSldSS3Q1NFJZbTF0YUtHMDZ2MXBNWGdsb2VsWWoxcmJPUS13OGlIblVZbGJ6Z0J2dnNYMndZN0JUSk9ZLUFlbHFB?oc=5",
+   "source": "Sportune",
+   "domain": "sportune.20minutes.fr",
+   "date": "2026-11-08T16:25:23Z",
+   "first_seen": "2026-11-15T17:11:15Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La victoire d'Alcaraz, athlète Nike, au Masters de Paris renforce la visibilité de la marque en France pendant la saison de fin d'année.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "d507247065ea",
    "title": "Sur quelle chaîne et à quelle heure voir la finale Alcaraz - Shelton",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaElKelY2Y2d1ck9IUm95M3EtRXJUX0tiNzNDTVh3MUlVM1J4SXQza0hOUTJBd29FaHR2bkVEOWFnQmtQRmg0RXVtZnF6NmxIeTctU0NuME9hTU11b0tpY19wUGlhSmk4WG94dGhOekVVRUljSUdUUHF1YUxhSWgtWWpCM0ZraVB4WjFnYXhkOGdBNUhaX0FrOE9EeVl1dkhtTERuRUhxVGZpRzJVUTdHVlBDRno3WkJONGZ5dXZiSEM?oc=5",
@@ -1842,6 +1886,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "29823b187c6e",
+   "title": "US consumer sentiment improves in November; worries about AI bubble emerge",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU2hxVzJrd2JjSnRZanJBcnVQVWx2a1dWaDNpVjVhLVZUenl0THYtUzJVMmViV0VmbTEwd1Bvd2xKRDNjbGRySXhsbDZuakRXcWFjQVpHR1RtYW16akJfdFNscU9zelF4VUlmenY4Vzh2aUpLZXUxcFA4QW9jSmJia0lrWUhqT2g0cVp0V3ZuMmg4WW5jSm1GUnRiMl83TDBPSHNnSS1TVnVGTTUwOFNGY1lVX1J5dw?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-06T08:00:00Z",
+   "first_seen": "2026-11-15T17:11:15Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne cite pas Nike : le moral des consommateurs américains n'affecte Tie Break qu'indirectement, via la demande mondiale de la marque.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "fc828c02f18d",
@@ -5577,6 +5644,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "ce3ae7f18a6f",
+   "title": "Deux matchs à gagner pour détrôner Sinner : la semaine décisive de Zverev à Vienne",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLXkwM01OelM5U19pSnF0SmVibVJDM3ZSUWVpTTBfSUhpT19QS1BpRWJ4TUM1U3p3eWU1Y1ZocjIxWHVTdGRIS1RFT1l3UXB6VVllODAwaFdITVJuOXpCZTA4c3hadWZMUng0a0ljNmw4WTRUcmFkbzVPenJSRXR4WmtpbFBtSHU3Ync?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-10-25T07:00:00Z",
+   "first_seen": "2026-11-15T17:11:15Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Si Zverev détrône Sinner, athlète Nike, la visibilité de la marque au sommet du classement pourrait changer ; à suivre, rien d'acquis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "cd44ae3f2b25",
@@ -17703,5 +17793,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-15T09:32:31Z"
+ "ai_updated": "2026-11-15T17:16:08Z"
 }
