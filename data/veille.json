@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:30:05Z",
+ "updated": "2026-11-16T18:33:04Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,145 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 378
+  "added_last_run": 6,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 367
  },
  "items": [
+  {
+   "id": "3ad9f344e7e7",
+   "title": "Maersk, Hapag-Lloyd Expand Suez Canal Return With Three More Gemini Services",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDBpMF80QndzQjM3c0JuTWdLT0lEaVlCR2FCN1A2eURFQlB4X0JnMXNZYmJLeUo3UzJxNFE5a3RDLWJmUDZqdUh4aFVoeThURjN2QndSVXpFMkdUQ0pyNzdYOUxOOVhWZ3FaNTJFV3BkRWFPR0ZSTHNtSUpoVnhTMjdENTVyWXpqRkhveTdKVmt1US1WdVJXT0F5azVndw?oc=5",
+   "source": "gCaptain",
+   "domain": "gcaptain.com",
+   "date": "2026-11-16T15:45:05Z",
+   "first_seen": "2026-11-16T18:33:04Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le retour de Maersk et Hapag-Lloyd vers Suez pourrait réduire les délais d'acheminement Asie-Europe, donc les retards de livraison Nike, sans garantie à ce stade.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "70323a06eef9",
+   "title": "«Mise en examen de Houellebecq, fermeture de CNews… De la cancel culture à la française»",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNM0luS2w3Nkc5S0kxS2NFY1VzRm42d3ZLRGgzaURxSEtnZGxpQVVLUmhUOXpjT1kwRmsza1JPTVZiSGllT3ZaMjlkR05UMU53bEdOYTlmMlRXOGNZaFc4WVl2cWdITHAweE5ibFZOTEVpWVFybG0wWndjakxMZ2o5S05wQ0owMktWYmIwZmpsaHA4NTVYQXF4czB5YXNvTjdIb1ZZRW5XeWhQTVY3M2t3VG05UzAwZjUwM1JfelVzck1NZG1MOXhFajdSYw?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-11-16T14:23:58Z",
+   "first_seen": "2026-11-16T18:33:04Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "boycott marques américaines",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "22cc1615324e",
+   "title": "Nike doit défendre sa stratégie lors de sa première réunion avec les investisseurs depuis plusieurs années",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVXY5RUJ2Q0NacU1kUG9pT1p5SVVBSFVlQmdmdU14WEdRcXA4OWZsZnJKM1dQV1VDMjJKMmhMRUNfZmVyaGN3dThBb0FRYXJYajRIRFRKajhpbVlobzQ4clk3a0MwUExSRGRWOWUtNTI0MzlCMWZUV1dqeC1vcEVTR2Vob1pkZlZJcHMxbEpCYTR6Z3BSUjFMRjBpNmFIRmxUU19ITEVfWXlDNUtVVWxnNE9XZUlVVnJZcUp1Q192YXo1RlIwcHNxMWprTGtrYlduTkEtVlFUNkFVOGJDYkJjM1RKX0tXUkdHcU1KaVFpbmJJbTBCZWFaN0VxMDg4cE1jOTd3TVl0U2hWeDZPMUtuUWZLQmFyMEHSAZcCQVVfeXFMT1V2OUVCdkNDWnFNZFBvaU9aeUlVQUhVZUJnZnVNeFhHUXFwODlmbGZySjNXUFdVQzIySjJoTEVDX2Zlcmhjd3U4QW9BUWFyWGo0SERUSmo4aW1ZaG80OHJZN2tDMFBMUkRkVjllLTUyNDM5QjFmVFdXangtb3BFU0dlaG9aZGZWSXBzMWxKQmE0emdwUlIxTEYwaTZhSEZsVFNfSExFX1l5QzVLVVVsZzRPV2VJVVZyWXFKdUNfdmF6NUZSMHBzcTFqa0xra2JXbk5BLVZRVDZBVThiQ2JCYzNUSl9LV1JHR3FNSmlRaW5iSW0wQmVhWjdFcTA4OHBNYzk3d01ZdFNoVng2TzFLblFmS0JhcjBB?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-16T14:05:00Z",
+   "first_seen": "2026-11-16T18:33:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "La première réunion investisseurs de Nike depuis des années peut annoncer des changements de stratégie de distribution, avec effets possibles sur les collections et le wholesale.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "66d45cb3df88",
+   "title": "Rick Macci Urges Aryna Sabalenka to Seek Help: \"She Needs a Psychological Intervention\"",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemQ4dnV1LXhxcFZmREdnT1V3bFFWNll6NHZCOGRWVzQtQzJrTTBpZGVUYUdkYUlINXUyaV9wZXlSbEt6MWw0VHBjLUQybzRMLWwxMEYzRllBSVlaMmhJa0d5SE9pWktVSmVXc3lKNG90NmhaX0pNNmxibUt5blo0Q21qZDFRN1BGUEdOeVVweWQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-16T11:52:30Z",
+   "first_seen": "2026-11-16T18:33:04Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "L'opinion d'un entraîneur sur Sabalenka, athlète Nike, reste un contexte médiatique sans effet direct connu sur les ventes de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "55d7b353779e",
+   "title": "Nike confrontée aux doutes sur ses réductions de coûts lors de sa première réunion investisseurs depuis des années",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQmJCa3VjSG5lX2VrQ0ZUZE56eUstbkEwLXRyNHNNT21YbDE4czdNX2l4OUFsbDV2N085dU5vSTFKUXh3MlF3bFpYRUN4NjJWWlhta0E4MnBVaFFDQjI0a2dyaldxM3dTMUJYZHJHdHZ0bW1YWGRnWlREVFBOVGk5bHBMbm1MdGlyYTF5bk9ubHJ4RFJPOU5QT3hJcHgyMHRtVGtpcTd4am1Xci1lZldrbU1keERRQXBJUlVRNWRVQXl4a3BQTW1IYTdIdXNUR1dlenVnemI5b0FSS0pFZzZ3WWNiaEctZUllR2FfbGw0T1k4UQ?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-16T11:02:25Z",
+   "first_seen": "2026-11-16T18:33:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Les doutes sur les réductions de coûts de Nike peuvent faire craindre des coupes dans les collections ou la logistique distributeur, à surveiller pour l'approvisionnement de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "98464bdfeada",
+   "title": "Nike doit défendre sa stratégie lors de sa première réunion investisseurs depuis des années",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcktjUmpaM0p5ZXI4SEZBbVN5UVVtZXlLS01qbi1NaU1qZG5GOWF0TlNlWVVQaW9KVVROelZWendOLTBfVGtzRy1hd0F1a0kzbXRwN01OR0RlNHg2c3hOdVAxaGYtUm1Gb3FrZ3ZKenVGWjRISGtnb2tfTFRkTUtDd0dxMU5BY25udUhlU3lDWGllMVVDM25yNXVkb0hNejN0Z2h4eFpGYXpfbE02WWZOdGJVdW81eGhpYmtnNnpVQjdxTV9zLWRxbkk2SVAwcU5MWU1ZYWh4b0hxOGoxUXU5OVl1VUtNMzBtbjAtTE1WWVd1VVk?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-16T11:02:25Z",
+   "first_seen": "2026-11-16T18:33:04Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Même réunion investisseurs de Nike que l'article Zonebourse Suisse, avec la pression sur la stratégie et les collections distributeurs à suivre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "e0bd256712de",
    "title": "ATP Finals 2026 | Presque aussi fort que le \"Six Kings Slam\" : l'incroyable jackpot du Masters",
@@ -17976,5 +18110,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-16T06:34:50Z"
+ "ai_updated": "2026-11-16T18:38:05Z"
 }
