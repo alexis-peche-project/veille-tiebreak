@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T22:49:01Z",
+ "updated": "2026-11-16T06:30:05Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,10 +9,78 @@
  },
  "stats": {
   "added_last_run": 4,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 382
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 378
  },
  "items": [
+  {
+   "id": "e0bd256712de",
+   "title": "ATP Finals 2026 | Presque aussi fort que le \"Six Kings Slam\" : l'incroyable jackpot du Masters",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVURxVVdBV2E3SFowTHo5V0RnYklmWXAxQlU3VE5hOHpPX0FsUWR6UkZKSHFOVTBZWnRLSi1kQ2x0bWstc1NBZXlQeGRrVVZtQWRWUWV1TDBXdXJQak1QMTUtU1RnaGlIZ0FIZWVIMGdDYUYxdThZYnFabU1qWEdKam1IUlRUdXBBS0tBZUxnRVBmVDBjVlpIS1VraDJwLWVPSm9jU3Z0NHdDOFo5ZFk5eVgwbm1adk1MWUJLVWxqZ1hoM2o3Ty16MzNoT0hPcDdfM1dNZFYwX3VKMXQyeDJURzFkZjdMd1RNZEhnQUsxeXZ2aDQ?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-11-16T00:12:00Z",
+   "first_seen": "2026-11-16T06:30:05Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Compare le jackpot des ATP Finals au Six Kings Slam ; contexte de dotations du tennis, effet direct limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9a34cbd0cfc5",
+   "title": "Victime du punch et du service de bombardier de Ben Shelton, Arthur Fils a vécu une première amère aux Finales ATP",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPcTBpVVFoQmRmeUFvRTFjU2VibGpQNm1HZ3F4cENkVG9WMWk0M05fSzRFMDFHaFE3QlRxelBhTTNZakhGalFycGdRdGZTenFMVVlHdDVmc3R6Y2tXT0tBcFN4OENOQzRtX0dRcWhmMmdyM3plclF4NDgxVHBPUE5zM2dDcWp4NjlPNTFuNGh0VExnTEdHWlNWTlNHVUY3RExPLUxOUnhUNzhxZW5oN0x3YzdTNUI0X1BYdVljOWl1VVJuUUxFQmJ3Q0FVUTQwX3FnVDREX2cxX3F6VlpIWGY0TXNFTTNUX3E1SmhYTzF5cWRpb3VJSXZaU2I2ZEZNbzg4UVhtWVFvZTI?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-15T23:26:04Z",
+   "first_seen": "2026-11-16T06:30:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Défaite d'Arthur Fils face à Ben Shelton aux Finales ATP ; aucun lien avec Nike établi par le titre, impact direct limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "a7c57eb2b65b",
+   "title": "Masters WTA. À 19 ans Mirra Andreeva est sur le toit du tennis féminin en remportant sa finale face à Elina Svitolina",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYW9DbU1zNnFhNmFqUVNQWFdYcmZhaDhJZ3NIbFo4aHl4a2pLTHQ3YmlJZ2R4U1IwZUhzVUxnakNPakN4cWJISE84alhwNGN4N050SFd0emN1OTVsWjBXbHhpblB2bnFCSHJOTkZxVDN3ZzlZSVU2bEltTkp4ajBzVlVqaWlmaVFETmI1RG9tcFZnNUtLOEpvbFF5bl8zc0ZPMXVJOUtvclNQWmFBcjRjU2NTbGUyY19SUU45WURBdTdZMFplbFZxMHJsbVpjOUphZThnNWtRNHgzQmFqQWI2M2Nhb2xpNW01czVRWGdBQ1RzblpHTWxnd0V4UEZSUFBRdUp3NEdkdEZQTHdOTkFsczNVaG03R3R5SEdIVG1WRm5wcnJl?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-15T22:33:02Z",
+   "first_seen": "2026-11-16T06:30:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Victoire de Mirra Andreeva aux Masters WTA à 19 ans ; si elle est équipée par Nike, visibilité potentielle pour le textile féminin, à vérifier.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
   {
    "id": "092d9155b0f3",
    "title": "ATP - Blessure: Jannik Sinner opéré des amygdales : «Ça se voit peut-être...»",
@@ -5005,6 +5073,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "621b19ed832a",
+   "title": "Tennis: «Mon corps, le seul adversaire que je ne peux pas battre», admet Jannik Sinner",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEdqdEpRR2lxOWQtN1kzMENVYkg1bFpUeFNNZjNEUDE1T3pxaXpiVm9yeWQ4aFlVWU0tY1RteGlvQWR2eENZcUpSUnNXWDUtTE9rNmpkQWxlQ2JqRmNiTkR5V0RxVTh5dGZ6bWg1RnM0bllkQXhiZGlPckJTeXYwMC12d3dCZFpUeURIQjA3aEVaYmV2T1V6QXRqYkliYkpHODBXMlVWTWhEVU9KbFlqOU1IZ0xqdGNQM1lyaFMzZU1pa1BLQUVF?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-16T06:30:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner cite son corps comme adversaire ; signal de risque physique pour l'athlète phare de Nike, susceptible d'affecter l'attention médiatique et les ventes liées à la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "f9c5e9975fb2",
@@ -17885,5 +17976,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-15T22:53:42Z"
+ "ai_updated": "2026-11-16T06:34:50Z"
 }
