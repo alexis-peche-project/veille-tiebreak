@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T02:55:48Z",
+ "updated": "2026-11-17T13:27:05Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,153 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 357
+  "added_last_run": 8,
+  "feed_errors_last_run": 5,
+  "rejected_last_run": 368
  },
  "items": [
+  {
+   "id": "13d01194825a",
+   "title": "Nuno Borges - Moïse Kouame",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkotVUdQU29OdVFVeWtvYWs1Y2ZUQnB2ZEdWS0V1amVpbWZIT3FYWnk2Q1BXSFBKOTdMd2l4VUZMUzhfVWNXNmcwczY5Z2lXUUNseTBwRTBTck5HSWRKY2dxb1dvZjk0djVaUS1DUG9yaVRJN1J3YlRyWDk1UzNIb1RJN0N5QjN6V09hUk1ObFpkaV9LOEF1ZllKMndrbUItX3Vv?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-11-17T09:28:13Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "e272c3d48f6d",
+   "title": "Que signifient les chaussures particulières portées par Alcaraz à Turin ?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa184TnByOHNvSl92dHJnTTF1ZWhoOGhvRERZcHFQdkN5MVBEN21HaWZWSm8wS1ZzdTM2NjNOanBnRzR6UE5lSmZUanpUaENxQTNkVGo5ZUxESU1hRmJhUkpDOVROdDNYX1ZEVDN4SnQ3eklXa2NJZHhaZHU1M1NYbGNma00xN21l?oc=5",
+   "source": "Tennis Temple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-17T09:26:21Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Chaussures particulières portées par Alcaraz à Turin : possible effet sur l'image produit d'un athlète Nike, à vérifier si lien avec Nike confirmé.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f8a926434429",
+   "title": "TJX among companies using tariff refunds for executive bonuses",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFB2aHh3Rm5wcG9FV29xRi1mVVRmdXd0MEpoYnN6Ym45VWZibjg1M0F3dmxsekVHai1PUjF3VWc3R09kLU9hd2VIdkQ1UWgtZENZVzlxc3B5b0ZodmNJR25SbG54MHhLSTlQWVNpQWNXcW9PTVNwb21fMGdPcE5iUjR6RWNsRS1aUGtJQlotdEZtZUxMVGpuWTd5QnYtUEdITndwS1l1UVZWemNfdF9EdUJqaHU4QQ?oc=5",
+   "source": "Fashion United",
+   "domain": "fashionunited.uk",
+   "date": "2026-11-17T09:14:16Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Remboursements de droits de douane américains utilisés pour des primes de dirigeants : contexte tarifaire, lien direct limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "5c7750a8a276",
+   "title": "Avant même le Black Friday, ces Air Force 1 n’attendent pas pour passer à -30 % chez Nike",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSThZWmczakEzUWZRT1NhNFgyYWhNLUNuMWtoY24yRXVXdkNuVFdLOUhwNnNuRU1ISWxlV1FVNmZJazNjMjdEQzZGSTd5UzR2QlRhUmtpN0NvVkNTbmdtZURpOW5jSzJSVmFuMUppNFpMM0VUYVdCYWVhSEt4Z3RxMWVfOG1fSXh0eE1yaGFydndycXR5Uzh2SEtxa0EyY0lEaHA3UzliRjh4UDBCbGRMM0R4bEF1SGNOdUJHbWt3VnlJMGx1YlJRRUtSLWdSaDg?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-11-17T06:48:00Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Air Force 1 déjà à -30 % avant le Black Friday : pression sur les prix et les marges du magasin, à anticiper sur les ventes de fin d'année.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "01cc893d8621",
+   "title": "Le Dax devrait ouvrir en baisse, Nvidia sous les projecteurs",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOamdVSGRndUJ1UjktOFRGYVFYRy1FRHIzcF9EcU4tcWJPLXNEaVdRQ0ZCS3dDaFlrWnNDUEJDbFJCSGRtcTFza0NoZ1ZzejRVUkRNRDlCRmdkY3RyZTlnWFE0c1dzYVlRRjdRUlFqZmFFVXZkRF9IbWt1VDFxT09ocVpIX2gwVmtzbDMxTF92aEEwZ2Y0X1g5NDJ0emZ4T2R3dmN1MjNiNjVSOFA2NEhnb0hOb3JRc1loakFv?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-17T06:42:53Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b4cbf32ccbfd",
+   "title": "Shoe Prices Hit a Record High Amid Inflation and Increased Tariffs",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-17T05:00:09Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Prix des chaussures à un niveau record aux États-Unis sous l'effet de l'inflation et des droits de douane : hausse de tarifs Nike probable.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
   {
    "id": "3f9fdfe8353d",
    "title": "WTA chair Camillo points to 'commercial growth and new alliances'",
@@ -5779,6 +5921,29 @@
    }
   },
   {
+   "id": "5cfeca336e89",
+   "title": "Le tournoi dans lequel Sinner va de nouveau concourir est annoncé",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzJkUjI5bVNqOEF6MnQ0dTFFdmFpa3N0QzdVbW1OOUxFUVNwNVoyRzRvaF81X3JYVTZkd0tYczViNGlHRy1lY0Ric1BqU0hhMXhReFE4OWJIb3ZGejZPeFo0aUxXVE1LMUxmMWd4NW9mSDFsRkNNX1RtX1lNdVktbVZoQWwzcF9iMlByS29ZYUpDcXN2VnhSRG9oOGJwMEp0Uk5PZg?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retour annoncé de Sinner sur un tournoi : visibilité accrue d'un athlète Nike, potentiel effet sur la demande en produits Nike tennis.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "0965b25274ae",
    "title": "Cette paire de Jordan Spizike Low bénéficie d’une remise rare sur Nike",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdGxVSFBwS2pGYUpNdHhMYXg4b25FRy01QlhDMW5NNkZKdmFmYUpHOG5OVDdtMlF0eUtwYzNIcHpTRXZmYUtHUGxCX3hFQVlZSWEyM3RFOVRzWDlDM3VTNjFVZ2NkM0VGNnNUUllNMnFSOFF6LWtRVS1ndE9UMnA2bnIzTVREZTB4RXJlcjNaVzdTdU9hVkRHMFdiQTVzZVhreFd0cGZ3ZUxmd3ZXSTRfRnpyRU9wWU5BTXY5Z29CV0ZhUEhldE96dExqSm9ZQWZ4blJ2UDlkbldwTHVia0g5RVpKTXA?oc=5",
@@ -7366,6 +7531,28 @@
     "r": 2,
     "impact": "Record trimestriel d'Adidas présenté comme difficulté supplémentaire pour Nike ; possible pression sur la stratégie de distribution et les marges.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c4d1260c4165",
+   "title": "Adidas shares rise on guidance increase after surprise earnings statement",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObG9EYWxSbnpnQk02eEJ5Q2QyOU5QWmVFY0hCclVpWUg2blZkcnF1NjBQTUNwRk1UU1BfVWZScXlrTC1neUdkdmlnRU50dGpCQTN0NnBQNXhlZnY5bG90clRfMENXTW5BX0VyQ3lLeHJ2akVSSzBMbWVuSHFJa3lrazhqNHNmdFNwUEtqNUt6N3ZocHl6OUF0MmFMZG1HVjNJRFJEWW8tbw?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-10-21T07:00:00Z",
+   "first_seen": "2026-11-17T13:27:05Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hausse de l'action Adidas après relèvement de prévisions : indice sur la bonne santé du marché sportswear, contexte concurrentiel lointain.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -18200,5 +18387,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-17T03:01:21Z"
+ "ai_updated": "2026-11-17T13:33:01Z"
 }
