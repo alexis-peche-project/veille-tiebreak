@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:33:04Z",
+ "updated": "2026-11-17T02:55:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
+  "added_last_run": 4,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 367
+  "rejected_last_run": 357
  },
  "items": [
+  {
+   "id": "3f9fdfe8353d",
+   "title": "WTA chair Camillo points to 'commercial growth and new alliances'",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2VybDdWeGxCSXZLUllBU25HekdxZnZZdTNsbnZrRFJnLUJoY0luVXNDazBZdThUUnpQYkRxanROdVZmNXhHaEcwUWViMmh4Y2lxVFhyUGx4NFBSTmFTUU5XREwxalIxSnpxWFlTclhWM2NJRXotY3pWSlUzVWsxcGNaanZiWFByZTl4dnBXT0Y4ZmpQdnVpRkM2X1Ita3dSbnJKVVZB?oc=5",
+   "source": "Inside The Games",
+   "domain": "insidethegames.biz",
+   "date": "2026-11-16T18:54:47Z",
+   "first_seen": "2026-11-17T02:55:48Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La présidente de la WTA met en avant la croissance commerciale et de nouvelles alliances, ce qui peut influencer le calendrier et les partenariats du circuit féminin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "1dde27ac1046",
+   "title": "Suez Canal Return Won’t Resolve Global Shipping Congestion, DHL Warns",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcGIwWlZVaVJmRFB6b3pGYlVLSzJfZUNUcFh4NVJDdVpOaHYzV2llTmh1alR1bGpIZXVqSnVJazlMTEJUclJqYnYzWTVWbG44Q2ViaWRQRUtVNDRhVERiYVFIWHBzM0FfVkRDZkt1MnJNTV94cElkZzNHd1hpSXZvNnBQVEZiUjdKVVc5U0ZxSGtRVmc?oc=5",
+   "source": "gCaptain",
+   "domain": "gcaptain.com",
+   "date": "2026-11-16T18:42:24Z",
+   "first_seen": "2026-11-17T02:55:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Selon DHL, le retour par le canal de Suez ne résoudra pas la congestion logistique, ce qui peut prolonger les retards d'approvisionnement Nike de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3ad9f344e7e7",
    "title": "Maersk, Hapag-Lloyd Expand Suez Canal Return With Three More Gemini Services",
@@ -82,6 +128,28 @@
    }
   },
   {
+   "id": "c127358a164d",
+   "title": "South Korean Container Ship Considered Abandoning Arctic Trial Voyage Due to Ice as Owner Plans Sale",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2xWbkRyS0M0XzZFaENTNkdzUWtDekt2c3QxaXU4MDJmZ0VhUEJMUFQ1X1pYVm5qeHE0VVFnWm9YT3ZPUUZud1hWS2lXck1qR2F2UHJERGgwcWV2Tm5QcE9SRDRQalp1ckdpMW1OLTc5bmloclZ0WG5sYUJ1WkdIYUZZODIxbnZscXZFa29CT0pkN0hFTzRhMEFyTVM0eGhDeldhcnp0QkE1WGVGbHJyMUFydThtX0FYRXE5Zkk2a29jWFV2?oc=5",
+   "source": "gCaptain",
+   "domain": "gcaptain.com",
+   "date": "2026-11-16T13:31:38Z",
+   "first_seen": "2026-11-17T02:55:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Lien indirect : route arctique maritime, sans effet direct connu sur les délais de livraison Nike ou les coûts de fret de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "66d45cb3df88",
    "title": "Rick Macci Urges Aryna Sabalenka to Seek Help: \"She Needs a Psychological Intervention\"",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemQ4dnV1LXhxcFZmREdnT1V3bFFWNll6NHZCOGRWVzQtQzJrTTBpZGVUYUdkYUlINXUyaV9wZXlSbEt6MWw0VHBjLUQybzRMLWwxMEYzRllBSVlaMmhJa0d5SE9pWktVSmVXc3lKNG90NmhaX0pNNmxibUt5blo0Q21qZDFRN1BGUEdOeVVweWQ?oc=5",
@@ -143,6 +211,28 @@
    "ai": {
     "r": 2,
     "impact": "Même réunion investisseurs de Nike que l'article Zonebourse Suisse, avec la pression sur la stratégie et les collections distributeurs à suivre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "dea07ff88aaa",
+   "title": "Nike doit défendre sa stratégie lors de sa première réunion d’investisseurs depuis des années",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcktjUmpaM0p5ZXI4SEZBbVN5UVVtZXlLS01qbi1NaU1qZG5GOWF0TlNlWVVQaW9KVVROelZWendOLTBfVGtzRy1hd0F1a0kzbXRwN01OR0RlNHg2c3hOdVAxaGYtUm1Gb3FrZ3ZKenVGWjRISGtnb2tfTFRkTUtDd0dxMU5BY25udUhlU3lDWGllMVVDM25yNXVkb0hNejN0Z2h4eFpGYXpfbE02WWZOdGJVdW81eGhpYmtnNnpVQjdxTV9zLWRxbkk2SVAwcU5MWU1ZYWh4b0hxOGoxUXU5OVl1VUtNMzBtbjAtTE1WWVd1VVk?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-16T11:02:25Z",
+   "first_seen": "2026-11-17T02:55:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "La première réunion investisseurs de Nike depuis des années exposera sa stratégie de distribution et de collections, susceptible de modifier ses priorités envers les revendeurs comme Tie Break.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -18110,5 +18200,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-16T18:38:05Z"
+ "ai_updated": "2026-11-17T03:01:21Z"
 }
