@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T13:27:05Z",
+ "updated": "2026-11-17T22:25:01Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,387 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 5,
-  "rejected_last_run": 368
+  "added_last_run": 20,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 392
  },
  "items": [
+  {
+   "id": "766d0dc7802e",
+   "title": "JOURNÉE DE MARCHÉ — Le débouclement des positions liées à l’IA se poursuit, mais Nvidia dépasse les attentes",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONEJzYmkzOEwxRDUxVm5KSTFaaVc1WGVzc3NBRFVmaWN1TXhmZjZ0S09LbWZQaExlV21lVzQ4WmtzNHhZOHFqanFOZnBlR3phOXM1MnR5X0Uwdkt2VTdqTURwVXQ5bHhaa3YzV0ZSTUxvLWx0MDRSUjdNS1JRaFg5UGwxR1JqcnU4STZwcXpHY0lKUGQ4TlZyQWtGclJuSWs5MDRsVS15UlRDdUtWUTlTaS1KTWo5Y3lQRmthMkFucnRkN0xiWm80SGg5dTluU0Jwa1d5VmNlMXJZdUczclMxUC1UdU5DdnhjenV0eQ?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-17T22:01:19Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2a87f0133f34",
+   "title": "Les Bourses mondiales sans confiance avant les résultats de Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQzdHQ0JzLVpsaDVIVDlQZ1RkWWtMQlYwa2t1WUtCekx0YlRKM3BpWVB3TXU4YUo5V2RBb1J5OXEyY3VvbDlIdDlMSjcwbUY4UUNMQ05iQl9VS253SjRUNldnMXpCWnlSTzljNDJmWHRselQydDlaLXdSenRhdGppTk5Gc0REU0ZmeGFOREJQV0N0azM4QVdrUG9XdHJTOTk4Nndxa1JtdW9DZ1lwVzdzREJPSEhWZFJ0UEZBZ1Q1UXNvMmlGWFE?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-17T21:39:21Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d1e9b9693a7f",
+   "title": "Nike présente un nouveau plan stratégique pour trouver un second souffle",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQalNKTzI1UHR1cVJkSjVzdnBqYkpUZXFkcl9OQ2lXa1lGc2pvdnBNdXdBMVg3TC16V0pSR1huY0thTVRBTkU5dkl5eXIyam1sUFJvUFhfS1kzckVWem1uVE9Cc3F4a003YUJPcmNWSmF0Wmw2YzlSUlBidGp3YXVkSDZWZ3VtYm5wejBsOF90Mm5DLVNZc3dnU0NMOXkzS0Z2WEFhWHZsdHRiOGtyb01LSDBrcDRjTzYtNGlHejlaWDZRRVRpaHZFVENpSmg?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-17T21:28:23Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nouveau plan stratégique de Nike annoncé : possible effet sur les collections et la stratégie wholesale dont dépend Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d20e77abd454",
+   "title": "EXEC: Nike Not Eyeing Return to Growth Until FY29 as Sportswear Recovery Lags",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTZET0FUSUJ6R21xUHVsS2h3YVhQQU1LUUNyX05ITWhmM09XdTJ1S3laVl9FV1FSaGFfdFdzcnUxajE2eE1CSzZSUWZWcUhnN3h5VnlGRDI1WWxwdG1EWWtJbWVzR25GNlhCM2dJWEpVbGlnNG5DaU1tdGhRODdNUHNwb1hUQkhvblh0bGpVQ0lMSFhUOUd4SVpoaXFWT1Bf?oc=5",
+   "source": "SGB Media Online",
+   "domain": "sgbonline.com",
+   "date": "2026-11-17T21:20:56Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike ne viserait un retour à la croissance qu'à partir de FY29 : tension possible sur les ventes Nike de Tie Break jusqu'en 2028.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9481c8150d13",
+   "title": "Nike tente de rassurer les investisseurs en annonçant un objectif de croissance du chiffre d'affaires pour 202",
+   "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxONjZrRFR1clBMbEtWQm9KN09feTlJR1EtcVhtNFhVVmVMWGxMOXlrQ0FGWHJZMzBDTjBqNEZjYW1leFBUX3FJUVRhNUkyZGNNYXpPTHhlYVJ2VFFvV29nUW03N2FsWjlvSktXdk9HU2lEZGd2b1hzZDRVTy0zR1VCYmZ6eklCU1Y3U0hkRXVURHJNdTJvTjYzUW5QTGhoWXBJLWtBa3NzZXBZZ0dleEtxZmtBQU9TQmxJMDFuQXhZSWJOOUs1NEV6cFpYWnhNSVpJTkNrd3llUUxuSmxqQU1ieUZ5cDBWejBhWU9PVG5UNTFLMEVKamc3RG9ZN0lMWnc2OHkxb0tvTVBGajJVOC1adktDNVpDLWFJZVcybGlXRmdnRHdwRzl1UTdZSk5YQ3N6eHRvak5xRkZObHZX0gHCAkFVX3lxTFBJdUVTMk9scU5tLUxhQjZUY0dWTDNHRGJ4Y1RENmdoMUVOekFodWhGMEU2djRiN0lMRjlranZkOVBrWWNXcl84OXY0QktDRV9VVnlkeWxpNGJtLXNZYW0wSFJvYUEzVHBReXd2Y2tGVGs5Y0FLMlRhalZjeVk4VkpIc0toNVM0S0NBelh0Q0xZSXZtLXZaVlF6WHVqOHpOMkFKVmNxTUlfVjFtSm1YaHJpZDBlUHFfa1JzWDJsN2JUTnZkVklVQk5uNVh1Z0ptcVlsMlZrZ3NNZXZ1N2ktLUJqVndQVnYxVGdQNU5POWt1ZmRXZTNKRnVFZ0NHM0ZNcWs4WmFGSW9iNUNEUU9KOXJ6Y3FyeUExVHkwRmRQS3gzSGlOeEhrUWQ3RWh1X1p1dS1IbllNRTZwdGE1b1RRWXJPX0E?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T20:42:56Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike annonce un objectif de croissance du chiffre d'affaires à horizon 2029 pour rassurer les investisseurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "09ca4b66da2c",
+   "title": "Nike tries to reassure investors with 2029 sales growth target, but shares slump",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDN1UWpRMlJnYTJMY1gxQ0RGMUNfUU1rS0xrVzhXZUtGdmpRSXREcTNJNzBGVnpldktmRUU3aC1QN3EydHNhMVV4bFVPRTRlNWdFWmkyRjVlVVRaWFJxdEdPVFktTEN0dGhhcDJQRkFPQXRXMjFDNjFzbnZrODJncmZVb3BjdHJNTlA4NkM3S1J4NFU4UW1vS2NPdnRRb3BjM21rYlBWMGE0UFhyUzVJMTJtLTdBdw?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-17T20:42:50Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike stock shares",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Objectif de croissance des ventes à 2029 annoncé, mais action en baisse : signal de doute sur la trajectoire de Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8130f93baae0",
+   "title": "L'action Nike inverse la tendance et recule après que les investisseurs ont remis en question le plan de crois",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUUlvMmlvQW41TTdmSU9CWmtabmdmTV9Da1BDYnhMb00wNVl1VWU0UFBvWWlDd3hjVXF6cDVEZVd2ejhWWVZGZHBZYUxZWi1famNkUGFYSnlTSFYwc2NhMUNEeGw2WVh4XzJWVmZWMm5rd1VZR2QwNFRaUFFST3R6bm9JaVRpSHZaQWNkUGI3RGRDX0dJVmt1cUprNGV2aG1HRFlHSHNnd1BWdU04V1JoeE1rYWFDb1I1dGVfM2RSS1RCdUlfVDBlbVFSMGlTcC02SS1wUUpCeHVXYzlRdHEzdjNOSmJVVF96S0kyV2VmNXpCWlcwNnc5OVFTeGlkVDd5TUpZWTNXeG1sUlR4TXducWhzVmlXVWVEUVhnaWZKWTBVZExydVREMVJXUE1hZU02SUZmX1JMM1FhdC1NY2RN0gG_AkFVX3lxTE5RSW8yaW9BbjVNN2ZJT0Jaa1puZ2ZNX0NrUENieExvTTA1WXVVZTRQUG9ZaUN3eGNVcXpwNURlV3Z6OFZZVkZkcFlhTFlaLV9qY2RQYVhKeVNIVjBzY2ExQ0R4bDZZWHhfMlZWZlYybmt3VVlHZDA0VFpQUVJPdHpub0lpVGlIdlpBY2RQYjdEZENfR0lWa3VxSms0ZXZobUdEWUdIc2d3UFZ1TThXUmh4TWthYUNvUjV0ZV8zZFJLVEJ1SV9UMGVtUVIwaVNwLTZJLXBRSkJ4dVdjOVF0cTN2M05KYlVUX3pLSTJXZWY1ekJaVzA2dzk5UVN4aWRUN3lNSllZM1d4bWxSVHhNd25xaHNWaVdVZURRWGdpZkpZMFVkTHJ1VEQxUldQTWFlTTZJRmZfUkwzUWF0LU1jZE0?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T18:39:00Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Recul de l'action Nike après remise en question du plan de croissance : signal de défiance pouvant peser sur la stratégie produit.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "1b3643c01d68",
+   "title": "Nike vise une croissance de son chiffre d'affaires en 2029 afin de rassurer les investisseurs méfiants",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPaUdoLWJOWHpLWUNFaGNXRTh4RFhJOUJudTU2dzktM0Y1bWdlYVdaeXRLcEpGYnJUMGRrbUNScEc1cm5ZZkxHVlRIejdjYWVrWG5uZEpRTmhLS2JQRG9YZmVOT0NtRmUyaWNILTBtV19RYVREX2M2aWt2WmdDS19HRHo3ZDJaOTZQVlJGMXNvMVdYY3dxVGk0aFpHUU0tbkRpd0wxYlhRVjNqQUw2OElsYWVLeUI5aU9vRGR2dWFndGQwMndfRHNocWEtOE5OQXg1aWlmSW85WDdLcGhYZnRYMzNTclVnSG5fRlNaT2FBdmg2NjBzSWtxZGQyTU9NbGFqd3Y2eGpmVm11TXZ2SGQ0YmFn0gGSAkFVX3lxTE9pR2gtYk5YektZQ0VoY1dFOHhEWEk5Qm51NTZ3OS0zRjVtZ2VhV1p5dEtwSkZiclQwZGttQ1JwRzVybllmTEdWVEh6N2NhZWtYbm5kSlFOaEtLYlBEb1hmZU5PQ21GZTJpY0gtMG1XX1FhVERfYzZpa3ZaZ0NLX0dEejdkMlo5NlBWUkYxc28xV1hjd3FUaTRoWkdRTS1uRGl3TDFiWFFWM2pBTDY4SWxhZUt5QjlpT29EZHZ1YWd0ZDAyd19Ec2hxYS04Tk5BeDVpaWZJbzlYN0twaFhmdFgzM1NyVWdIbl9GU1pPYUF2aDY2MHNJa3FkZDJNT01sYWp3djZ4amZWbXVNdnZIZDRiYWc?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T18:14:41Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike vise une croissance de son chiffre d'affaires en 2029 : objectif rappelant le calendrier de reprise à intégrer aux prévisions 2028.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d90a862b984e",
+   "title": "Nike won’t return to growth for 3 more years",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1RZWTc4Z1RPcEhIeTJialNsTGRSckZLbk1SZ3c0TTUyMUdvbmNYMmtFZVRSb2cybHg2YUFTVGkwcVNTWVptUTduUVdBdDE2SVR3bjNRN0VMcjJEWEthMlpvdkdyUXBoM1hXZTZ3R1JfTjhfS25GcGNFMDEydFZGczJ1ZmR0S3RNdGFWYzBHeTUwTE9RTDV5eWdPT2FjUDdVNUVVNGszbDBUNGQtMnBURTV5cmp3OG95enJkYw?oc=5",
+   "source": "Retail Dive",
+   "domain": "retaildive.com",
+   "date": "2026-11-17T17:53:56Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike ne reviendrait pas à la croissance avant trois ans : horizon de pression possible sur les volumes Nike de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "89f03eed76a0",
+   "title": "LES MARCHÉS BOURSIERS AMÉRICAINS EN PLEINE ÉVOLUTION-Nike, AECOM, Intel",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPallaT3dRdlN0d1lqQ0ZwVng1cHhEdEQ1cGNteF9nbURPT241THZHTlNwMDJqSzRVQ1BLOFI1bE9YUDdxQ0ZkTHhORHJBSkR5dUJmWm1DdGVhY0RjSEt6ci1TaUEyN2p0c24wcXBwWHh2TGVoVkpVdzk4OXhyY3F5RU9XRGpFTE5nNnp3V0dFbnFQbGREOUx4bUpPRFgxZjNCXzVzZHBST2YtTk12UHpPc1J1ZkRsbHZ6N2QwSUdhcnRyaXVIN3B0Q2lhQnhuVU9ZeFM0czQwaUdUY0d1NlRGTm5LUlYwUdIB5gFBVV95cUxPallaT3dRdlN0d1lqQ0ZwVng1cHhEdEQ1cGNteF9nbURPT241THZHTlNwMDJqSzRVQ1BLOFI1bE9YUDdxQ0ZkTHhORHJBSkR5dUJmWm1DdGVhY0RjSEt6ci1TaUEyN2p0c24wcXBwWHh2TGVoVkpVdzk4OXhyY3F5RU9XRGpFTE5nNnp3V0dFbnFQbGREOUx4bUpPRFgxZjNCXzVzZHBST2YtTk12UHpPc1J1ZkRsbHZ6N2QwSUdhcnRyaXVIN3B0Q2lhQnhuVU9ZeFM0czQwaUdUY0d1NlRGTm5LUlYwUQ?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T16:38:28Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike cité parmi les valeurs qui font bouger Wall Street : contexte boursier sans effet direct identifiable sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5f9733faff79",
+   "title": "Red Sea overcapacity looms as ocean container spot rates still 50% above year-ago",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjdmako4QzByallQUWF2QnVoQzdNTHhzUndVa1d2MXdRbWU3OTQwaXVvSEFvaVlheTJQazduOWFRbHFrZmpfanZNX2RVR20zSDhERFpkVU1qekxxbEl1aWZqZTNyS0psWlZVd3lCWVZtX2xmVGkxM2wzZzRITnRjSzY4VDNkV2hWWVBacm5LSFl3Z0p0Y2hOLTFuN1JHcDVWRXppYTlBRGtCY2tsQjd1ZXNieVg?oc=5",
+   "source": "FreightWaves",
+   "domain": "freightwaves.com",
+   "date": "2026-11-17T16:28:34Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "red sea"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Tarifs spot du fret conteneurs encore nettement supérieurs à l'an dernier : coûts et délais Asie-Europe susceptibles de peser sur les livraisons.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2fb8cbed2051",
+   "title": "Wall Street fébrile avant les résultats de Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONktNS1lhVmxneDFrT1dFWGNCdzRvVE9oMFotakIzTXY0eWkxMnFGOHNRRFpXU0Zac2NHQkd6X0NGOTdDVGhoZ1NSUjUxS3RCanFaZ1ZkWXg3TlE2a1NEY0E0ZVZaV0dMcVFOUm01QnREOUtfTzVRaGhLY085LVlUZVR2R0xXZDlIbkJIUmpZUFZPVHZ1OGU0a0JoaWcyb0FGb2xCQXJmdU1pQWNRcDVYVzhyLXJWNEJEbWV1WjVSRDBwczZlSVJ5LWJBONIBywFBVV95cUxONktNS1lhVmxneDFrT1dFWGNCdzRvVE9oMFotakIzTXY0eWkxMnFGOHNRRFpXU0Zac2NHQkd6X0NGOTdDVGhoZ1NSUjUxS3RCanFaZ1ZkWXg3TlE2a1NEY0E0ZVZaV0dMcVFOUm01QnREOUtfTzVRaGhLY085LVlUZVR2R0xXZDlIbkJIUmpZUFZPVHZ1OGU0a0JoaWcyb0FGb2xCQXJmdU1pQWNRcDVYVzhyLXJWNEJEbWV1WjVSRDBwczZlSVJ5LWJBOA?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T16:28:00Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "92cf82e16180",
+   "title": "Nike progresse et vise une croissance de ses ventes d'ici 2029 ainsi qu'une augmentation de 5 milliards de dol",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNVzlIWHhqT3I4YkhMcDR1RFZRWFZnYXNzYmhDeFFhNk9ERWpKWWN1WmVGcVduTHdPckZqUjNXNEZjUjhSZ2RkaFhBRjFWTkRvNlJvcUNuUW4yMkRjSVh2Z3p2VkN0MUlITzd0SnVEb2hyUWhPeTJ6aFZpSk1zNlZXMVdRZmY5M2RnTGJDV0U0QW9YT1BaYmlsRXE4akNabDI3aVZ1R0NfbmxlQkNaQmJnQXZqV2lWdUxybzVxckRIclBIeDBHQUlvQ2txVEdkLWs0VjlhczBHZW5PenFrY2JkOGRYY01TNWF5MExIelB4LWpyT21jWFQ5d2NWRWNFSF9nQnFxbDc4YmdNM1dzei1OMU1Tem0zRGZkUGtRaHhIdmt3QWZEYk1IYzJDZ2h2Qk9vRmlxd1J3aVRXS3Axd1c2amgtazl3U0o0alF5dGFpeUZ6cEHSAdMCQVVfeXFMTVc5SFh4ak9yOGJITHA0dURWUVhWZ2Fzc2JoQ3hRYTZPREVqSlljdVplRnFXbkx3T3JGalIzVzRGY1I4UmdkZGhYQUYxVk5EbzZSb3FDblFuMjJEY0lYdmd6dlZDdDFJSE83dEp1RG9oclFoT3kyemhWaUpNczZWVzFXUWZmOTNkZ0xiQ1dFNEFvWE9QWmJpbEVxOGpDWmwyN2lWdUdDX25sZUJDWkJiZ0F2aldpVnVMcm81cXJESHJQSHgwR0FJb0NrcVRHZC1rNFY5YXMwR2VuT3pxa2NiZDhkWGNNUzVheTBMSHpQeC1qck9tY1hUOXdjVkVjRUhfZ0JxcWw3OGJnTTNXc3otTjFNU3ptM0RmZFBrUWh4SHZrd0FmRGJNSGMyQ2dodkJPb0ZpcXdSd2lUV0twMXdXNmpoLWs5d1NKNGpReXRhaXlGenBB?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T16:11:35Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike vise une hausse d'environ 5 milliards de dollars de ventes d'ici 2029 : objectif de redressement commercial à suivre.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b72d67ac8e2f",
+   "title": "Nike vise une croissance de ses ventes d'ici 2029 alors que son directeur général, Elliott Hill, accélère le r",
+   "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQLTlaVkxVU3I2MjByREUyb3pTdTlQQlJvb2JtLTFfQkVha24yQURVX0NzOGt4Q3J2cWVlZ0FrSU1CQ0NkUkRqT1h2MVdBV0w5d3dNX0cwVU5ZQVdLbjJZT0IxYWRCOUZHTWlYWHM2Vjd4dXhGV0t1OFdzSjRJUjhLN1VoemZNV1pHNXpYVnpwdXZrZjhMZ1JvNjMycGppRVE1YUczb0JqNUp6Zl9CbndrUjJac0ZrRzBOYlZ6OVNBNGRablNnTFhzMURBVERCMUt5YkJjQjVzZU9FOTBYVl9zdm43bVNUTlptUnZyTGFGYU96SHRtRzlFTGNMcnBfbmVqZjVrODVnTnhvOGFnM3pkR1dlcV9ZNU1qcnIzVUZxa2pyeVZDcEFGbVpIYUZtQ2p6MXI4aU1MbDBod2JpN1HSAb4CQVVfeXFMUC05WlZMVVNyNjIwckRFMm96U3U5UEJSb29ibS0xX0JFYWtuMkFEVV9DczhreENydnFlZWdBa0lNQkNDZFJEak9YdjFXQVdMOXd3TV9HMFVOWUFXS24yWU9CMWFkQjlGR01pWFhzNlY3eHV4RldLdThXc0o0SVI4SzdVaHpmTVdaRzV6WFZ6cHV2a2Y4TGdSbzYzMnBqaUVRNWFHM29CajVKemZfQm53a1IyWnNGa0cwTmJWejlTQTRkWm5TZ0xYczFEQVREQjFLeWJCY0I1c2VPRTkwWFZfc3ZuN21TVE5abVJ2ckxhRmFPekh0bUc5RUxjTHJwX25lamY1azg1Z054bzhhZzN6ZEdXZXFfWTVNanJyM1VGcWtqcnlWQ3BBRm1aSGFGbUNqejFyOGlNTGwwaHdiaTdR?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T15:48:55Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Objectif de croissance des ventes d'ici 2029 sous la direction d'Elliott Hill : feuille de route de redressement à suivre pour les collections.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f19e70897941",
+   "title": "Nike affiche ses ambitions pour 2031, le titre bondit",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekNyaVVzUnljOTh0N0hJXzVDTHlEZjl3UG9POXJ1MG1sUHI3NXZTcmk2UDJuVjBaNXZ6UU10TUV6QTVMRVNDcG9ZLUY1ODY1TWxIdHE1QXYzUkx5Nm9sRzdqZ0FfblpOb253SXVGNVRpTXZPajFHcFkyYzU0Qm90M1ZmdXR1a3dINS1MbkwtcTFZYjNicGtacU1HY1RvdHMzZmliUXlvWUlCUzd0YTJrdGcxWFlwT3dKMUd4WlBmdUtmc25mUC1DbEhJRGZRbTjSAc8BQVVfeXFMT3pDcmlVc1J5Yzk4dDdISV81Q0x5RGY5d1BvTzlydTBtbFByNzV2U3JpNlAyblYwWjV2elFNdE1FekE1TEVTQ3BvWS1GNTg2NU1sSHRxNUF2M1JMeTZvbEc3amdBX25aTm9ud0l1RjVUaU12T2oxR3BZMmM1NEJvdDNWZnV0dWt3SDUtTG5MLXExWWIzYnBrWnFNR2NUb3RzM2ZpYlF5b1lJQlM3dGEya3RnMVhZcE93SjFHeFpQZnVLZnNuZlAtQ2xISURmUW04?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T15:07:00Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike affiche des ambitions à l'horizon 2031 avec hausse du titre : calendrier de redressement plus long que 2028.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "81f9fb9f98a0",
+   "title": "Dans le cadre de sa dernière initiative de redressement, Nike vise une croissance supplémentaire de son chiffr",
+   "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQMnNjSEFVYjA0Z0hHTU9TY0k1Qll5b3pKeWgzdlpCTDhpSXRoVzBXNWNtRl9YQkhnT3JBYmUzbXJpU1dOMklsOUl4eVRIeDdnNHluWGNkLUtMVkx0bm4zaWJyOEl3QWVPRWNWQ1RyVmNYSFMwU09FNnNyeHV6Y09mVEFPQ2VYVDNpVm9xMTUxSk9BTG84b0xudjNKTGEySFA3c2NMNmFMMGdUUllCeS1KYmV3N3lLd1ZtR0Vxb0ZUeUY5Wmd4LWtXTWxGLW92Mm5LdEtTa05tRmRQaHE5Rzk4cWJwMmtfZm94MFBpODZUVGFmTzE0TWpjckxlSzVCSjNhNDk1YUZRRGJrZDE2ZTNIUlV0Z2NELWxDNW4xVGNGbnBRTWZOaG1SSUdUbTg1dDhBN1dvcHZUNnp1Sl91U3E4LU9JM1N5REM1R2RoYmV3aFpIeVhwa1BnYkwycF_SAdwCQVVfeXFMUDJzY0hBVWIwNGdIR01PU2NJNUJZeW96SnloM3ZaQkw4aUl0aFcwVzVjbUZfWEJIZ09yQWJlM21yaVNXTjJJbDlJeHlUSHg3ZzR5blhjZC1LTFZMdG5uM2licjhJd0FlT0VjVkNUclZjWEhTMFNPRTZzcnh1emNPZlRBT0NlWFQzaVZvcTE1MUpPQUxvOG9MbnYzSkxhMkhQN3NjTDZhTDBnVFJZQnktSmJldzd5S3dWbUdFcW9GVHlGOVpneC1rV01sRi1vdjJuS3RLU2tObUZkUGhxOUc5OHFicDJrX2ZveDBQaTg2VFRhZk8xNE1qY3JMZUs1QkozYTQ5NWFGUURia2QxNmUzSFJVdGdjRC1sQzVuMVRjRm5wUU1mTmhtUklHVG04NXQ4QTdXb3B2VDZ6dUpfdVNxOC1PSTNTeURDNUdkaGJld2haSHlYcGtQZ2JMMnBf?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T14:45:35Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nouvelle initiative de redressement de Nike avec objectif de croissance supplémentaire du chiffre d'affaires : à suivre pour l'approvisionnement.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7e9a5ce112ef",
+   "title": "Nike vise une croissance de ses ventes en 2029 pour rassurer des investisseurs méfiants",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUTZUbWxPZnpOR2g1dUZqcC04WWZ5UGp1YXVLcm1QMTVkS0pBNExSdUpzM2ktS01RS2RFTy0tTm5NMUJfVmVHbUhlVno5UmRVZVpQZFhBS1hwOEtoTG54MmtZRHRBOGdQVFhQTHFxUmxfNERjamVobTVlTEtyWEVDNzhLbFZnSUZ0dlFSbHlqY21ENEtxT2NWME5ja29Uc1ExVUFKczZnY3FVUHhHLTJDd1hQZzJfTTBKcGV4T1N0eXZVOFN5VElIWHhpTllDSjRXbno2V0NkSFh5TnVfZW9xV09GTWxQOWF1aE4yZ0xKQkU?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-17T14:10:40Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike vise une croissance des ventes en 2029 pour rassurer les investisseurs : confirme un horizon de reprise lointain pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "13d01194825a",
    "title": "Nuno Borges - Moïse Kouame",
@@ -151,6 +527,29 @@
     "r": 2,
     "impact": "Prix des chaussures à un niveau record aux États-Unis sous l'effet de l'inflation et des droits de douane : hausse de tarifs Nike probable.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "ac7e8a72631e",
+   "title": "The Long Arm of Inflation Has Reached Our Feet",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcG9GVC1uM0VFSVNrTm1pT1VnY2o5MnJ0Tm5Cb2dtUEVSam1uN0pvcUtxUGYtUm9XZ3UtNkxmUDBsR001VHVDcFlkaWIyNmdHQVBWVHNodzJta3lXRm9iUldWNW13bjJsVEhiMjhNcVJTY2tWRkFKQkpjcThqWExfb1NBZlk?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-17T05:00:09Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Titre évoquant l'inflation touchant les chaussures : à confirmer, impact possible sur le panier moyen et les prix Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
@@ -494,6 +893,29 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "0057d0cac83a",
+   "title": "En quête du record du monde du marathon marche, Aurélien Quinion abandonne",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOay14RlpkUVpCOTlJQVk2cjB0Nk9DdEpmTVcwNEUtT3FISTFLTVFWMzZJZDZpX2JTbmlGVklQNFhLUklKeFJzY1RVR2JXOXFJOUFmYVNFc3NGVVk1QkIzT1VRLXJyVGpnOVFEcTdpLTZBRFlURFVHOGNYN0xTZ09XUHB2Tm9rNlpzWEtGVFRBYnF3QnlTMEh0UXhMTXVaalFDeUxFbmYxS0ZIM2RGWGRfNThsS2FwRXlzRjhGM2ZGTmxyVjVB?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-15T17:19:43Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "c1da1caa3739",
@@ -1118,6 +1540,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "2fd7f1e6422c",
+   "title": "Global cotton prices remain subdued as USDA trims 2026-27 forecasts",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVktPMVZkdFBlbV84V2Zwb3BRWWdBMm5GN1hfTldsWUtOR2p5cUkxdS1kT3o3U1JLY1R0UEVMNnI2WW1uNWl6TXI5VXJ0UkVQTU9ySmtUMHpieURPS1dySTd0NXVxQUtIYU9MenFpUWpxdTBFTXB6blR4eG5OUjI3ajlQT3pGcjNBR0JIQlFZNXY5TUI3QWJCYVg4QlJoUXp1RFdjUVBjRVNWZkRTOHNFT3o0aUZ6Z1Z1WHlyeVk2RlFBQUtfaUV2NTVsY19SRzNIMzdN?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-12T07:27:06Z",
+   "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Prix mondiaux du coton toujours bas et prévisions USDA révisées : effet limité et lointain sur les coûts textiles Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "669e0c6c90fe",
@@ -18387,5 +18832,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-17T13:33:01Z"
+ "ai_updated": "2026-11-17T22:29:33Z"
 }
