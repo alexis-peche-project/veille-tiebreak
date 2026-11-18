@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T07:28:51Z",
+ "updated": "2026-11-18T17:15:50Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -10,9 +10,55 @@
  "stats": {
   "added_last_run": 6,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 380
+  "rejected_last_run": 400
  },
  "items": [
+  {
+   "id": "0d5424e7b8e2",
+   "title": "« Je la ressens encore un peu » : Alcaraz donne des nouvelles de sa blessure après Medvedev",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM0dpcWZSNkl6U0U4N0RLUDAxYm5lb0JrakI0cGN2bkRtS3RXdDB4WXA3cl9HYXduTExDSlpBQWIwY1NINmxoX1RXLUtrSEVBbEdwX1pFb1J3VlFLYlAxNVgtTG9NNktYUGxBYkZVWmRuYi1HVlpEcktUQnJDS09MUFlJbF9CUTFQVkhmRkhqRkYxRVhyM1czUnhQTG5pUGxRR0hGdDh1eHRseXBYd2JXZmhTVHN2Rk90RE9oSjNiaW5SRTJTNTM1bWZfazQ1dEdWaUNFZHRHejNkSjEyQWkwT3plZFdyWm1hWElWc1dteWpZaE9q?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-18T15:59:57Z",
+   "first_seen": "2026-11-18T17:15:50Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une blessure persistante d'Alcaraz, athlète Nike, peut réduire sa visibilité et l'intérêt pour ses produits signés pendant la saison.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a869c15b6d13",
+   "title": "Norris, Bale, Sabalenka… Saxo réunit huit stars du sport pour un challenge d’investissement",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFFxZ1RKVHhpTzdpekNWWGN1YzZfOVB0cEFtSDdpZVd1U1JuZlZEUl9WenNUdHNxUTdxUFpVUVM2Q2Z3cjVZZlNjeDZaRnQ2UTdkN211amdaejVwUGYyRUNwbDJ6ZHpjWjI0Mlk0SWZteGkzeUctWlBaMC1jSk82SGZvc0xVLTNwTmNlZ292VWJLTlJPMWVWOFJldjh6b3JDMGN0bXlHV2ZmeWhzRjVGaUozOWJiMXhGUFhpUFVsbWZWZ25ONUwxS3F2ODR5QjUwY1J6dU5xeHVZM3Y2?oc=5",
+   "source": "Sport Buzz Business",
+   "domain": "sportbuzzbusiness.fr",
+   "date": "2026-11-18T09:52:11Z",
+   "first_seen": "2026-11-18T17:15:50Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Campagne d'investissement mettant en avant Sabalenka, sans lien direct avec les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "ea007e3a288b",
    "title": "EXEC: Nike Inc. Not Eyeing Return to Growth Until FY 2029 as Sportswear Recovery Lags",
@@ -232,6 +278,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "8789e2cbd184",
+   "title": "U.S. Open recorded $640 million revenues for 2025, with impact of luxury renovation still to come",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUVdUUkQ2akFZRkFsSkNabTNsSHNvVEoyelBwc0hHNEVtT29zMHBIdU1SdVBCbkV2cWR3aGRXdW9nX3NRWXpoUndTTmxyeUpaY09Da0NCMzhrSW1XRXZQd2NVUG5WWGYtc2c3a0gyVUNPaEdVdzFPMWowa080aTJXUUlsaGtBMmhwWDJDUVV0NFVSYWlRRk9LZzZhSTF1OWxkak80NjFrMl90bDF5eTNEN1NB?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-17T18:17:21Z",
+   "first_seen": "2026-11-18T17:15:50Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "PTPA lawsuit ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les revenus record de l'US Open confirment la solidité économique du tennis de Grand Chelem, utile pour anticiper la demande sur le marché.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "1b3643c01d68",
@@ -2748,6 +2817,28 @@
    }
   },
   {
+   "id": "f48074694af7",
+   "title": "Gaël Monfils nommé capitaine de Coupe Davis : la surprise de la Fédération française de tennis",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRldHUHUxWXNJd2VSN01UdXUxRml4RlVOMlU4VkhqNnUtVEQ4R18tQXBuQnlhM0dib1JzOENLVlNBUWJVdmM2X0NCSE1IZUpzb2ZjWU5iNkJ2Z1RXUGVuME1FSEwzbjBlaGJWdEVkdDh5NnNPcEY4OGJNbWhWa0hQTGV2WHFQR2pkcHZWYVZpRTByVWFITjlYZE1sZWVzZnExRjVuSUVmR0F3QjJfN2NnX1UtUEdHNGkxRmVKLUs4OExtbjJTTWlLTng5UXAwdDZQN25KeThKS2xMYkRIMGpLclJnTkRXd3NyRWtJVXFMRTdxcVpJX2JlR2thQW1SV3FzX0E?oc=5",
+   "source": "Radio France",
+   "domain": "radiofrance.fr",
+   "date": "2026-11-07T08:00:00Z",
+   "first_seen": "2026-11-18T17:15:50Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La nomination de Monfils à la Coupe Davis peut renforcer l'intérêt du public français et la visibilité du tennis tricolore.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "40617a2625ae",
    "title": "Tennis. Fils, Zverev, Alcaraz… Les huit qualifiés pour le Masters sont désormais connus",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPM09sNFNCMlJORU1oZTQ2TEx1cnFZUzZlOEdhb3FRdGxoQjZ3ZE5zeVBFV3RDaVZBdnp4SXNoS2JJc2JGT1JUYXVjdm0ydmUzaGQ0Z0p2VlVVYl9nLWxyT0hhd25CNElfdG9jaGNtMXEtOE9RVDc1WDFwY0M1Z1RaYkctSG50QzhoMThfLVQ4RF9CbmdKZDF5VHd3eHZhQXhXYlNLTlExblpHYk9FcnpnRHE0djZNR0N2WDIwWWN1X01tRTYwTHd0STZvSXk4TEJibkdvcE5nNzVjbS11TXQ0OGFOSjFSRm84U243cTE3bVJiVDQ?oc=5",
@@ -3441,6 +3532,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "7bf9680d6412",
+   "title": "Bangladesh Agrees New Garment Pay Scale From December Amid Protests",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMUJHYW41X3NDeklXU3J2ZjgtVjBuMTlRdkpsNjgtVWxNX0tWTXE3NklsR2owU1oyR2FlWnZadzdWdXgwVVEzemdNUXo3ek9hbVBHSnZ2akVIZ3NBU1RDVmtMUkZRUTdjb29IaE82N0ZUaEcwMm5zUjI4a3VSZ3A2SEgxakt6RFI3YkJHaGpNRFlyeTJnZHN5N2FYTG42cHlzNW5IeTlLNS1xWHBsa3FybENKNGZFS28yclJzLWtEaw?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-05T08:00:00Z",
+   "first_seen": "2026-11-18T17:15:50Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une hausse des salaires dans l'habillement au Bangladesh pourrait renchérir les coûts d'approvisionnement textile et peser sur les prix des vêtements.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "bdfb4f34a487",
@@ -6519,6 +6632,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "02c65168b664",
+   "title": "Jannik Sinner returns to Six Kings Slam after all following season-ending announcement",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjJwOThUa3l1MHRBQ3pEYS05YkVVbmI1UTVLTXRGa1NkUDlrejh0bzBFaGdMa3RaOWlTVmxTN1ZSV1o2QjVfZnZfc1NEb1NvRUpoZWl0alNzcEUzYjZzVXEwNWJZc0RPalNFeHpxLU85QnVuT0lwVmxDakhZTjAtOUVKSHlTR3lGQ1lVT3FjeFQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-18T17:15:50Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour de Sinner, athlète phare de Nike, au Six Kings Slam saoudien expose la marque au débat sur le sportswashing.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "0965b25274ae",
@@ -18964,5 +19099,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-18T07:34:16Z"
+ "ai_updated": "2026-11-18T17:21:04Z"
 }
