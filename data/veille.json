@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:25:01Z",
+ "updated": "2026-11-18T07:28:51Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 20,
+  "added_last_run": 6,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 392
+  "rejected_last_run": 380
  },
  "items": [
+  {
+   "id": "ea007e3a288b",
+   "title": "EXEC: Nike Inc. Not Eyeing Return to Growth Until FY 2029 as Sportswear Recovery Lags",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTZET0FUSUJ6R21xUHVsS2h3YVhQQU1LUUNyX05ITWhmM09XdTJ1S3laVl9FV1FSaGFfdFdzcnUxajE2eE1CSzZSUWZWcUhnN3h5VnlGRDI1WWxwdG1EWWtJbWVzR25GNlhCM2dJWEpVbGlnNG5DaU1tdGhRODdNUHNwb1hUQkhvblh0bGpVQ0lMSFhUOUd4SVpoaXFWT1Bf?oc=5",
+   "source": "SGB Media Online",
+   "domain": "sgbonline.com",
+   "date": "2026-11-18T02:27:23Z",
+   "first_seen": "2026-11-18T07:28:51Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike ne vise un retour à la croissance qu'en FY2029, ce qui peut peser sur ses commandes, ses allocations aux revendeurs et le calendrier des collections pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "dc133f27d780",
+   "title": "Le dénouement des positions sur l'IA se poursuit, mais Nvidia dépasse les attentes",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTUZQbDZBbk1rVXJfRFBna1p4NmVCVkJYMzFtOTFpSlUxSGR2WFhMZWozeWFiT2l4cDBILTY5RmlzMEt1Vl9sUDZDamtVLURtcUhjRFVBUEYzR2VUMUFIUEZZUGJxbkxHLUZhZlBjOUpwUU9hTk1qVm51T3ZvZENWNDlNQnFUZlYzS1hJd1ptVnlMSUQ5a2tQejBreWc2TG1EMHlQSGxMbTIyUFF0YWluSjFsLTVJcnBhLUdhcFRMRkZlTTdZaHIzeEF3ckJQblk0d3djOTd3b0xDRE1DeGhGeWhqYVZiSTJDblJfS3pnU214T09pbUHSAfYBQVVfeXFMTU1GUGw2QW5Na1VyX0RQZ2taeDZlQlZCWDMxbTkxaUpVMUhkdlhYTGVqM3lhYk9peHAwSC02OUZpczBLdVZfbFA2Q2prVS1EbXFIY0RVQVBGM0dlVDFBSFBGWVBicW5MRy1GYWZQYzlKcFFPYU5NalZudU92b2RDVjQ5TUJxVGZWM0tYSXdabVZ5TElEOWtrUHowa3lnNkxtRDB5UEhsTG0yMlBRdGFpbkoxbC01SXJwYS1HYXBUTEZGZU03WWhyM3hBd3JCUG5ZNHd3Yzk3d29MQ0RNQ3hoRnloamFWYkkyQ25SX0t6Z1NteE9PaW1B?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-17T22:01:20Z",
+   "first_seen": "2026-11-18T07:28:51Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "766d0dc7802e",
    "title": "JOURNÉE DE MARCHÉ — Le débouclement des positions liées à l’IA se poursuit, mais Nvidia dépasse les attentes",
@@ -21,6 +65,28 @@
    "domain": "zonebourse.com",
    "date": "2026-11-17T22:01:19Z",
    "first_seen": "2026-11-17T22:25:01Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike résultats trimestriels",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "27e11b2da535",
+   "title": "Trading Day : le débouclage des positions sur l’IA se poursuit, mais Nvidia surprend positivement",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSnpENnpWTXQ2Ym5NMHNCYWFpZjNoblRrOVRUdmVQazVmWUtLRWN3aUZtTW81SFhxdFlNZHVoQkJmUnc4R0oycHNib0dOWF93bEgwdjdhVzRUazBmWmpkMHNYazdEN2J3RmlpODBBNUUzZHE5WG8yaV8wZXdTVUl1Rmw3YW1DY0U4bGFjdTZQUi12OTlFOE5xRFM3UUFMajdFM1FXSlVRbWd6MUtpT0p0Z3hJaTJKdVQ2TF9VUU1ra0ppVURPSEZzZU51aDI5YVlSaWVaQ0pMSlhYQXVuSFhSZko2cHRkZGo5WmZj?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-17T22:01:19Z",
+   "first_seen": "2026-11-18T07:28:51Z",
    "axis": "T5",
    "lang": "fr",
    "query": "Nike résultats trimestriels",
@@ -385,6 +451,28 @@
    "ai": {
     "r": 2,
     "impact": "Nike vise une croissance des ventes en 2029 pour rassurer les investisseurs : confirme un horizon de reprise lointain pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "48c80715bae8",
+   "title": "Nike tente de rassurer les investisseurs avec un objectif de croissance du chiffre d’affaires en 2029, mais son action plonge",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUTZUbWxPZnpOR2g1dUZqcC04WWZ5UGp1YXVLcm1QMTVkS0pBNExSdUpzM2ktS01RS2RFTy0tTm5NMUJfVmVHbUhlVno5UmRVZVpQZFhBS1hwOEtoTG54MmtZRHRBOGdQVFhQTHFxUmxfNERjamVobTVlTEtyWEVDNzhLbFZnSUZ0dlFSbHlqY21ENEtxT2NWME5ja29Uc1ExVUFKczZnY3FVUHhHLTJDd1hQZzJfTTBKcGV4T1N0eXZVOFN5VElIWHhpTllDSjRXbno2V0NkSFh5TnVfZW9xV09GTWxQOWF1aE4yZ0xKQkU?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-17T14:10:40Z",
+   "first_seen": "2026-11-18T07:28:51Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike met en avant un objectif de croissance 2029 mais son action chute, ce qui peut influer sur sa stratégie de distribution et ses conditions commerciales avec les revendeurs.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -845,6 +933,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "ba7601c830e0",
+   "title": "WTA chair is fully confident of financial recovery in 2027",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNnNVczBqRGt4R1lyQkVGNjRPeFFtLUV0b1F6OHBMV3NKX2NVWVZQa0ZlYVpTVEV4Q0ZMZERkTVVWMnVnUVVZUTFTM1pPWWhqQThqWTRSekRSQnk3OURENVJ6Z0NCMW5iWEdrclUyQ1dVeXRXZ29NYjdTME1vNU1vTTFiWm56ZU1PVVhCOXJsU1l3SW9nclRNbGJHODRqVXRvVjZnRQ?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-15T21:21:43Z",
+   "first_seen": "2026-11-18T07:28:51Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le redressement financier annoncé par la WTA reste un indicateur lointain du marché du tennis féminin, sans lien direct avec les approvisionnements ou les ventes de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "092d9155b0f3",
@@ -1450,6 +1560,28 @@
     "r": 2,
     "impact": "Absence prolongée de Sinner, athlète Nike, pouvant réduire la visibilité de la marque et la demande liée aux tenues et chaussures du magasin.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f8ea87f28453",
+   "title": "Format, points, prize money : les Finales ATP, comment ça marche ?",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVJ2OVM5V1hEa1BJTlgwNUhhU2dZQWlIOUhKbTRmOWRaTGV3RkxHTTJOalBRLVJjcVZvUFoydFhGVkZXVUkzaW9rc1RLLXQ1RlNxNllCVUY2Y2J4eHFJd2FDNUlJaE02blFGQm1RbXlpcFRlQ0xmOUZ0eWJscDRmVGxDMDBLWlU2eC1qTVdSdWRINmR0MmNDU3RTbjhGcE5CSGROWEVkMW1zY0lj?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-12T09:29:34Z",
+   "first_seen": "2026-11-18T07:28:51Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le format et la dotation des Finales ATP donnent un contexte sur le calendrier du tennis professionnel, sans effet direct identifié sur Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -18832,5 +18964,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-17T22:29:33Z"
+ "ai_updated": "2026-11-18T07:34:16Z"
 }
