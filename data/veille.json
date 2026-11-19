@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:15:50Z",
+ "updated": "2026-11-19T00:23:21Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,33 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 400
+  "added_last_run": 4,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 393
  },
  "items": [
+  {
+   "id": "bd89a016bd4c",
+   "title": "EXEC: Analysts Welcome Nike’s Innovation Push, Question Path Back to Growth",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTRoUjVWT0V6Ti1sek5xVFRPeVB0cFpSTzJpMmd1UEtSYXdIMTFEV0pRUG1WbHBtYVpJSS1ybWhmNldRQ1l2N1k2Z3ZSODNtdHM1UDZEX1FreGp4aEVXQU9QalNLczRpMEFmVVNzbTQ5cVdaVjB1enExVUtwZm9LNWNkMFlCa1N2TVVxejdQQmpDXy05OGVrZGdtSQ?oc=5",
+   "source": "SGB Media Online",
+   "domain": "sgbonline.com",
+   "date": "2026-11-18T21:04:14Z",
+   "first_seen": "2026-11-19T00:23:21Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Les analystes saluent l'innovation de Nike mais doutent d'un retour rapide à la croissance, ce qui peut influencer ses priorités de distribution.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "0d5424e7b8e2",
    "title": "« Je la ressens encore un peu » : Alcaraz donne des nouvelles de sa blessure après Medvedev",
@@ -58,6 +80,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "dbdb32ee6714",
+   "title": "Nike prépare de grosses promotions pour l’arrivée du Black Friday 2026",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQkxoUmpSZm9VNkI5UDZuekRNdzFpRm0wWFdmYmlCNmR4LTZ3MlQxajh3dDRDbXhjZ1hPTEZkVUdDZnU2R2U5RGl6T3Jmc24zNkJPeWctUFNjdlF4WUl3d2xZSW5XTUpUX0c4VHoxLU40ZjdLSkh6SEMwR3YyaXBKSWdqY2FYa1ZQeE1mY01RZ0JQQ3U5N2lGVUJxT2NMNXlQc3IwS1lPb3BPOUpJT182M1dueUdZR1RPRGs0OF9xWk92Yl9YWFUzMXRLb2FSVHpvR3c?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-18T05:17:00Z",
+   "first_seen": "2026-11-19T00:23:21Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Les promotions Nike du Black Friday peuvent comprimer les marges de Tie Break et détourner des clients vers les canaux en ligne de la marque.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
   },
   {
    "id": "ea007e3a288b",
@@ -1405,6 +1450,28 @@
    "ai": {
     "r": 2,
     "impact": "Retour des services en mer Rouge et hausse du fret : délais d'approvisionnement Asie-Europe possiblement réduits, coûts de transport sous tension pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "bae4d137ac7e",
+   "title": "ATP > Absent depuis quatre mois, Jannik Sinner révèle son passe-temps favori : \"Depuis que je suis blessé, je passe mes journées à jouer à ça\"",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRDNmblFpRDJUTG1Yb3liMFJGcGdQOHRaRWNUM21IdHlPN2dydm0yOEV3Z3l4MV9yY0M4VDd5aG5SSk41MElwQzQ2Rzdkc1FkNU1uY0x4djR1MTY4QnU2aTlnSVQxSnpTMjlrQjZaVVVldTBXdzRjakwxMldvNnFVcDJHeUtxc1JXV0VBMVhQUzNjcjd3UEZHU3JwZm56WXFzVVFaN2ZWRk5LYkVBWXRZZEJYZ0lSNkhwaS1fN3B5NzBpQTR3MjFyeWJPcllpeGtYNWxyR0hqRXhBUi1Td0ZoVjJaY1d5RENjMlRtZTZYOS1mQ0FT?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-13T08:11:00Z",
+   "first_seen": "2026-11-19T00:23:21Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "L'absence prolongée de Sinner, blessé depuis quatre mois, réduit la visibilité de la marque Nike et pourrait peser sur la demande liée à son image.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -6929,6 +6996,32 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "a2f2570aed9d",
+   "title": "US modifies Canada tariffs; carpets added, packaging removed",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWhZM1l6RjBfWjJVaUEwNVZxQ0x0QkJncnBTSmdab09zTm5UaXVuNkRwYTRuQjV6WVJ5VDQ3OTJsRmdkTG4xZWYwbE52N05VdXJJTmI3am5rbmU5b0I0TmpSQzlmME1VM3BNXzBQVEJQOGlrMUZDNURWdmJ0MERXajZtVDc4bkFUVUFBTU9KNk1ZMXY3WUpFaUFyLWo4UzVEc1NvZlZHM0hpUWg4ZmlYV3lKNUxaMGNteXVGZ3pwQWM1dkhLeWtHNHAwY1VOb3pLQi02VnhR?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-25T07:00:00Z",
+   "first_seen": "2026-11-19T00:23:21Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "cd44ae3f2b25",
@@ -19099,5 +19192,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-18T17:21:04Z"
+ "ai_updated": "2026-11-19T00:28:45Z"
 }
