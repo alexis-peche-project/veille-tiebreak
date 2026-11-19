@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:21:16Z",
+ "updated": "2026-11-19T20:37:33Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,170 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 387
+  "added_last_run": 11,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 379
  },
  "items": [
+  {
+   "id": "65286fcf5b32",
+   "title": "Next Gen ATP Finals: 19-year-old Italian ranked No. 500 handed wild card for 2026 edition",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSUpIa05OWklvMUJLVXNxM2lIWWxBQmNnQ3FENVNzelNtZUVWTHpzQjhtNlpxOTBYM3c5RElJRmtZUmtncHN5dC1BdG1lZ1I3d2JxYnZKTTNPaWFYa2RZaURwcUs0UGxkenpocTFWRlVIV3FOR0FCajhZeFlPcVFCY2o5dDhIV0FSODdfa2VMdTQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-19T20:28:01Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Qualification d'un jeune joueur non sponsorisé par Nike aux Next Gen Finals : effet indirect et faible sur les ventes Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "1b2eb60f9f27",
+   "title": "Blessure à la cuisse gauche, entraînement annulé et examens rassurants : Carlos Alcaraz, l'ombre d'un doute aux Finales ATP",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOFFmdnRCUEpiUlhITUJNSlRpQ1VlaDktMDhLYUczRHhzbVh0U05RUlk1VTJpbWYxTTkwc0xOcDh6bVhWbkI4VjllYjdYT1lZeGNaZVZNcUhXN05jYV90Mm05QVdaVHhSRWlnVmxOal9ZWHVSUGZJemdzMW9BSWFxRktvcXJVU3NQeFFRaXBrOEFoQzJjSFc0aUgwc3BhX0hIMG9QbWJGZlhTdXUtcklLbzFzdXpMVmFELUwyb0R5Rm8zWEZUQ0ZNZi1wRDY4dm5STnZzNTc0bFJHWVJXOVpnX2JfNUhqWTBDVkEzLWs4VHlucnFEc0JrWWMxby1pVFk?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-19T17:19:37Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure d'Alcaraz, athlète Nike, avant les Finales ATP : possible baisse de visibilité de la marque et de la demande en produits Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "64eae7671d0c",
+   "title": "Tennis de table. Le Pérignois Antoine Noirault va défier les meilleurs juniors aux championnats du monde jeunes",
+   "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQdlNqQVRiMlNHOGtxTy1zSUl5U0tPMWwzUzEtb0w1RzUwSWtucF9XMVFFdDNJV0daV1dtaHdoanRzWU9ybXRLdzdIbnBJUWRFZmo1WXBhUjEyY1lqNy0xQXUxSE84S1RDWVhaNVUyaTZHbkZ3YXZURGdVMEg0X0F1OXUzTlI1UTFOSDdqYXVWRTJ2VGR4bVNacjlBbF8tV0pxcjdaLVpVQ295dVdndnBhVVdEN1JMRTRkQnRtZFZldm5Ody1VV3JwSjNfa3FyWVRwQW5OY01mQnBPbnJIcWpMMlVBN1FkbjZ3TG9XbmI2SVBXOWwtYmFqeDNqdTNnRFpDaElLcVdjenJ2Tml4NGllb1REcThyZkstTlNzeVRBV2trRUE?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-19T14:58:40Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "193dd89eaffa",
+   "title": "Dopage: La substance de l'affaire Jannik Sinner vaut deux ans à une joueuse",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzNqdmYzRWxuWDlnNWo4QlNwelUtTFpOVHZIU1dYTVM1TURZRzl3dHFTQlQ1NzlIRFlJdkdBTmlzNl9idTF6MUlBZDN1SVBpUXhLbE12ZF8xUk45aXgyTW50QlVJTTd3dzRTcUR6TDRITXRJR0tpQTlmV1pWT3psc3lpdmlOdWRzN3NLYXpZR2JzWkNKTUxCRjlnRklNc1hqdVRrZTMwbkFpOTZ3SElhOHJLaGpoajh6dmfSAboBQVVfeXFMUGxnaTZLV1hhY3UwRHJLOGhEM2tkNUlWYXNUbzVjMllWS3lyNEhsWlBoUW1lbWFSR1JxODZQWUFhalk0MlB4UzFhaEp6TkxJYVVTTXY4ZXVlM3huNGZBWGMtNU1PaXF5VHk5MUx4T2loUmd3WF8xaHVna1FEWFp6eXEzbWVJNzRkNVZMaHhiOE1CT3Q0UzVnZndwZS1kV0dMcEJsZ2Rqd2dSRDY0TjNfcGJPaVpSdXRRbFpB?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-19T14:54:00Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Sanction de deux ans liée à la substance de l'affaire Sinner : renforce les débats sur l'antidopage, sujet sensible pour l'image de Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f5e484454348",
+   "title": "Carlos Alcaraz a passé une IRM à Turin et a annulé son entraînement ce jeudi, laissant planer le doute sur la suite de ses Finales ATP",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZkozamk2TExSV1ZoRzNHLWJiOXpSWDZ3eHNSVHYyOXNFcGtvQ043cVJBeHEtTlo2RVpYVE1ZOWE1T0pVM1FzaFU4Ymp0Tzg4UDBOQlBoNXlPVE8yTDN1dHJiZHhfRDBVeDBTaUdzTXl0SkJkTk1jMVhRR3lIS01hcnFFQmRVOW9jaXBnVVZweUlxTUdncW9MREZjNEZMY1NKUFV2dGMtWURXLVJIbWt0ckdVZzZ6Zno1aUU4VHg5OFNrV0t3cGVzUXVmcEFqLTZRY0pTLWZOUC0xVnRfUDBwdElEaktuWndiQjA2WHFBRER4WG4zano2UGdIeFoyYWZvWk1fTERtdG1WSENvOVk0?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-19T12:26:02Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "IRM et annulation d'entraînement d'Alcaraz avant les Finales : incertitude sur sa participation, donc sur la visibilité de Nike en fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "34fa9b07dc30",
+   "title": "ATP > La décision de Sinner fait jaser : \"C'est choquant\"",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXZQMjQ1eUZHYTRlTEFmcVRXNUgxbHhtQm1hSWg3RWhjTTJXbmR3WlpqanNkUm5YQWhPZnZxaXJ3dEk2bnZBODlQQ0RTOTNQcWU2SkNkS0lnTVFCZS02S1NxUUZqTVNzU1RWRzdhanRuQW9sS1dtUTNLaVVuWDQxMkFOV0E?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-19T11:12:00Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Décision de Sinner jugée choquante : possible débat d'image autour d'un athlète Nike, contenu et portée à vérifier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e0d1a8a76889",
+   "title": "« J’ai 30 ans et je suis toujours là… » : ce pongiste des Loups d’Angers décroche un nouveau podium international",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPcXh5TEhVaU9HRDNCMGZDUDJ6QXY2T0NQSGhJVXh0cVNhbk9iUzhWV1BRMDlkd01neTE3ZDk0M09qQkx2aFRRUkw2MDhmTWozaUllWklXb21tbDBNU3FfMEpXVFV6TV9ndGFsT2ZDMTBhNHhPaEE2VTQxd2VScnhuRlk3RVQ0anBOQWxmMGRMeFFZWkNUNF9Rb2ZhcnlDSnNFak9WeUZKNXJ0TjJWQnR6a2MzUU5aYkRJNWFXVG9oTTdkQ1ZJeDZLV0l1S0ZXazhObXFuc1FNamtGMXRhNy1RWG51VEdZaFBGdUV0ZlRydl9LR2NvUERYRDFvRXpDdTRTNGU0bGZNTTFmU005aFoyZEV3YXZ3aWhIMVRFTmlmcDZEc2Q5TldGa2p1d2ZjUXdBLTFB?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-19T11:06:36Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "52a8640b7bf8",
    "title": "Ferrer parle de la blessure d'Alcaraz et de son éventuelle absence à la Coupe Davis",
@@ -80,6 +239,28 @@
     "r": 2,
     "impact": "Un forfait possible d'Alcaraz en demi-finale réduirait la visibilité de la marque lors des Finales ATP, à surveiller avant les ventes de fin d'année.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "012037e343ac",
+   "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCdlFDWDc0WUIzT2FEWEJJMUhlTnVUVG9iRUxwbzk1NVZKaFNQaE5JYldrYjNUenJ0ZEV4OFdpcjd2Y2lYS08zZnRwS3ZFYmZCWkNBZnhaMzg4NHE3Nll6czdrYw?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-19T06:37:40Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le financement saoudien du golf illustre la capacité du PIF à attirer des athlètes, avec des risques d'impayés pour les partenaires.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -192,6 +373,30 @@
    "ai": {
     "r": 3,
     "impact": "Nike ne vise un retour à la croissance qu'en FY2029, ce qui peut peser sur ses commandes, ses allocations aux revendeurs et le calendrier des collections pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e4e4fa3a2ffc",
+   "title": "More Ships Through the Suez, Same Congestion Elsewhere",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbllkTEtSTm1lOEJlb0cwcFZTbEFoMHBIZ25iUzFXb3Rsam91dFRJSjNubHhHczNVdlRTVHNkdk1YVWEwbFV6ZjdZWFFISVVpclhocmtlUFhycDAxNzdkUlR1Q0JHLWRBLW5wMUdrdmFEMUhPcWd2ajFrdTZLQmdpaUtBRW1PSmxRcTZvVkpOcnZyTnQtdWJPNmZESTRQbkw5eHZQOWRZak1yeFJXRVlQUWxyOTJPcW1QUHdv?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-17T22:21:04Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour de navires par Suez mais congestion ailleurs : les délais de livraison Nike et les retards de collections peuvent persister.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -391,6 +596,28 @@
     "r": 2,
     "impact": "Recul de l'action Nike après remise en question du plan de croissance : signal de défiance pouvant peser sur la stratégie produit.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c7b07b965080",
+   "title": "Alcaraz blessé : Ferrer redoute une déchirure avant la Coupe Davis",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOb0oxV09ZWE9mVVd0Yy1MTXQ0di1iZDdJU0tWVTBPUmFZb1dpemlqV012VFFid0FNaUpFUE1YMm9mUW9sc090MGRrUlRDYThGLVkxeWVZQXpkUVdpZEY0X0FFUnk4RUNiVGR3R21yd0hCS0x1cVIzZjRIN1BsV0tVWDhOcEh5MHJGQ1FjdWpjSWI?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-17T18:32:02Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Crainte de déchirure d'Alcaraz avant la Coupe Davis, non confirmée : risque de baisse de visibilité pour les produits Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1274,6 +1501,28 @@
     "r": 2,
     "impact": "Sabalenka, athlète Nike, voit ses revenus mis en avant : un signal de visibilité pour la marque, sans effet direct sur les ventes de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f7a3865f3f7d",
+   "title": "Next Gen ATP Finals to leave Saudi Arabia, cutting contract short by two years - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdlh1dm0wX1YyWnVUX19jdlROczFqdl9LcDhZeEFXXzdoMFVMbERMOXZXcldqeTZ1RndWd2FvdnRLQ2tXRV82dEZnTlk2dUM2VjBNYVJya09pT1JQTExHa1Z1MnZDdTdROGwwWWhFblNiQTJ1S0pZdGxXaDVqcVF4cDBZbC1iRm1JOExzUUVraXNQYkJTZXFZTzRtdkRKbEda?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-15T08:00:00Z",
+   "first_seen": "2026-11-19T20:37:33Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Retrait des Next Gen ATP Finals d'Arabie saoudite avant terme : signal d'un recul possible du sport power saoudien dans le tennis.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -19372,5 +19621,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-19T10:25:31Z"
+ "ai_updated": "2026-11-19T20:41:49Z"
 }
