@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T00:23:21Z",
+ "updated": "2026-11-19T10:21:16Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,81 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 393
+  "added_last_run": 8,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 387
  },
  "items": [
+  {
+   "id": "52a8640b7bf8",
+   "title": "Ferrer parle de la blessure d'Alcaraz et de son éventuelle absence à la Coupe Davis",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVzhhN2xldjhmNzJUNHpoTFJyaHduaWMzMDd2dVg2bXNlRXRNbHU0R0d0MWJFdklyOFdVczFXMllmQ3BHcll4R2NxNWxpV3NERi1hX3l2dHVBWHRxeUNFalZ1SlFyUk90QlFScW5vV0NrQmctMV9GeS1jSEc4QkFvQUVBUnVNM2JMNURXXzEta1BYTU9uN0N3NTNLY0xsWGFaVmJJOW5CaWg5X2oxZ1dmcw?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-11-19T07:45:52Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une éventuelle absence d'Alcaraz en Coupe Davis réduirait la visibilité d'un athlète Nike en fin de saison.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "839fe5b1a87e",
+   "title": "Carlos Alcaraz reste serein malgré une alerte à un ischio-jambier lors des Finales ATP",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzNtbXZtZzdiWlJhWFdhcWdMLS1lbkVzb2tZUnJETnlqM01MN1pEVVV2b3VhRDA4T2ZIWjhDRTQ4X19YN0tCYU1IZXY3UTFfUFVJWXhYVzYwUVQ3VWRqTzVkNHkxWFRUZURIU2c3R3E4cGFFN040YzFhS0UzV25jWGhzbzFoeThvanlfbG1EQ29CUUZ0UlVITDZUckIzcWJSUzNfRHdlNTE1cGxaVTZpTmg0eG9EY3VMbmNCV3A1aEJOQVBUaExpNThXTEF5Slpu?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-19T07:15:28Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alerte aux ischio-jambiers d'Alcaraz aux Finales ATP : impact commercial immédiat probablement limité, mais disponibilité de la vedette Nike à surveiller.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "5a67ac0f8e37",
+   "title": "ATP Finals. Touché aux ischio-jambiers, Carlos Alcaraz pourrait déclarer forfait pour la demi-finale",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQR0lTUlY2UnZycDBuZEZXVXE4MW9ybDM2U2FHOUM2STRzLWhPcE9DU3dqaG1DRHhsMllWVXl6S2NWendPazQ0OXZTSGpLbFJodnJ2U3dGVzJxT2pySjB4UFVaS3V0bE9yUGdCRWZPcWJDTW9kaXlLaE1TcXdtM3pxQ0NXcnR3UGVraUQxXzg2bTlsZjdWR1Vqc2hBeDBQcmRnU0N6ZVV1NEZ6SmI4dUNLNGl2Wk50UjNxYUdDMHFPbXVZYlhxM2JIOGwyODdBNzVxNVpweGYtSWFjS2h3S3hoQ3JjZm5mZWxMb3ljVmZVb2drNS1sNTAxei1ySzhFeG5DcmRFM3pjSFZZZUdWaUw4UHo3NUstLVg1dUI4?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-19T07:07:15Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "forfait"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Un forfait possible d'Alcaraz en demi-finale réduirait la visibilité de la marque lors des Finales ATP, à surveiller avant les ventes de fin d'année.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "bd89a016bd4c",
    "title": "EXEC: Analysts Welcome Nike’s Innovation Push, Question Path Back to Growth",
@@ -592,6 +662,28 @@
    }
   },
   {
+   "id": "48929e09ecf7",
+   "title": "Novak Djokovic set for December return with $6 million Six Kings Slam prize at stake",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOUlWUmNLZkN5MEd3WFpfbkhsZzRSQUtDc0lTeFZJekdCSDFHOWtIclNpVzBtNkRMeG1MdlpSdTZMbWlLc1loT1FuUUR2bUNRcS1Qbi1GYXVYU1hYZDNjLWxFZWlVeXpxa2h2VmRCRlNuZ3VEU25hZXY5RnVZSlpfTUZXRlZmMHktc2pkUDNPMUd0VzhMS2VROVcxQzJQSTVEWmV2VWJfdVlTSGZfbngyM29IZnB2QmYxdmktZmM3bG1uZkNMZmJoY3c0ZGRkT01vMzRKb0xXalBXeS00RGpneFp6UQ?oc=5",
+   "source": "Tennis World USA",
+   "domain": "tennisworldusa.org",
+   "date": "2026-11-17T10:30:26Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Événement hors Nike, soutenu par l'Arabie saoudite ; aucun effet direct identifié sur les ventes de Tie Break à ce stade.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "13d01194825a",
    "title": "Nuno Borges - Moïse Kouame",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkotVUdQU29OdVFVeWtvYWs1Y2ZUQnB2ZEdWS0V1amVpbWZIT3FYWnk2Q1BXSFBKOTdMd2l4VUZMUzhfVWNXNmcwczY5Z2lXUUNseTBwRTBTck5HSWRKY2dxb1dvZjk0djVaUS1DUG9yaVRJN1J3YlRyWDk1UzNIb1RJN0N5QjN6V09hUk1ObFpkaV9LOEF1ZllKMndrbUItX3Vv?oc=5",
@@ -981,6 +1073,28 @@
    }
   },
   {
+   "id": "744e582f94c9",
+   "title": "Nike devra faire face à des interrogations concernant ses mesures de réduction des coûts lors de sa première r",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQbDVXQ1hjQk5WX1lzenFtWEZCdFZOU2dWcTJ2djFVb3F0VHFVM2YyOTY3X0pVLTlVemdJd05EVDI0N3N3VTI2SUYwSzl6THhyaGxuOVFOMjh6MUFIYVRFMXBPVWdIVkhocVptMTBTWjFHeGxCQUZXSUFsbko4SVZJdnppcGcwTFF4T2xGNGZGcjJYNmhaNGk2cUxoN08zVkp0WTMtZEFMVE5XM3ZMQWRrbFNaVnowaW9qUTVKaWJqb1ptNUo0a0U4LUFlTlVWeXpWMDFEU21ZR2NEczh2a3FyY0Fld2xHYUVMMzgyOEhDZi1FcUg3ajRtQmpqYThFRHIzRWN2TlRhMXZDU2hKbXhzaFA3dlhlMjY5bDF1VEJQU3J4dHMzT0E1VjlNQ0ZlMldROVdBcHRRR3M4a1JDR2tsall3TWFEZVFreXplSGpnTGdSTlo2ZWJkMUl30gHaAkFVX3lxTFBsNVdDWGNCTlZfWXN6cW1YRkJ0Vk5TZ1ZxMnZ2MVVvcXRUcVUzZjI5NjdfSlUtOVV6Z0l3TkRUMjQ3c3dVMjZJRjBLOXpMeHJobG45UU4yOHoxQUhhVEUxcE9VZ0hWSGhxWm0xMFNaMUd4bEJBRldJQWxuSjhJVkl2emlwZzBMUXhPbEY0ZkZyMlg2aFo0aTZxTGg3TzNWSnRZMy1kQUxUTlczdkxBZGtsU1pWejBpb2pRNUppYmpvWm01SjRrRTgtQWVOVVZ5elYwMURTbVlHY0RzOHZrcXJjQWV3bEdhRUwzODI4SENmLUVxSDdqNG1CamphOEVEcjNFY3ZOVGExdkNTaEpteHNoUDd2WGUyNjlsMXVUQlBTcnh0czNPQTVWOU1DRmUyV1E5V0FwdFFHczhrUkNHa2xqWXdNYURlUWt5emVIamdMZ1JOWjZlYmQxSXc?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-16T11:01:44Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Interrogations sur les réductions de coûts de Nike : risque de moindre soutien aux revendeurs et aux collections, à surveiller pour l'approvisionnement de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e0bd256712de",
    "title": "ATP Finals 2026 | Presque aussi fort que le \"Six Kings Slam\" : l'incroyable jackpot du Masters",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVURxVVdBV2E3SFowTHo5V0RnYklmWXAxQlU3VE5hOHpPX0FsUWR6UkZKSHFOVTBZWnRLSi1kQ2x0bWstc1NBZXlQeGRrVVZtQWRWUWV1TDBXdXJQak1QMTUtU1RnaGlIZ0FIZWVIMGdDYUYxdThZYnFabU1qWEdKam1IUlRUdXBBS0tBZUxnRVBmVDBjVlpIS1VraDJwLWVPSm9jU3Z0NHdDOFo5ZFk5eVgwbm1adk1MWUJLVWxqZ1hoM2o3Ty16MzNoT0hPcDdfM1dNZFYwX3VKMXQyeDJURzFkZjdMd1RNZEhnQUsxeXZ2aDQ?oc=5",
@@ -1363,6 +1477,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "6c83ed9bcd09",
+   "title": "The rise and fall of LIV Golf: How a $5 billion illusion met reality - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzVuUDQ4LVNHeXlwODRWSDFOZGhqMWZMX0E2WTBZT29RZ21NalFhQ3lqR0JRVWZGWnB1NDFLQ0JJT2hfbW9MOENidl96TXNpR2Y5WTJSRk5NVFE4LWxxeGgydFJKQ25SQ2JzZUNpRXdUQ0hZb3BzbmFWc0VPVzlrcmhOTUFRbUJMZGQtODhfeWV3NUY1UjNOQTA3S3I?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-14T08:00:00Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le déclin de LIV Golf illustre les limites des investissements sportifs saoudiens ; sans effet direct sur Tie Break, il éclaire le risque de sportswashing.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "175555458137",
@@ -5494,6 +5630,28 @@
    "axis_original": "E1"
   },
   {
+   "id": "c63e4aeda913",
+   "title": "Beaulieu-sous-la-Roche. Le club de tennis en assemblée",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWGNIUHNSRWVJTmxFYlhIRW0xNVJyVG1uVUV4aVFVbWxLOGNCUGVnbjRINlR6Z0pvakNMVUNEcUl5dC1mNnA2aFBHN1NzRk9ZcVl2NXNxbjJxOHBIN3h6QkFmQnlvMy1NUHpXVFU3a2dyLWdqZWVSYk4xWXZGZ1FSZGpKMDRvOWRXcDR1azE4eXBIZi1Qel9SU0VTOGVUdTFZOExoZlpuNjY1bHN5bmN1Uko0cU9yVUdIMGlWcTc1ak1VOXM2dFdsRVZFLVo0WDZKeEJwWktIUE9xRDduWkZHdnFNTWxzbGdqd2UtLTVZU2had3lpVnNR?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-10-29T07:00:00Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "b6c755684ad5",
    "title": "Nike renforce sa présence en Inde avec une nouvelle chaussure de running, à la recherche de nouveaux moteurs de croissance",
    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMlB0UFVubUxFWkxER25la1FJbnE4eHRlUGl4YmtaVExudy1FQkxDTHpfTHNDcVVFWVlMUVpHdExseTBWUm1GYjZzQjZXNmxCZWZoVzRFRXpaWVNuT0l0aUVfSXZJVWROenM3Q0xuV3RTYVp2aVEzMlQyVEg4M1Ixdm01X0x4aGdWdndWVWk0b1RDVmZhQ1J0ZDMwTk8wUmFxSzB6Smg0d2l4UGlfclNsWVZfSnRZTDlUdTlzUWN5RWw4NktNNmYwVVlVSU5oTk1jNV9kTGs0YlFOS1N6UWhQTi1lamF3WVN0OFFub2JGMlZydw?oc=5",
@@ -6718,6 +6876,28 @@
    "ai": {
     "r": 3,
     "impact": "Le retour de Sinner, athlète phare de Nike, au Six Kings Slam saoudien expose la marque au débat sur le sportswashing.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "02e60cb8808e",
+   "title": "Women’s ‘Six Kings Slam’ to debut with six tennis stars",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVVp3NHdackxHaDJYSzFmLTBJanp4TDh3bnVRc1pKZnRWUG1YZmhncHRoV1owWERkeUJnOGRkQUxEclJIWHJyRHNQRlJjYlItbXJ6T0VabHZUVGxxMHFGLXUyN0JWSWZsNmdVT3FFQ1hUNEpqQUFabThGR2NtWDh1MnVxM0pXWFh3c3daTQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-19T10:21:16Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le Six Kings Slam féminin débute avec six stars : élargissement des compétitions soutenues par l'Arabie saoudite, sans effet direct immédiat sur Tie Break.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -19192,5 +19372,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-19T00:28:45Z"
+ "ai_updated": "2026-11-19T10:25:31Z"
 }
