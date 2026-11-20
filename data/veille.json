@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:15:43Z",
+ "updated": "2026-11-20T12:53:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,99 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 10,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 385
+  "added_last_run": 16,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 388
  },
  "items": [
+  {
+   "id": "e66aac824e54",
+   "title": "Tennis: l'ATP veut \"attendre et voir\" pour ses tournois au Moyen-Orient",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1dXaGk1YWtUUTdEaWQzQmN1bW16LTVZbzhuVVBPQXZ3dVc0eGVaMm9xWldZTVdZcFp6dGRLX0RBVmpGVTQzekNGUGVoOU1hSWhVeW5xb0o3bWdpa2ZDYy1XNWd6VVRCZF8wVWRoOGx2WmZrR0tfVWtZRVJtaFNxMUtCNDB4eXMzSkRSSWR5ekRqWlB5MEpMekdRYVk3aUNFUHlYb0k4elBFdXAxVENZOXozQy1EWnZCcDI0bGRn?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-20T12:36:33Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une ATP attentiste sur les tournois au Moyen-Orient laisse le calendrier incertain, ce qui peut peser sur la demande et les événements tennis liés à la région.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "18d3ac549d60",
+   "title": "What Happened to Fashion’s Living Wage Commitments?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeG13cUs5YXpfNlA5MEpCYS0yb3dHcVRieXFibzJ4QWV4MkZuVDVCR0hqUHR1TjI4RmRJUnlmaEJ4YjEzN01ubEQzOUQzNFZiMmJaSElZUlNnNjNLdnRmY0FlWGkxZlo1aTRjUENtS0o5cUNDMDBDUEVYZldxbUlzb2xYMThrMTRZQWFQbnN0ejRIaTVqSWZfVjl1U3RwMmt1VmpPUjAzOA?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-20T05:30:00Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le recul possible des engagements sur les salaires décents des marques de mode fragilise les argumentaires RSE que Tie Break pourrait reprendre face à Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e53d25947a95",
+   "title": "Jannik Sinner congratulates Mirra Andreeva on WTA Finals triumph",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUm43bFZWMmZlcmpoMHZwd1RKWXNkeVJxVjIzRGEyajVyRjBMTHBHTlA2cDczb090Tmo4LWd6am9aRVRwNXhQNmFSNm1pLXc3MFlQOThFQ3BYaFNUMXVIRjFRMTZlZ3lvTUQzVVE0ekFVTDdOQ21SYXQ5dHJVUlF2WHkxblAxUE5nR1h3SWhFRV9wSlBZd1BXa2RmMHg4OERCaUlibWpnWU1VTDZqQ0U0Z3owWkg3dmt5WkVWSnNGQWVJYnFqbmtCSA?oc=5",
+   "source": "Tennis World USA",
+   "domain": "tennisworldusa.org",
+   "date": "2026-11-20T03:45:13Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La victoire d'Andreeva aux WTA Finals, saluée par Sinner, renforce la visibilité du circuit féminin ; l'effet direct sur les ventes Nike reste indirect.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e34f68696b4a",
+   "title": "Bangladesh Garment Worker Crackdown Draws International Criticism",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaEhzVE8yRmZVU1YteHoxZk1sdXkzSFhKRzZTTXlKY3V0WHZjbFhwLXRpcC1URDZOYXV5QjRHN08yZ0lhU2wyMkdja19BbEx6QktmMG93WUN1MGZuN3VhVHBSOGJxcFhMQ2tJd1FJRWd2NnFyNFJjdlRoTU5UTk5QdUpfZ0tZbDM1RURHV05iNUZuY3EweEJlVmdoTzBhbTRfVGY4VVpkcHNLR2pKcUxTa205NzA?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-20T01:49:41Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La répression des ouvriers textiles au Bangladesh expose les fournisseurs d'habillement à des critiques et à des risques de retards ou de réputation pour les marques.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "65286fcf5b32",
    "title": "Next Gen ATP Finals: 19-year-old Italian ranked No. 500 handed wild card for 2026 edition",
@@ -37,6 +125,28 @@
    "axis_original": "E3"
   },
   {
+   "id": "bad3fb71e9e9",
+   "title": "ATP Finals : Carlos Alcaraz devrait continuer mais risque gros",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdEZKWkE5cFFueFhoTHRGOXdQbmJuaGtUYkNlT1pESkV6c0lBVXoxejRfbDh3MkEzT1YzN285VmhvY2FfaVRMMUtPeHJEQVo3Uk52dXE2WGFmQXdsZkJtMHpvQzZNTUlMVmJXNlFseG5CNDFoU2t1QkJHYnl5X2QxNlBEQ0NNQ1ZXSDhVRkN2cGRIblp5NHhYRTJqN3BvQQ?oc=5",
+   "source": "RTBF",
+   "domain": "rtbf.be",
+   "date": "2026-11-19T19:59:09Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un risque sérieux pour Alcaraz, athlète Nike, pourrait réduire sa visibilité en fin de saison et affecter l'image de la marque auprès des clients de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "1b2eb60f9f27",
    "title": "Blessure à la cuisse gauche, entraînement annulé et examens rassurants : Carlos Alcaraz, l'ombre d'un doute aux Finales ATP",
    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNOFFmdnRCUEpiUlhITUJNSlRpQ1VlaDktMDhLYUczRHhzbVh0U05RUlk1VTJpbWYxTTkwc0xOcDh6bVhWbkI4VjllYjdYT1lZeGNaZVZNcUhXN05jYV90Mm05QVdaVHhSRWlnVmxOal9ZWHVSUGZJemdzMW9BSWFxRktvcXJVU3NQeFFRaXBrOEFoQzJjSFc0aUgwc3BhX0hIMG9QbWJGZlhTdXUtcklLbzFzdXpMVmFELUwyb0R5Rm8zWEZUQ0ZNZi1wRDY4dm5STnZzNTc0bFJHWVJXOVpnX2JfNUhqWTBDVkEzLWs4VHlucnFEc0JrWWMxby1pVFk?oc=5",
@@ -57,6 +167,28 @@
     "r": 2,
     "impact": "Blessure d'Alcaraz, athlète Nike, avant les Finales ATP : possible baisse de visibilité de la marque et de la demande en produits Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cf53d0af0e97",
+   "title": "Op-Ed: International Buyers Must Commit to Living Wages for Bangladeshi Garment Workers",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFhtMGlYV0dpa0M5bENWZFcyNDMwZExpVVdiTE9fd3c0TmpieU1SaXNzVTBFU0R5Q3FvRThGSjVxN082ajlKNDRWaW93Rk45eVJTY3hTOExKTXNyTGVLWjJkSkQ2OWlZUVRrM2xXQmZvZGo4bERvbTk2MnBMUFgwMHUwWkhiYWFIcVhtWWpIMVlJMTBKb1p6VnZaNV8xd0JBRjlReTM1VzhMd21fZ1Jxdnp5eU5pcXJWZDhMcUVsaTJteUk?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-19T15:43:19Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Un appel des acheteurs internationaux à des salaires vivables au Bangladesh pourrait renforcer les exigences de traçabilité imposées aux distributeurs comme Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -192,6 +324,28 @@
    "ai": {
     "r": 0,
     "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "de4c030d0835",
+   "title": "L'Equipe de France de tennis féminine se prépare au Portel",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONU4xbk11RThYZGluWGlXRFhidXhFMTgxUUJNU0MyeGFjREptMXZISE0xZmxUS044RGRRektNdk9Idkt0dlA2REgzWHkxaEdmV3o4RDZiUDJwaklWT01SQk80M2VCblpITVkzQXNHNWFLN0pqVDlmZ2MxOVpIVVFfSEI3SDNxcU55WkpyUFFUanpiR0tIUEJPUkJyNGdVMnJlX1Z4azdGWTR5bFdiT3RuMm5kY1NlNEczaGczc2tldTNuZTZnUzdDeXFwUTFlcElBeUtyMzRHZHJOSEVKb2w5YVkzekNwYWNoRXotWg?oc=5",
+   "source": "BFM",
+   "domain": "bfmtv.com",
+   "date": "2026-11-19T09:12:18Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Préparation de l'équipe de France féminine au Portel : contexte du tennis français, sans lien direct identifié avec les ventes Nike de Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -403,6 +557,53 @@
    }
   },
   {
+   "id": "425d15f44977",
+   "title": "L’équipe d’Allemagne de football passe d’Adidas à Nike et dévoile un nouveau maillot ultra-flashy",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQkdHTDdOenR6S3JrdlIxR3lzU2E0cUtJQjFCa3Nwak9mT29LaFY5VElmWVRwenNhU1pFaHFaUkZ5bTRGbnh4SWxYekNIYWdBRFRva2tVb1BnSEdPMmY3VC1OOW1WWlZJNmFjaFNfUnMzYnI2YUJ0VnY4b1dkMFFFUUF6OWpRcEFyZDY5NjE3dU40WWVsUnFGQ1JnQjQ1bHRsUlJHcFdKTk5IdVYzemdPSFlIbXpsdVllWjlnTGNqQVNocEdieDRmanhXMnI3SFJiY0tvbDVKZG5udUFGMExOajNVNUtSaXVscGs0bzRTOTBkTGlJWTlBRVdzdlREeEZxUkctM0ZYaXhwOGVvd2RqOV9SVUtHT3IzVjI0?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-18T14:30:51Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le passage de la Mannschaft d'Adidas à Nike illustre la dynamique commerciale de Nike, sans effet direct identifié sur le tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a9ecb2349e46",
+   "title": "Dopage : Après Sinner, une jeune Américaine suspendue après un contrôle positif au clostebol",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3dpd1VrTkxTbUtlRjZrMG4zVFY0aGlWSldZUmg5TzRjWE5yREozSGo5bExvcnM3MmVHNWNYTlpWRnV4QXpzZERwWk1BR3poUVppWUNOcFRIYlhmczU3cVRfRU1tZ1hmTnFiV19NTW9rME1kX28wUzZ2STdHbWtmX3RlRm1qbWd6enV5UWh2ZWJEUQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-18T11:48:11Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "suspendu",
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une nouvelle suspension pour contrôle positif au clostebol renforce l'attention sur la lutte antidopage dans le tennis, susceptible d'affecter l'image du sport.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a8327583b654",
    "title": "Nike, Inc. : Barclays n'est plus positif",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmxDNnhoUElTbkM0VFJiQjFZNjhweGZQeFQ0WXBsNlZfaTdBT3AzNWJ6NW5MNFFnN25fU21SRF9aaDZaU3VNQ1VQc2tiRXpVVndkMVZ0OFUwNmVuVi1qeHNnU0pCQUVKUWR2dnpKME85a0R4aW5YQmhvMXFMWTVrUkFSRHZweDZMT1k5amFaRVJZR2Q3Z1BZU3h5VnQ?oc=5",
@@ -447,6 +648,29 @@
    }
   },
   {
+   "id": "a0ad503f9ef7",
+   "title": "Next Gen ATP Finals : un Italien de 19 ans, 500e mondial, invité pour l'édition 2026",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmIwcWJMaHFNZEdYM3BmZy1XSFcwMGNNUzJLZ3pqQUtUY2JNZ3FYWDFZTHhMaWlpVVNHQzF4Zm52cVFrQ0JGVWgtTDVza3JKbE9WZXAwNmM2bzA4SkswYWhjR2E0bmFEVnhoSjlhZGJ6Q3lMNlQ0MEIweG91Q2hUdXI1b01DcVpxV1Q4?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-18T08:33:24Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "L'invitation d'un jeune joueur italien aux Next Gen ATP Finals relève de la vie du circuit, sans lien direct avec Nike ou Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "e11ff89464da",
    "title": "Nike, Inc. : Bernstein maintient sa recommandation à l'achat",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWtjQXpBSnkxbFZoSmVwOXBGTmpuRHBpUnNCRWZHYzBsRG9hb3Q0d2kyaDg3QlJ5Tk5iTVJFam13X1FYWlY4WjlHNTM4bk9XSE5EOXlzbUtmU1JnTkZmNDlHY09oTTM1WjNacVUxNUxPUTlmeHFFMzREVk9NSEJ0allfMGlUdDlhU2Z2LWEzLU1lSjVUampqLTVoNkxtaWx3ZGh2Q2hpRDV6ejJOQ0Y3UjR6Rzg3a1E?oc=5",
@@ -465,6 +689,28 @@
     "r": 1,
     "impact": "Recommandation d'achat d'un analyste sur le titre Nike, sans effet direct sur les approvisionnements ou les ventes de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9e2711eff406",
+   "title": "L'ATP prépare une révolution pour 2028 : Acapulco supprimé, Rotterdam déplacé, plusieurs tournois changent de surface",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazZFRGg1dzhjSWc4WDhFdEZtdDk1SU5pT2JaRFRyMzBnUUxXcWZkc1JsR1BQQlNNVGJKOWV5TWdzalY2dzVqUV92NFpUcmhNRi0tODlGLXdWOWlpNGxMdV9wQzJ2Vnk4a3ZKNzl3UHJMSHpDUnJSZVkyaHR4LUF1V1lTaWdEUm9yWUg5LQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-18T05:21:04Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Suppression d'Acapulco, déplacement de Rotterdam et changements de surface prévus pour 2028 modifient le calendrier et la demande en matériel de tennis.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -2699,6 +2945,28 @@
    }
   },
   {
+   "id": "5cf62b72f104",
+   "title": "Behind Bangladesh’s Garment Boom, Workers Go Hungry as Wages Fall Short",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZUZETVdGRFNWc0w3WlhuaGxVRDFxc2Rpd1JzcmQ0VDhQMGxwdUVtUnkwNGNWemZpMkY2VEJMdFh2VkxaQk4yUGxFdGdMbWN5U2p3OW8zMS1VQ1ZUeC12VWtCYmUyRWJLNWFMTGdqVERzUUhSUXRjcFpUTk5BdW9UbDJEMk1EVTlIMlVBNkllb2hWY2hhLVFKcFdrQ2JsYmhsa1YteERiTGdSV1lUS1pHeTgyOERqVlowMnMwZGg5ZGNiUQ?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-11T08:00:00Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Des salaires insuffisants dans l'industrie textile bangladaise soulèvent des questions de conformité sociale pour les chaînes d'approvisionnement des marques.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "3373e71f3e78",
    "title": "Le coach de tennis padel vendéen invité à New York lors des matchs du Grand Chelem",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZzBPOFRKS0Y1WU1FaTlhMmJYRVRGOUs0UG9TelM4TWRRUWliTmhfa29Qdi02MDJOTjg2OGRSd20taUJJQkxTUmxvSnN4c2dNLUJCNHpRQzd2SFdBdmFSMUczdHdTbV80QVZZb3dZdjU3RHJQWFlQR3dvOEpZeHkyME1ZbjRXYnlsdGNxN3dlWkRtT2VWVzNhbUtWTnZfUmtaN29LUVlHeFRqUFdUdDVORDVLLUp0ZjhHYzJTLWZNN3dYOXNGRmRLTnJPa2ZURzBadHNMb1k2dmJTalhxYVd1MlVVdEdLRlZHc2dUdnRtUWVwVkVBczFDYjZtQXpYY29vclhsZFlqTUxiX0k?oc=5",
@@ -3113,6 +3381,29 @@
    }
   },
   {
+   "id": "48d2d465231d",
+   "title": "US' Nike redefines basketball footwear with three performance builds",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRzV5MVludjhNa2Q4UmtGa09pVElQdXFsWDVubGhSck9DUmsxVWNmdkU3SXFGYmZPSVM5RjNqN19OZVpDakpOTFJGNDZxaFNHblBuWkNveXlhVTFoMUhZZFZ6VlAweUF0c0dpbWRiNnJhMXVMQXg3Ynp4V2Q3V3l2TWppdm9OaXlMZmd5UDFseFg3YS1CWC15NDdCQkVQQ3R5RlF4aFg2dmY5RWFqYXRaNmlGUnlKZ1RleU54eC1SZVprUFZHTXFnM3lnLWh5aHhZUnpDVg?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-10T04:32:58Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike renouvelle sa gamme de chaussures de basket, ce qui indique sa stratégie produit, sans lien direct avec le tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
    "id": "91d65414bded",
    "title": "NIKE, Inc. annonce des changements au sein de sa direction, prenant effet le 9 novembre 2026",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbkMzMG1zT2RBTEpLYWxhM3dHZWRMaFJ3ME1aMWwybElrRnpzYnB4YUNjNlU2YnduNWJYbVRKWXgtMWRDSld2R1duUjFTbmRHM214bzNFQWpPWk1ZVVRnU3AxaEtiVFc4NVFlRmlSU2Y0VTNIOHNiTEpVTG1TRzV6RUhHbEpKNzVySm5hTXF4dnhNVE1KU1RKT25IOUszdC1JTGQ1c2FSQXdZWkU1Q1Z2TmJrcS1rUTRfTlpiUUEwZTF5MmdyMDJrYnZYa1pvc0dBd1MycDFHM0tXdUMybVZsaW03Ymo?oc=5",
@@ -3334,6 +3625,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "9e3010647aa6",
+   "title": "Tomokazu Harimoto remporte le Champions de Francfort et prend la place de n°2 mondial à Félix Lebrun",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOV1lKcURTZ1JWTzV1V05Xc2NBSUlia0xZZUZ4aEhORW1tdHJGaFY3LWlRUHZmRmdmTElZM0RCMFo4X0M5c0dTTEVudFFQdmFZTnl4TzNtc0JPRHVXbmR5ZEdEaWw5am1LWTFoY2huTHRXQ1F0aGRpby0yVGR2YUtTZ3BxRTBqQ2F2RTI2V05nWWE5Ni1Xbi1kbklROGNKdHNlM1U3UzdtNEl6YUpfdENyWmtVQ3AwYXVaa2pMcXJ3aHRmTXliRV9jRWwwSFdYb29TUnBxMVQyaU91RWZlb0pyX1o2bEVseEpxbTNtRFptOA?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-08T08:00:00Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "9b4cea8868df",
@@ -4938,6 +5252,28 @@
     "r": 3,
     "impact": "Reprise annoncée de tous les services porte-conteneurs Asie-Europe via Suez : potentiel d'amélioration des délais d'approvisionnement, à confirmer.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ad6c36f213fd",
+   "title": "Functional Fabric Fair Fall 2026 sets attendance record in Portland",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN0ZHdWdtbi1KMVFJUFpUN2cwbG13ZXIyVFlaUFJ5ZTMxc1RobGViRXBFTXNGa29iT1N0VE5iMG5nR2YyZi1mRkhzcTBlMmdJUzdOTC1IbTlxWDV6ejJBTmMwTmxueVhjQ25wUi1fUHc5akYyaVdiY0k5YURkWVByRjViSzBnT25vbjFDenkxRHd3Ym5ucDRpZWZGNEphR1hQX1E0VzZSN0xub0xob2xsbElldG5TMS1YMEhIOVFuU0xQSHlwOVQzNHdGUmp0SjdXS29aVnFESEZsSDEw?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-03T08:00:00Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6851,6 +7187,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "2a249a743956",
+   "title": "US brand Nike launches Georgia x Outkast football-inspired apparel",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZm5VT0xSemM2UTA5N3p3VWlIVnE5WHBINS0zMlZWS251LWhtNXFJNU1sTHVMVmxYeDlRd19QYmdJMzlYWmQtSENCMTdrYVhJS1M5NGJTQnJtdDV2am9TNWFfY3RKU1p1aE9kN3E5LWNFMVN3QlpZWkUwNkJBSDNWRFNMTmJUbGQyM2tOZzVkRmdWNDZ1aGJGUUdfYmxhb1J4UnFTdVgwYzlPTi05VENCbndSMldlaWdSVUpybk1HdHhFaV9UajMwOS1PWTJDV2NydUF2MXJxODJidDRkd0ZXVmxlT3cxQQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-20T12:53:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike lance une collection lifestyle inspirée du football, illustrant sa stratégie de collections, sans lien direct avec le tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "f9c5e9975fb2",
@@ -19846,5 +20205,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-20T03:20:50Z"
+ "ai_updated": "2026-11-20T12:58:44Z"
 }
