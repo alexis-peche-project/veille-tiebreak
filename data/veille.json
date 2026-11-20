@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:37:33Z",
+ "updated": "2026-11-20T03:15:43Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 11,
+  "added_last_run": 10,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 379
+  "rejected_last_run": 385
  },
  "items": [
   {
@@ -57,6 +57,30 @@
     "r": 2,
     "impact": "Blessure d'Alcaraz, athlète Nike, avant les Finales ATP : possible baisse de visibilité de la marque et de la demande en produits Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8251d5b5909d",
+   "title": "Saudi Arabia says Houthi attack hit wealth fund PIF tower in Riyadh",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcnJpVEVtcm54VjNDYUMwVllhUVJnRElXT1pPLXZ3UllTVzlYV0dPWkJjLWx3X055c0Z6MXNNc0h2OXdkdFh0RVE3Yk96NkZHWHloY0xzS1VzVkJLbkdsamtUWEpOQ1EwWTRjQ3VENXlFVG5DVGVnVTZ0cUpWUEhhR2FlU1Y4cTE0Q0hINzc4WllJVWQ4ZElXSjM1VjlvTGdqTnYtYzlCYlM4emozU2JvaTl4M0pGZDlkQXRiYVA0NA?oc=5",
+   "source": "The National",
+   "domain": "thenationalnews.com",
+   "date": "2026-11-19T15:21:04Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "houthi"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Attaque revendiquée contre une tour du PIF à Riyadh : risque géopolitique pouvant peser sur le financement du tennis saoudien et sur les événements qu'il soutient.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -265,6 +289,28 @@
    }
   },
   {
+   "id": "5a0d0526cd65",
+   "title": "Golf: LIV paid players millions as UK businesses owed thousands",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCdlFDWDc0WUIzT2FEWEJJMUhlTnVUVG9iRUxwbzk1NVZKaFNQaE5JYldrYjNUenJ0ZEV4OFdpcjd2Y2lYS08zZnRwS3ZFYmZCWkNBZnhaMzg4NHE3Nll6czdrYw?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-19T06:37:40Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article sur le golf LIV, hors tennis. Contexte lointain sur le financement saoudien du sport, sans effet direct identifiable pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "bd89a016bd4c",
    "title": "EXEC: Analysts Welcome Nike’s Innovation Push, Question Path Back to Growth",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaTRoUjVWT0V6Ti1sek5xVFRPeVB0cFpSTzJpMmd1UEtSYXdIMTFEV0pRUG1WbHBtYVpJSS1ybWhmNldRQ1l2N1k2Z3ZSODNtdHM1UDZEX1FreGp4aEVXQU9QalNLczRpMEFmVVNzbTQ5cVdaVjB1enExVUtwZm9LNWNkMFlCa1N2TVVxejdQQmpDXy05OGVrZGdtSQ?oc=5",
@@ -282,6 +328,52 @@
    "ai": {
     "r": 2,
     "impact": "Les analystes saluent l'innovation de Nike mais doutent d'un retour rapide à la croissance, ce qui peut influencer ses priorités de distribution.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "383e8c46f66a",
+   "title": "Le nouveau plan stratégique « Full Stride Ahead » de Nike peine à convaincre des investisseurs qui sanctionnent de nouveau le titre",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNejc2cm5GWnRlcmFnRjg5UnNBWE15aFdpQW9MRHdNUGdBR1V5TmFKdkVCVVBCUU1wUFl6NllXRVhpRnlUUFMyOUdUQmlLYl83NFZETTlEcGpnY25ELVNRbjZsbGhpLXUxQzBTbUJ0WWdPdm5OZHZnZ1VRQjM0UFdKeEFMTnRXYXFPcHdwbXhNOENZX0NLYTFxd3dvTjRCYmlWTFYxRXpELXhwWHdOeEtVeVRmMm5ubHFEeUctdjgyaHQ2bGttRjY3VlZLcURLNXVBSjFJZzE4TTZmWlkwRmxvbE5SYjBfMXZpSUlPSUpsbHVscUdQNk9XYW54cVRXWjRqSUN6RGFuRVgtOC1vcHF5Z0tndTJZRzNvbFdMOGtlZnZNU21PcE9r?oc=5",
+   "source": "Investir Les Echos",
+   "domain": "investir.lesechos.fr",
+   "date": "2026-11-18T16:59:51Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "sanction"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Plan stratégique Nike mal accueilli et titre de nouveau sanctionné : signal d'incertitude sur la stratégie de distribution et les collections dont dépend Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "61af5b9070f7",
+   "title": "Nike, Inc. : DZ Bank toujours vendeur",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNelhFWkRMQlFuOHVKeU4tekNuSFJ0N19FR0J1MWFSTnFsX1AxQkpPNXN5Vmdnb1kwVU5qTVZwVWNJUUNJQWxmb1VLZS03aGs1elZZQm1pb1pzRUItMms2bjNKajJQc3BFODVZekNzOHNHTHVhaXBxdXFhZzU1ZnRtbjBCdzZGa2VUS2JLcVBuWDZfNks5SHRkSA?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-18T16:51:33Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Opinion vendeur d'un analyste sur le titre Nike, sans effet direct sur les approvisionnements ou les ventes de Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -311,6 +403,28 @@
    }
   },
   {
+   "id": "a8327583b654",
+   "title": "Nike, Inc. : Barclays n'est plus positif",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmxDNnhoUElTbkM0VFJiQjFZNjhweGZQeFQ0WXBsNlZfaTdBT3AzNWJ6NW5MNFFnN25fU21SRF9aaDZaU3VNQ1VQc2tiRXpVVndkMVZ0OFUwNmVuVi1qeHNnU0pCQUVKUWR2dnpKME85a0R4aW5YQmhvMXFMWTVrUkFSRHZweDZMT1k5amFaRVJZR2Q3Z1BZU3h5VnQ?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-18T11:04:19Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Changement de recommandation d'un analyste sur le titre Nike, sans effet direct sur les approvisionnements ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "a869c15b6d13",
    "title": "Norris, Bale, Sabalenka… Saxo réunit huit stars du sport pour un challenge d’investissement",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFFxZ1RKVHhpTzdpekNWWGN1YzZfOVB0cEFtSDdpZVd1U1JuZlZEUl9WenNUdHNxUTdxUFpVUVM2Q2Z3cjVZZlNjeDZaRnQ2UTdkN211amdaejVwUGYyRUNwbDJ6ZHpjWjI0Mlk0SWZteGkzeUctWlBaMC1jSk82SGZvc0xVLTNwTmNlZ292VWJLTlJPMWVWOFJldjh6b3JDMGN0bXlHV2ZmeWhzRjVGaUozOWJiMXhGUFhpUFVsbWZWZ25ONUwxS3F2ODR5QjUwY1J6dU5xeHVZM3Y2?oc=5",
@@ -328,6 +442,28 @@
    "ai": {
     "r": 1,
     "impact": "Campagne d'investissement mettant en avant Sabalenka, sans lien direct avec les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e11ff89464da",
+   "title": "Nike, Inc. : Bernstein maintient sa recommandation à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWtjQXpBSnkxbFZoSmVwOXBGTmpuRHBpUnNCRWZHYzBsRG9hb3Q0d2kyaDg3QlJ5Tk5iTVJFam13X1FYWlY4WjlHNTM4bk9XSE5EOXlzbUtmU1JnTkZmNDlHY09oTTM1WjNacVUxNUxPUTlmeHFFMzREVk9NSEJ0allfMGlUdDlhU2Z2LWEzLU1lSjVUampqLTVoNkxtaWx3ZGh2Q2hpRDV6ejJOQ0Y3UjR6Rzg3a1E?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-18T08:21:58Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Recommandation d'achat d'un analyste sur le titre Nike, sans effet direct sur les approvisionnements ou les ventes de Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -956,6 +1092,28 @@
    }
   },
   {
+   "id": "0e9dd2562ee9",
+   "title": "Electric barge launched for Nike cargo route in Vietnam",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UNnBjVVlLdFhrQmVURk53cmZZSEp5c3FXT3F1OXRkVFZQbFFTUVlVTU5RaUNvbTAxalE2M1ZfX3hCOUNINERwTnI4SHotenZqSGZ6NEY2aVp6VGNEZjBsR0RVNjI0R1dxWWpPVw?oc=5",
+   "source": "Just Style",
+   "domain": "just-style.com",
+   "date": "2026-11-17T09:16:59Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Barge électrique sur une route fret Nike au Vietnam : contexte logistique lointain, effet indirect possible sur les délais de livraison des collections.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f8a926434429",
    "title": "TJX among companies using tariff refunds for executive bonuses",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeFB2aHh3Rm5wcG9FV29xRi1mVVRmdXd0MEpoYnN6Ym45VWZibjg1M0F3dmxsekVHai1PUjF3VWc3R09kLU9hd2VIdkQ1UWgtZENZVzlxc3B5b0ZodmNJR25SbG54MHhLSTlQWVNpQWNXcW9PTVNwb21fMGdPcE5iUjR6RWNsRS1aUGtJQlotdEZtZUxMVGpuWTd5QnYtUEdITndwS1l1UVZWemNfdF9EdUJqaHU4QQ?oc=5",
@@ -1318,6 +1476,50 @@
     "r": 3,
     "impact": "Interrogations sur les réductions de coûts de Nike : risque de moindre soutien aux revendeurs et aux collections, à surveiller pour l'approvisionnement de Tie Break.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b6f1db52c85e",
+   "title": "Tennis. Critiqué sur son statut de n° 1 mondial, Alexander Zverev se défend en comparant Jannik Sinner… à un robot",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZkVxYWthaERLWGcxUl83bnZoRF9mMGduWUVpbE5wZGFiXzNIMmZkUjNxTUVSZGExZG1yU0l0RFc4U09JWFppMmM1WkhQeFhVQUI0aDNhUEtkWndhY3ZOLXNmdy1DNlhxTHBBSmdKUWtRbDBWbXlQZ2hQbXJiZWptd25PNUtDMFZuUXJtNmg1a0p1UDV2b0x2aEYzb0JvTERfcFZXbTlOTnZuYzF0NnRLeFYxdE85ZkFiSFhmemRTRzFQU3huN0RqallCUzdla3JINjNNNkhUdnFvZ1J3SUFpSkllV0JaWVZJdzkwdm9iVmY3d09HWXZzejdvN1ZfODdZSktlaURsWkVaeDdYdGdUTC1JVnhtWmh6clVyd3pWYWlhTWlTN3ZrX2pOZmZWQQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-16T10:13:45Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Polémique sur le statut de numéro un entre Zverev et Sinner, joueur Nike : visibilité médiatique de l'athlète, sans effet direct mesurable sur les ventes.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2acd5ab15b27",
+   "title": "Derrière le boom du padel, quelques trous dans la raquette pour les exploitants",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGJyNVFnYnhlazZ6YWFESU13cXRvYWtpY1I4cXdER0gzWWRUMHhXa25LM2xhdWw0RVl2aHlubmc5RE1GUlRZaUFsRTJrek9oNnNVTWdJY2ZJOWJlZWFFOXdXUDFsRUtCLWVHMzVISDhOcm1GVlFrd3NNZ2xSTWpXaGhJUXZkbmxUekwybmZfSTc3Qk4zUWJTaWNoN21qWUFwMmRVTkFNblJvaDUy?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-16T04:40:00Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le boom du padel fragilise certains exploitants : possible détournement de pratiquants et de budgets du tennis, à surveiller pour la clientèle club de Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6623,6 +6825,29 @@
     "r": 3,
     "impact": "Sinner cite son corps comme adversaire ; signal de risque physique pour l'athlète phare de Nike, susceptible d'affecter l'attention médiatique et les ventes liées à la marque.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "0953f972ac43",
+   "title": "ATP - Vienne: Carlos Alcaraz bousculé mais victorieux pour son entrée en lice",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmt0VENIaXFwM0NXME5TZGFjTGJfcFNESzUtQnpna3RtSE01M1FubTd2bVNDYmdWRzc1X0xWR0s3Vkxmcnc0S2JhbmNVU28zWVF1ZXF2Vml6bjY2dEUyT044ZldMR09yYjNrTjIzQWlqUVlxLTkxOTJzVzU3aTZ0UGRDMFVmc0RVWUdsdXlXd3ZzQlV6eWc3Q3dlWHJ1eFFsSDBUdlRVMzJ2LW9FVlc4Y3REOGVyUzhPcmfSAboBQVVfeXFMTVFCXzhZNFhxZXB0alpUTE9tYlB3ZzJubjJnQldTRVVkS1A3V1MtQVdqc1ZJU3dzOUVyRFZyUGxOMDRneVJmR0R6SXJPd01pREhaeEIyTjNmQ2V2ZzFzOThIcHNjN29fV252ZzNfZldwREZMQW9TQ1lSMU9od2MxMGp4eW54S3hLbFhvQ3BpalRGYzVGa01lVWpIU3d4TEltaXlwXzBmMEx6NVg0NHNHc0NRQkhUOE13VDJ3?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-20T03:15:43Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Victoire d'Alcaraz, athlète Nike, au premier tour de Vienne après une entrée difficile : performance sans effet commercial direct démontré pour Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
@@ -19621,5 +19846,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-19T20:41:49Z"
+ "ai_updated": "2026-11-20T03:20:50Z"
 }
