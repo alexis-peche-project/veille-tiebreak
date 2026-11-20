@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T12:53:48Z",
+ "updated": "2026-11-20T21:48:45Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 16,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 388
+  "added_last_run": 6,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 383
  },
  "items": [
+  {
+   "id": "33fc78075912",
+   "title": "« Nous avons testé mon corps » : Alcaraz donne des nouvelles de sa blessure aux ATP Finals",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPanc0QzF2RnUwZXFBZ0ZtZjJfdUpFTXhYU3ZFZmhxN2RRWjNPZC01RXpvcXRiamNoWGYtcXdsUTBCcUFBS2pOcmVpcUdQWFZUcE40TnpsU0s2WUNkOUdIUUZLU1lpQVRCX1pKLVphSS1LbnpMZU5VOEE3VHNIYzNkLUFvbkh4ZlBuTENGalZVVV9fLVNRUUpVenV1NFpCcnNQSkJzWXB2T3ZzNHBFUUkySEV2UWdZSFNoTkdobXhOeEo1QkFsVm5OVUJadTg?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-20T15:49:33Z",
+   "first_seen": "2026-11-20T21:48:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Une blessure d'Alcaraz en fin de saison peut réduire la visibilité de Nike et peser sur la demande pour les modèles associés à l'athlète.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "facf25d736a4",
+   "title": "Tennis: l’ATP reste dans l’expectative pour ses tournois au Moyen-Orient",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb2dDYndoUHdHNm4wMjZKVnZpY2c3UndvTUcxT3FBWGVoUkpOY0pxN19nZmFDWnQzUlRUbmJiMGtUSEhBTFNmd3liQTBPaHdDa2haeVVLWjFDMGhUd051djFNMmM2SDVjcWJ4MTlqNEVDaVpZOGlHZEtzRVBFUm91d2NOaTNBNjMzdDdGNXFsRzNKMDltd2tqa1NGVjgwNzZBUlRKNVJubGZBQTU4VmtjV1duaTVhRFpjd1E?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-11-20T13:40:33Z",
+   "first_seen": "2026-11-20T21:48:45Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "L'incertitude sur les tournois au Moyen-Orient peut modifier le calendrier et les temps forts commerciaux liés au tennis de haut niveau.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "e66aac824e54",
    "title": "Tennis: l'ATP veut \"attendre et voir\" pour ses tournois au Moyen-Orient",
@@ -258,6 +304,30 @@
    "ai": {
     "r": 2,
     "impact": "Sanction de deux ans liée à la substance de l'affaire Sinner : renforce les débats sur l'antidopage, sujet sensible pour l'image de Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "03968d8aa521",
+   "title": "Dopage: La substance de l'affaire Sinner vaut deux ans à une joueuse",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUI1R19LTDAzY2ZYQWM3OUFrX195Rl8ta1BGTTE0MzdXb0FpQTlJT01xaGtFNmZuLVgzLTZzRThvUS0yN2l6LTF6Z241QnZ2cjgxd1NCTXpLNVVQM1dWcHItT002X0FYSTZnUHhia29RelU4MlM4NXc3c3ItMjlQQ0NWNF9oRjRwNVdIMlNqMGZ0MWRJcFBjcnl1eFFSbUdsNFhwUWJqV1lVTURpczNueNIBsAFBVV95cUxOeEZZVVNOcDVsYngzZXIweGF3OGs3RWd6N29uU3ZWMF9KTVA3SnE2UXdsS1RlZTJfdU4zT0tMNGU4NEZvVXBKbWRCQnR6X3I3Rkx5cHF6UDJ0V2RjeTlHQWZHSk00UGxSSFB3YnhSM2hXbEpnWDVScGxDb2pyTkh2S1o5ZHJlcTFUZVNKTGpZSk50aTBfSHZVRW1sNElhUFZjTGt4YkFsbmhoT1p0Y3VEeg?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-19T14:54:00Z",
+   "first_seen": "2026-11-20T21:48:45Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une sanction pour dopage liée à la substance de l'affaire Sinner peut relancer le débat sur les contrôles et l'image du circuit, avec effet indirect sur la communication.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -738,6 +808,29 @@
    "axis_original": "E1"
   },
   {
+   "id": "06d11a1f9052",
+   "title": "Nike vise à concevoir localement la moitié de ses articles de sport vendus en Chine",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObExmbDZzRk5uN2FKVV9QWk5RZDVSYzFLaUV4OGM5OVQ2TzdqTHJxOFJkazYxS3p2dXJSYmhDc3RFbFYySE5JN0tocVBGU0tQcGVKQV9YaUZBbFN0bjczU2ZZZXMzd0Z0a3JVNURtSnJjV0JJNHJ1T2RiZmxYRm1vSi1EcDJ3MF9seUV3RDVvay1FQm50MG9hNlN4UXFTUjRhQUtJZmVBaHdfem9YYUNmRTlqVkVORXg2SDVxamlKLUJtME5oZHdwN1lmMURBZE92NDIxaTlNNTd1ODFI?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-18T03:04:24Z",
+   "first_seen": "2026-11-20T21:48:45Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Si Nike généralise la production locale, les délais et l'origine des collections distribuées en Europe, dont Tie Break, pourraient évoluer. Objectif encore à confirmer.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
    "id": "ea007e3a288b",
    "title": "EXEC: Nike Inc. Not Eyeing Return to Growth Until FY 2029 as Sportswear Recovery Lags",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMTZET0FUSUJ6R21xUHVsS2h3YVhQQU1LUUNyX05ITWhmM09XdTJ1S3laVl9FV1FSaGFfdFdzcnUxajE2eE1CSzZSUWZWcUhnN3h5VnlGRDI1WWxwdG1EWWtJbWVzR25GNlhCM2dJWEpVbGlnNG5DaU1tdGhRODdNUHNwb1hUQkhvblh0bGpVQ0lMSFhUOUd4SVpoaXFWT1Bf?oc=5",
@@ -956,6 +1049,28 @@
     "r": 3,
     "impact": "Objectif de croissance des ventes à 2029 annoncé, mais action en baisse : signal de doute sur la trajectoire de Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "756b9926079a",
+   "title": "Alcaraz inquiète aux ATP Finals : l’IRM qui peut tout changer",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnFzRzJuWElFZG5ubGpZdlh1dXIwUjJIa1dvbG9jenhaUGNZMHFKQllKOVBGNnQzYTYybFBWZDVOaUFEQnZmTGF5NUNVb3h2ZHpMU1pBR1c0R1hPWmFONnJrTDJLUzRFeHloRjk1MHdSekJ1cXhwdGJOSmZHeEx6R3ZneTFJcUIwWVRKVWVuX205UQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-17T19:42:54Z",
+   "first_seen": "2026-11-20T21:48:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Une IRM pouvant modifier la situation d'Alcaraz aux ATP Finals ferait peser un risque direct sur la visibilité des produits Nike qu'il porte.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -7210,6 +7325,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "18a1dba9d4a6",
+   "title": "Carlos Alcaraz : son calendrier de fin de saison 2026 avec Vienne, Paris et Turin",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZnlHRUctR1dHQW10VmhHa3BVajY5TENnekZMdlE4LXBHU2lfNjdrQ2NXVmdKWmdGUThHZGhSUmdrbXRiVDMwdFkyQ2hyeC1GQXZfaVhpV1NTbDJJaWdmcGU4R2dRSkRPdUpmLWtVc2RsSkFzTG5NeVlTUXVNNk9iYXFnT2FyTnVRZE9oRkNkbTJJb2xORDNVRW9uOEdwZFQzNS1CZnJkUHpIS2pjSEROaGl1MklSeTdCT0E?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-20T21:48:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le calendrier de fin de saison d'Alcaraz détermine les moments de forte exposition médiatique, utiles pour caler les opérations commerciales de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "f9c5e9975fb2",
@@ -20205,5 +20343,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-20T12:58:44Z"
+ "ai_updated": "2026-11-20T21:53:14Z"
 }
