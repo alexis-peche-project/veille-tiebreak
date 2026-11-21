@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:48:45Z",
+ "updated": "2026-11-21T03:13:28Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
+  "added_last_run": 8,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 383
+  "rejected_last_run": 388
  },
  "items": [
+  {
+   "id": "72407e0d6957",
+   "title": "L'ATP adopte une position « attentiste » sur la situation géopolitique au Moyen-Orient selon son président Andrea Gaudenzi",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV004M0JQMnh0NGZlZGJ1dEVIdHM2bFFQcFBRSXAtVXRhRWVFNWNrUW5qeURNYmF4aTJkR01HQllrWTNDMXJlanMzMzZEM0J3bUNiSk1SQXI0ZEVVakoydV9MQXlaX2VGRmlUMmxVMkVqS2cyLVc5dE5nMWN5NS1CYUdqb2xZUUNqX3hFeDczZkxQZDFaSm1rek91Y1liZVUyeWljV2dWaDU4ZWtnUGs4Z3ZjUGFzYXg5VzVYV1lIZkdQWVZ4XzVNRG10R1RlS0dLTUlocDY2TmxDbFI3NjYwdndRUXZUM01PR3pyRG9BUktqOVV1d2VXNEY4TQ?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-20T23:16:50Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Position attentiste de l'ATP sur le Moyen-Orient : indice d'incertitude sur le calendrier des tournois du Golfe, sans effet direct établi sur Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "84616cfb86a0",
+   "title": "Alcaraz reste mystérieux sur sa blessure : « Je ne vais pas vous dire ce que j'ai »",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMEx5MFM1NmpyT251c3MyVGRSSW5zWVA4Z29pUnZwZGZMUlJzcldORC1BYzNXV1prZTdHOEkzSWtVTThzM3BoZnVrV3dJbW1QbzNwaVNTRnRTckVNeDZsaFlBWmVLZmVLTTdVT1Nod0tyeWJYN1NOUmlNQlJHOHgtVE5pdkQtcE9rYVZUWA?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-20T17:15:02Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure d'Alcaraz non détaillée : son absence ou son retour peut modifier la visibilité de Nike et la demande en produits liés au joueur.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "33fc78075912",
    "title": "« Nous avons testé mon corps » : Alcaraz donne des nouvelles de sa blessure aux ATP Finals",
@@ -36,6 +82,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "dc23d9d0dc07",
+   "title": "Tennis. La n°1 française Diane Parry se sépare d’un de ses entraîneurs",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY1I5aHoxSm42UE42Ql9UbDhhOWc4NnZVelVRUURrYXVsZ0drcWx5blZQUVpja05vNUtkeUFSTTgwcW1sSDlxbXNCVGtSRDBqTEprN2ZmRnBUbjZmRUpXWFd2c2pWUDhkT0ctZjJSbVFiNC1kU0htWFVFeWNtWnluSWdfX1UzZ1JxVW5XOEJWTm5ocFdSbHFEVEtfUzZzNE5SUHlwMXU0elBRaEhidVZBdGhaTFZOTzdOdWZPNmxqc3JSai1hMXA2My04VzAwMDFRb1l2a0c1Y21fYTNUemp6RVU3WDVjek1vSkVjbzN3?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-20T15:19:39Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Changement d'entraîneur d'une joueuse française : contexte du haut niveau tricolore, sans lien établi avec Nike ni avec les ventes du magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "facf25d736a4",
@@ -82,6 +151,54 @@
    }
   },
   {
+   "id": "4aa02f1025df",
+   "title": "Tennis. « C’est un peu la difficulté en France… » : Ivan Ljubicic juge son travail à la tête du haut niveau tricolore",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNWmozSmMyVDg3Q2h2aDBFVDFmU1ZmT21TTUxFS3pBUWprNmVtQVZOZkdwTHpSTlc2Zl9oN3NaUU1QWGxzcUQ2d1VsSnp3aG11RG5RcUtiLTZpVno1bXEwT1YzQkdLTk9Yai10OHROQWl2a3BzbDlpRlRfcTlPTngzZmZxWVVCdy01R3pIWjEtWUhtbjFKdFZsQ0NJNlhoSGlpdjVCMEtUX1k3Q01GUXdGcERNakJkMzN5aXZ5S2xtTjJMMzlXNE1IV1FnWXBNMHl5YUR5RHFqUk9Vd2NaNmxaTGlfZDFjejNESU94ZmxBRlJNelVobnJZYUJUMm5Gck42TkN5ZlhJQktlZEJwd2hpSkU4a1A?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-20T11:21:11Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Bilan critique sur le haut niveau français : contexte du marché tennis en France, sans effet direct identifié pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cdaa562970fb",
+   "title": "Middle East latest: Saudi Arabia confirms strike on PIF tower and condemns Houthi attacks",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPam9XS0tmcEhaa3NBUzd2bUJ5ME1FWktqN2hhaVFzd2k0MlVDaExwX0EyUW84Ylg2QkNFZ2FMTC1RbkZ2VGtUNV9xQzhMQ1lhcklId3JXbGQ1dTBHNDg3Qm0wT1RBWEZYRGFIUjZ0YVZlcHI3NUcyZV9yNFdaam9qX1FHZUtIbnFpRU5EU2dxMnRXZ2lRNlpfYTFJWQ?oc=5",
+   "source": "thenationalnews.com",
+   "domain": "thenationalnews.com",
+   "date": "2026-11-20T10:11:32Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "houthi",
+    "strike"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Attaques houthies et incident signalé en Arabie saoudite : risque accru sur le fret en mer Rouge et les délais d'approvisionnement Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "18d3ac549d60",
    "title": "What Happened to Fashion’s Living Wage Commitments?",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeG13cUs5YXpfNlA5MEpCYS0yb3dHcVRieXFibzJ4QWV4MkZuVDVCR0hqUHR1TjI4RmRJUnlmaEJ4YjEzN01ubEQzOUQzNFZiMmJaSElZUlNnNjNLdnRmY0FlWGkxZlo1aTRjUENtS0o5cUNDMDBDUEVYZldxbUlzb2xYMThrMTRZQWFQbnN0ejRIaTVqSWZfVjl1U3RwMmt1VmpPUjAzOA?oc=5",
@@ -100,6 +217,28 @@
     "r": 2,
     "impact": "Le recul possible des engagements sur les salaires décents des marques de mode fragilise les argumentaires RSE que Tie Break pourrait reprendre face à Nike.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4b820f8f6d12",
+   "title": "Grentheville. Premier marché de Noël organisé par le club de tennis de table : c’est ce week-end",
+   "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdk9XSFBtMy1wSmpubF8yZXpnRW5Oem5hSi1ZWmpzYkl6Q3BiUS14M3ppZlFwblQzRDZBREk3cURkT3RiVlZNZHBpYkZabzFVcEYta0lENXVMOWlZa3IxSFVkNDZZTVNVdnczMTdiY2dMOE5QTXFFZUl5eDQ0WGJWRVJDMXRBWmh3cFo5cm5WZlZzXzRJeU1HVnNBOUtrTXhxd3JZOTVZbVlubzlDOTEzMDdFSUVHQVdOR2xsYkdSVVgxckhXbzRacDAtVk5TTl9nQnNOczM5ZTVPbl84VzlMdUQwbXJwb3lpY0FkSVVMM3hhTWZodjUzQkh6ZF9yaW4wNVpMdFhSd3pQWGFnOGhnRXRuT0Y?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-20T05:10:27Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -7350,6 +7489,28 @@
    "axis_original": "E3"
   },
   {
+   "id": "90d33d14cddd",
+   "title": "Prêt européen de 3 milliards d'euros à Airbus : les États-Unis menacent l'UE et dénoncent une \"subvention dist",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZWVSZ0toc2NLbGtGelZvN19oUFAwU2JaTnJPSWRScWE3RkZjdHZ4cTBWY0ZpdWVLUkY5bnFzSFRVUk1rZTVQVHQ4QlRPSEFhNU1LSUtRd3JVNEdrUURJeGZkYm1VZVp1b3pub1pvelZENnhMZW9ObUJqZmd1U0Q5UW1wb204TVVIRkdhQXpwN19LMXNGYmxFYUFzcmVTeUstLVdKaFZzQjUtYzUyM0pFU2x0eFFBTzYzNV81cWxTbG1FVTFGVElicWNBeTh4S2VURUo1d09qcmV0ejJMaThTVU1va2J6UFl3WTRKcE5qcnlHeVZMTXcyVW9FUU5FR01hRC1LVzBYekEyeEU4SG16U2plelQ3bTJfN3Fr0gGgAkFVX3lxTFBoTXlSN0hwZFhDMlVYNXhVamd0ckRpVW1iZFNob2FpTXZYSkJnRFdSY1h5bG9ZMU1xTzM5YW9pUHdKQjRXbjhnX3V3MC10OEZkWnZXQ0JKZHlBTkJQRkJMT0ZZem1XbXBVa2hVRW5oN3Q3ak5EeFV3bnlzX0FISVFyMGVwZWlhR053U01Cd1lsd1prSkVpM0dZajBrLXdWUDhRcGJ0VFB2V2N6dXZFWlRaYWRTNFQ5MGlzQW9RRnVpY0JoS0RrR2ZCM2hBeXNrelBYT09HVUpnc0pDVEZGOGZoMm5hcjVSZjZ3aGxhdXlaZFB5UTVJbFR2MkprZmxmVURENFFURy1WNFdCeGkxQ19ZdzM4cEJOSGhjSVJobGtqRA?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Menace américaine contre le prêt européen à Airbus : escalade commerciale UE-États-Unis pouvant peser sur les droits de douane des produits Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "f9c5e9975fb2",
    "title": "ASICS on Nike's heels in US market comeback",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEZrZTcxRVR0RVpKVVotblZhNWtVc2N6X01TU1FadXh4NGFnY2hQZS1yLXhuVnlLQ3ljc1hPMVNOdWpITmp6UjRGTndjUGZEY3FYbi0xUDNHbzNZbzBJem9DUWRlbGo0NGE3d2lmcXl6TEtHQ3RIMENCa0llOVRmZE5lcDc0TWJ1OXp1WmxB?oc=5",
@@ -7869,6 +8030,28 @@
    "ai": {
     "r": 2,
     "impact": "Le Six Kings Slam féminin débute avec six stars : élargissement des compétitions soutenues par l'Arabie saoudite, sans effet direct immédiat sur Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b32e4716dc65",
+   "title": "Sinner to play rescheduled Saudi Six Kings in December",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0tnbjFwdF9wZlN1Zk5sV2RoalluNm9fNXJ0amxfNkpGbDNZYmpMZWNZc3FqeHFaaXU1VUJ1LV95ZEJXSjVvSGRCNERRV2xVV2UxdWM4YkJfdURiLS1janJBWHJjMFBSVTNfNVY1YlZVRENMT2s1bzdja010TmRpU01QWkNCRzY2ZWlPcGZwOWlhV3Z0OHJBaENvdXcwdFdDUWxZ?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-21T03:13:28Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner jouera un tournoi saoudien reprogrammé en décembre : exposition de l'image Nike au sportswashing et au calendrier de fin d'année.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -20343,5 +20526,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-20T21:53:14Z"
+ "ai_updated": "2026-11-21T03:17:30Z"
 }
