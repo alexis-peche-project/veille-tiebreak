@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:13:28Z",
+ "updated": "2026-11-21T12:39:24Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,82 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 8,
+  "added_last_run": 5,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 388
+  "rejected_last_run": 383
  },
  "items": [
+  {
+   "id": "9e7ec209310d",
+   "title": "ATP > Darren Cahill sur la blessure de Sinner, son ancien protégé : \"Ça a été frustrant, ça ne fait aucun doute. Un problème mineur en apparence qui traîne depuis si longtemps\"",
+   "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPeGtaWUtkMXYycDkzTk9vS0IxVXJSclI3TGtGX0pzVVdwR3VCTEZMWktYbERYdHUxd0RsWFNDdkVBR0RiZGFkdmQ2OThSajdTXzl5Tk5QZFV5ZG1XMEEybE5CQmJuUzFBTlNtVDBlVE5rdUlwVGpKaW84dmJWdHdiVkNiSlp2bXIzWTJkbGRpdGcxUlRpMGpueFRRY1YzaXNqMGt3VElNVDBSajczcW9OanM5X2dZeDJodm9jZlhNT0w3Z0liWE5MTFVtcEVENXZYdXVuaS1yMGpqYlNlbTF2OGtPelRBUWMzSWdVUjlMN2JGTXcxLXltU05EQkp3T1dlRWhIMVl5NG5PT1Y4eGlMUjE0SmY5ZFBTYk9iTjFuQmk?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-21T09:23:37Z",
+   "first_seen": "2026-11-21T12:39:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "La blessure prolongée de Sinner, joueur Nike, peut réduire la visibilité médiatique de la marque et freiner la demande en produits associés au joueur.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "211131909041",
+   "title": "ATP > Mats Wilander très inquiet pour Sinner : \"Revenir après une blessure aussi longue et retrouver immédiatement sa domination, c’est impossible. Ça pourrait prendre environ un an\"",
+   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVkdKdldLM3ZQbVRNSVJSZEJkQW43ajR0dTBiemhhbldhcVZHUkNEU1VmRW1IelQ2bVNOaGU4blcxRGgxOXhRd09lUlZKMmpWYnQ1U2xyYXQwcS1CZUtiUE1Ud0tMcVlkdFNXd3BWQ3d4Yk1ld0FOWjVGb2drT05Ic0dSblg5QzZraTl2TzFVRnNfZFFNVnB2YTBZSF9vTkMwZE9BVEdGTVYxUGJwc2wyYkhacFVISXFCc2NxQkhvaDMtNWhhclFad3gxS3YwYlZyTU1BRzhvWFlhVDFuY3FiRmw1UGFFY0RKV1VFMVFMeW5nbG5QUVBxU0U3WWhzSG5sbVNWODFNSzVGUm15NEp6ODVzV3hrVHJIbW1lcndjSE1aSG8zb09VYQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-21T07:52:00Z",
+   "first_seen": "2026-11-21T12:39:24Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Selon Wilander, un retour complet de Sinner pourrait prendre environ un an, ce qui prolongerait l'effet d'absence sur l'image et les ventes liées au joueur.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "81c5bc3caeca",
+   "title": "Digne d’une vente à perte Nike brade ses célèbres Air Jordan 1 avec une remise de 30 %",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQk50QXNkU3N4OURTZDV2TktWV3dkNUk1cXlGLURjZTVpNUpLUzNUczRacTRYOTI2S0hHTUxxMmQtblhETEJHb3ZlUVdtVlVOT0RmSFBFZU84bU9hQ1FuRmhsOXpLUVdUOHRIQkt6aVQxWDA0X2JoS1J5S21od2tzV1Z1VnA0N0xCOTdZR1F5VHczcG9MOWVBVHZiZ19Sbl9JMHlxZjEzOVpvSExsQTZsSVNWbGdtRzVUQTV2YUc2LUcyRHRFdmxF?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-21T06:47:00Z",
+   "first_seen": "2026-11-21T12:39:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Une remise de 30 % sur un modèle phare pourrait signaler un surstock Nike et une pression sur les prix, à surveiller pour les conditions d'achat de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
   {
    "id": "72407e0d6957",
    "title": "L'ATP adopte une position « attentiste » sur la situation géopolitique au Moyen-Orient selon son président Andrea Gaudenzi",
@@ -124,6 +195,28 @@
    "ai": {
     "r": 2,
     "impact": "L'incertitude sur les tournois au Moyen-Orient peut modifier le calendrier et les temps forts commerciaux liés au tennis de haut niveau.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f5858ac27293",
+   "title": "Tennis. « Attendre et voir » : l’ATP observe de près la situation au Moyen-Orient",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNzFlTUl4NDdDcTJtTzZTd3FTWFdCdEVfdUxKWnpERG9OcnZjbW4wazRhTzN1WEFqaVV2ZXplYW9ISWdpb0hfMXhtd2pMX3RfcG1wcTBkejI0VEFBTF9kbEFhWUkzSS1ZZGFlZUNyRnJVQi0zajhESlJDYzJENmIyZHp1WW5vV0UzOElWLVVUdnFiY0xLNHJmV2ktWFFZZ3hPZFNXTVdiU0drMmczZF95TzR3ZDMwOC12Y2p4d3MtX3lCTWg2dUJCb24tT1F0dm5KM3Q3UFk3ZzFHWnFjX213U0dEd1RlMWJTNl9B?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-20T13:04:51Z",
+   "first_seen": "2026-11-21T12:39:24Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "L'attitude d'attente de l'ATP face à la situation au Moyen-Orient pourrait affecter le calendrier ou la localisation de tournois, donc la visibilité du tennis.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -2000,6 +2093,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "f3ce6c6de3a8",
+   "title": "C’est la toute première basket Nike Air Force 1 LEGO, et elle fait déjà un carton ce lundi",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTGttRnZqTnpxdEVqTXhUc1FqMUVBNzNUZmhxRnhENXd1MVZKa0U1S3U1eE1xRVRmTXhxaHBGXzg0b2ZQSXVnWlQ0cDRMVHNZTWMzc18tTTduUUJORnpqSG9ZVjRraEMxN1BfTmhReF9aaUlGYUs3Qmg3RE1QMENqcEdjNHVqU0hOX3RzM2xzbzJFb3VrWG93dmc1Nm9qTHBTTFZzTG52cDc1NXlrQmZIY3lxOWcyQTJXSUVlQk4zWkRzbjFZU2xxTVVWTWJYblRJeDVRRGlUVS02Y0hiR18tbjB3WFNxcTRfRTVtelFLeU94Y3pKczdOZFF2Zw?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-16T06:20:06Z",
+   "first_seen": "2026-11-21T12:39:24Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike travail forcé",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Ce succès d'une collaboration lifestyle concerne la gamme basket, non le tennis ; il indique seulement la capacité de Nike à créer des pics de demande grand public.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "2acd5ab15b27",
@@ -20526,5 +20642,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-21T03:17:30Z"
+ "ai_updated": "2026-11-21T12:43:58Z"
 }
