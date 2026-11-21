@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T12:39:24Z",
+ "updated": "2026-11-21T20:31:39Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,148 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 383
+  "added_last_run": 11,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 372
  },
  "items": [
+  {
+   "id": "5b8b8b20fca5",
+   "title": "« Je ne peux pas courir sur toutes les balles » : Alcaraz fait une révélation sur sa blessure",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeG4wUW93OHoyekhNWjZRNUdYTzJxV1hQZ2dJU1F5aFBmWnVKaHVGTHpEb1VtTmRRQ0ZabGpCZHJoV1pQNnV6WGlzOVZlUThEcENzM0JCOWxuSFFTZDZqMV9rWDB1VTJmZkxQaF9hZFB1NUpUQnN2amR1djk4NG9taDZyYjlUdGtsbm0tanAtWVdZNHBXTlJIOUwzSkZJbVcxUDM4cUpUd2R1WC1FUHhMZ3NiVGdGSUpmMXFPV1RRcnl2emtQbEhaRjRJSVFpODNnTWRWMlphenBpQQ?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-21T17:26:43Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure d'Alcaraz, athlète Nike, qui peut limiter sa présence médiatique et la demande pour les modèles signés en magasin à court terme.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "bb442a26c88e",
+   "title": "« Je n’ai pas réussi à jouer mon meilleur tennis » : l’Australie survole le premier simple contre la France à la Billie Jean King Cup",
+   "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOTmw5UTNzRG9IUXdHRHE3VjZqNGpiNU9IZ3VPLURQU05semtsNjRzZ180SnllLW9seENOeHVPQjNxdjlSYWhhM3NDekkwcTJIVXh5R2tEQ0hObUE3TWl3cGt3U0xiaU9jNXVoY0RnemFDcml6VnlWZTdraV9jeGhfc0M5VUZoNXE4LW55MG9oRld5b1lqUS1lZlllbG5BWDhZaHk2dmhIRDdVMUxjSUVWeFE4cm9nSFJ0Sm9CTkN0ZGRubGdSQmZ2Ym9ZUUgzSFI4bXFkNTcxT2xVSUFXSldiQU5fUmsxQzBQVEptc3NzUEhmNF9FbUZic3hQZENPZUJhdWt2d1dJaWNOc2FnUkR0MU9BcmhQUjhuVFBCdHAyX3d0YUxHTjZ0NTZCcUM2UGYw?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-11-21T16:04:54Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Résultat de la Billie Jean King Cup sans lien direct avec Nike ; intérêt limité pour Tie Break, hormis l'attention portée au tennis français.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "e778ea14a623",
+   "title": "ATP - Calendrier: Gaudenzi : «Les Masters 1000 sur 12 jours ? On peut en discuter»",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXJSZ3VPMTd6WE5QTGo2Z3VIYXlYTTg5VWdadU40RTNGQ0NqV2NjdGtXbHpfS2NKdk9DaVpKQmlTMnJ4SVBSTTNXbXR6SmVkTjYwVG8wWGNndUhDX0g3V0J1a0tNX1RGV28tVWNJLW1MNGtNTkpYdlRzb3hvTmhNc1VtWVFSWkFPZkVBSzdDalFiNGNyWThZdXphSG5RVHZnaGsxZ21QM2tjb0dRaUU4WEZLelpKQVZz0gG4AUFVX3lxTE16ZDRWeXVMV0VKQlBDaC1TaVZIa1hLYV9kSWltT2xWY29NLUl3VnlBSkNJTmxVaW1TTEJZbm9Kd1UtbjE5RG52dExHNkg5Z3QzaUpJVFoyZk91VHlCX0RaVVl5SFZoRUNUVVZuM1NSTV9IeUNLWDJlaTBTM2VnZF9TWExoRm9xMjhqTVZGbU1WbzVZSE1NZlR4Q0Y4NnZfdkFtZWpLVjNCNVpLaU1VbUxZa2x5YnMxVmQ?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-21T14:50:00Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Réflexion sur des Masters 1000 étalés sur 12 jours, non confirmée ; pourrait modifier le rythme de la saison et les temps forts commerciaux.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "45373508706a",
+   "title": "Barrage de Billie Jean King Cup : dominée en puissance, Clara Burel s'incline dans le premier simple face à l'Australie",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbTh1emRaMzVXQm5KT0ZITjdQRy10VVNTLXB3UG02VldFOWNBd0E3UFlzeHhhaVV0cnhwVERwdjdhUXlOZmZhM1IxbUxRSS1VNk5XOE9oMWlVS2M2aS1XX0gyaC1fUDBaZG16aE9vVWhlT2tMTm1BWnM5ZGRMVExITGdqa1NmUXpCLXpfLXZNQ2didXlLbm8telAweHVDZ0RHMHV3WUlzZDF5c1poNFFvckV1V2xzb1Q3dld5al9FWHBnekVrTG9CTzZiTmp3RE1UZXFfZGVYa19DUUpJOHFVTkVTdG1BMkRxOU5XMW4taWF3NzJoZFgtTg?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-21T14:33:01Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Défaite de Clara Burel en simple, sans lien direct avec Nike ; signal limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "8a356645173d",
+   "title": "BJK Cup. Clara Burel écrasée par Talia Gibson : mauvais départ de la France contre l’Australie",
+   "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTTB2MGx3Tmx2NXlld3ZZNVJMbE13NHlvZHp1UHJQR0RUbXI5WnVzal9HU3ExcFZmZjBPWVFkVVpfM3hXTmVlZ2U0bmNacVh1V3hJc0JIUUdJLUxDS2x1aWRkSm1RS2dLZGpNQ3ZmSGNkTm5WVHZyTXBCZnF3WmtrUjlWOHRNbmZ1akJlSGpuMXdudHlRYXYzbE00MDdIOVFvMWdvOUFwSFYxOUtyakY5V0tZbHRyOVJ5QVZGUU1FcUlvUkhJTDI1TzBKZjQ3V0xBczRfYnUya2tBQVhOWjlDNDZaYjhQSnhHLXE2ODkzUEotT3Fyb0xQMEY1c3AtUjN4Zl8tOFptdw?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-21T14:06:28Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Défaite de Clara Burel face à Talia Gibson, sans lien direct avec Nike ; signal limité pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "4dfcdd09185f",
+   "title": "L'Union Européenne et le continent africain fêtent leurs 25 années de relations commerciales",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQzM0NEFxZHctTXdOdEZVU1FielRQcmp3ZjE4WFZCVGFEQkxZVjNaOGtCMU8xbUt6NXR3azhrelFiNFQyeGo2blV2TDdNYjAtd0ttOFl3LTFBc0c4N3NfRUNkQVJ2Zlg2THJ1NW5ETDlERkdMNkxsSndKTVhRVGFwZGRVQ1Y3NFRmTGxhMVpyZk5ObDZpZ1NYbTBYV0x3MGhRZmRyZFVnN0tGbW55dlJ6bkhFU1d2NExwNUdnUUhvaEtFbGQ4VXlrSXZjMGNrdU4zX2FqakExUjdsVjFLRlB3?oc=5",
+   "source": "RFI",
+   "domain": "rfi.fr",
+   "date": "2026-11-21T13:03:37Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Anniversaire des relations commerciales UE-Afrique, sans lien direct avec les droits de douane ou les produits Nike ; contexte lointain pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "9e7ec209310d",
    "title": "ATP > Darren Cahill sur la blessure de Sinner, son ancien protégé : \"Ça a été frustrant, ça ne fait aucun doute. Un problème mineur en apparence qui traîne depuis si longtemps\"",
@@ -4894,6 +5031,30 @@
    }
   },
   {
+   "id": "c86c2bd70deb",
+   "title": "Evergreen’s Suez return leaves Zim increasingly isolated",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdF85RXROWUg0THdYa0Rhb3BtVmMxSWVxcFpmdHBGcnF3VXVBZmxJbDZVYWJZVXNvLWFWWm5OeEJzeEpRWE9UUmZYTkViR2pmNFFfSVFFS3ZDYVZCWFQwQVA0YWg1RG52M3h3RDF2czR6cnhQZTRTMGx4cmZSN21oRTZob0c?oc=5",
+   "source": "Splash247",
+   "domain": "splash247.com",
+   "date": "2026-11-05T08:00:00Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour d'Evergreen à Suez, qui pourrait réduire les délais de transit Asie-Europe et atténuer les retards de livraison des collections Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "bdfb4f34a487",
    "title": "Tennis de table. Nationale 1 masculine : Lautaro Sato, la recrue argentine qui enchante Vibraye",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTWJOQWlLdlhRdFAwT3p6aWp5akxfamQ0UEVFc3VXQmhaSWVTY291aDFDMUNtOUR6N2V5SzBQcXZtT0V5NzNHSlVkNnlYSWNoeldwNFZWQnBQSmVjZTVjU1M5OEdGVG9IWnNmSHRHSUpuY0IxcXdibnFScGlzd19ObllVVDdlVGJKalB1X3lQWE01TnYyUkYxQ3dZdmtVcVdHNndoVzdYRkIxOGdNV0luYWdKVW11UDVvYUI5WjhERGlrVUgyTXVZbTV3b0lHYy13WE1WN0xVUXZOQmVfeFlza3FNQXhLb0I2Rnl2dWREREd5dHBtcFlqWWtiR01nZG8yNWtEZG1SMWFZUQ?oc=5",
@@ -5086,6 +5247,30 @@
    "axis_original": "T5"
   },
   {
+   "id": "9c63f562c159",
+   "title": "Evergreen joins accelerating liner return to Suez",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeXpFV3UyNVFkZEV3V3Q3MGx5WUNjMFJfYXdxcnUzWFV3ZWdlV1NJRURFVXJ6ZmttX0VKekt2VFZGT0RnVnRUemxvN2ZTZUFSQnRtR0w1a1d0aFhtVS1LOXVGUnJmUXA2SDRKX0ZRV09JYkdsZFZheEN0ZTd6eGFCR01ueWJkSk1DOXJMb2VVcw?oc=5",
+   "source": "Lloyd's List",
+   "domain": "lloydslist.com",
+   "date": "2026-11-04T14:48:16Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suez"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Retour progressif des armateurs par Suez ; baisse possible des délais et du fret Asie-Europe, utile face aux livraisons Nike en retard.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "57bf4e4c5ea4",
    "title": "How Election Losses Will Alter the Politics of Trump’s Tariffs",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMkR4Y281dTEzaXdYZjZVeGhIVlZLUDJMZVBCTWM3TWNWLUpLdE1lRkRTX3VmN3RPR1p6a2J6Yzc1MEJTN1hUY3BrUVBWS0gwSU5UUnpZS3ViTFNaM0MySTlWSGVSZHB0UHR0QWtYNnhmMFhMUUNVUEFad0k4Q0YzZmZTMDFmalFjUkgxby1KejBKY3lhQW9Ud3FhR3VaOUh2d3ppYmlDSQ?oc=5",
@@ -5195,6 +5380,29 @@
    "ai": {
     "r": 1,
     "impact": "Aperçu d'un tournoi WTA sans mention de Nike ; lien indirect avec la performance des joueuses et la visibilité du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "259b8d0665bb",
+   "title": "Everything you always wanted to know about Jannik Sinner",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkgxRWl5M2RtdzBfNTFhbi1tcTRVXzYyd0NNTW9TTWU4bFk3cXEwTEVuV1EtekZ5Z0JrYXlpVHFzWXVFTnR0bklyOFBHZ3VKdWVITUFrc212T3BGVF84MFJjVHdhRGgtaHp6UDNlYmtwRVNCWEtZT1J3bkI2akI4VEpOVThqWEFaTnhvYm1IazJ3LXh6OFM4SzBYcFFKckUtV0w3VWRVMmRxa0t1X2E2QmhVOFZqSXFJMVJYTDRYVmUzeTl1WXIxaWRrS3hmRGV2cHQ1SDlR?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-04T08:00:00Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Profil général de Sinner, sans fait nouveau identifiable ; contexte utile pour mesurer le poids de l'athlète dans l'image Nike.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    },
@@ -7627,6 +7835,31 @@
    }
   },
   {
+   "id": "6503b5f2870d",
+   "title": "Sinner breaks his silence on season-ending knee injury: “The body is the one opponent you can’t beat”",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOWdlankwWnhZUW93Zmprb01HaExBM2tqVWUtY1MxRE5XaFdSVXBFUGI3MW9PSVpzeVY2Y3JPdVJUUmR0NTh2Q0EyV0V3ZWQzWWl1bjB4ak5WNERyU1JCNE9oNEUxR3lKd0hnQzd1YU81YkVQVm1BRmVYUjVDbm1TWWs5cnhxdXZ2Y2lkZVZPaHlFSWpyZ0V0SzY3dXlMd3lWLUo3R2ZIQ1M1VE1qX0FMYkRXWGtNQkNBNDU0YjZoMFlzTVl2enV0M3JXeVVlSzE4bkRyREFEX0Y2UQ?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "injury"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure au genou ayant mis fin à la saison de Sinner ; une indisponibilité prolongée peut réduire la visibilité des produits Nike tennis en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "f9c5e9975fb2",
    "title": "ASICS on Nike's heels in US market comeback",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTEZrZTcxRVR0RVpKVVotblZhNWtVc2N6X01TU1FadXh4NGFnY2hQZS1yLXhuVnlLQ3ljc1hPMVNOdWpITmp6UjRGTndjUGZEY3FYbi0xUDNHbzNZbzBJem9DUWRlbGo0NGE3d2lmcXl6TEtHQ3RIMENCa0llOVRmZE5lcDc0TWJ1OXp1WmxB?oc=5",
@@ -8169,6 +8402,30 @@
     "r": 2,
     "impact": "Sinner jouera un tournoi saoudien reprogrammé en décembre : exposition de l'image Nike au sportswashing et au calendrier de fin d'année.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2322762adcbe",
+   "title": "Jannik Sinner set for a potential return after knee injury as Six Kings Slam rescheduled to December",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNbFZ4TEY4V2lyS1AySmoya1NheVBLdTF6RW1ucGNIeXFJcGRuZ0Q4aXhvUXlOWVZZZ1UzWXNkZ29mX2NyMU0wSzJKR2thR29uOVg2czhudFVqWjVQV2NZNlFwMHcxSXR2cFU5VEdLeEQwVVJ2VDdTNEl4dFVOY2hQb2tDano4cnY3NkhJdzh2eXpfdGg2czJzaG1NX3JIeWZQU1hhZXlFNU1lNW95bnZGU29VejY5c1hVYzc2cE5iX3BYNzlJVGhxWnRmNXNlcnFNWWlGTjk0SlY0NTUzTEROYVI0Ql9mSTJmdTJwSDBYd2hmTGFpMUxiTkpuQkRuR3FkcVdzTkNGODZZN2tYQjA0NkJja1VvVUnSAZwCQVVfeXFMUGJtV0xqV1pNR0hDXzNLMEpBcVBycmRqR0YwYllLUmZFbndxOUpoem1mUGVETFRoS2dBS1RZSENCamVqblBYMkVBajcxWXJ0STFuSjJCQ2xuUW40SlgtMVhSQkUzYmt0WmhaQ1pHVDJOLUxXWjlfVEl3QnRjNjZ4TVFpMEhncXo1anZOQzNBQ0NETkJFZEY0UTF4eGxndDJqYkljdWRrYmFLbFlUNlBXT0RhWVg5alNEdFBFWVQ3eVUyMkxGcGtiY1FmZ2lGOHZ4TVVyNm1tWlB0cUVyd2hpWXZmMUtBN0EzeGs1WWY1SFZBVlZ2a1FrdDIycWxQWGdhekxnNFhia2pRRUhWSEc3YzNqU1A0ZXRQNmNYZ1U?oc=5",
+   "source": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-21T20:31:39Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "injury"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Retour possible de Sinner après sa blessure, tournoi d'exhibition reprogrammé en décembre ; à confirmer, visibilité de fin d'année incertaine.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -20642,5 +20899,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-21T12:43:58Z"
+ "ai_updated": "2026-11-21T20:36:59Z"
 }
