@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T02:14:17Z",
+ "updated": "2026-11-22T09:50:03Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,58 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 387
+  "added_last_run": 4,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 371
  },
  "items": [
+  {
+   "id": "bb5856a33def",
+   "title": "« Cette blessure m'aide à comprendre que je n'ai pas besoin de courir comme un fou sur toutes les balles » : Carlos Alcaraz, un caméléon qui s'adapte à toutes les situations",
+   "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNc1g4djQ0eXY2VmtkeFdma0tVM0lKWnBKWnczYzE2eDQzZV93dHVwUXdvc3hOWnZwNEFqZ01NXzltbk14MjRlTnJVLUs2RkdSbHJxYllqTjk3dXBUb2lZdWNrNE4wSmVRVmxSNV82eVFYZXZkNWplQlhva25XdWpBN2JnT21uZ1AzOUVDNmk4bWFudjhHZ2E3bmZwUFZYVlNtdk5sZzBrTEItdGVXanBiT0xvUzlSUGp4NjdZYXdmTTVlTkhKWHN4NGpISVZfT1I3dk5qV0FfZUFkOW45MkZ2MUFyeFFjemtXQzVyNU1peEFEMThCYVV3aWxsTW10QkpDRjYwejEzaTBLc2ZrVThXeVBpQWpodjNVTkZaMGNpTVZTTHZKdUUtUHJUZXNseERDWTNnRnU3T20?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-22T08:54:23Z",
+   "first_seen": "2026-11-22T09:50:03Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une blessure d'Alcaraz, athlète Nike, peut réduire sa visibilité et influencer la demande pour les produits Nike associés à ses performances.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "15c622aae3d0",
+   "title": "Pour son Black Friday Nike fait chuter le prix des mythique P-6000",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOLWFlTVZ3VEpPdGxiTC11ZHEtdC15c0FtQklzaHdpOWQwN1d6NWVBbWZkcGJqM3hXX1JoNHZGOW1yS1FYX0dmZXZkX2ZCRFVMTzI0SVp0U3dTWWdhVmdkeHlGaFhXZ2YtOThodThIYmJKZzd0UUV1RDlOeTFzSHRsbHU3dExXRWVRTWVJVURXc1A3em1WeFVuS2VWVFJmRjNPZlgtYWVtYkNVSE1RUGJUWE1nWTcxZHN5YnN3UHd6TExybUlqSFdlMERmQmhoZ1BDZGc?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-22T06:47:00Z",
+   "first_seen": "2026-11-22T09:50:03Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Alcaraz Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La baisse de prix Nike pendant le Black Friday peut peser sur les marges et les prix pratiqués en magasin, et détourner une partie de la clientèle vers le web.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T4"
+  },
   {
    "id": "46ff139f0c2f",
    "title": "ATP Finals. Alexander Zverev domine Daniil Medvedev et rejoint Carlos Alcaraz en finale",
@@ -1219,6 +1266,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "e5f7ad3579e9",
+   "title": "Nike, Inc. : RBC conserve son opinion neutre",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZVNHdWtlaHREZkM3T2lDdXNXSnU2LU9YMGotR1JSTThCdVpBRmNZMndYTDZzd2FHNmVOY0tBTG4ydmdJMllJQUtWdTlhUTIxdTBNRW13WFAwOXpjR3h3bnotZHg1N0x5M3p5LXI5dVA5S1BMYXp0RVBoMDg5a3h0d2V0Q21JS0haQk5aYUlpdTBuZlY3Ymp4SzFmLTFaSUJ3NXow?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-18T08:29:24Z",
+   "first_seen": "2026-11-22T09:50:03Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Une simple opinion d'analyste sur l'action Nike n'a pas d'effet direct sur les approvisionnements ou les ventes de Tie Break à court terme.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "e11ff89464da",
@@ -2724,6 +2793,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T4"
+  },
+  {
+   "id": "1a8b2edb1b8d",
+   "title": "La paire française de double Théo Arribagé -Albano Olivetti vise très haut aux Finales ATP : « On n'a peur de personne »",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ09FX1hvMG0wQy1fSnFRZ3lBYUh3OElUOWV4Nlh3dUozcmFLREYxZDJNVWo3YTN1MG5tNXY3UmhYOWdlR3MxcUxmWUZhUlFpNjNEbEhtR0ZYdkF0a1dYenJSbzB3aVk1V1VpSU1uVm9rWUdGNnZlS3FGZ083NWNXRGhfdHBQeDNqSEV5TTU4anFsdkdiU0ZzNi1RYXRPeEw1dGxvOG5LdWxGZVJYWUVqdjZDUG1VeGd4LUVqTVpxVHJRNWNmZnprLW1DN3pETi1lbjI5a09fekJoSVFPbmRiMUhYOWF2SVR3TVJNd3p0Z0Nsdw?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-14T18:09:24Z",
+   "first_seen": "2026-11-22T09:50:03Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le titre ne mentionne pas Nike : contexte tennis français en fin de saison, sans lien direct identifiable avec les ventes ou l'approvisionnement de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "7bc02bd50363",
@@ -21010,5 +21102,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-22T02:18:53Z"
+ "ai_updated": "2026-11-22T09:54:36Z"
 }
