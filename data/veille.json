@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:31:39Z",
+ "updated": "2026-11-22T02:14:17Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,55 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 11,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 372
+  "added_last_run": 5,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 387
  },
  "items": [
+  {
+   "id": "46ff139f0c2f",
+   "title": "ATP Finals. Alexander Zverev domine Daniil Medvedev et rejoint Carlos Alcaraz en finale",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeHZ6a215NWRXaDN5TGNHTzRfalRUd0J1LTFxTEJPajR4dmY0YVVzSE8zT1NRWV9RbGVnX25wUEZjYWFIV0RLY3dZdGt5a2prNTFkazlkZkk4MXFMM2NyeDNvRlg5TXFVbGJQc29ZbU5aZFFheHhfN19VREdSRU5RUGt2WU54ODBLeXM3U0c3ODBPbVdvb2ttT2ZKa2ZWckJJRlEzeDFzNDlNcURBUVZEQndnN2pKd2YxTGVpU0pxZFE5U0FYMmtXVy1SOEd1YnZiX293a3RfWjN4OE56bVUtYXFoVjhHQW5WZzUtdWM3T2JtVzE4TjdfZ3YycG8?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-21T21:58:56Z",
+   "first_seen": "2026-11-22T02:14:17Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, athlète Nike, atteint la finale de l'ATP Finals, ce qui renforce la visibilité de la marque sur le circuit en fin de saison.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4d36fffc0677",
+   "title": "[Podcasts] Désiré Doué gravement blessé ? / Alcaraz en finale des masters ! – 21/11",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0MzT2p2OVd2a1RwdGxlb18wRzBVbDVoT1M4Q0NlODd0MEE1TENPX1Nqb0pnR01Mb1pKWU1UZ0xfenl6YWhQZ2Q3RmFUWi1KQVVqQlVjTWJSaGR2YktuZURuYmRpWEF1Smotb21icF93bW9fdlZXY25wYmFfZk9CY3RESXhuamJLMWt0Vm5KTFN5LThVSzVwRnk2a2FNcWRaV2kwZFBtOE5XX2t3aW9HeGQtUkJyLTlQcmY0emt2VUc5R09yYkVOaUg2dVBuZWU0Sm9aMmJORklpZw?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-11-21T19:39:42Z",
+   "first_seen": "2026-11-22T02:14:17Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Podcast généraliste mêlant football et tennis ; l'information utile pour Tie Break se limite à la finale d'Alcaraz.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "5b8b8b20fca5",
    "title": "« Je ne peux pas courir sur toutes les balles » : Alcaraz fait une révélation sur sa blessure",
@@ -36,6 +80,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "44a31873a992",
+   "title": "Alcaraz has already chosen his sparring partner for the preseason",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ05UY2JocVQ0bWtjbkRWaHZWa3lUQk5wbDBmcGRqRFY2bnFZOVg4cVZGSUV3d2NzLXlqNmtrMEc5T2NZR21xRXJmVnN1dzl4RmN2WmxkWVlGMHhiU2w3OTAyYUd3Y2dRMGhPN052OE1nZzFldG9iODYza3hvdXRjYk5WWmJiMFpCaTE1djlZcVZZX3owbGtublhsN1oyMW9lSVNfS2cxTFJOR2Jm?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-11-21T16:26:10Z",
+   "first_seen": "2026-11-22T02:14:17Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Alcaraz a déjà choisi son partenaire d'entraînement pour la préparation ; effet indirect sur le calendrier médiatique de la saison suivante.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "bb442a26c88e",
@@ -195,6 +262,28 @@
     "r": 2,
     "impact": "Selon Wilander, un retour complet de Sinner pourrait prendre environ un an, ce qui prolongerait l'effet d'absence sur l'image et les ventes liées au joueur.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8d09457a53d3",
+   "title": "ATP - Finals > Alcaraz, avant de retrouver Shelton en demi-finale : \"C'est l’un des défis les plus difficiles auxquels nous sommes confrontés actuellement dans le tennis\"",
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYWNlTnJBTUwyV0syU0luYmRtSnV3dXIzS1V2dWJpX3IyWlAzN3o4LWZwVkdWLXpoZldzNWRFTnNlQzBhc09ReWlHWjdVNk9jSkNodDZGdEx5dFZLZTNxc0J2ci1wLXItRm1BTjR6dW1YLWV3QjFXOUtxRDA5aC1fbFF5RXhCU3FSSzNGUUd5NzNZZ0xSSUk1NWxpNUV5bUtHV0RvRFdJb1RPYVNxU1JHblVUX0N0bVkzbHpFRnZlRm5QQlZNY280TG04NXRudmYwbE15dDFBOEVtNWNyVkNvVFlLSnBfcGduNnp2d3dTN2szNWswaHhBandCSmVxQWxTSUFjVHhQUmcxVVYxZ1BMQUpGT2RXN3JaRzEw?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-21T07:23:00Z",
+   "first_seen": "2026-11-22T02:14:17Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Citation d'Alcaraz sur les défis actuels du tennis, sans précision dans le titre ; impact pour Tie Break non déductible.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1083,6 +1172,28 @@
     "r": 1,
     "impact": "Campagne d'investissement mettant en avant Sabalenka, sans lien direct avec les ventes ou l'approvisionnement de Tie Break.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "766166785448",
+   "title": "Nike, Inc. : Jefferies maintient sa recommandation à l'achat",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkNSNlA4NTJ3UGpLZmRKMEVDSGFWUENvUU1GTVFVOXJ6Vmh3amkycXhIb2Q5d2QtcXhzRkcybEoyNFBrSmxjS1NPcWsxM3V0LWQ5Nk1vU3JCeEkzclAyUEF0TGZDV3hGd3Fud2NjU1p0NTlLeXlxcjVQNVJBaDN4c1JxNTJQNmFiSXFZMU8xT0ZCS0lkblFTYTMtenZvcWpTWHAyU21ZZEtYZlctanY2QzFhcjRFVGM?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-18T09:02:03Z",
+   "first_seen": "2026-11-22T02:14:17Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Jefferies maintient sa recommandation d'achat sur Nike : signal de confiance des analystes, sans effet direct sur les livraisons ou collections de Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -20899,5 +21010,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-21T20:36:59Z"
+ "ai_updated": "2026-11-22T02:18:53Z"
 }
