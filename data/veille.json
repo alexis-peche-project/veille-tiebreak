@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:49:49Z",
+ "updated": "2026-11-22T23:36:39Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,104 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 10,
-  "feed_errors_last_run": 4,
-  "rejected_last_run": 360
+  "added_last_run": 9,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 363
  },
  "items": [
+  {
+   "id": "2a81f93a7cdd",
+   "title": "Alcaraz : \"La blessure m'a fait réaliser ce qui est vraiment important\"",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNV9rNEFhb0RvamJYdGxLbGxHOC1GR2NwVWJETVlVX1R1dVJQb09ZbTNIRkw3aktaMU9jWl9aQmQzeFBMV1hKdWljTXpTT2d4RjR6VkI2TV8xaFdpTVFuck9WOGRfMUQ0OU1zM1oyNkhSa1hGTUJGaTlzQTlIOTdLamtlOWUtdFVULVdDNkdQdXlScFNMN1BoOWVwSGYxOERaR2s4UWFRbDl4UQ?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-11-22T19:55:12Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Blessure d'Alcaraz (athlète Nike) : visibilité de la marque possiblement réduite, donc demande potentiellement moins forte pour textile et chaussures chez Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8bdf8ef69982",
+   "title": "Le Black Friday Nike démarre fort : 5 sneakers stars de 2026 à prix bradés",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNTNGJvVG5GNzJsRnYtOW5DSUZVV1NKYUJrNTd1T0xMRk1kc0xvTjdIMGlyckNEc2dQVGkza3BQQ3NyaHlRbkxyRU1XZWdULXJYTXJ5SmNibllfaTdDSTlHdm9acXpGemtYZ25vTTdZQjREckJ6RTcyQTJtcGRRTlp5V2NpUUhyUHZaQm02RmFYR2lvQkhub0hMVnZOM0psNjduUER2Vk1TcjQ5QVJHVzBJM01Hb2dMTTl3MFBwYWI5TkRMc3pxZ3pDTUh4T2Rn?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-22T18:42:00Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Remises Nike du Black Friday : pression sur les prix et les marges de Tie Break, risque de détournement vers les sites en ligne pendant les fêtes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "aaf7c4c058e5",
+   "title": "Tennis. Jannick Sinner pourrait devoir subir une opération de son genou blessé, ce qui retarderait encore son retour",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQmVVYXN5U3ZXR3N1NjhmRk5oVzZXQi16NUh5Z21pdE54T2tPd1NEam9jVURtSElkVmJRam1QQTRzM2JzZUdmOG1fVmtjWThDSTFBNm9EMGtfQ0lPdTF5c2syRjlrNkg5MGhkS1RSQl9teE53QVpPdjFPNzhYcnJqbzh6bkJ2Z0lLQlBIbVRZLXRzMFpnWXJ3RnRPTHNfUWRhVWZtcTdBWjYtOExnMzAwemlGN1lZTXNOR1QxLTRhNnNyOWxyMnBuWmtWcGJzeUs0eF8yQnBaTVJIRGFkSTVnZnlNTHBjUFhPSGVMRWZ0YTQ4MlJGWHdETWVMYVExXzlqb2VaZlh3UzRjWkNyU1p1NlNuLVVKem5BWHRROHV3dC1xUThEbzNfUmR5cTJtQXM?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-22T15:51:45Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "retard"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Opération possible de Sinner (athlète Nike) : retour retardé, visibilité de la marque réduite et demande de textile et chaussures potentiellement affectée.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4c1cfacb5cde",
+   "title": "Jannik Sinner face à un énorme dilemme : « Ces jours sont cruciaux pour sa déci­sion qui pour­rait changer sa carrière »",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMVFWc0Eta2x1SVhUTDZXYlB1Y2swNHVWRmFYMEY1MWY1NU5yVGl4ekM3V2N4RW1ySGxUYmwtTWo1dXF5ZFd5bGV2b1RVR3hDVGNOSG1fTncxU0xEWkxmWFA4SnNaTWNTMEN1aUJsQkJsT2V2Q0JvN1JTbXJGOEdaNUhZSE5kanJwbmFLVVNOSm1qTE1DbXNTUmN1OWU0eElpQlg1azVCOHR5TnI5NGQyQ2dtU3FNVFkwaVpaaUdLZjlwaXZfblBwRUw2ZXVHYkZ2WnJDNElFSGYzTFYz?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-22T15:47:27Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Dilemme de Sinner sur sa carrière, décision attendue : scénario incertain, à suivre pour anticiper la visibilité de Nike et les ventes de l'année.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "70f3d40dbae9",
    "title": "ATP - Blessure: Jannik Sinner pourrait finalement passer par la case opération",
@@ -328,6 +421,28 @@
    "ai": {
     "r": 2,
     "impact": "Projet de Masters 1000 sur 12 jours : calendrier plus long pourrait accroître l'exposition médiatique des joueurs et le calendrier des pics de demande.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "31cccde888e4",
+   "title": "ATP - Calendrier: Andrea Gaudenzi a évoqué l'avenir des Masters 1000 sur 12 jours",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVQtdUJiTDJLOFpQZThtVlg0RmMwWE02dlRwbWtsaWVlRHRXQlBtSHROdmZ4Tm5DWFlMTXd0dW1IUy1xOG1sNnZvMGtDeVlLbTU0ZGhSdThSMWtJT2dmS2h0VC1kdU11X0dGcDVsLWZYd1lnU1FrT095MGlJc1M0MF96N1hpUm43ZFhJczllaU11OXU5aGEyZVctcXgzc1IwUkVMZjBYejhZRnVtSUFvMHE4UdIBswFBVV95cUxOY3RTSWRwMVRYZk1NQTMtN0ZNS3RUTTFrWUlZc0dxQ1JqNFZKUUxCSExPNExWaUJMWXJrcXA0eWhIaTd5T0hGNzUyTlhfY211NmJUOHEzTHZ2dk8xZDVpRnlLX2V4OG9SRE1meERxUzRLZGlNcmliU3dCekpJbDBxSGZHZl85Z3pRalRsb2J4d2pFN183eGdka09XYkR2NFh4TEc1RGVJazZHcHBMWVRPaFByaw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-21T14:50:00Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Avenir des Masters 1000 évoqué par l'ATP : calendrier potentiellement modifié, à surveiller pour le rythme des ventes et des collections de Tie Break.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -811,6 +926,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "457829c6a065",
+   "title": "Face à Alexander Zverev, la marche était trop haute pour Arthur Fils aux Finales ATP : « La première fois que je joue un match où après un set, c'est fini »",
+   "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOYjZiOERPYkx5SklyQ3ppSHV5aHdnN0NYQzZnUHZ1MU5ld25NTzRkTGtGRTRaM0Z6ZDR3WnZjc2E3bmZBVzQxdklnX1IzOENpbjVPcnBPVmJfVUtrakhLNDdqcHBzZ2xNTXR2Rzc0TjZXelMyaHJsQ2R5VDk1MmhJdjNIYUVJbTVqM250RktvVnBWM3lBTFl5VmVKZjlEcGxXSkRRZGJSeldpbmthMFJPRF8yN01ZTkVVZDI4SnA4amRXMUNTY25ITGRnSHc4RWxrNlhzR1NFQVQ2MUlPemlfSDVEdkJLZEREUjVycUF3bXdSbnNhM2ZZZWFmZnVsZGlDV29jMjVSM01EdWxOTkFIUDU2enJFUDgwdlVMSnFaNA?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-19T23:32:02Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Défaite d'Arthur Fils, joueur français, aux Finales ATP : effet direct limité sur Nike, contexte utile sur l'intérêt du public français pour le circuit.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "65286fcf5b32",
@@ -3112,6 +3250,29 @@
    }
   },
   {
+   "id": "690b97eb013c",
+   "title": "Nike, adidas, New Balance : ces 3 paires tendances chutent à moins de 100€",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcERoSi1Gb1h2ZnltNnZyaHlNRGFIOUFiVFpzTjdqSnJ1ajFieG4tRkNiT1M2WFFqc2pXcjdDOGNtcE1TZHZyVzUza0ktX1ZOci1FMGkzMU9uMkU5bFBwZ05SOTBwc2xRRDhZMDlEbGEwdmxKVmJ0Ulo4MUM1ZUlrZVVTUHNrTFI2TWxHMnVoX0gwcVNpak9hcW5oUUJMdmFaN3o0NUFMSlBzWkhXNXB4RHRuVk8yTHlDX0tLTVpaSE5lRTZhazZ3RGl6Z0tndW1iOGtJbkdPalQ?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-14T08:00:00Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Baisse de prix de sneakers multi-marques : pression concurrentielle sur les prix perçus des chaussures Nike chez Tie Break, même hors segment tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "175555458137",
    "title": "France - Afrique du Sud (21-19). « Ça a bien marché » : Dupont-Lucu, une charnière improvisée avec succès",
    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONjFlaC02Q2JRYmRuZy1penR6N20zaUVYcHRKV1J1Rng4d0NTaEE0Uzc3SXF1YkpkamZCUlBZczNlVXdZMXoxUW5TWWtqYWZRUTJ6RDhIdmJpMXRmMzBPQzh5eGVpckxOQkxnRm1TcE1wQ1c5MXcxaldSU05jaFRIOWVScHc0SmgwSTdKN28wUHd6VF9TRUxLVlpxalFuZzgyRWRuWTVPRk5ZUm9FZ3l0YXowSnFuVkswMmF0ejhMWXVSSDY2SjQxLV91Q2pUdlg5dkpfMDduMlFQWFd0bDRTSXMzUUpBY0VKUGlv?oc=5",
@@ -4291,6 +4452,28 @@
     "r": 1,
     "impact": "Contexte macroéconomique : un excédent commercial chinois record peut alimenter les tensions commerciales et les droits de douane, avec effet indirect sur les coûts d'approvisionnement.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "72ec40e871aa",
+   "title": "BeIN « condamne » les propos sexistes d’un de ses commentateurs sur Sabalenka",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcW9rNFRvaGRNZVNfWGwwYVRZYW00TWZybmthZnVOT1lOSU5ienRRUTFfOWJuUDh4MmVBanRxUUlkRHFrU3NTcldMZmhUekF2am11Tm5qcmVxVGtQN2xxNkNRN2hSVDVySXBvajlrVTdqcTd5dk9XUXRjdVp1YUtqeG5abGVHT281OEw2akZOb3ViRzREYW53NjVnMm1lZXdETFVpX2l1V1YtcU1UUEh2NXV5eHpHRkd3OTVmQUljU1E4WGxEbFJuOWNmeUo?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-10T08:00:00Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sabalenka Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Commentaire sexiste visant Sabalenka, joueuse Nike, condamné par beIN : exposition médiatique de la marque, risque d'image limité pour Tie Break.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -8289,6 +8472,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "471c9bd48407",
+   "title": "Naomi Osaka expands her tennis fashion vision beyond Grand Slams with Tokyo crane kimono",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXlqRVBHUFJYQjU2RS1RRzhwTGllZWRNTHpYZDB5ZUlZTUgxc2VqdkVfREJucFBSWUd4OGE1VVRMbUhubmJDQ3VhQjZuX0w5ZXB5NFdRSVhoblJNbUNLYWFsX21FRXJUb3Q4bV9KZ3NGTUlVM3JHdHVvNDVzUFdJa0g0RDF3S0Z3NUw5TE5XTzV3ajFxNUN1TTQ0bFpGUTNIZ2RUVWR5TzU1UG9SUi1r?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-22T23:36:39Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Alcaraz Nike outfit",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Osaka élargit sa vision mode au-delà des Grands Chelems : signal de la demande pour le tennis lifestyle textile, sans lien direct avec Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T4"
   },
   {
    "id": "f9c5e9975fb2",
@@ -21330,5 +21536,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-22T17:55:14Z"
+ "ai_updated": "2026-11-22T23:41:49Z"
 }
