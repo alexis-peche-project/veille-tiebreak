@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:50:03Z",
+ "updated": "2026-11-22T17:49:49Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,125 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 4,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 371
+  "added_last_run": 10,
+  "feed_errors_last_run": 4,
+  "rejected_last_run": 360
  },
  "items": [
+  {
+   "id": "70f3d40dbae9",
+   "title": "ATP - Blessure: Jannik Sinner pourrait finalement passer par la case opération",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXZ4NzRtd01HSGpwRHJabVlQS29qUGYtZlRkMHVMZWJacmluSl83VUU4TEtaUE5tLXFvM2ZXdTk0VGpBZXg4NkE0cS10U3NCeXI5dGJaOFZtRDhjLW9sc2VNSDMxVkNLT190YWNvbkdFcnEySnZ5a0h3cFhNSjRYRzRrZ3FkamJrOU16cXJIa00wb1dhdUVPOUF2NVpYVkJGREJaS293QVF6RG9sYUItLVpqYmF2bTI1c09J0gG7AUFVX3lxTE9Ndng3NG13TUdIanBEclptWVBLb2pQZi1mVGQwdUxlYlpyaW5KXzdVRThMS1pQTm0tcW8zZld1OTRUakFleDg2QTRxLXRTc0J5cjl0Ylo4Vm1EOGMtb2xzZU1IMzFWQ0tPX3RhY29uR0VycTJKdnlrSHdwWE1KNFhHNGtncWRqYms5TXpxckhrTTBvV2F1RU85QXY1WlhWQkZEQlpLb3dBUXpEb2xhQi0tWmpiYXZtMjVzT0k?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-22T15:39:00Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Une opération du genou de Sinner réduirait sa présence en compétition, ce qui affaiblirait la visibilité des produits Nike et le trafic lié à ses victoires en boutique.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "579d9b83cfc5",
+   "title": "Jannik Sinner hésiterait à s'engager dans un processus avec intervention chirurgicale sur son genou droit",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcnhoS0NpY2JuMzdkX0JDOWEyVDVQSEMzSHh4eU5JMDljdW5VYTBhV20zeENFaENwQTl4YXZheWxoczlMSXYwcktvMGVOVENxcE93SXZ3dHBtb1RLMXpkWlhJTnlvZkpiSWktRGRhOFU2bjhsd2t5QmNhWFRIWGNpSVNBZi00YmhxZzlpWlZGS21FXzFfWm0yMF9pbzI4NHRuRXdwTVNjQXBzUEZvZm84MXJqekVnZnVpa1BvaWRYeENTbkhoSTVqQTBmcEE3Wl9aNVFEZF94bHg0cGdYME43UVNWWkdidnlncGc?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-22T15:06:31Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Hésitation de Sinner sur une intervention chirurgicale : incertitude sur son calendrier et donc sur la visibilité des équipements Nike en 2027.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f645bc393bb5",
+   "title": "Billie Jean King Cup 2026 - Corrigée par l'Australie, la France reste en deuxième division",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT2ZaZ3otMkxlVHcyY0RiRlRLUkpOOWhPVXIyUUZoOWg3MVp6d2piMklsWFR3bmE2ODdwVUdQYkZfaTNZX1hfdnpQNzhobDdzdlBvMVN5ZkZ3ZVh6R2dpbDVxM3lsTFNabWV0OFA1aDZuMzVQVk9oRHJ2YlJVbkI0MWlTbUZCX1ZLMUNsb0xFdzc2WG80N1NMdDZKU3lxZURfVTk2a3ZZRmlQd0hpWlgteEdkeWZDSTZXdXhmOXRmYXlGY1BvTEJSbmV5M0tWajF5Z1NZV1NZcHplQ1EwNzZnZ1hicXExaUR2VTU1NmpKU0M4bUtFZ2lZdkJXTzQ?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-11-22T14:52:00Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Relégation de l'équipe de France de Billie Jean King Cup, résultat sportif sans lien direct avec les produits Nike ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "64e4b27d9d12",
+   "title": "BJK Cup. Battue par l’Australie après le double, la France ne retrouvera pas le groupe mondial",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSlMxbUxJcDlNMW9fMEJMQ2o1VHRwbS04Rkc1TEZUUUFhTzlPUWU4X05JNGR1c2F4V2gtWm9Va2ctVWZsRV9rQUd5aThSS2puaXJTMkRtXzdtWVY5X3hRX0Q3LWM4MS1pS25FTElBNjhtQ1o4OENoZkVHMFE0dTk3X3NWTVBicWdpNnphYjRab3dnU1dnUUdDSEpqVGozZ1U2TGtoVUlvRHRkTDJObnpRY0RWQ3ZuN1JQalFwa0pBdk05YzFpekVIQkVwX3FneXg4bFZMdU1EVVdPNFVMRVdheDdZR3VsRjA5aXd6Sy1kRVlYNHdYSHR6MHJYb0ZPZFAwaklQMVl0cXM?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-22T14:21:50Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Même défaite de l'équipe de France en Billie Jean King Cup : contexte sportif national, effet limité sur la demande en magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
+  },
+  {
+   "id": "9e34133104bc",
+   "title": "Gaudenzi open to joint men’s and women’s Finals: “Tennis should be all combined”",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdHVzYXhrbHNUZnIyQzBHRzRKSzZXT1hjei1zaHpwWk5ock9HMGpBX2VwTEtESW8yRC1jcFV6VVdSMDg5ZzVTd3hPTmdKSFcteDBLOWNIZVNRdXIxam16X0JQMkY0WE1DamFvSlQ0a1pwdVZ1RGducjFpclJnUWdYXzZJeGU2cTBTcFVLeGlHMDRPNXpPZjQ0RGs5VGlnZnJyWHVseXVjWmswdUp1dFhFQXZjbzhPbEhjMVFWdQ?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-22T13:11:19Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "tennis governance premium tour",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Ouverture de l'ATP à des finales mixtes : changement de format possible, sans effet direct connu sur l'approvisionnement ou les ventes de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "bb5856a33def",
    "title": "« Cette blessure m'aide à comprendre que je n'ai pas besoin de courir comme un fou sur toutes les balles » : Carlos Alcaraz, un caméléon qui s'adapte à toutes les situations",
@@ -197,6 +311,28 @@
    }
   },
   {
+   "id": "81fd7013e9ad",
+   "title": "ATP - Calendrier: Andrea Gaudenzi a évoqué les Masters 1000 sur 12 jours...",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVQtdUJiTDJLOFpQZThtVlg0RmMwWE02dlRwbWtsaWVlRHRXQlBtSHROdmZ4Tm5DWFlMTXd0dW1IUy1xOG1sNnZvMGtDeVlLbTU0ZGhSdThSMWtJT2dmS2h0VC1kdU11X0dGcDVsLWZYd1lnU1FrT095MGlJc1M0MF96N1hpUm43ZFhJczllaU11OXU5aGEyZVctcXgzc1IwUkVMZjBYejhZRnVtSUFvMHE4UdIBswFBVV95cUxOY3RTSWRwMVRYZk1NQTMtN0ZNS3RUTTFrWUlZc0dxQ1JqNFZKUUxCSExPNExWaUJMWXJrcXA0eWhIaTd5T0hGNzUyTlhfY211NmJUOHEzTHZ2dk8xZDVpRnlLX2V4OG9SRE1meERxUzRLZGlNcmliU3dCekpJbDBxSGZHZl85Z3pRalRsb2J4d2pFN183eGdka09XYkR2NFh4TEc1RGVJazZHcHBMWVRPaFByaw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-21T14:50:00Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Projet de Masters 1000 sur 12 jours : calendrier plus long pourrait accroître l'exposition médiatique des joueurs et le calendrier des pics de demande.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "45373508706a",
    "title": "Barrage de Billie Jean King Cup : dominée en puissance, Clara Burel s'incline dans le premier simple face à l'Australie",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbTh1emRaMzVXQm5KT0ZITjdQRy10VVNTLXB3UG02VldFOWNBd0E3UFlzeHhhaVV0cnhwVERwdjdhUXlOZmZhM1IxbUxRSS1VNk5XOE9oMWlVS2M2aS1XX0gyaC1fUDBaZG16aE9vVWhlT2tMTm1BWnM5ZGRMVExITGdqa1NmUXpCLXpfLXZNQ2didXlLbm8telAweHVDZ0RHMHV3WUlzZDF5c1poNFFvckV1V2xzb1Q3dld5al9FWHBnekVrTG9CTzZiTmp3RE1UZXFfZGVYa19DUUpJOHFVTkVTdG1BMkRxOU5XMW4taWF3NzJoZFgtTg?oc=5",
@@ -218,6 +354,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T5"
+  },
+  {
+   "id": "3bf09a9028e1",
+   "title": "90% des exportations indonésiennes vers l'UE seront exonérées de droits de douane: Bruxelles officialise un vaste accord commercial avec Jakarta (notamment pour du textile et de l'huile de palme)",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNM2pPVDVjN0l5UEx5ZTJFUzV3c0tJLWZRalV5YjJFdnJBdDliSG5zVXVfbnBOSWQtR0hTZWxwVUxFaVJmUlBVZnk4YXgycjU0c2JUWGNreWhOaWNLdFJQMl9tMGtFY3E2ZjlweWJpRXJQYjZkYmU5OXV1R0pGUWlOVXN3d19hZUFWV3hidnZ6SWI0NGxqeTkySEJUUmpDNFVmNTczN2czUS1Ndk13bTRlbjhmb0stZmdpa2xldzEwQ0g1Rmg2WUFhX0QxTW1wTlM3OGR4QldBaXBxN0R4cHVOXzh6S1VtaGxtdFFJVk9JWUhfblZPRm0zMk5ubW1OWk1GUktzWlplOTZGblgzYkk2MlBLYThYLXZoOUV3U0RQTXlVZnNlcC11ZFkzYVNfYTdOY2xZ?oc=5",
+   "source": "BFM",
+   "domain": "bfmtv.com",
+   "date": "2026-11-21T14:30:06Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "droits de douane"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Exonération de droits de douane pour le textile indonésien vers l'UE : baisse possible des coûts d'importation de vêtements, effet sur les prix Tie Break à évaluer.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "8a356645173d",
@@ -1930,6 +2090,50 @@
    "ai": {
     "r": 2,
     "impact": "Nike met en avant un objectif de croissance 2029 mais son action chute, ce qui peut influer sur sa stratégie de distribution et ses conditions commerciales avec les revendeurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c06e8716e03d",
+   "title": "NIKE, Inc. Announces Full Stride Ahead Strategy and 2031 Financial Framework at Investor Day",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHhjQ2lFMXI2Zk1OM19LdGduTHlIQlVZUWxHZFctSDZ0dTNTdjdOMnM3QzdjdWhTbnNMOXVubXhfSnNwd2dXVy11dk5NMlFjcnRHWm9OdFlXVTJOT2NIaFRiZmx4eHVxWUdWbzRoSm9LQjVjcWFfTjExbTBvWGxoNWdPQm9lNjFsSzlmUXFPUDJKRWFFYXFYM2hyUV92SnhXZmNtNDhWNDgwTmJBdVJhbjNsNHAxSEMzWDV2c3dOV2F6cXFpLW9oQ096VWZIRWc?oc=5",
+   "source": "About Nike",
+   "domain": "about.nike.com",
+   "date": "2026-11-17T14:00:00Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "A",
+   "score": 3,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike fixe un cadre financier à 2031 : la stratégie de distribution et les conditions faites aux revendeurs wholesale comme Tie Break pourraient en être affectées.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "16077962ed19",
+   "title": "Nike lays out financial goals ahead of first investor day in 9 years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SS3JxeW90T240aEQ1WW5aWFk3M1NDeWhfb0tfTmNraGwwNE1rOExjOXByREE5cjBLS3ptWDZkRXRjbjNXVnR2ZUppRTRiaXhqTVpZbFRzRnhjQzI3NHlyUUo4VjJJamFDZ2RpU2dCTzE3MldfWmfSAXtBVV95cUxObjVfOW9nalRJSExPdmJEb2szZFJydVRpQ0ozVkwwbG9YNHNiUzhJbWhDUFpRUi13YzhGaGRZYmRpQ0duM0RWZ1RneWpYUzNxREQ2RUZLb2dLMmUzZlFOYmJzektMMFZzRV9VaU9vSG1DSVIzV3JYdGViUWs?oc=5",
+   "source": "CNBC",
+   "domain": "cnbc.com",
+   "date": "2026-11-17T12:00:01Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Premier investor day de Nike depuis neuf ans, objectifs financiers annoncés : signal sur la priorité accordée à la distribution et au wholesale pour Tie Break.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -4154,6 +4358,30 @@
     "r": 2,
     "impact": "Sinner et Alcaraz, athlètes Nike, restent au centre de l'attention : visibilité favorable à la demande en textile et chaussures Nike.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9a9194b8bedf",
+   "title": "PTPA presses player fatigue concerns after Rybakina's WTA Finals withdrawal",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUZvdHNPaXFJVEN2RDloS3pXd3ZuTkxMNFQ0aDBqQ0E2NWczanRxd1dINkpiTWgzRkRZZ19FZXA4WDNSY0hzOVo1Z29wQVpNNFRVeXB4UUVlanlVaWxZWUE2WXhzblpiV1ZtN0N5aFJfeHNKeDdoelJLSXhQaVR3NUg0RjlxUDVrYWhwWFlZLUlWWVdmcGc3X3hOaVRCclIzeTBCX0RTaFc4NkJNNEM5YjA4cUdIckNoeFIxam9zRVJqQQ?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-09T08:00:00Z",
+   "first_seen": "2026-11-22T17:49:49Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "PTPA lawsuit ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "withdraw"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Le syndicat PTPA dénonce la fatigue des joueuses : tensions sur le calendrier WTA pouvant modifier l'exposition et les retraits de compétitions des athlètes.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -21102,5 +21330,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-22T09:54:36Z"
+ "ai_updated": "2026-11-22T17:55:14Z"
 }
