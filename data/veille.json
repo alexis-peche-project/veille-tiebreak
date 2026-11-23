@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:38:48Z",
+ "updated": "2026-11-23T08:35:50Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -9,8 +9,8 @@
  },
  "stats": {
   "added_last_run": 1,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 370
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 373
  },
  "items": [
   {
@@ -2506,6 +2506,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "e57ce32d29c9",
+   "title": "Nike must defend strategy at first investor gathering in years",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlMyZmFoRkNyYy1YcXVOM3g2b2hVazhob2l2Wmk5QWswcEZuZi04SS14dHdWWXdKQ1dyU1pqUDhRTmZlQjh1bHY1M2NTclRlRWk4b0diT1NDc0Jid1VQVzNzUUZzZWJvdnVzclN2YkpGRzJkWEh2STVnRlg4RFRvc01YMC1YSzk1aE9Od0pFMGQwR2VMUG9mRUxpczc4dHRlbW9zdFR4VG1sc0ZUV2hrVmNHazhSaUF0S09IS3JyN3gxdw?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-16T21:44:32Z",
+   "first_seen": "2026-11-23T08:35:50Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike stock shares",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike doit défendre sa stratégie à son premier Investor Day depuis des années : pour Tie Break, incertitude sur le wholesale et les délais de reprise.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3f9fdfe8353d",
@@ -21558,5 +21580,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-23T07:42:49Z"
+ "ai_updated": "2026-11-23T08:40:16Z"
 }
