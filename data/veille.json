@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:35:50Z",
+ "updated": "2026-11-23T20:13:56Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,167 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 373
+  "added_last_run": 9,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 384
  },
  "items": [
+  {
+   "id": "5a141dba0cce",
+   "title": "Dopage : ce qui va changer au tennis avec les nouvelles règles en 2027",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZV9ET19FeHNXVXpaZFhHR0ZZSlA3U0tzb2JSTmhrUzc4blUwa3g5S2FkUC1LNkNXNXZSX3JoUDVwZlFLOXlCT1pvXy1veGZwU3NPV3dMMDlDbWstX1AzTFF5RnVPYTFmNURiWUdzS04tcTJrMW1Sb3lGd0N5SVh3V0NCdGN4bDRXNG9sUGhtMTlQN2EtWlh2UV9vXzlKd204UTlvY0pIVS1VQQ?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-23T16:47:40Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les nouvelles règles antidopage de 2027 pourraient peser sur les joueurs sous contrat Nike et sur l'image du circuit, sans effet direct sur les ventes à court terme.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cfc7841a13ca",
+   "title": "ATP - Blessure: Lucas Pouille : «Jannik Sinner reviendra au niveau où il était»",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjA1WmhmVkswdGY3cUpnRVFhVHRNZzBGMnJXMDRMem9sVUdyc29VajVxRUxHMVplS1E3VXhXMmJ3dUNIYndpX3BIYzRNd2dHN0xTZmdVWThTbmI3U3RKVjZqcnJ4MHZkYlI5RjVVM1c4eUozcjhtVk02VlExSlNHdU9yeTZhVzhqVnVSX0NuekFPNGRETWJhVTgycFlNYjZzNGlGZTMtaVNsQVB0RjFPMVRPNDZqRm_SAbcBQVVfeXFMTTFULXY0LU5sRzRLTUZ3MzBqeHZkSklKZUY2UXdLYlZZb2RmbEFkSUxnM0F3a3BIY2JPbjZMTmVTZ20yRVVZZTRpNWdsMEI3Q0JRck9QM3JOOXdoQzdKZ01JVGlpNzVaN0VkTGRTSTh6REVaalZNXzg3ZEJSMzFGcHAzMHJ5NFI1X0VWVXRvNFZFa0ZmQnU0cGJzV0ZhUjMzMWxrOGNQOGRzeWRITUt0S1EwY01QcHFZ?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-23T15:46:00Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Un retour incertain de Sinner, joueur phare de Nike, pourrait réduire la visibilité de la marque et l'attrait des produits associés en magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "33bfdfc67619",
+   "title": "Tennis : victime d’une blessure persistante au genou, Jannik Sinner va subir une opération et devrait manquer de longs mois",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZVJLUVo2dE8weThMdUJWYkxISEJwQU0tU1hiTHlRMFVCWF9ZYjNEVjJLeDJjbjNUUVExTVZrY1BFMmVHelRRX2hJNzZpOXh2ZWM4am8tYUd5blBPSjFQUDNIUWowYXMzenVKaFBwOXhvNzEybzFtcGZUcGd6M3huaHhiRXZWOVhQS3pSMlpyc0d3b0RIWll2Y0VUNDVNSC1oVTE1Q3QyS3lyeXBnV2d6M3dXckM2V0NFbEk5Qy0yUi1FYUhYUzAtamVEWGpnQ19BTU1uUGVLdVQ1bl8wZ28zVGdGSWVTM0kxNUtEWGpXUVpwUUpjXzZ4TUgwaw?oc=5",
+   "source": "Le Figaro",
+   "domain": "lefigaro.fr",
+   "date": "2026-11-23T14:23:46Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "L'opération du genou de Sinner et une absence de plusieurs mois réduisent la visibilité de Nike en tennis pendant la période de commandes et de promotion de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b05c2ffce10e",
+   "title": "ATP > La nature exacte de la blessure de Jannik Sinner expliquée",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONW5iUnRKU1M3Y0l6UGdRWUt2UnFIdDg5YkJzV3Z5RHNzMmJNckcxNFVjSHVjMlRpV1pWMHY2LVZRc094MTBtSVpTbVNfMWxqTVMtczhVS1JRZ2lKZVlkY09UQXd5N1Z5ZXBZTXJBMUptUk5WNlBpcEx5dlJUQ0NiSzl3RmpSOTFhcEEwcXZmT0E0dUd2?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-23T14:15:00Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "La précision sur la nature de la blessure de Sinner permet d'évaluer la durée d'absence, donc le calendrier de la visibilité de la marque sur le tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "51c7b22279cb",
+   "title": "US' Nike, Formula 1 announce long-term apparel partnership from 2027",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDBsRHZhc3Raamxka1JzZHZyVjZEajBZRE5KQ0h2eWdDT0FDR1NKXzZLTFo1aERmaTMtUTNlMFlNYmpfWjIyeVlYNTJTZEZrdTFoX2lHMDZIRXVWT1dvOEdSU2ppZ1dQYUV4UERqSkc2ZzNWdTJVbTVaYU03c1YybUgyU0NvRlFScS1FSGh0WUJXZTRVcWZsaWQtTzVuQXdEcnR2aUdxaEZoTlpGemxibUFBcTJjT2c0VFc5WTZjd3NJTFluQW96M0NqZlhZQ0k0WTZzVXo0RQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-23T13:41:15Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nike annonce un partenariat textile en F1 à partir de 2027, ce qui montre des priorités de marque tournées vers d'autres sports que le tennis.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "78f393152f45",
+   "title": "Le calvaire : Sinner va se faire opérer du genou, vers une absence de 3-4 mois",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbkFLMzFsdVdtd241VVE2MzBDTTRpRW40U3JfZHdfLUxlLUNTNzZ4ZTNpR1ZyNGUwT0NJV2NWQXVvZERQN21lZDRraXQwX0lUM3NxN3BmZmZKYmNtU2JuQ0FTUkVNbXhsV1BCaW9rMGpJa0JoMWhWcV9zTXNFVm1HUzZIY0p0QklZMVl1ZHMwS05qbGlJOThPMFQ0SUZqY3lYUTlmUl9COWY5a2FJSm1kU2J0NE5OU2pFaWZUQXpBZUtuY1NoR2YyTTBfNl9wZw?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-11-23T12:39:00Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": []
+  },
+  {
+   "id": "cf3d07426442",
+   "title": "Nike, Inc. : Berenberg est négatif",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcnI3bnlqUU1XV282Y1RrcTllT0pvdi1FdVVmeDRNb29jUDhxWW5CY2RxLXFEYkdUdHl2cW1vLVJVamU5ZDFXXzZodEotcnhqTEtreHVaX1ZlaTNoOHktdDN6dEI3dEtIV2RBZEI3LWxnM1VSWUJWR0E1SGxxNFZZRm1TSG9oMW5IS0pkdUN1WGtwSnE4NlE?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-23T08:19:39Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une recommandation négative de Berenberg sur Nike signale des doutes d'analystes sur la croissance, qui peuvent influencer la stratégie de distribution de la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "2a81f93a7cdd",
    "title": "Alcaraz : \"La blessure m'a fait réaliser ce qui est vraiment important\"",
@@ -59,6 +215,30 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "df8a72f92b05",
+   "title": "ATP - Blessure: Jannik Sinner se dirige vers une longue absence...",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVklHaUxnc0ZkOERnYnNGMDVEYzFNMTNGMzJIeXVpQUFXOGVNUzZsTXBYRng0NHI0bzk2cHpmUUVWdHZoelZnT1EwbWRfc3ZfZ1A3eTI3UnFqZjJXeGxydjRpcnVrU3hWbmJfUGxhVElCYnVRalBxLUY3VU8xYW1aR2EyRHZhY3BSSFYxVC1rM0RUMzlwbDJhLS1PdE12SVBwSlRiRk85VdIBpwFBVV95cUxPN3hGcnVTTFVCLTA0dXptTUozYnYwM0RKeFNpVVpzdnY5WnVjalI4ajhUM0J0cTFRVWxWcFNHcGxya2dCelFwV3J6djhGX092OV9fY05wYXJTWVFHb044bE5WUDZWNVlHX2piLXpIX2NDZVN0UTdMb2VoamVMLWFxUWhoUDl5VmNFZUdpM1FyS1NfaGdNc1V3aVpFZzE5eE52LXVOQVFQcw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-22T16:34:00Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une longue absence de Sinner réduit la présence de la marque Nike dans l'actualité tennis, avec un effet possible sur la demande en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "aaf7c4c058e5",
@@ -7671,6 +7851,28 @@
     "r": 0,
     "impact": "",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e262b0771b80",
+   "title": "COSCO Profit Jumps Most in Two Years as Turmoil Supports Rates",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlZzVjV4emNOZDFpak1CTG5KcWVzMzhGQmJqeWhaS0JoM2g3R1hzM2tBR2VYX2RMWGlSa29PcVIwVzBqRWlUY0YyRUFBbmh4WlBoZF9zRVc3Q0U3alB1UlVGYnljUzRDNFBZSkJnZEhfZ3N5bWF3aF93MVBQMHUyZllXTTNqdGpUY09lSw?oc=5",
+   "source": "gCaptain",
+   "domain": "gcaptain.com",
+   "date": "2026-10-29T07:00:00Z",
+   "first_seen": "2026-11-23T20:13:56Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La hausse des résultats de COSCO liée aux turbulences signale des tensions sur le fret Asie-Europe, susceptibles d'allonger les délais de réception des collections.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -21580,5 +21782,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-23T08:40:16Z"
+ "ai_updated": "2026-11-23T20:18:57Z"
 }
