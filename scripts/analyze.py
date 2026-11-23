@@ -35,8 +35,10 @@ CONTEXT = """Tu assistes un etudiant en M2 management du sport qui realise une v
 Tie Break : magasin de tennis independant a Nice, 2 salaries, 18 ans d'existence, l'un des 3 revendeurs officiels Nike Tennis en France.
 Nike = 70 % du chiffre d'affaires et 100 % du textile et des chaussures (raquettes et accessoires : Wilson, Yonex, Babolat, Dunlop).
 Clientele : joueurs de club, competiteurs, loisirs, touristes et clientele internationale. Concurrence : sites web (Tennis-Point, Tennis Warehouse), Decathlon, Intersport, Nice Smash.
-Probleme operationnel : livraisons Nike en retard, collections recues apres les Grands Chelems. Site e-commerce en construction.
-Question de veille : dans quelle mesure l'exposition geopolitique et mediatique de Nike et de ses athletes cree-t-elle des risques et des opportunites pour les ventes de Tie Break d'ici 2028, et comment le magasin doit-il y repondre ?
+Probleme operationnel : livraisons Nike en retard, collections recues apres les Grands Chelems, tenues incompletes. Site e-commerce en construction.
+Fait nouveau (novembre 2026) : Nike confie la distribution de Nike Tennis a ACE, distributeur neerlandais. A partir de l'automne 2027, Tie Break commande chez ACE et non plus chez Nike (remise reassort 2,6 % -> 5 %, commande automne 2027 avant le 6 decembre 2026). Tie Break est aussi autorise a vendre ses produits Nike sur Amazon. Nike (Investor Day du 17/11/2026) ne prevoit pas de croissance avant l'exercice 2029.
+Ne recommande jamais de "demander a l'interlocuteur Nike" : l'interlocuteur est desormais ACE.
+Question de veille : dans quelle mesure le statut de revendeur Nike, atout commercial de Tie Break, devient-il une dependance risquee d'ici 2028, face aux rivalites commerciales et normatives, et comment reequilibrer assortiment et discours en magasin ?
 Axes :
 E1 Guerre commerciale et image americaine de Nike (tensions Etats-Unis/UE, droits de douane, appels au boycott, prises de position de Nike)
 E2 Chaine de valeur, RSE et normes europeennes (usines en Asie, travail force, salaires des sous-traitants, Xinjiang, engagements climat de Nike, reglementation UE : CSRD, devoir de vigilance, reglement travail force ; fret et mer Rouge)
