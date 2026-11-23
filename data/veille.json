@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:36:39Z",
+ "updated": "2026-11-23T07:38:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 9,
-  "feed_errors_last_run": 1,
-  "rejected_last_run": 363
+  "added_last_run": 1,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 370
  },
  "items": [
   {
@@ -651,6 +651,28 @@
     "r": 1,
     "impact": "Position attentiste de l'ATP sur le Moyen-Orient : indice d'incertitude sur le calendrier des tournois du Golfe, sans effet direct établi sur Tie Break.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b212bc4ed99b",
+   "title": "Nike, Inc.: Objectif de Cours et Consensus des Analystes | NKE | US6541061031",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wMWkzNFltUEZLYVFmcHRUTDBQM1VFNjFSUmw5cUFWNDRNRXhuNEJRM1dYekdBVGFoYk1ORTl3aWh4cHBBZGg3NVo4dEtzS1JDNi0xZVMzZXlUNUNFVVJqRlZSOGJqUnFrVGU0TnczNTdkc1U?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-20T21:00:02Z",
+   "first_seen": "2026-11-23T07:38:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Indique le consensus des analystes sur le cours Nike, indicateur de la santé financière du fournisseur principal de Tie Break ; pas d'effet direct immédiat.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -21536,5 +21558,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-22T23:41:49Z"
+ "ai_updated": "2026-11-23T07:42:49Z"
 }

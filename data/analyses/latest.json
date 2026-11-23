@@ -1,72 +1,85 @@
 {
- "synthese": "Sur la période, l'événement central est l'Investor Day de Nike du 17 novembre : le plan « Full Stride Ahead » vise une croissance des ventes à l'horizon 2029, mais Reuters et Investir (B) décrivent un titre sanctionné, et des sources C indiquent qu'un retour à la croissance n'est pas attendu avant l'exercice 2029. Pour Tie Break, dont Nike fait 70 % du chiffre d'affaires, cela signale une probable stagnation de l'offre et des conditions commerciales jusqu'en 2028, sans qu'aucun article ne détaille la stratégie wholesale. La pression promotionnelle de Nike s'intensifie avant le Black Friday (Air Force 1 à -30 %, P-6000), ce qui menace les marges et peut détourner des clients vers le web. Côté logistique, le retour progressif des armateurs vers Suez est annoncé, mais DHL et la presse spécialisée préviennent que la congestion se déplace vers les ports européens, donc les retards de livraison ne sont pas résolus à ce stade. Côté joueurs, les deux têtes d'affiche Nike sont fragilisées : Sinner, absent depuis environ quatre mois, vise un retour fin décembre ou à l'Open d'Australie, et Alcaraz joue la finale des ATP Finals malgré une alerte musculaire. Enfin, le tennis saoudien se fragilise (Next Gen ATP Finals qui quittent l'Arabie saoudite, ATP « attendre et voir »), mais sans effet direct mesurable sur les ventes du magasin.",
+ "synthese": "Sur la période du 9 au 22 novembre 2026, l'événement dominant est l'Investor Day de Nike du 17 novembre : plan « Full Stride Ahead », cadre financier à 2031, objectif de croissance des ventes à 2029. La presse financière fiable (Reuters, Investir) rapporte une réaction boursière négative, et la presse spécialisée situe le retour à la croissance en FY2029. Les conditions faites aux revendeurs wholesale ne ressortent d'aucun article de la période, ce qui constitue le principal angle mort pour Tie Break. Côté athlètes, l'incertitude autour du genou de Sinner s'aggrave au 22 novembre (opération évoquée, hésitation rapportée), tandis qu'Alcaraz a joué la finale des ATP Finals malgré une alerte physique. Côté opérations, le retour partiel des armateurs par Suez ne règle pas la congestion, surtout dans les ports européens, donc le risque de retard de livraison demeure. Les promotions Nike du Black Friday exercent une pression immédiate sur les prix et les marges du magasin. Les axes E1 (droits de douane) et E3 (sport power saoudien) restent secondaires cette période, avec des signaux surtout indirects.",
  "axes": [
   {
    "axe": "E1",
-   "tendance": "stable",
-   "resume": "Aucun article de la période ne traite d'un boycott de Nike en Europe ni d'une prise de position politique de la marque. Seuls des signaux indirects sur les droits de douane sont visibles, côté américain : prix des chaussures record et remboursements de droits de douane. Leur effet sur les prix d'achat de Tie Break en Europe n'est pas établi.",
+   "tendance": "calme",
+   "resume": "Aucun article de la période ne traite d'un boycott de Nike ou d'une tension Etats-Unis/UE visant la marque. Les signaux portent sur les prix des chaussures aux Etats-Unis (droits de douane, inflation) et sur l'accord commercial UE-Indonésie. L'effet sur Tie Break est indirect et reste à démontrer.",
    "faits": [
     {
-     "texte": "Le 17 novembre, le New York Times indique que les prix des chaussures aux États-Unis ont atteint un record sous l'effet de l'inflation et des droits de douane accrus.",
+     "texte": "Le 17 novembre 2026, le NYT rapporte que les prix des chaussures aux Etats-Unis atteignent un niveau record sous l'effet de l'inflation et des droits de douane accrus.",
      "ids": [
       "b4cbf32ccbfd"
      ]
     },
     {
-     "texte": "Les 10 et 11 novembre, WWD (source C) détaille les remboursements possibles de droits de douane pour les fabricants et distributeurs de chaussures américains, et la façon dont certains les utilisent.",
+     "texte": "Le 21 novembre 2026, selon BFM, Bruxelles officialise un accord avec l'Indonésie : 90 % des exportations indonésiennes vers l'UE seraient exonérées de droits de douane, textile compris.",
      "ids": [
-      "e732532885ac",
-      "11552b09a2c3"
+      "3bf09a9028e1"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "Les remboursements de droits de douane pourraient modifier les marges des marques de chaussures. Interprétation : leur effet sur les conditions faites aux revendeurs européens n'est pas documenté, et les deux articles sont de fiabilité C.",
+     "texte": "WWD (source C) traite des remboursements de droits de douane pour les fabricants et distributeurs de chaussures américains. Le lien avec les marges ou les prix de Nike en Europe n'est pas établi.",
      "ids": [
-      "e732532885ac",
-      "11552b09a2c3"
+      "11552b09a2c3",
+      "e732532885ac"
      ]
     }
    ],
-   "risque": "Une hausse des prix Nike, observée aux États-Unis, pourrait se répercuter sur les prix d'achat européens, mais aucune source ne le confirme à ce stade.",
-   "opportunite": "Le calme sur les appels au boycott ne justifie pas de mesure particulière, et la veille peut se limiter à suivre les prix catalogue Nike 2027."
+   "risque": "Une hausse des prix Nike, dont la presse américaine fait un scénario probable mais non confirmé pour l'Europe, pourrait renchérir les prix d'achat de Tie Break.",
+   "opportunite": "Des droits de douane plus bas sur le textile importé dans l'UE pourraient, à terme, détendre les prix d'achat sur des marques alternatives à Nike."
   },
   {
    "axe": "E2",
-   "tendance": "hausse",
-   "resume": "Le volume d'informations est élevé et ambivalent : les armateurs reviennent vers Suez, mais la congestion se déplace vers les ports européens et les tarifs spot restent élevés. Côté RSE, la presse spécialisée traite des salaires au Bangladesh sans lien établi avec Nike, et aucun article de la période ne porte sur la réglementation européenne (CSRD, devoir de vigilance, travail forcé).",
+   "tendance": "stable",
+   "resume": "Les armateurs reviennent progressivement par Suez et la mer Rouge, ce qui pourrait raccourcir les délais Asie-Europe. Les sources (DHL, WWD, Loadstar) soulignent toutefois que la congestion se déplace vers les ports européens et que les tarifs spot restent élevés. Sur la RSE, les articles portent sur le Bangladesh et les salaires décents, sans lien établi avec les fournisseurs de Nike dans les titres fournis.",
    "faits": [
     {
-     "texte": "Le 15 novembre, Nikkei Asia (B) rapporte que l'armateur japonais ONE transite par la mer Rouge pour la première fois depuis trois ans. Il s'agit d'un seul armateur.",
+     "texte": "Le 15 novembre 2026, selon Nikkei Asia, l'armateur japonais ONE traverse la mer Rouge pour la première fois en trois ans.",
      "ids": [
       "e72a7593a2d2"
      ]
     },
     {
-     "texte": "Le 16 novembre, gCaptain indique que Maersk et Hapag-Lloyd étendent leur retour vers Suez avec trois services Gemini supplémentaires, et que DHL avertit que ce retour ne résoudra pas la congestion mondiale (sources C).",
+     "texte": "Entre le 11 et le 16 novembre 2026, des sources C indiquent que Maersk et Hapag-Lloyd étendent leur retour par Suez avec trois services Gemini supplémentaires, et que Hapag-Lloyd voit son profit progresser avec la hausse du fret.",
      "ids": [
       "3ad9f344e7e7",
-      "1dde27ac1046"
+      "bfa30dd7891d"
      ]
     },
     {
-     "texte": "Les 11 et 17 novembre, WWD, The Loadstar et FreightWaves (C) signalent une congestion déplacée vers les ports européens et de mer Rouge, et des tarifs spot encore 50 % au-dessus de l'an dernier.",
+     "texte": "DHL avertit (relayé par gCaptain, source C, le 16 novembre) que le retour par Suez ne résoudra pas la congestion mondiale. WWD (11 et 17 novembre, source C) évoque un déplacement de la congestion vers les ports européens.",
      "ids": [
+      "1dde27ac1046",
       "8e2eac93e396",
-      "a8d49cab93c7",
-      "e4e4fa3a2ffc",
+      "e4e4fa3a2ffc"
+     ]
+    },
+    {
+     "texte": "Le 17 novembre 2026, FreightWaves (source C) indique que les tarifs spot des conteneurs restent environ 50 % au-dessus de l'an dernier.",
+     "ids": [
       "5f9733faff79"
      ]
+    }
+   ],
+   "signaux_faibles": [
+    {
+     "texte": "The National (source C) rapporte des attaques houthies et une frappe sur une tour du fonds PIF à Riyadh (19-20 novembre) : le risque régional pourrait peser sur le fret en mer Rouge. L'incident repose sur une seule famille de sources C.",
+     "ids": [
+      "cdaa562970fb",
+      "8251d5b5909d"
+     ]
     },
     {
-     "texte": "Le 18 novembre, Zonebourse (C) rapporte que Nike vise à concevoir localement la moitié des articles de sport vendus en Chine. L'effet sur les collections distribuées en Europe n'est pas documenté.",
+     "texte": "Zonebourse (source C unique) indique que Nike vise à concevoir localement la moitié de ses articles vendus en Chine. L'effet sur l'origine et les délais des collections européennes reste à confirmer.",
      "ids": [
       "06d11a1f9052"
      ]
     },
     {
-     "texte": "Du 11 au 20 novembre, The Business of Fashion et WWD (C) publient plusieurs articles sur les salaires insuffisants et la répression des ouvriers textiles au Bangladesh, sans citer Nike dans les résumés fournis.",
+     "texte": "Le Business of Fashion et WWD (sources C) alertent sur les salaires insuffisants au Bangladesh, la répression des ouvriers et le recul des engagements de salaire décent dans la mode. Aucune mention de Nike dans les titres fournis.",
      "ids": [
       "5cf62b72f104",
       "e34f68696b4a",
@@ -75,31 +88,22 @@
      ]
     }
    ],
-   "signaux_faibles": [
-    {
-     "texte": "Les 19 et 20 novembre, The National (C) rapporte que l'Arabie saoudite dit avoir été visée par une attaque houthie touchant une tour du PIF à Riyad (version officielle saoudienne). Aucun article ne signale de reprise d'attaques sur la navigation, mais cela rappelle la fragilité du retour en mer Rouge.",
-     "ids": [
-      "8251d5b5909d",
-      "cdaa562970fb"
-     ]
-    }
-   ],
-   "risque": "Les retards de livraison Nike pourraient persister, car la congestion portuaire et les tarifs élevés annulent en partie le gain d'un retour par Suez ; le lien entre le fret et les retards de collections de Tie Break reste une hypothèse non démontrée par les sources.",
-   "opportunite": "Si le retour par Suez se généralise, les délais Asie-Europe pourraient se raccourcir et améliorer les arrivées avant les Grands Chelems 2027, ce qu'il faut confirmer auprès de Nike."
+   "risque": "Les retards de livraison des collections Nike, déjà constatés après les Grands Chelems, peuvent persister malgré le retour par Suez, du fait de la congestion portuaire en Europe.",
+   "opportunite": "Si le retour par Suez se confirme, des délais Asie-Europe plus courts pourraient permettre d'obtenir de Nike un calendrier de livraison plus fiable avant les Grands Chelems 2027."
   },
   {
    "axe": "E3",
    "tendance": "hausse",
-   "resume": "Le tennis saoudien envoie des signaux contradictoires : un retrait anticipé des Next Gen ATP Finals et une ATP attentiste face à la situation au Moyen-Orient, mais aussi l'arrivée annoncée d'un Masters 1000 et des exhibitions bien financées. Les sources ne fournissent pas la raison du retrait, et le lien avec l'attaque contre la tour du PIF reste une hypothèse. Les affaires de dopage au clostebol continuent d'alimenter le débat sur la gouvernance antidopage.",
+   "resume": "Les signaux saoudiens sont contrastés. Un article NYT (source B) rapporte que les Next Gen ATP Finals quittent l'Arabie saoudite avec deux ans d'avance sur le contrat, tandis que des sources C évoquent l'arrivée d'un Masters 1000 dans le pays. L'ATP se dit en « attente » face à la situation au Moyen-Orient. Le calendrier 2028 et le débat antidopage alimentent aussi l'incertitude de gouvernance.",
    "faits": [
     {
-     "texte": "Le 15 novembre, The Athletic (via NYT, B) annonce que les Next Gen ATP Finals quittent l'Arabie saoudite, avec un contrat écourté de deux ans.",
+     "texte": "Le 15 novembre 2026, le NYT/The Athletic rapporte que les Next Gen ATP Finals quittent l'Arabie saoudite, avec un contrat écourté de deux ans. Le motif n'est pas précisé dans le titre fourni.",
      "ids": [
       "f7a3865f3f7d"
      ]
     },
     {
-     "texte": "Le 20 novembre, Le Figaro, Ouest-France et France 24 (B) rapportent que l'ATP veut « attendre et voir » pour ses tournois au Moyen-Orient.",
+     "texte": "Le 20 novembre 2026, Le Figaro, Ouest-France et France 24 rapportent que l'ATP veut « attendre et voir » pour ses tournois au Moyen-Orient.",
      "ids": [
       "facf25d736a4",
       "f5858ac27293",
@@ -107,293 +111,308 @@
      ]
     },
     {
-     "texte": "Le 12 novembre, Tennis Temple (C) rapporte que Ruud valide l'arrivée d'un Masters 1000 en Arabie saoudite. Le même jour, Fritz tempère les montants de prime du Six Kings Slam, évoqués dans la presse (sources C).",
+     "texte": "Le 9 novembre 2026, Reuters rapporte que le syndicat PTPA presse sur la fatigue des joueuses après le forfait de Rybakina aux WTA Finals.",
      "ids": [
-      "98767616d452",
-      "27b1cdd52287",
-      "96697211aa0f"
+      "9a9194b8bedf"
      ]
     },
     {
-     "texte": "Du 18 au 19 novembre, TennisTemple et Tennis Actu (C) signalent une suspension d'une joueuse américaine après contrôle positif au clostebol, présentée comme valant deux ans de sanction.",
+     "texte": "Les 14 et 19 novembre 2026, BBC et NYT (source B) traitent des difficultés financières de LIV Golf, financé par l'Arabie saoudite : des entreprises britanniques réclament des sommes dues et le NYT évoque une « illusion à 5 milliards de dollars ». C'est un indice sur les limites du modèle, sans lien démontré avec le tennis.",
      "ids": [
-      "a9ecb2349e46",
-      "193dd89eaffa",
-      "03968d8aa521"
-     ]
-    },
-    {
-     "texte": "Le 18 novembre, TennisTemple (C, source unique) évoque un calendrier ATP 2028 remanié : Acapulco supprimé, Rotterdam déplacé, changements de surface. Le 21 novembre, Gaudenzi dit qu'on peut discuter de Masters 1000 sur 12 jours (Tennis Actu, C).",
-     "ids": [
-      "9e2711eff406",
-      "e778ea14a623"
+      "012037e343ac",
+      "6c83ed9bcd09"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "The Athletic décrit le déclin de LIV Golf comme une « illusion à 5 milliards » rattrapée par la réalité, et la BBC (B) mentionne des entreprises britanniques impayées. Interprétation des médias : les capitaux saoudiens dans le sport peuvent être moins durables qu'annoncé. Ce n'est pas un fait établi pour le tennis, où la motivation (diversification économique, prestige) n'est pas tranchée par les sources.",
+     "texte": "Sources C uniques : Ruud valide l'arrivée d'un Masters 1000 en Arabie saoudite. TennisTemple annonce pour 2028 la suppression d'Acapulco, le déplacement de Rotterdam et des changements de surface. Gaudenzi évoque des Masters 1000 sur 12 jours (« on peut en discuter », non confirmé).",
      "ids": [
-      "6c83ed9bcd09",
-      "012037e343ac"
+      "98767616d452",
+      "9e2711eff406",
+      "e778ea14a623",
+      "81fd7013e9ad",
+      "31cccde888e4"
      ]
     },
     {
-     "texte": "Les articles ne précisent pas si l'attentisme de l'ATP est lié à l'attaque annoncée contre le PIF. Cette relation reste à vérifier.",
+     "texte": "Fritz tempère les chiffres de primes du Six Kings Slam, événement soutenu par l'Arabie saoudite (sources C). Cela éclaire le modèle économique de ces tournois, avec une contestation limitée à ce stade. Djokovic est annoncé en décembre sur cette épreuve.",
      "ids": [
-      "facf25d736a4",
-      "8251d5b5909d"
+      "27b1cdd52287",
+      "96697211aa0f",
+      "d5ca6a864ca7",
+      "b48b6170dd67",
+      "48929e09ecf7"
+     ]
+    },
+    {
+     "texte": "Des sources C relèvent deux suspensions pour clostebol, la substance de l'affaire Sinner, dont une peine de deux ans pour une joueuse. Cela entretient le débat sur l'antidopage, avec un effet d'image indirect.",
+     "ids": [
+      "a9ecb2349e46",
+      "193dd89eaffa",
+      "03968d8aa521"
      ]
     }
    ],
-   "risque": "Un calendrier ATP instable (Moyen-Orient, 2028) peut déplacer les temps forts médiatiques sur lesquels Tie Break cale ses opérations, sans effet immédiat mesurable.",
-   "opportunite": "Le sujet gouvernance et dopage fournit de la matière pour le dossier, mais pas d'action commerciale directe pour le magasin."
+   "risque": "Un calendrier ATP instable (Moyen-Orient, 2028) peut déplacer les temps forts médiatiques sur lesquels Tie Break cale ses opérations commerciales.",
+   "opportunite": "Le débat sur la gouvernance du tennis donne à Tie Break un thème de contenu pour animer sa communauté (calendrier, surfaces, tournois), sans prendre position."
   },
   {
    "axe": "T4",
    "tendance": "hausse",
-   "resume": "L'actualité des joueurs Nike est dominée par la blessure et le retour de Sinner, et par l'alerte musculaire d'Alcaraz aux ATP Finals. Alcaraz a gagné le Masters de Paris, ce qui a soutenu la visibilité de Nike en France début novembre, puis a atteint la finale de Turin. Les prévisions sur la durée du retour de Sinner divergent selon les sources.",
+   "resume": "Le sujet central est le genou de Sinner : il s'est exprimé sur son absence de quatre mois et vise un retour fin décembre, avec l'Open d'Australie en objectif, mais une opération du genou est évoquée au 22 novembre. Alcaraz a connu une alerte physique aux ATP Finals puis a atteint la finale. L'enjeu pour Tie Break est la visibilité de deux têtes d'affiche Nike en début de saison 2027.",
    "faits": [
     {
-     "texte": "Les 10 et 12 novembre, Sinner explique avoir une gêne au genou, avoir été opéré des amygdales et perdu beaucoup de poids (L'Équipe, Ouest-France, France 24, B). Il est absent depuis environ quatre mois selon We Love Tennis (C).",
-     "ids": [
-      "b240292c0089",
-      "a6e6a92df6c1",
-      "24dd74a689dc",
-      "fec934694632"
-     ]
-    },
-    {
-     "texte": "Le 10 novembre, Ouest-France et The Times of India (B) rapportent que Sinner vise un retour fin décembre et l'Open d'Australie 2027. Il s'agit d'un objectif et non d'une date confirmée.",
+     "texte": "Le 10 novembre 2026, Sinner affirme que « l'objectif est d'aller en Australie » (Ouest-France). The Times of India évoque un retour visé fin décembre.",
      "ids": [
       "6765ba72a968",
       "f99bdd47c28e"
      ]
     },
     {
-     "texte": "Le 21 novembre, Wilander estime qu'un retour à son meilleur niveau pourrait prendre environ un an (We Love Tennis, C). C'est une opinion, à distinguer de l'objectif de retour annoncé par Sinner.",
+     "texte": "Le 12 novembre 2026, Sinner explique avoir eu des jours où il n'arrivait plus à bouger, avoir perdu beaucoup de poids et s'être fait retirer les amygdales.",
      "ids": [
-      "211131909041"
+      "24dd74a689dc",
+      "b240292c0089",
+      "a6e6a92df6c1"
      ]
     },
     {
-     "texte": "Le 19 novembre, L'Équipe et Ouest-France (B) rapportent qu'Alcaraz a passé une IRM, annulé un entraînement et qu'un forfait en demi-finale était évoqué ; L'Équipe parle d'examens rassurants. Le 21 novembre, Ouest-France annonce qu'il rejoint Zverev en finale. Le résultat de la finale n'apparaît pas dans les articles.",
+     "texte": "Le 22 novembre 2026, Ouest-France indique que Sinner pourrait devoir être opéré du genou, ce qui retarderait son retour. L'Équipe (même jour) rapporte qu'il hésiterait à s'engager dans un processus avec intervention chirurgicale. Aucune décision n'est confirmée.",
+     "ids": [
+      "aaf7c4c058e5",
+      "579d9b83cfc5"
+     ]
+    },
+    {
+     "texte": "Le 19 novembre 2026, L'Équipe et Ouest-France rapportent une alerte à la cuisse/aux ischio-jambiers d'Alcaraz aux Finales ATP : IRM à Turin, entraînement annulé, examens jugés rassurants. Le 21 novembre, il rejoint Zverev en finale.",
      "ids": [
       "1b2eb60f9f27",
       "f5e484454348",
+      "839fe5b1a87e",
       "5a67ac0f8e37",
       "46ff139f0c2f"
      ]
     },
     {
-     "texte": "Alcaraz refuse de détailler sa blessure (TennisTemple, C), et Ferrer évoque une éventuelle absence à la Coupe Davis, sans confirmation (Punto de Break et TennisTemple, C).",
+     "texte": "Le 15 novembre 2026, Mirra Andreeva remporte les Masters WTA à 19 ans (Ouest-France). Son équipementier n'est pas indiqué dans les articles fournis.",
      "ids": [
-      "84616cfb86a0",
-      "52a8640b7bf8",
-      "c7b07b965080"
-     ]
-    },
-    {
-     "texte": "Le 8 novembre, Sportune (B) et Tennis Majors (C) rapportent la victoire d'Alcaraz au Rolex Paris Masters 2026.",
-     "ids": [
-      "0ae7cb9f6312",
-      "88e508dc332d"
+      "a7c57eb2b65b"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "Ouest-France (B) rapporte que Zverev est présenté comme n°1 mondial et critiqué sur ce statut, alors que Musetti estime que Sinner et Alcaraz restent meilleurs (Punto de Break, C). Interprétation : les deux joueurs Nike conservent un fort capital médiatique malgré leurs absences.",
+     "texte": "Source C : Wilander estime que Sinner pourrait mettre environ un an à retrouver son niveau de domination. C'est un avis d'ancien joueur, pas un fait médical.",
      "ids": [
-      "b6f1db52c85e",
-      "2abe0907c2d7"
+      "211131909041"
      ]
     },
     {
-     "texte": "L'équipementier de Mirra Andreeva (titre WTA 2026) et celui de Fritz ne sont pas précisés dans les articles ; l'effet Nike de ces actualités est donc non vérifié. Même réserve pour les chaussures portées par Alcaraz à Turin.",
+     "texte": "Sources C : une éventuelle absence d'Alcaraz en Coupe Davis et une crainte de déchirure (Ferrer) sont évoquées, sans confirmation.",
      "ids": [
-      "a7c57eb2b65b",
-      "e272c3d48f6d",
-      "d5ca6a864ca7"
+      "52a8640b7bf8",
+      "c7b07b965080"
+     ]
+    },
+    {
+     "texte": "Le 16 novembre 2026, Ouest-France rapporte la polémique Zverev/Sinner sur le statut de n° 1 mondial. Le 10 novembre, 20 Minutes rapporte la condamnation par beIN de propos sexistes sur Sabalenka. Visibilité médiatique des athlètes, sans effet mesurable sur les ventes.",
+     "ids": [
+      "b6f1db52c85e",
+      "72ec40e871aa"
      ]
     }
    ],
-   "risque": "Un retard dans le retour de Sinner ou une rechute d'Alcaraz réduirait l'exposition des modèles Nike signés juste avant l'Open d'Australie.",
-   "opportunite": "Le retour de Sinner à l'Open d'Australie, s'il se confirme, peut servir de temps fort commercial pour le textile et les chaussures Nike en janvier."
+   "risque": "Un retour de Sinner repoussé après l'Open d'Australie 2027 réduirait la visibilité des produits Nike en début de saison, période de vente importante pour le textile.",
+   "opportunite": "Alcaraz en finale aux Finales ATP et un retour possible de Sinner en janvier offrent à Tie Break un fil d'actualité à relayer en boutique et en ligne, sous réserve des confirmations médicales."
   },
   {
    "axe": "T5",
    "tendance": "hausse",
-   "resume": "Nike a présenté sa feuille de route à l'Investor Day du 17 novembre, avec un objectif de croissance à l'horizon 2029, mais les sources divergent sur la réaction du titre. Les remises massives avant le Black Friday contrastent avec un discours de redressement, ce qui pèse sur les prix et les marges des revendeurs. Aucun article fourni ne précise le futur de la distribution wholesale ni le calendrier des collections tennis.",
+   "resume": "L'Investor Day de Nike du 17 novembre 2026 concentre l'actualité : plan stratégique, cadre à 2031, objectif de croissance des ventes à 2029. La presse fiable rapporte une réaction boursière négative et la presse spécialisée situe le retour à la croissance en FY2029. En parallèle, la presse grand public relaie des promotions Nike avant le Black Friday. Rien dans les articles fournis ne précise les conditions faites aux revendeurs wholesale.",
    "faits": [
     {
-     "texte": "Le 17 novembre, Reuters (B) indique que Nike tente de rassurer avec un objectif de croissance des ventes à 2029, mais que l'action chute. Investir (B) dit le 18 novembre que le plan « Full Stride Ahead » peine à convaincre et que le titre est de nouveau sanctionné.",
+     "texte": "Le 17 novembre 2026, Nike annonce lors de son Investor Day la stratégie « Full Stride Ahead » et un cadre financier à 2031 (communiqué Nike, source A). CNBC précise qu'il s'agit du premier investor day en neuf ans.",
+     "ids": [
+      "c06e8716e03d",
+      "16077962ed19"
+     ]
+    },
+    {
+     "texte": "Le 17 novembre 2026, Reuters titre que Nike tente de rassurer avec un objectif de croissance des ventes en 2029 mais que l'action chute. Le 18 novembre, Investir-Les Echos écrit que le plan peine à convaincre et que les investisseurs sanctionnent de nouveau le titre.",
      "ids": [
       "09ca4b66da2c",
       "383e8c46f66a"
      ]
     },
     {
-     "texte": "Des sources C (SGB Media, Retail Dive) rapportent que Nike ne vise pas un retour à la croissance avant l'exercice 2029, soit environ trois ans.",
+     "texte": "Les 17-18 novembre 2026, SGB Media et Retail Dive (sources C) indiquent que Nike ne vise pas de retour à la croissance avant l'exercice 2029. Cela correspond à environ trois ans selon Retail Dive.",
      "ids": [
-      "ea007e3a288b",
       "d20e77abd454",
+      "ea007e3a288b",
       "d90a862b984e"
      ]
     },
     {
-     "texte": "Les sources divergent sur la réaction boursière : Boursorama titre à la fois « le titre bondit » (ambitions 2031), « progresse » et « recule/plonge », ce qui suggère un mouvement intrajournalier. La version B (Reuters, Investir) est celle d'une baisse.",
-     "ids": [
-      "f19e70897941",
-      "92cf82e16180",
-      "8130f93baae0",
-      "48c80715bae8"
-     ]
-    },
-    {
-     "texte": "Le 18 novembre, 20 Minutes (B) annonce de grosses promotions Nike pour le Black Friday ; le 17 novembre, Le Figaro (B) relève des Air Force 1 à -30 % ; le 22 novembre, 20 Minutes (B) signale la baisse de prix des P-6000.",
+     "texte": "Du 14 au 22 novembre 2026, 20 Minutes et Le Figaro (source B) relaient des promotions Nike avant et pendant le Black Friday : Air Force 1 à -30 %, P-6000, sneakers « à prix bradés ». Seuls les titres sont disponibles ; les canaux concernés ne sont pas précisés.",
      "ids": [
       "dbdb32ee6714",
+      "8bdf8ef69982",
+      "15c622aae3d0",
       "5c7750a8a276",
-      "15c622aae3d0"
-     ]
-    },
-    {
-     "texte": "Le 9 novembre, Zonebourse (C) annonce des changements de direction chez Nike effectifs le 9 novembre. Le contenu précis n'est pas détaillé dans les éléments fournis.",
-     "ids": [
-      "91d65414bded"
-     ]
-    },
-    {
-     "texte": "Le 17 novembre, le New York Times (B) rapporte que l'US Open a généré 640 millions de dollars de revenus en 2025 ; le 16 novembre, L'Équipe (B) évoque les fragilités de certains exploitants de padel.",
-     "ids": [
-      "8789e2cbd184",
-      "2acd5ab15b27"
+      "b34d8f0b7d5b"
      ]
     }
    ],
    "signaux_faibles": [
     {
-     "texte": "Les 16 novembre, des sources C (Zonebourse, Boursorama) relaient des doutes sur les réductions de coûts de Nike. Interprétation (non confirmée par les articles) : cela pourrait réduire le soutien aux revendeurs ou à la logistique.",
+     "texte": "Divergence sur la réaction boursière : un titre Boursorama (source C) annonce « le titre bondit » après les ambitions 2031, alors que Reuters, Investir et d'autres titres Boursorama et Zonebourse évoquent un recul. L'écart peut tenir à des moments de séance différents ; il n'est pas tranché ici.",
+     "ids": [
+      "f19e70897941",
+      "09ca4b66da2c",
+      "8130f93baae0"
+     ]
+    },
+    {
+     "texte": "Source C unique : changements de direction chez Nike effectifs le 9 novembre 2026, sans détail sur leur périmètre ni leur effet sur le wholesale.",
+     "ids": [
+      "91d65414bded"
+     ]
+    },
+    {
+     "texte": "Source C : les doutes sur les réductions de coûts de Nike sont soulevés avant l'Investor Day. Le lien avec la logistique et le soutien aux revendeurs est une hypothèse, non un fait.",
      "ids": [
       "55d7b353779e",
       "744e582f94c9"
      ]
     },
     {
-     "texte": "Les remises concernent des modèles lifestyle (Air Force 1, P-6000). Aucun article ne cite de remises sur la gamme tennis, ce qui reste à vérifier.",
+     "texte": "Marché : les revenus de l'US Open 2025 sont de 640 millions de dollars (NYT, B). Pour le padel, L'Équipe (B) décrit des difficultés chez les exploitants. Citi mise sur l'« effet Nike » pour JD Sports (source C).",
      "ids": [
-      "5c7750a8a276",
-      "15c622aae3d0"
+      "8789e2cbd184",
+      "2acd5ab15b27",
+      "a7db4a35a4b0"
      ]
     }
    ],
-   "risque": "La stagnation de Nike jusqu'en 2029 et les promotions sur le web peuvent comprimer les marges et réduire les allocations de Tie Break, dont 70 % du chiffre d'affaires dépendent de la marque.",
-   "opportunite": "Un tennis plus porteur (revenus records de l'US Open) et un Nike en quête de relais peuvent permettre à Tie Break, revendeur officiel rare, de négocier de meilleures conditions et un meilleur calendrier."
+   "risque": "Le retour à la croissance de Nike n'étant pas attendu avant FY2029, la pression sur les marges et les promotions risque de durer jusqu'en 2028, avec des conditions faites aux revendeurs encore inconnues.",
+   "opportunite": "Un Nike en phase de redressement a intérêt à soigner ses revendeurs spécialisés comme Tie Break, l'un des trois revendeurs officiels Nike Tennis en France, ce qui justifie de demander des engagements précis sur les livraisons."
   }
  ],
  "priorites": [
   {
-   "sujet": "Dépendance à Nike : retour à la croissance non attendu avant FY2029 et stratégie wholesale inconnue",
+   "sujet": "Stratégie wholesale de Nike après l'Investor Day (conditions revendeurs, allocations, collections)",
    "axe": "T5",
    "probabilite": 2,
    "impact": 3,
-   "justification": "Nike fait 70 % du chiffre d'affaires de Tie Break, et l'Investor Day n'a pas éclairci les conditions faites aux revendeurs (sources B et C)."
+   "justification": "Nike réalise 70 % du chiffre d'affaires de Tie Break et ni les articles ni le communiqué résumé ne disent ce que le plan change pour les revendeurs."
   },
   {
-   "sujet": "Promotions Nike du Black Friday et pression sur les prix en magasin",
+   "sujet": "Pression des promotions Nike du Black Friday sur les prix et les marges",
    "axe": "T5",
    "probabilite": 3,
    "impact": 2,
-   "justification": "Les remises sont confirmées par plusieurs sources B, mais leur extension à la gamme tennis n'est pas démontrée."
+   "justification": "Plusieurs articles de presse grand public (B) rapportent des remises en cours, avec un risque de détournement vers le web pendant les fêtes."
   },
   {
-   "sujet": "Persistance des retards de livraison malgré le retour partiel par Suez",
+   "sujet": "Persistance des retards de livraison malgré le retour par Suez",
    "axe": "E2",
-   "probabilite": 3,
-   "impact": 2,
-   "justification": "DHL et plusieurs sources C évoquent une congestion déplacée vers les ports européens, mais la cause réelle des retards de Tie Break n'est pas établie."
+   "probabilite": 2,
+   "impact": 3,
+   "justification": "Le retard des collections est le problème opérationnel central, et DHL ainsi que WWD indiquent que la congestion se déplace vers les ports européens."
   },
   {
-   "sujet": "Retour de Sinner (fin décembre ou Open d'Australie) et durée de sa remise en forme",
-   "axe": "T4",
-   "probabilite": 3,
-   "impact": 2,
-   "justification": "Son absence est avérée et l'incertitude sur la date et le niveau du retour pèse sur l'exposition Nike début 2027."
-  },
-  {
-   "sujet": "Blessure musculaire d'Alcaraz et participation à la Coupe Davis",
+   "sujet": "Retour de Sinner retardé (genou, opération évoquée)",
    "axe": "T4",
    "probabilite": 2,
    "impact": 2,
-   "justification": "L'alerte est confirmée par L'Équipe et Ouest-France (B), mais sa gravité est présentée comme rassurante ou inconnue selon les sources."
+   "justification": "Une opération réduirait la visibilité d'un athlète Nike majeur en 2027, mais elle n'est pas confirmée et l'hésitation est rapportée par L'Équipe."
   },
   {
-   "sujet": "Instabilité du tennis saoudien et du calendrier ATP (Moyen-Orient, 2028)",
+   "sujet": "Disponibilité d'Alcaraz (alerte musculaire, Coupe Davis)",
+   "axe": "T4",
+   "probabilite": 2,
+   "impact": 1,
+   "justification": "Les examens sont décrits comme rassurants et il a joué la finale ; les craintes sur la Coupe Davis restent de source C."
+  },
+  {
+   "sujet": "Instabilité au Moyen-Orient et calendrier ATP (Next Gen, Masters 1000, 2028)",
    "axe": "E3",
    "probabilite": 2,
    "impact": 1,
-   "justification": "Le retrait des Next Gen et l'attentisme de l'ATP sont confirmés par des sources B, mais l'effet sur les ventes de Tie Break est indirect."
+   "justification": "L'ATP attend de voir, le retrait des Next Gen d'Arabie saoudite est confirmé par une source B, mais l'effet commercial direct sur Tie Break est faible."
   },
   {
-   "sujet": "Hausse des prix de chaussures liée aux droits de douane",
+   "sujet": "Hausse des prix des chaussures liée aux droits de douane",
    "axe": "E1",
    "probabilite": 1,
    "impact": 2,
-   "justification": "Constat américain (NYT, B) sans transposition documentée à l'Europe."
+   "justification": "Le constat vient du marché américain et le transfert vers les prix de gros européens n'est pas démontré."
   }
  ],
  "recommandations": [
   {
-   "action": "Demander au contact commercial Nike, par écrit, les conséquences de l'Investor Day pour Tie Break : allocations 2027, dates de livraison des collections avant l'Open d'Australie et Roland-Garros, et conditions wholesale. Tenir un journal daté des retards pour appuyer la négociation.",
+   "action": "Fixer avant le week-end du Black Friday une règle de prix claire sur les références Nike en promotion (alignement ou non, seuil de marge, produits exclus) et la communiquer en boutique comme argument de conseil et de service.",
    "axe": "T5",
    "horizon": "immediat",
    "destinataire": "gerant"
   },
   {
-   "action": "Définir une politique de prix pour le Black Friday : ne pas s'aligner sur les remises Nike lifestyle, surveiller chaque semaine les prix de la gamme tennis sur le site de Nike, et valoriser des services (conseil, cordage, essais) et les marques de raquettes non-Nike à meilleure marge.",
+   "action": "Demander par écrit à l'interlocuteur Nike un calendrier ferme de livraison des collections tennis 2027, avec les dates de réception visées avant l'Open d'Australie et Roland-Garros, et les conditions wholesale (allocations, retours, marges) post-Investor Day.",
    "axe": "T5",
-   "horizon": "immediat",
-   "destinataire": "vendeur"
+   "horizon": "3 mois",
+   "destinataire": "gerant"
   },
   {
-   "action": "Préparer une opération autour du retour de Sinner et d'Alcaraz à l'Open d'Australie (mise en avant des modèles associés, précommandes) sans engager de stock supplémentaire tant que les dates de livraison Nike ne sont pas confirmées.",
+   "action": "Limiter le stock engagé sur les produits associés à Sinner (précommandes, quantités prudentes) et adosser les mises en avant aux joueurs actifs (Alcaraz, Sabalenka), en réajustant après les annonces médicales.",
    "axe": "T4",
    "horizon": "3 mois",
    "destinataire": "vendeur"
   },
   {
-   "action": "Constituer un stock de sécurité sur les références Nike tennis les plus vendues avant les Grands Chelems 2027, en intégrant dans le calendrier 4 à 6 semaines de marge de livraison, et suivre les indicateurs de congestion des ports européens.",
+   "action": "Intégrer au site e-commerce en construction un module de commande sur précommande et un suivi des délais, pour sécuriser la clientèle internationale et touristique malgré les retards possibles de livraison.",
    "axe": "E2",
-   "horizon": "3 mois",
-   "destinataire": "gerant"
-  },
-  {
-   "action": "Étudier un test avec une seconde marque de textile ou de chaussures de tennis afin de réduire la dépendance à Nike, et intégrer ce choix au lancement du site e-commerce.",
-   "axe": "T5",
    "horizon": "12 mois",
    "destinataire": "e-commerce"
+  },
+  {
+   "action": "Étudier, sans engagement, un test de textile et chaussures complémentaires d'une autre marque sur une petite gamme, pour réduire la dépendance à Nike (70 % du chiffre d'affaires, 100 % du textile et des chaussures) pendant la phase de redressement jusqu'en FY2029.",
+   "axe": "T5",
+   "horizon": "12 mois",
+   "destinataire": "gerant"
   }
  ],
  "a_verifier": [
-  "Réaction réelle du titre Nike après l'Investor Day : Reuters et Investir (B) disent baisse, certains titres Boursorama (C) disent hausse ; vérifier la clôture du 17 novembre.",
-  "Horizon exact des objectifs de Nike (2029 pour les ventes, mention de 2031 dans un seul titre Boursorama C) et montant de la hausse de 5 milliards de dollars, dont seul un titre tronqué est disponible.",
-  "Contenu des changements de direction Nike du 9 novembre (source C unique) et effet sur la stratégie wholesale.",
-  "Existence de remises Nike sur la gamme tennis (les articles ne citent que des modèles lifestyle) et effet sur les prix de Tie Break.",
-  "Lien éventuel entre l'attaque houthie contre la tour du PIF (sources C, version officielle saoudienne) et l'attentisme de l'ATP au Moyen-Orient.",
-  "Motif du retrait anticipé des Next Gen ATP Finals d'Arabie saoudite (le résumé ne le précise pas).",
-  "Résultat de la finale des ATP Finals et participation d'Alcaraz à la Coupe Davis.",
-  "Date et niveau réel du retour de Sinner (fin décembre vs Open d'Australie ; avis de Wilander à qualifier d'opinion).",
-  "Équipementier de Mirra Andreeva, de Fritz et des chaussures portées par Alcaraz à Turin avant toute utilisation dans le dossier.",
-  "Calendrier ATP 2028 (Acapulco supprimé, Rotterdam déplacé) : source C unique ; l'article WTA Finals Riyad daté du 8 novembre concerne l'édition 2024, à ne pas utiliser comme fait récent.",
-  "Lien entre les articles sur le Bangladesh et les sous-traitants de Nike, absent des résumés fournis ; aucune information sur la réglementation européenne (CSRD, devoir de vigilance, travail forcé) cette période.",
-  "Cause réelle des retards de livraison Nike à Tie Break (fret, allocation, calendrier de production) à documenter avec le commercial Nike."
+  "Lire le communiqué Nike du 17 novembre [c06e8716e03d] en entier : ce que le plan 2031 dit du wholesale, des revendeurs spécialisés et des collections (les titres ne le précisent pas).",
+  "Réaction boursière réelle du 17 novembre : écart entre « chute » [09ca4b66da2c] et « bondit » [f19e70897941] ; vérifier les cours de clôture.",
+  "Chiffre d'environ 5 milliards de dollars de ventes supplémentaires d'ici 2029 [92cf82e16180] : titre tronqué, source C, à confirmer.",
+  "Portée des changements de direction chez Nike au 9 novembre [91d65414bded] : source C unique.",
+  "Les promotions Nike du Black Friday concernent-elles le site Nike, les revendeurs, ou les deux ? Seuls les titres sont connus.",
+  "Opération du genou de Sinner : rien n'est décidé au 22 novembre ; suivre les annonces officielles et ne pas utiliser les avis de Wilander ou de Cahill comme fait médical.",
+  "Équipementier de Mirra Andreeva (Masters WTA) et résultat de la finale des ATP Finals Alcaraz-Zverev : absents des articles fournis.",
+  "Motifs du retrait anticipé des Next Gen ATP Finals d'Arabie saoudite [f7a3865f3f7d] et réalité d'un Masters 1000 saoudien [98767616d452], de source C.",
+  "Changements ATP 2028 (Acapulco, Rotterdam, surfaces) [9e2711eff406] : source C unique, à recouper avec l'ATP.",
+  "Lien éventuel entre les fournisseurs de Nike et les situations décrites au Bangladesh : aucun lien dans les titres fournis."
  ],
- "generated": "2026-11-22T09:54:36Z",
+ "generated": "2026-11-23T07:42:49Z",
  "model": "claude-sonnet-5-5",
  "window_days": 14,
- "n_articles": 110,
+ "n_articles": 121,
  "sources": {
+  "c06e8716e03d": {
+   "title": "NIKE, Inc. Announces Full Stride Ahead Strategy and 2031 Financial Framework at Investor Day",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHhjQ2lFMXI2Zk1OM19LdGduTHlIQlVZUWxHZFctSDZ0dTNTdjdOMnM3QzdjdWhTbnNMOXVubXhfSnNwd2dXVy11dk5NMlFjcnRHWm9OdFlXVTJOT2NIaFRiZmx4eHVxWUdWbzRoSm9LQjVjcWFfTjExbTBvWGxoNWdPQm9lNjFsSzlmUXFPUDJKRWFFYXFYM2hyUV92SnhXZmNtNDhWNDgwTmJBdVJhbjNsNHAxSEMzWDV2c3dOV2F6cXFpLW9oQ096VWZIRWc?oc=5",
+   "source": "About Nike",
+   "date": "2026-11-17",
+   "reliability": "A"
+  },
+  "aaf7c4c058e5": {
+   "title": "Tennis. Jannick Sinner pourrait devoir subir une opération de son genou blessé, ce qui retarderait encore son retour",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNQmVVYXN5U3ZXR3N1NjhmRk5oVzZXQi16NUh5Z21pdE54T2tPd1NEam9jVURtSElkVmJRam1QQTRzM2JzZUdmOG1fVmtjWThDSTFBNm9EMGtfQ0lPdTF5c2syRjlrNkg5MGhkS1RSQl9teE53QVpPdjFPNzhYcnJqbzh6bkJ2Z0lLQlBIbVRZLXRzMFpnWXJ3RnRPTHNfUWRhVWZtcTdBWjYtOExnMzAwemlGN1lZTXNOR1QxLTRhNnNyOWxyMnBuWmtWcGJzeUs0eF8yQnBaTVJIRGFkSTVnZnlNTHBjUFhPSGVMRWZ0YTQ4MlJGWHdETWVMYVExXzlqb2VaZlh3UzRjWkNyU1p1NlNuLVVKem5BWHRROHV3dC1xUThEbzNfUmR5cTJtQXM?oc=5",
+   "source": "Ouest-France",
+   "date": "2026-11-22",
+   "reliability": "B"
+  },
   "383e8c46f66a": {
    "title": "Le nouveau plan stratégique « Full Stride Ahead » de Nike peine à convaincre des investisseurs qui sanctionnent de nouveau le titre",
    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNejc2cm5GWnRlcmFnRjg5UnNBWE15aFdpQW9MRHdNUGdBR1V5TmFKdkVCVVBCUU1wUFl6NllXRVhpRnlUUFMyOUdUQmlLYl83NFZETTlEcGpnY25ELVNRbjZsbGhpLXUxQzBTbUJ0WWdPdm5OZHZnZ1VRQjM0UFdKeEFMTnRXYXFPcHdwbXhNOENZX0NLYTFxd3dvTjRCYmlWTFYxRXpELXhwWHdOeEtVeVRmMm5ubHFEeUctdjgyaHQ2bGttRjY3VlZLcURLNXVBSjFJZzE4TTZmWlkwRmxvbE5SYjBfMXZpSUlPSUpsbHVscUdQNk9XYW54cVRXWjRqSUN6RGFuRVgtOC1vcHF5Z0tndTJZRzNvbFdMOGtlZnZNU21PcE9r?oc=5",
@@ -412,6 +431,13 @@
    "title": "Nike tries to reassure investors with 2029 sales growth target, but shares slump",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSDN1UWpRMlJnYTJMY1gxQ0RGMUNfUU1rS0xrVzhXZUtGdmpRSXREcTNJNzBGVnpldktmRUU3aC1QN3EydHNhMVV4bFVPRTRlNWdFWmkyRjVlVVRaWFJxdEdPVFktTEN0dGhhcDJQRkFPQXRXMjFDNjFzbnZrODJncmZVb3BjdHJNTlA4NkM3S1J4NFU4UW1vS2NPdnRRb3BjM21rYlBWMGE0UFhyUzVJMTJtLTdBdw?oc=5",
    "source": "Reuters",
+   "date": "2026-11-17",
+   "reliability": "B"
+  },
+  "16077962ed19": {
+   "title": "Nike lays out financial goals ahead of first investor day in 9 years",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SS3JxeW90T240aEQ1WW5aWFk3M1NDeWhfb0tfTmNraGwwNE1rOExjOXByREE5cjBLS3ptWDZkRXRjbjNXVnR2ZUppRTRiaXhqTVpZbFRzRnhjQzI3NHlyUUo4VjJJamFDZ2RpU2dCTzE3MldfWmfSAXtBVV95cUxObjVfOW9nalRJSExPdmJEb2szZFJydVRpQ0ozVkwwbG9YNHNiUzhJbWhDUFpRUi13YzhGaGRZYmRpQ0duM0RWZ1RneWpYUzNxREQ2RUZLb2dLMmUzZlFOYmJzektMMFZzRV9VaU9vSG1DSVIzV3JYdGViUWs?oc=5",
+   "source": "CNBC",
    "date": "2026-11-17",
    "reliability": "B"
   },
@@ -442,6 +468,13 @@
    "source": "The Times of India",
    "date": "2026-11-10",
    "reliability": "B"
+  },
+  "70f3d40dbae9": {
+   "title": "ATP - Blessure: Jannik Sinner pourrait finalement passer par la case opération",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTXZ4NzRtd01HSGpwRHJabVlQS29qUGYtZlRkMHVMZWJacmluSl83VUU4TEtaUE5tLXFvM2ZXdTk0VGpBZXg4NkE0cS10U3NCeXI5dGJaOFZtRDhjLW9sc2VNSDMxVkNLT190YWNvbkdFcnEySnZ5a0h3cFhNSjRYRzRrZ3FkamJrOU16cXJIa00wb1dhdUVPOUF2NVpYVkJGREJaS293QVF6RG9sYUItLVpqYmF2bTI1c09J0gG7AUFVX3lxTE9Ndng3NG13TUdIanBEclptWVBLb2pQZi1mVGQwdUxlYlpyaW5KXzdVRThMS1pQTm0tcW8zZld1OTRUakFleDg2QTRxLXRTc0J5cjl0Ylo4Vm1EOGMtb2xzZU1IMzFWQ0tPX3RhY29uR0VycTJKdnlrSHdwWE1KNFhHNGtncWRqYms5TXpxckhrTTBvV2F1RU85QXY1WlhWQkZEQlpLb3dBUXpEb2xhQi0tWmpiYXZtMjVzT0k?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-22",
+   "reliability": "C"
   },
   "33fc78075912": {
    "title": "« Nous avons testé mon corps » : Alcaraz donne des nouvelles de sa blessure aux ATP Finals",
@@ -604,12 +637,19 @@
    "date": "2026-11-09",
    "reliability": "C"
   },
-  "794e9c564d12": {
-   "title": "WTA Finals Riyadh 2024 Overview | WTA Official",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NeUdkb3FRNXFiRDR0NVZlQ19xV25yZ0NEUG5nZUdSNGtZdGlIOXlaMlRneTI0ckVxVjBRUGdaT3F4emZPSkNhMDNwbWVJekdCTUY5WkRuWi1PYjVDamZJM2FDT045ZE1B?oc=5",
-   "source": "WTA Tennis",
-   "date": "2026-11-08",
-   "reliability": "A"
+  "8bdf8ef69982": {
+   "title": "Le Black Friday Nike démarre fort : 5 sneakers stars de 2026 à prix bradés",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUNTNGJvVG5GNzJsRnYtOW5DSUZVV1NKYUJrNTd1T0xMRk1kc0xvTjdIMGlyckNEc2dQVGkza3BQQ3NyaHlRbkxyRU1XZWdULXJYTXJ5SmNibllfaTdDSTlHdm9acXpGemtYZ25vTTdZQjREckJ6RTcyQTJtcGRRTlp5V2NpUUhyUHZaQm02RmFYR2lvQkhub0hMVnZOM0psNjduUER2Vk1TcjQ5QVJHVzBJM01Hb2dMTTl3MFBwYWI5TkRMc3pxZ3pDTUh4T2Rn?oc=5",
+   "source": "20 Minutes",
+   "date": "2026-11-22",
+   "reliability": "B"
+  },
+  "579d9b83cfc5": {
+   "title": "Jannik Sinner hésiterait à s'engager dans un processus avec intervention chirurgicale sur son genou droit",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcnhoS0NpY2JuMzdkX0JDOWEyVDVQSEMzSHh4eU5JMDljdW5VYTBhV20zeENFaENwQTl4YXZheWxoczlMSXYwcktvMGVOVENxcE93SXZ3dHBtb1RLMXpkWlhJTnlvZkpiSWktRGRhOFU2bjhsd2t5QmNhWFRIWGNpSVNBZi00YmhxZzlpWlZGS21FXzFfWm0yMF9pbzI4NHRuRXdwTVNjQXBzUEZvZm84MXJqekVnZnVpa1BvaWRYeENTbkhoSTVqQTBmcEE3Wl9aNVFEZF94bHg0cGdYME43UVNWWkdidnlncGc?oc=5",
+   "source": "L'Équipe",
+   "date": "2026-11-22",
+   "reliability": "B"
   },
   "bb5856a33def": {
    "title": "« Cette blessure m'aide à comprendre que je n'ai pas besoin de courir comme un fou sur toutes les balles » : Carlos Alcaraz, un caméléon qui s'adapte à toutes les situations",
@@ -629,6 +669,13 @@
    "title": "ATP Finals. Alexander Zverev domine Daniil Medvedev et rejoint Carlos Alcaraz en finale",
    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeHZ6a215NWRXaDN5TGNHTzRfalRUd0J1LTFxTEJPajR4dmY0YVVzSE8zT1NRWV9RbGVnX25wUEZjYWFIV0RLY3dZdGt5a2prNTFkazlkZkk4MXFMM2NyeDNvRlg5TXFVbGJQc29ZbU5aZFFheHhfN19VREdSRU5RUGt2WU54ODBLeXM3U0c3ODBPbVdvb2ttT2ZKa2ZWckJJRlEzeDFzNDlNcURBUVZEQndnN2pKd2YxTGVpU0pxZFE5U0FYMmtXVy1SOEd1YnZiX293a3RfWjN4OE56bVUtYXFoVjhHQW5WZzUtdWM3T2JtVzE4TjdfZ3YycG8?oc=5",
    "source": "Ouest-France",
+   "date": "2026-11-21",
+   "reliability": "B"
+  },
+  "3bf09a9028e1": {
+   "title": "90% des exportations indonésiennes vers l'UE seront exonérées de droits de douane: Bruxelles officialise un vaste accord commercial avec Jakarta (notamment pour du textile et de l'huile de palme)",
+   "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNM2pPVDVjN0l5UEx5ZTJFUzV3c0tJLWZRalV5YjJFdnJBdDliSG5zVXVfbnBOSWQtR0hTZWxwVUxFaVJmUlBVZnk4YXgycjU0c2JUWGNreWhOaWNLdFJQMl9tMGtFY3E2ZjlweWJpRXJQYjZkYmU5OXV1R0pGUWlOVXN3d19hZUFWV3hidnZ6SWI0NGxqeTkySEJUUmpDNFVmNTczN2czUS1Ndk13bTRlbjhmb0stZmdpa2xldzEwQ0g1Rmg2WUFhX0QxTW1wTlM3OGR4QldBaXBxN0R4cHVOXzh6S1VtaGxtdFFJVk9JWUhfblZPRm0zMk5ubW1OWk1GUktzWlplOTZGblgzYkk2MlBLYThYLXZoOUV3U0RQTXlVZnNlcC11ZFkzYVNfYTdOY2xZ?oc=5",
+   "source": "BFM",
    "date": "2026-11-21",
    "reliability": "B"
   },
@@ -786,12 +833,33 @@
    "date": "2026-11-12",
    "reliability": "B"
   },
-  "0ae7cb9f6312": {
-   "title": "Carlos Alcaraz. Combien lui rapporte sa victoire au Rolex Paris Masters 2026",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2J4aWlNVEZLZU1VU3hXQWRkOXVlYVBTRThUdnlURDRJUDMzSDduMTQ0MmJGeXVQNHZMVFBwRG5DOE1aMFhxUHFrZXJOVnZsVXI1Z2tDYUhfNjE2V2dlbndBNV9oLVlucXpwNDVjX29FNmxYdThVYnpGa1pXSldSS3Q1NFJZbTF0YUtHMDZ2MXBNWGdsb2VsWWoxcmJPUS13OGlIblVZbGJ6Z0J2dnNYMndZN0JUSk9ZLUFlbHFB?oc=5",
-   "source": "Sportune",
-   "date": "2026-11-08",
+  "72ec40e871aa": {
+   "title": "BeIN « condamne » les propos sexistes d’un de ses commentateurs sur Sabalenka",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcW9rNFRvaGRNZVNfWGwwYVRZYW00TWZybmthZnVOT1lOSU5ienRRUTFfOWJuUDh4MmVBanRxUUlkRHFrU3NTcldMZmhUekF2am11Tm5qcmVxVGtQN2xxNkNRN2hSVDVySXBvajlrVTdqcTd5dk9XUXRjdVp1YUtqeG5abGVHT281OEw2akZOb3ViRzREYW53NjVnMm1lZXdETFVpX2l1V1YtcU1UUEh2NXV5eHpHRkd3OTVmQUljU1E4WGxEbFJuOWNmeUo?oc=5",
+   "source": "20 Minutes",
+   "date": "2026-11-10",
    "reliability": "B"
+  },
+  "9a9194b8bedf": {
+   "title": "PTPA presses player fatigue concerns after Rybakina's WTA Finals withdrawal",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUZvdHNPaXFJVEN2RDloS3pXd3ZuTkxMNFQ0aDBqQ0E2NWczanRxd1dINkpiTWgzRkRZZ19FZXA4WDNSY0hzOVo1Z29wQVpNNFRVeXB4UUVlanlVaWxZWUE2WXhzblpiV1ZtN0N5aFJfeHNKeDdoelJLSXhQaVR3NUg0RjlxUDVrYWhwWFlZLUlWWVdmcGc3X3hOaVRCclIzeTBCX0RTaFc4NkJNNEM5YjA4cUdIckNoeFIxam9zRVJqQQ?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-09",
+   "reliability": "B"
+  },
+  "2a81f93a7cdd": {
+   "title": "Alcaraz : \"La blessure m'a fait réaliser ce qui est vraiment important\"",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNV9rNEFhb0RvamJYdGxLbGxHOC1GR2NwVWJETVlVX1R1dVJQb09ZbTNIRkw3aktaMU9jWl9aQmQzeFBMV1hKdWljTXpTT2d4RjR6VkI2TV8xaFdpTVFuck9WOGRfMUQ0OU1zM1oyNkhSa1hGTUJGaTlzQTlIOTdLamtlOWUtdFVULVdDNkdQdXlScFNMN1BoOWVwSGYxOERaR2s4UWFRbDl4UQ?oc=5",
+   "source": "Punto de Break",
+   "date": "2026-11-22",
+   "reliability": "C"
+  },
+  "4c1cfacb5cde": {
+   "title": "Jannik Sinner face à un énorme dilemme : « Ces jours sont cruciaux pour sa déci­sion qui pour­rait changer sa carrière »",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMVFWc0Eta2x1SVhUTDZXYlB1Y2swNHVWRmFYMEY1MWY1NU5yVGl4ekM3V2N4RW1ySGxUYmwtTWo1dXF5ZFd5bGV2b1RVR3hDVGNOSG1fTncxU0xEWkxmWFA4SnNaTWNTMEN1aUJsQkJsT2V2Q0JvN1JTbXJGOEdaNUhZSE5kanJwbmFLVVNOSm1qTE1DbXNTUmN1OWU0eElpQlg1azVCOHR5TnI5NGQyQ2dtU3FNVFkwaVpaaUdLZjlwaXZfblBwRUw2ZXVHYkZ2WnJDNElFSGYzTFYz?oc=5",
+   "source": "We Love Tennis",
+   "date": "2026-11-22",
+   "reliability": "C"
   },
   "5b8b8b20fca5": {
    "title": "« Je ne peux pas courir sur toutes les balles » : Alcaraz fait une révélation sur sa blessure",
@@ -803,6 +871,20 @@
   "e778ea14a623": {
    "title": "ATP - Calendrier: Gaudenzi : «Les Masters 1000 sur 12 jours ? On peut en discuter»",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXJSZ3VPMTd6WE5QTGo2Z3VIYXlYTTg5VWdadU40RTNGQ0NqV2NjdGtXbHpfS2NKdk9DaVpKQmlTMnJ4SVBSTTNXbXR6SmVkTjYwVG8wWGNndUhDX0g3V0J1a0tNX1RGV28tVWNJLW1MNGtNTkpYdlRzb3hvTmhNc1VtWVFSWkFPZkVBSzdDalFiNGNyWThZdXphSG5RVHZnaGsxZ21QM2tjb0dRaUU4WEZLelpKQVZz0gG4AUFVX3lxTE16ZDRWeXVMV0VKQlBDaC1TaVZIa1hLYV9kSWltT2xWY29NLUl3VnlBSkNJTmxVaW1TTEJZbm9Kd1UtbjE5RG52dExHNkg5Z3QzaUpJVFoyZk91VHlCX0RaVVl5SFZoRUNUVVZuM1NSTV9IeUNLWDJlaTBTM2VnZF9TWExoRm9xMjhqTVZGbU1WbzVZSE1NZlR4Q0Y4NnZfdkFtZWpLVjNCNVpLaU1VbUxZa2x5YnMxVmQ?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-21",
+   "reliability": "C"
+  },
+  "81fd7013e9ad": {
+   "title": "ATP - Calendrier: Andrea Gaudenzi a évoqué les Masters 1000 sur 12 jours...",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVQtdUJiTDJLOFpQZThtVlg0RmMwWE02dlRwbWtsaWVlRHRXQlBtSHROdmZ4Tm5DWFlMTXd0dW1IUy1xOG1sNnZvMGtDeVlLbTU0ZGhSdThSMWtJT2dmS2h0VC1kdU11X0dGcDVsLWZYd1lnU1FrT095MGlJc1M0MF96N1hpUm43ZFhJczllaU11OXU5aGEyZVctcXgzc1IwUkVMZjBYejhZRnVtSUFvMHE4UdIBswFBVV95cUxOY3RTSWRwMVRYZk1NQTMtN0ZNS3RUTTFrWUlZc0dxQ1JqNFZKUUxCSExPNExWaUJMWXJrcXA0eWhIaTd5T0hGNzUyTlhfY211NmJUOHEzTHZ2dk8xZDVpRnlLX2V4OG9SRE1meERxUzRLZGlNcmliU3dCekpJbDBxSGZHZl85Z3pRalRsb2J4d2pFN183eGdka09XYkR2NFh4TEc1RGVJazZHcHBMWVRPaFByaw?oc=5",
+   "source": "Tennis Actu",
+   "date": "2026-11-21",
+   "reliability": "C"
+  },
+  "31cccde888e4": {
+   "title": "ATP - Calendrier: Andrea Gaudenzi a évoqué l'avenir des Masters 1000 sur 12 jours",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVQtdUJiTDJLOFpQZThtVlg0RmMwWE02dlRwbWtsaWVlRHRXQlBtSHROdmZ4Tm5DWFlMTXd0dW1IUy1xOG1sNnZvMGtDeVlLbTU0ZGhSdThSMWtJT2dmS2h0VC1kdU11X0dGcDVsLWZYd1lnU1FrT095MGlJc1M0MF96N1hpUm43ZFhJczllaU11OXU5aGEyZVctcXgzc1IwUkVMZjBYejhZRnVtSUFvMHE4UdIBswFBVV95cUxOY3RTSWRwMVRYZk1NQTMtN0ZNS3RUTTFrWUlZc0dxQ1JqNFZKUUxCSExPNExWaUJMWXJrcXA0eWhIaTd5T0hGNzUyTlhfY211NmJUOHEzTHZ2dk8xZDVpRnlLX2V4OG9SRE1meERxUzRLZGlNcmliU3dCekpJbDBxSGZHZl85Z3pRalRsb2J4d2pFN183eGdka09XYkR2NFh4TEc1RGVJazZHcHBMWVRPaFByaw?oc=5",
    "source": "Tennis Actu",
    "date": "2026-11-21",
    "reliability": "C"
@@ -819,6 +901,13 @@
    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPVkdKdldLM3ZQbVRNSVJSZEJkQW43ajR0dTBiemhhbldhcVZHUkNEU1VmRW1IelQ2bVNOaGU4blcxRGgxOXhRd09lUlZKMmpWYnQ1U2xyYXQwcS1CZUtiUE1Ud0tMcVlkdFNXd3BWQ3d4Yk1ld0FOWjVGb2drT05Ic0dSblg5QzZraTl2TzFVRnNfZFFNVnB2YTBZSF9vTkMwZE9BVEdGTVYxUGJwc2wyYkhacFVISXFCc2NxQkhvaDMtNWhhclFad3gxS3YwYlZyTU1BRzhvWFlhVDFuY3FiRmw1UGFFY0RKV1VFMVFMeW5nbG5QUVBxU0U3WWhzSG5sbVNWODFNSzVGUm15NEp6ODVzV3hrVHJIbW1lcndjSE1aSG8zb09VYQ?oc=5",
    "source": "We Love Tennis",
    "date": "2026-11-21",
+   "reliability": "C"
+  },
+  "b212bc4ed99b": {
+   "title": "Nike, Inc.: Objectif de Cours et Consensus des Analystes | NKE | US6541061031",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wMWkzNFltUEZLYVFmcHRUTDBQM1VFNjFSUmw5cUFWNDRNRXhuNEJRM1dYekdBVGFoYk1ORTl3aWh4cHBBZGg3NVo4dEtzS1JDNi0xZVMzZXlUNUNFVVJqRlZSOGJqUnFrVGU0TnczNTdkc1U?oc=5",
+   "source": "Zonebourse",
+   "date": "2026-11-20",
    "reliability": "C"
   },
   "84616cfb86a0": {
@@ -1155,13 +1244,6 @@
    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkpkempMUmFrWkRxZDc2c2wteGVWM21sRXB1RXoxZGYzM09hQmp4dTRKTk5ZRGF0Nm1MQlZkQjl5dkFhRVU1MmRnekxYMGRiVWFSUEM4ckc1Y0txdFpYY2dLSnBkM2RfYWxxdEJHSzJtSU9PUlNTRmtUd01pMldJZkZuTGFBREVYWXhReEpHcWRFdExDcU5FUGppbzQ5YldKTDAxU3lFM05CU1lz?oc=5",
    "source": "Punto de Break",
    "date": "2026-11-09",
-   "reliability": "C"
-  },
-  "88e508dc332d": {
-   "title": "Paris n’allait pas lui résister : après une saison freinée par les blessures, Alcaraz ne laisse pas passer sa chance de gagner un Masters 1000 à Paris",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPRWVHSHoxNzNzM09GRUxTRGlvOUpRYUhfa3BlOHh1aVBhN1Z2VFV2eTA0U0IwemhYQk9vdkRjdDZicjFaTkxsTUhtU3E5bjlaYUFHNnZrQVF2d3pQOGJzNTkwNDJJMHJwRWx0UmxkQkNuS2p6U2VoTnNLUzg4TmJFUHN1aHhaUjNta0x6RVBJUTBTTTE2RHN6S0Z6bDl3SzZXV1lkTVRQSklxQWtHTkxHZk5GbkYyMmpuVW5WcGF1TEV5cUN4ekVOMHFwZDhpeUdUX0JNd25HcDBXbnFScjMzZVJLdG9sSkRaQnZfejg3UGRMcmJXeUVhYkl1a2Z5QVZpdjgwYWdUX0p6eHBhd0M2X3Z4SFlYb3VhOHNPcHdIQ083VmgwRE92TEpsX2FaSldLMWNaM3RoNEFTR2pmbWdHMWQ3c2YyZw?oc=5",
-   "source": "Tennis Majors",
-   "date": "2026-11-08",
    "reliability": "C"
   }
  }
