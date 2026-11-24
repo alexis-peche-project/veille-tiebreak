@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:13:56Z",
+ "updated": "2026-11-24T04:48:51Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,82 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 9,
+  "added_last_run": 13,
   "feed_errors_last_run": 2,
-  "rejected_last_run": 384
+  "rejected_last_run": 405
  },
  "items": [
+  {
+   "id": "3726024e7613",
+   "title": "Bangladesh: textile unions consider manufacturers’ proposed pay rise to be insufficient",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORTZZWDAwYVk1SklweU1oWEtHODQ2N25Uc2FiOVoxMzAtRDFOazZTZ21PUjFPXzdtOWJNUVlER3FwS095OEtvRU42UmlOX2xzUnV3ZmZDUTFZeVVyWXRIZFliZUZVOTJ4QlRsOEZ5c3pJbXlObXhKZmR5MDVyUEN5N1dVbkJMcjZvLU05RVNKMUYwZG9sakVleTZyeXFIeW5tSkwxVGU0WlJFTmJTRDJmOUs3Z0dkVE1mNWoyQWtXZFJMVVNBeHV3QVlpdjhPMW5ETVY0WHZB?oc=5",
+   "source": "FashionNetwork France",
+   "domain": "be.fashionnetwork.com",
+   "date": "2026-11-24T01:35:54Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Des salaires jugés insuffisants au Bangladesh peuvent provoquer grèves ou retards dans les usines textiles, risquant de ralentir les approvisionnements en tenues.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3384bceec4d0",
+   "title": "Dopage : les règles vont changer en 2027, voici ce qu’il faut savoir",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZV9ET19FeHNXVXpaZFhHR0ZZSlA3U0tzb2JSTmhrUzc4blUwa3g5S2FkUC1LNkNXNXZSX3JoUDVwZlFLOXlCT1pvXy1veGZwU3NPV3dMMDlDbWstX1AzTFF5RnVPYTFmNURiWUdzS04tcTJrMW1Sb3lGd0N5SVh3V0NCdGN4bDRXNG9sUGhtMTlQN2EtWlh2UV9vXzlKd204UTlvY0pIVS1VQQ?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-23T22:34:00Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les nouvelles règles antidopage de 2027 peuvent modifier la crédibilité du circuit et le risque réputationnel des joueurs sponsorisés, donc la valeur d'image de l'offre Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d3e37ac521ba",
+   "title": "ITIA: Un Colombien suspendu 18 mois, deux autres joueurs sanctionnés",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX3dZZWljZDc4TEQtaGJpTURSd0llZmVfZnYwbEZoNjQybE1iQk1NZVotbXMwNnJjN2lTWmlfb2N0V1lMZ1N6V3BHd3Z5UnlyODlsWHF2YjBrNlBBcWhDeGxwV09Ydm5TalVEUnV3OGh3SF9tTWJWQTk1cHN5Vmh0ckluMUhLcnhId1FfRTJzQ0l2SGhodGlxbTdleW1LaXVPR2xFM1pyT0tIamd5SHdZ0gGvAUFVX3lxTFBET1RySVpYdjk1ckp1RjZBUGRBU3lJRXBSSlF1QXQ1dE1aQ1Y5X3lkcjNzdXZyLW45aDJUNlNZREFKOWRGMS1tQTE2dXdNQS02Wk1uT251X3NmbXRSQUN2SmxJMTJISXI5RmIyd3pPV3F4OTVjWmZiSFRqSHE2NThidk5OZEhpeWt1MEtaZ2dyZWoyVE1RMDVUWjZwOW1temo0VHZ1QjQ3NmZOZ1dLU0k?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-23T18:45:00Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "sanction",
+    "suspendu"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Sanctions de l'ITIA contre des joueurs : effet indirect sur l'image du circuit et sur les ambassadeurs, sans lien direct avec l'assortiment Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "5a141dba0cce",
    "title": "Dopage : ce qui va changer au tennis avec les nouvelles règles en 2027",
@@ -145,7 +216,13 @@
    "origin": "Google Actualités",
    "reliability": "B",
    "score": 2,
-   "signals": []
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Absence de Sinner de 3 à 4 mois : moins de visibilité de la marque Nike en tournoi et probable baisse de la demande pour ses produits signés pendant cette période.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "cf3d07426442",
@@ -236,6 +313,30 @@
    "ai": {
     "r": 2,
     "impact": "Une longue absence de Sinner réduit la présence de la marque Nike dans l'actualité tennis, avec un effet possible sur la demande en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e51e74e793b0",
+   "title": "ATP - Blessure: Jannik Sinner se dirige vers une opération et une longue absence",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNazEyRkZrZEtOZmo1M0oxQmx3N09iNFN6Si1NQ3RnY2xHcU00SmhqWWY4ZUpsLWdoOEwtREZiZkRxaW5aaGxONHFwSUJLWFpkWUozby1pMDJtRGJkXzFuUkpIT1JwOXVrTUdmU1FEcGd0WEUyalV5Y0FubElaZkptVVA5R3ptWHVBNjJGMmpaM0tBZEpoMHA0bVlnTXZqZF9UVU9XLTA2ZzZYZFBscTU4dWpWbm1nS3RuOTNhMmFn0gG-AUFVX3lxTFBlSE1rOHUwS0dudmtNV2FtbTAyTUtKMDJobHlvdlBmWE5rVGhNdHN6ME9US2dTUW4tbmV6NExzN0hxLVdraGV1Q05YanZCZmFsM0VwdTF1ZF9yRDdWNldyT0NkWW9RRzVFOTJKY2RSc1NiYXBFamRaZG5yd2ROZEtFWFctU3dvSmotYUVycnZIVjZtQ09MMWxzR1dsWEcwUERPWXozN2p1ZWE2Z0ZZRUJzVDZGdmJvZVVnZ2JlbFE?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-22T16:34:00Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Opération annoncée de Sinner et longue absence : ralentissement de la dynamique médiatique Nike au printemps 2027, avec effet sur les ventes de produits associés.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -420,6 +521,28 @@
    "ai": {
     "r": 2,
     "impact": "Une blessure d'Alcaraz, athlète Nike, peut réduire sa visibilité et influencer la demande pour les produits Nike associés à ses performances.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d4a5a9a5b172",
+   "title": "Fashion brands' response to Cambodia minimum wage increase",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOWhYYTZaRWpKVVJ0MmtuUHZneEVJTk51a2ZiLVBwclhnalZuZHgzaW1MeEZPLXdaVGR0UG95ZzQ2RUVNckJaNHBOTTVCVmFDUFRJbElYODNzb3UwT2Q4LWJBNjhYOE5fNzQtY3VhTDFVR096QzQzaEVLTlJfc2J4d2cyQkc2UEpUV0JUeFM1ZjVQc3AydkxkeHNWUE9YaUI0MnR0RDJnRU9aQzIxM3VZ?oc=5",
+   "source": "Business and Human Rights Centre",
+   "domain": "business-humanrights.org",
+   "date": "2026-11-22T08:00:00Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "D",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La hausse du salaire minimum au Cambodge augmente les coûts des sous-traitants, ce qui peut se répercuter sur les prix d'achat et les tarifs des tenues Nike.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -623,6 +746,28 @@
    "ai": {
     "r": 2,
     "impact": "Avenir des Masters 1000 évoqué par l'ATP : calendrier potentiellement modifié, à surveiller pour le rythme des ventes et des collections de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "a6efde374902",
+   "title": "ATP - Calendrier: Gaudenzi a parlé de l'avenir des Masters 1000 sur 12 jours",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWNuNmJUODAtTjZwbXIwUlM4OGlDY1dKeUxBYlo0bnBRdF9JQUVGSkpkRkFyVi11ejNZekhPMGF3Q3lKX1l6YnpWZUpEYmNNRUJydGlJY0x0ZWhta2dPd2czLWhrQ1A5d1lOaEVVTnRrblNPVkFkTUZzZG5malBXcmRNdVppNkdlOVlrazA0T25xSHNOWW1ybEtQOGlTT01rRTN1VDFWanFJZGpsQ0RJcjE1U2FDZm520gG4AUFVX3lxTE5tb1NlQU5kajNTSmNJMWNXRXRGcTBUOFJOS0Q0bWl6OFlSdlpXd3MzZ2MxTDZyTVFlQ09sSDFWcTZRRUNxQ0lDRmhDbzJqU2gzUmhZQ19JdnItMVY0YWZWaW1FMHRaeGNmVHVrcUs5SVRVdzlENGRLLWozSUlxcEMwcmR5aVd3M2FIME9rd2hCS3E3NVpONWtvVEdjODVfTi1hVVRXSDd5MFYzRk9menhQOVN4SVFaTzk?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-21T14:50:00Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Discussion sur l'avenir des Masters 1000 sur 12 jours : possible modification du calendrier qui influencerait la saisonnalité des ventes de tenues et d'équipements.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -1040,6 +1185,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
+  },
+  {
+   "id": "64cb68901a94",
+   "title": "Bangladesh's CPD proposes new pay benchmarks for RMG workers",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbDlKV2d4ajM2dmtFSGJrUUdkSjVDeGdzSTFsNUlJZXE1bFZMUnJqTm9sd08wT1ZxODd0WG5oX2JWLTJzdHNrbk1lVXVFeG1iMXJFcUhiU3RLeEhWbUo2TV9aNzNlZUlSNHhoZW5wWVo5QS0ya0F1aWtzX2pfMko1X18xb2xTcXdmcEVtc2xsem1JZi1Tam9PLTBrcTVYMGYyZ1hlblk1THdfc1NkYTdQVWpsRldVdUxYX1I2LTB0MkR2cHNLVldkY3FsNA?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-20T05:52:37Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Proposition de nouvelles grilles salariales pour les ouvriers textiles au Bangladesh : hausse probable des coûts de production et risque de tensions sur les délais.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "18d3ac549d60",
@@ -1926,6 +2093,28 @@
    }
   },
   {
+   "id": "8989104346dd",
+   "title": "3 Major Takeaways From Nike’s Tepid Investor Day Forecast",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLS1KNWVCODRpalp6SEU0SEFLbi1lallpZlBOS25TQjdncjA2ckZTMVNCQUtwZFJ5c0pCSnVUWk1qVktQR1ZqSDE0VnZSRFY4d0R0ZlY4c2tXN1lrd2piTEw3bHBnbm13NG8yQ3I5U19ISE5jSHFTbTVrV1M5NThTNDREV0o3aHNqcUpjZDQ0T3dCUjMxMGxkb0s2MG0?oc=5",
+   "source": "Sportico.com",
+   "domain": "sportico.com",
+   "date": "2026-11-17T22:07:36Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Prévisions tièdes de Nike jusqu'en 2029 : pression sur les marges et sur la politique de distribution wholesale, donc sur les conditions offertes aux revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "dc133f27d780",
    "title": "Le dénouement des positions sur l'IA se poursuit, mais Nvidia dépasse les attentes",
    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTUZQbDZBbk1rVXJfRFBna1p4NmVCVkJYMzFtOTFpSlUxSGR2WFhMZWozeWFiT2l4cDBILTY5RmlzMEt1Vl9sUDZDamtVLURtcUhjRFVBUEYzR2VUMUFIUEZZUGJxbkxHLUZhZlBjOUpwUU9hTk1qVm51T3ZvZENWNDlNQnFUZlYzS1hJd1ptVnlMSUQ5a2tQejBreWc2TG1EMHlQSGxMbTIyUFF0YWluSjFsLTVJcnBhLUdhcFRMRkZlTTdZaHIzeEF3ckJQblk0d3djOTd3b0xDRE1DeGhGeWhqYVZiSTJDblJfS3pnU214T09pbUHSAfYBQVVfeXFMTU1GUGw2QW5Na1VyX0RQZ2taeDZlQlZCWDMxbTkxaUpVMUhkdlhYTGVqM3lhYk9peHAwSC02OUZpczBLdVZfbFA2Q2prVS1EbXFIY0RVQVBGM0dlVDFBSFBGWVBicW5MRy1GYWZQYzlKcFFPYU5NalZudU92b2RDVjQ5TUJxVGZWM0tYSXdabVZ5TElEOWtrUHowa3lnNkxtRDB5UEhsTG0yMlBRdGFpbkoxbC01SXJwYS1HYXBUTEZGZU03WWhyM3hBd3JCUG5ZNHd3Yzk3d29MQ0RNQ3hoRnloamFWYkkyQ25SX0t6Z1NteE9PaW1B?oc=5",
@@ -2119,6 +2308,28 @@
    "ai": {
     "r": 3,
     "impact": "Une IRM pouvant modifier la situation d'Alcaraz aux ATP Finals ferait peser un risque direct sur la visibilité des produits Nike qu'il porte.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0f74c2028161",
+   "title": "Nike targets a return to growth, aims to generate over $5 billion in additional revenue by 2031",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDdPeEk1QWdDMzRoUzNWU2VEM0hpM0hUSlJHSW1feDllMlpGYnd5UkkxSThjNUNsS1FpREV3dndNYUp1WWtCWm1iTWh3LVhjSFRrbl9YVEJyTGZRbzBxYzRlemRLMElIMHh3eHRPVU5Rc1N1ZVZBRE1Mdk1yNVZVNnBTaDM1Y0gxZkREakNmYWloS0F1eTY2ZktuV0UzQldoT3JFdnJ4Y095NVU1MDhPQ0ZmT3F6X0NLRUdibU5PWElBZUIyMDlsT2pRU2FuNHFDajRXZ1ZBTXY?oc=5",
+   "source": "FashionNetwork - The World's Fashion Business News",
+   "domain": "ww.fashionnetwork.com",
+   "date": "2026-11-17T18:54:05Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Objectif de plus de 5 milliards de dollars de chiffre d'affaires supplémentaire d'ici 2031 : signal de retour à la croissance, à confirmer, et à surveiller pour la stratégie wholesale.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -2391,6 +2602,28 @@
    }
   },
   {
+   "id": "e60fb5714b7b",
+   "title": "Saudi PIF retains top sovereign wealth fund ranking for 3rd year: Brand Finance",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbF92bGVSUmlHN2VDUDRzdDB6MldJeFhTS2ZSdzFzdjNHQTdGd1ppMDZhVDZwSmpTSkkyRFFOV2hTSng5SVRKenRvYUhwMWlyMjJHYkJISmJoTFBaTG9NaV93aFMzdGN1QVFmU3BEMmhQVTdpbHNBZ0lRRFFXdVVEbXJGZUx6RTVyemVMdFd4MnllZXdrWUV6WnR4Y0gxVUlqajduRGh2U1kwOHptd0c0bjBrbG9oazRRcTJxdQ?oc=5",
+   "source": "Arab News",
+   "domain": "arabnews.com",
+   "date": "2026-11-17T14:11:57Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Le PIF reste le premier fonds souverain selon Brand Finance : sa puissance financière soutient le sport power saoudien dans le tennis, source de tensions de gouvernance.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "7e9a5ce112ef",
    "title": "Nike vise une croissance de ses ventes en 2029 pour rassurer des investisseurs méfiants",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUTZUbWxPZnpOR2g1dUZqcC04WWZ5UGp1YXVLcm1QMTVkS0pBNExSdUpzM2ktS01RS2RFTy0tTm5NMUJfVmVHbUhlVno5UmRVZVpQZFhBS1hwOEtoTG54MmtZRHRBOGdQVFhQTHFxUmxfNERjamVobTVlTEtyWEVDNzhLbFZnSUZ0dlFSbHlqY21ENEtxT2NWME5ja29Uc1ExVUFKczZnY3FVUHhHLTJDd1hQZzJfTTBKcGV4T1N0eXZVOFN5VElIWHhpTllDSjRXbno2V0NkSFh5TnVfZW9xV09GTWxQOWF1aE4yZ0xKQkU?oc=5",
@@ -2501,6 +2734,28 @@
    }
   },
   {
+   "id": "532b2c6eaf43",
+   "title": "SpaceX makes up 80% of Saudi sovereign wealth fund’s US stock investments",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN2xBZnhIVjZ3QTRVcGJ5YWxacVhORjc3UHYzbnpVbFd0a08zQ0FYbzRBTjBmaUhQVll1c0hBeGROOC1mblE5STdnOEhwNWR4VXdOaDRuUXRtOWE2WmRUWXF2WnFhZ0hCRUl0eFhsZ0w4NWhlUkI2bmhhLXQtOWg4ZmpLOVlSRkE5TTlja0NxRE1fUmliMU1kMTVvZkd2WFdGUUpBUEZERUtYNEZEUERkNmRB?oc=5",
+   "source": "Arab News",
+   "domain": "arabnews.com",
+   "date": "2026-11-17T09:31:09Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Les placements américains du fonds saoudien sont concentrés sur SpaceX : contexte financier lointain, sans effet direct sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "13d01194825a",
    "title": "Nuno Borges - Moïse Kouame",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdkotVUdQU29OdVFVeWtvYWs1Y2ZUQnB2ZEdWS0V1amVpbWZIT3FYWnk2Q1BXSFBKOTdMd2l4VUZMUzhfVWNXNmcwczY5Z2lXUUNseTBwRTBTck5HSWRKY2dxb1dvZjk0djVaUS1DUG9yaVRJN1J3YlRyWDk1UzNIb1RJN0N5QjN6V09hUk1ObFpkaV9LOEF1ZllKMndrbUItX3Vv?oc=5",
@@ -2542,6 +2797,28 @@
     "r": 2,
     "impact": "Chaussures particulières portées par Alcaraz à Turin : possible effet sur l'image produit d'un athlète Nike, à vérifier si lien avec Nike confirmé.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d2110f2e9fda",
+   "title": "The Special Shoes Alcaraz Wore in Turin Have a Powerful Meaning",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORE1uRGpVdHRHUDYzWmZCU0dDQ2ZvZnB5RTA3NG9wZ1pqZkJNWlhPaU53UGVfQUxNaURzMlNsMUlIS25NUWdhdkxZV1g4ZEt5N2ZPQUlYSXNQbEV4T0xGOFJib1Q5QUU2YlZtM0pDdUNnZTFnbnVISzJteGM3ZmJEQjFnaEdCV3BjZnpMVg?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-17T09:26:21Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Chaussures spéciales portées par Alcaraz à Turin : visibilité produit potentielle pour Nike, pouvant créer une demande de modèles dérivés en magasin.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -3224,6 +3501,28 @@
     "r": 2,
     "impact": "Retrait des Next Gen ATP Finals d'Arabie saoudite avant terme : signal d'un recul possible du sport power saoudien dans le tennis.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9d6b97ab6891",
+   "title": "Sinner Warns Young Players About Social Media: \"My Advice Is to Stay Away From It\"",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlcxSldWcmREVnlXdG1Wa0luT0V3Z1FaVnRheUtBbFpLOXBVSWxVVVk3anBtV2x5Vks5ZElkUGxycFAwby1YUDJ5WkhMMUdKeGl2cFRkZVRHclBTTHdWM2N0YXoxaFlUWFZQZl9zNFlHeUVJblQ3emVFM3duZEdoQWdXSnI4TUdGNmFmVktXMA?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-15T07:07:50Z",
+   "first_seen": "2026-11-24T04:48:51Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Mise en garde de Sinner sur les réseaux sociaux : prise de position personnelle, peu d'effet direct sur l'assortiment ou les ventes de Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -21782,5 +22081,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-23T20:18:57Z"
+ "ai_updated": "2026-11-24T04:53:46Z"
 }
