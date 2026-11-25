@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T02:29:48Z",
+ "updated": "2026-11-25T14:22:30Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,320 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 28,
+  "added_last_run": 23,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 408
+  "rejected_last_run": 411
  },
  "items": [
+  {
+   "id": "15a6412d094e",
+   "title": "Tennis de table, danse… Les animations du Téléthon s’étoffent à Gavray-sur-Sienne",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZkRheXNOYV9JMHlfeWFVQjhmZXc3X3F2c2ptSDhoenFWV09VUW5BQ1hSTHVNVkJkcUliUzdoNTctOUo5cXB1dnBER1BRaVRWY2QzMy1mRi1mREt0TktzQXBnWWEyUDN0akpSV052cGVvSHYxUF9MVUJKZjZkeFlRVXkxV3dUMlJmNTRxRnBTT1BJd3REajM4ZXNUYTE2S3MxLV9rbEl3WGhiMzQxVkRjMWlEQW1EbkdEYVJYcllIcmw0Zk4xVXQyQVFUc2dZYS1kLWRLZ2xRcGlEd2VHTGpRdndIN0JNTnlucENId0pnWF96TUxmaXE2cUxEbExtRUFkVFcyNS1JdDU?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-25T13:39:14Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "921767cf4770",
+   "title": "Newcastle owners PIF looking to sell up to 25 per cent of club through new shares",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRWNicXBnQUZDVmdMSjdPdE1xMzI4MEJyMFRkbFZET3I4X2k2WExlVEZ2ZkpseTRTbG44bjd3c01IODY1OHJOdnh1d09YWllrdzIyUTlGR3hJY0stMHFUSHloc0Mxb0ZMRXVzNVBkSzNmVUVBUXB4YTBDWUlwYl84ZjEtWHBSQURkN3NCaVN3aUVwbDQ?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-25T13:37:06Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le PIF envisage de céder jusqu'à 25 % de Newcastle : illustration de la stratégie sportive saoudienne, mais contexte football, peu directement lié au tennis de Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "14522acd7ff6",
+   "title": "« Des histoires différentes, mais un combat très similaire » : suspendue quatre ans pour avoir refusé un contrôle antidopage, Marketa Vondrousova soutient Arthur Rinderknech",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNamp1R3dtZlNvZlloa1pUdHdqUXZ3dGdrUlhpaG9Qc0hkVy03MGdvdm1HOFc2ejFnX2F1XzBEUjdEa1JrQXh6bEtlVzk0NklSNzZlQVhyNG1RNUtZdmkxNHhYVjRvek5vckFlRmRVWko4ZzZZOWFQd2JMMWVyd2NuV0JUTjR0RjVYU2Y5RUdOREpWeEstdkk5NUIxQWhmNHJTV19KTEEya3U1RTl0ZnY0cXFGaTBZaHlXWW9YLWUxem9IQmRZbGttSmZHcHdXcEp0UnRuN3I0eTlHbVpfbXFBbDFIcERJQ0V5cmpfVVBhWnB3ckdzbElma3hTNF8zMV9sTU5HNnB3Y1czZGNUNjdMNzQ4bk1TS21FU0JsTTdJZGVUeDVOWlZtMDRHM2RHMl85UlNGNzRSV0E5NXc?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-25T13:01:31Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "suspendu",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c3d361d31a01",
+   "title": "Tennis-Rinderknech inculpé pour refus de contrôle antidopage, le Français nie toute faute",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQZlpuTURMd2tXRU8yRkFucTdOS0R4R21aRHVYNlNvUU9qLWVzYy1Kbms5dmVGcXFIR3JXX2JTNUQxWlBPZVVYWVBuVDRGeXhwZC1kNUxyTHpZakVuQUdSWjN4UXFIV2JvZmRhYjJwc2xqMWlMQlJtalpMUzVNSktiV2FJenBuOE92ZTJOMTB6TzJOQzZaMVRkdmppeWs0bmlaWHVXcHk4ZUplby1wdDZjekZjRThveWVqbk9Qb0R6aXVlQTBUbG5HRm5CUkZfY3A0VnNqcnFrSV8xZDdPNEh6bTl5VWYzRzVLM1RfRmVxOS1kTTU2Nl9ZSmN0N1BSQk9GOWMweEQ2M2w2MzV3ckRZbTFB0gGSAkFVX3lxTFBmWm5NREx3a1dFTzJGQW5xN05LRHhHbVpEdVg2U29RT2otZXNjLUpuazl2ZUZxcUhHcldfYlM1RDFaUE9lVVhZUG5UNEZ5eHBkLWQ1THJMellqRW5BR1JaM3hRcUhXYm9mZGFiMnBzbGoxaUxCUm1qWkxTNU1KS2JXYUl6cG44T3ZlMk4xMHpPMk5DNloxVGR2aml5azRuaVpYdVdweThlSmVvLXB0NmN6RmNFOG95ZWpuT1BvRHppdWVBMFRsbkdGbkJSRl9jcDRWc2pycWtJXzFkN080SHptOXlVZjNHNUszVF9GZXE5LWRNNTY2X1lKY3Q3UFJCT0Y5YzB4RDYzbDYzNXdyRFltMUE?oc=5",
+   "source": "Boursorama",
+   "domain": "boursorama.com",
+   "date": "2026-11-25T11:59:15Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ef73d5a6acea",
+   "title": "Tennis. L’antidopage confirme enquêter sur Arthur Rinderknech « pour avoir refusé un contrôle »",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNktyR0ZfRHd2X2czLW5yZUNEVkVfTGlEcERNWnlERzZRRW1lMXF5OW9NSUtKNWxXbFdSUUpvRlVTSGRrOXVxeDZCWTlSdVFMVk9rSXZRemhLcUdHb1JOOTFlT1J5RHRrMWF6RVV0c0VRTFdlWW5Sd0VBb0R5LW42SWZlUkNoWWJRUXFGWW96dlVnTzdjc2ttY1ZjLVRqRTJTTWNiejBUSlpTQi0yWmx4NUVHSkJLLWFvS1RmY2VzOEhEdTlhRURpdzhscDhSRFZTRGZzc0N0NmZvM25ZdnYxZDlpekw1cDljWWRaSlJ0OEhNSG5Zb3RKeTFNMA?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-25T11:05:48Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "c3d3f3d52453",
+   "title": "Tennis : l’antidopage confirme enquêter sur le Français Arthur Rinderknech, soupçonné d’avoir «refusé» un contrôle",
+   "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQXhzcjNUTWpBaW5tNVl5NWw3NWVSeHg5c0ptSXdlR3VUX3E2dTVfeXA2U0VON1pMbi1fZURmSjRhaFczbWl6bzRFRF9CUV9yYThnTzNjUnRrRExPWW83d0JBZ3F5amx0azlhSTZZejlTRUtzTmV1ZDJYZnNLeTBQcEx6N253MHhpRlB3Rk5xc0JIdkphbVpNcTRieXhwYVhQRzd5cDI4ZHJIN3U2N0QyZ0Z3WDUyV2hENmdGMm84VV9UTmxJWEFKZUdySzlmYWhhamNRdXpuWnNWeVFFNy1NcHpRdmM5SFA2ZzZJcEJYY2dCdTAwMVp4aG9PSXduZWRRdTBHV0hLVVNwZi1EaG1acXd3?oc=5",
+   "source": "Libération",
+   "domain": "liberation.fr",
+   "date": "2026-11-25T10:59:32Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2b7112c37341",
+   "title": "| Record US imports: Real demand or early orders ahead of tariffs",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNREx6d283NGd0a3hwTVBhZFRVXzRha0F5X1N0N0lKdFNrNkRjb0pWcDRsNV9rUmx4cDZTaHlKODF1MmFDeGNNajUwYXpPSXBtXy05cDJiV3l1elp2ejBpa3VtWTUyVGRuVnBnWU9hQ3l1RlQ1amxLQU5rRGo3YW9XbWJqVkJWdF9CdDlsdWlUbDVKTGNkVGRPRXJ0QUhyUkVTRnhDeW9Jc3pkOUNOVFo5bHdyS1F0YlZ0VjByT0VEQXBldmpyMnRKSDdyRTVUcUdPNGdGSHRjVkQ4N05NR3J6VFBLUERFUmJrNmZkRw?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-25T10:57:26Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Hausse des importations américaines de textile, possiblement liée à des commandes anticipant des droits de douane : signe de tensions sur les flux d'approvisionnement mondiaux.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "033cd0e43116",
+   "title": "L'ITIA confirme qu'une procédure est en cours contre Arthur Rinderknech, « pour avoir refusé de se soumettre à un contrôle »",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNHEyV3J3Z1l1bjBHdWp6SUVSaEFPaUFQcFRDaExydkVTX0JUM0NQbHl4aDZjQ1ppOWVUaW4zSVRTMGtOejNVV2lGbkdTMC1qUjEyQXVKTmNkekNnb1BQWFhFTnVqbjNPVUwxcG1JTzY0WnJVWHFyM0dxcmlmU0VKVkdJMkJlcTN5Ymw5VG1scHZWVGdUMW0wbmZma1dldW5PNUllbXF4OHNPbVh2Nm4xTC1pUUdEUDhVRXo0ZFBIV08zdl9VS3dRalVWY2JBdHZHWmwtc1A3NXlYTjh6S2Jocy1aZXhkVF80RndScHEya21hcUxiSENoVW13TE0?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-25T10:39:08Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "0744a3f3a6c0",
+   "title": "Video. European Parliament 'absolutely right' to ensure US tariff safeguards",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3BNQ05WVGhuZWdBYlBIcVBmUGF6N1lOQ1ZtMVRSS2N2MURPa2VKQmFGSXJvLUhYMkw3SExUaHFOVmJtd1dSMU5CQ0JtWGg2U3hKaWZZTnYyXy1uMkhIMTJBaG95aXRkR2RYOW40WjdpNWZZenJnYmpGNERpejVTdUxIMktPbGNyNjkxNmhIem5mVmh1N3JGYTAwMWp6Ump4TlRpZEhwd3NfUURTamJteWt3ckwzVzZSUm1VOW9fR0llb2xLb0ZMRU9B?oc=5",
+   "source": "Euronews.com",
+   "domain": "euronews.com",
+   "date": "2026-11-25T10:14:36Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les garde-fous tarifaires UE-États-Unis pourraient peser sur les prix d'import et la stratégie commerciale de Nike, sans effet direct avéré sur Tie Break à ce stade.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e8f06845be5a",
+   "title": "\"Je serai innocenté\": le démenti ferme de Rinderknech, sous la menace d'une suspension de quatre ans",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSVZNbmh4Y3A1WTZybGtJdU9uQlpQTHA1TmVTcDdnaVluX09ma3VxU1hYTEZLbWlYdFpDLUd2czhoYTNtSmFYMTZMNDBnNmU5clNYYUlOTzVnWFZyaGxxeUNMQ1dkeTh0ZlN0SVNCcEpTemlHdEtUVkJLY0NYaERLbmZ5V1NIeDNPRFZ4VlBLMnRoaG5UbmpFVE5iSTVqTzNWQXhhczRZQVVZNVhHWnRvS1ZUNC1ZM19BSU5pa3prYVBwTXRXb1M5d3MxNjhXVU12al9md0hMUWk5RmJWOHY2bms4MTZmUQ?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-11-25T08:10:04Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "suspension"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b285c00f57fb",
+   "title": "ATP > Rinderknech sort du silence dans son affaire de dopage : \"Je suis convaincu que, lorsque cette affaire sera présentée devant le tribunal indépendant, je serai innocenté de cette accusation\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91NDBxS3VoeUZzS2ZsQXZtTG5nY2dZbjFJXzJRQ1NTOUZkREl6SWdRbXdnR2dRM3dnRUVpWFgwa2RHRVlaSjI4bkpUWUtWZw?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-25T07:31:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "97ccf260ce84",
+   "title": "Dopage > Rinderknech défie l'agence antidopage et risque très gros",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVzRYdXZjZllqUTFxUy1BY1hkOU1NTVdkSTl3TTVQNVkyanBoczFkd0tCdUFwVDZXb19UYW41WlE2eUpEZXh6R1pLSHE4dDVtS3k5U2VseVdCblJwV0VYdnJMcUJRZUNLcWNwMXZqaUMwd3I2VTM2X1hINkdDUEdaS183N0o5cFVITy1nM2l5ZTVOMG03U1E?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-25T07:08:24Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2fec182e5126",
+   "title": "Black Friday Nike : voici les 5 offres à prix records à ne pas manquer",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzlPaGJ6VDBwUWhXdVBqeVFBUmtpeEkwRDNwUl9vd3BGRkFPczF3cVZvN1FHNjlRQ1JpcFd3UVJJVmMzMTJyV2NRaUZaY1licEJrZjhCY05aZDZtLTdvTElTdmFDaV9jMWkzQ2NBNGh0eGdZSVQtV0N1WUh1QjJvc29rcnRlTkd5TDNheDM1dXp4eGZ5a3BNblBsU2tWdXZ6YmNhZGY0MnBTX2pHbWJfeGx5djRHS2NXNzFudkF3?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-25T06:22:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Promotions Nike à prix record pendant le Black Friday : pression sur les prix pratiqués en magasin et sur la marge de Tie Break, face à la concurrence en ligne.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
   {
    "id": "7fd57a0c5ce0",
    "title": "Dick Chairman Says Nike Made the Right Decision on Jordan Brand",
@@ -32,6 +341,30 @@
     "r": 2,
     "impact": "Nike accepte un coût à court terme pour sa stratégie de distribution sélective, signe que les revendeurs peuvent perdre des lignes. Tie Break doit surveiller son allocation.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "47999b6dc8db",
+   "title": "« Convaincu » d'être innocenté, Arthur Rinderknech « conteste » avoir refusé de se soumettre à un contrôle antidopage",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUHNSMGtvRldkbTc2WXUwRklaUWtpdmJ3cUF3VnZQV0NaUnNGZ3R3aG9IcjJXT2tMSFVPazZuNk5WUjlUcUNrbjcyQjI1U1RSQTFRMm4wN3A2NXk4VFk5d2ViVlZmbjVMeWFHZ2QxdUVOc3BPLVVseS1hTlF0MDk2c0M0UTVuVHE5cF91NGtPLVJMd1NyWmx3eGJXV3lwb1BNb040eDdZcWE3T0U3RkRveGxPcjZUMHJyLWdldnlqUlo4aWxibnF4bC01WmRlNzEwd1RTMnlqUTJhcTNKWS1EdEVtaW0tbExqajBmXzl4OA?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-24T23:50:13Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Affaire antidopage d'un joueur français, sans lien direct avec Nike ni avec les ventes de Tie Break ; peut peser sur l'image de la gouvernance du tennis.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -268,6 +601,31 @@
    }
   },
   {
+   "id": "9abf09ab2059",
+   "title": "Guerre au Moyen-Orient : les Houthis visent l’Arabie saoudite, la plus haute tour de Riyad frappée pour la 2",
+   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNnRXNzE1azNkZVpleG5Udkpqa0ZhbmJUSUFmOFJvRy1lamlfOGlWbklnMktzb3JrYzVTYTN3NkZybm9TSWVZSjA1dnBNaEJuQlZwMkdsUmQ2R1Bwb0FidFFuREh1ZGtnVlU5c3FrZ29vckFFeUUxaHYwQ3NtQmNTXzd5NUlSbmZ3RUFZQWQyakFiMTM4WGRsd2JGODM3bFFfaFNqbGl6bV9Sa0ZZSE1NVHoxMUFDN1Q2WGRJRnMyc1dyM2hxN3JVUFRTYVhHa1Y4X19zTXBnYzRURGpjVnpZczJIMFpIRERDWmQ2WjVzYlNyczNneHQ1ZmEwX29icVNwck5aUzV2MTk5UDZxU0RyV3JuTndONVJMYW5Gb0VSOEpVTEpS?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-24T12:46:08Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E2",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "houthi"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Attaques houthies visant l'Arabie saoudite : risque géopolitique en mer Rouge et au Golfe, à suivre pour le fret Asie-Europe, sans effet direct avéré pour Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "2f996535c134",
    "title": "« La bles­sure de Jannik Sinner a été tota­le­ment sous‐estimée. Quand on en arrive à prendre une déci­sion pareille en novembre après quatre mois, c’est une défaite pour tous : du joueur à l’équipe, aux méde­cins », estime Diego Nargiso",
    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQeEhpRkhFYl9qdTR5MkFtc29uR0hyem9tcHRULUtJVlZUdk02d3ZZdElrdmpLVzk0Y0d6bTRQUlZfT1hfTFlQdmEtdjRqVDlGNFN1TjhjUU93M0lCQlJSOWl3QXllblpURGlERi1FM0NfNHp2NkVGVjkyTkg2Ylk1MXBadFJ3cFZ3cHU4eFZORFZVYXZTbWRrN3NHRW5BUGVyY2R0VFJDSmY0Q0RWWGxlQm93YVh2c18zR3RrbTlaRTVEb1hSdmQ5d2JEQ0l3UEJrWVA4ZjBabk0tcDlUc1JYTXhsNVY1Y2pZazY2RlhibjduS25rQWJsaVlBYlJZQnhwMVdVYUM1UFdOeVlRQVdxY2VYeVlIWXAyRHktaHVOOHN4dzJ5ZlU5LWxVd21NTzZMTm54eW16TQ?oc=5",
@@ -473,6 +831,30 @@
    "ai": {
     "r": 1,
     "impact": "Sanctions de l'ITIA contre des joueurs : effet indirect sur l'image du circuit et sur les ambassadeurs, sans lien direct avec l'assortiment Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "3fc5d6fd593c",
+   "title": "Corruption: Un Colombien suspendu 18 mois a volontairement perdu un jeu",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUp4eHJOVnp3UlZRWmdFdmNLeU9xcFlmbnpIVWV3STJBT0ZQYWhMNUoxaHVHeGg1ZnBzS2hydkdEN1VJX0VmaEh5VnNEM0hyaGZXazRXRVhYY05mRTlKSUZpazgxcFV4eGhxTUdnWFk2M25LTGZpcFo2V19ZZlgzZTNKY1Z5QXE5TkJVZ2o1UERTRUJwUWVuQzhrM05HaXNxcndKOWxyTkVQc2RXU0xwR0Y5NGvSAbQBQVVfeXFMT1A0dDRLNUZFZm9zVEI0b2dMSVBWajN5TEhrdndjWm53WmxzYnlPX2NxSWtwUmVBNFNMNnBINVkzNUJ3WTBfWG1nTXNjcXRCdk16Z0ZabG5pYUl5QjdpbmpPU2RhV1VKZVdZSmluTFZRMzdtbkxYRWtNZ0NXWWRqTTc0dHY0cXZqa3E0dHJ3MEVQX2dYcm5UWEdXb0ZuYjdCdjlZb09fZGk5UDJrNnQtaURzNi02?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-23T18:45:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "suspendu"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Sanction pour corruption dans le tennis : affaire d'intégrité sans lien direct avec Nike ni avec les activités de Tie Break.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -1670,6 +2052,28 @@
    }
   },
   {
+   "id": "40769bb4bdbf",
+   "title": "Why It’s Still So Hard to Shop for Sweatshop-Free Clothing",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOFg0dG92cFlEbHRKQ0gyN0NtQVZMclRscTk3RUJzcl9ZYjh4dm9UaExGTFdXd1QtLXhCbUNycHJBWnh0Vzk4YlRyY25yeEc2LVBMS0U4SXBITUJzc2dGWjJWYXljYXFMZFNCSTFYLVRVRFN6cHRlNE1Gb0pMYUdsN2xibFJ2MWVRNmJSLUFYcFpmbmtTV2dGZUJPUnFUcXV2VTU2dy1ZcGRBY3pYTUE?oc=5",
+   "source": "Bloomberg",
+   "domain": "bloomberg.com",
+   "date": "2026-11-20T11:00:04Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "La difficulté à trouver des vêtements exempts de travail abusif renforce l'enjeu de traçabilité des textiles Nike et d'un argumentaire RSE en magasin.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "cdaa562970fb",
    "title": "Middle East latest: Saudi Arabia confirms strike on PIF tower and condemns Houthi attacks",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPam9XS0tmcEhaa3NBUzd2bUJ5ME1FWktqN2hhaVFzd2k0MlVDaExwX0EyUW84Ylg2QkNFZ2FMTC1RbkZ2VGtUNV9xQzhMQ1lhcklId3JXbGQ1dTBHNDg3Qm0wT1RBWEZYRGFIUjZ0YVZlcHI3NUcyZV9yNFdaam9qX1FHZUtIbnFpRU5EU2dxMnRXZ2lRNlpfYTFJWQ?oc=5",
@@ -2510,6 +2914,29 @@
    }
   },
   {
+   "id": "c05e60011c09",
+   "title": "Nike’s Long Road Back to Growth",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHlWR01POU9mZk1Sc3BHeFhHY0VlWlUzMmFybW1id1RldVB5MVRXZmUxVUJhTHoxMHRDMkg3UlJZbmNyWXpvSzMxc19HdFk1YmRoNjFrcFVPTExwd2JMNl9TSEpCREUtMUtnd3VsUHJrSnpRUXhuZ2V3blRxZWVDeDY2X0dGQkdk?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-18T05:30:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike sustainability",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Le retour à la croissance de Nike reste lointain : risque de moindre soutien marketing et de tensions sur collections et délais pour les revendeurs comme Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
    "id": "9e2711eff406",
    "title": "L'ATP prépare une révolution pour 2028 : Acapulco supprimé, Rotterdam déplacé, plusieurs tournois changent de surface",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazZFRGg1dzhjSWc4WDhFdEZtdDk1SU5pT2JaRFRyMzBnUUxXcWZkc1JsR1BQQlNNVGJKOWV5TWdzalY2dzVqUV92NFpUcmhNRi0tODlGLXdWOWlpNGxMdV9wQzJ2Vnk4a3ZKNzl3UHJMSHpDUnJSZVkyaHR4LUF1V1lTaWdEUm9yWUg5LQ?oc=5",
@@ -3106,6 +3533,28 @@
    "ai": {
     "r": 3,
     "impact": "Objectif de croissance des ventes d'ici 2029 sous la direction d'Elliott Hill : feuille de route de redressement à suivre pour les collections.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b0247c7b970d",
+   "title": "Nike Expects Performance Athleticwear to Drive Long-Term Growth",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlA5VXljdFFHYVJEWkFLNXBwTjJjUEJiNGhfMjRMWjVySGhpUno2NzVDeTNKNmFyME5HWXpUX09FS0pTZ0praXFTS2tRZjJzc2xTRjRWTEtLOUZPaGQ3N21qRlN0TWRJQ1pWdWlnQUFTbGl2SndEd0xSaTlSeDF4ZVNfVWE2amtjeGhkVzdmc2tBRzhoYlE2aXFBaF9nMDhGSDN0YlhVd2U5UXRp?oc=5",
+   "source": "WSJ",
+   "domain": "wsj.com",
+   "date": "2026-11-17T15:16:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike earnings guidance",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Nike mise sur l'athleticwear de performance : l'assortiment textile de Tie Break devra suivre cette orientation technique pour rester pertinent auprès des joueurs.",
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
@@ -3806,6 +4255,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "a77a2accf186",
+   "title": "Trump, Xi Meet This Week: Could Footwear See U.S., China Pause Trade Truce Extension a Second Time?",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUU5qZDA3cDJLNlNmNnF4ZTh0WTZ6bm1ZZTJhdWdVMHN4SXlPQUF0U01kZGpjNkhYTENrZ0VNalh3YVBHcF9naU5td0pwM0c3M2NVd3BoWFo3SjNiLThhNjZtSFdkUWVEcWU2bEYzTDlILUFpMXRGUmNCdnZzckNGYmNjeU9GNVFOMzFvM25kVUNERHJoTERWcWlnZmRqZHJBdWxmUTVQaGVQclhLVUhzd2lmcw?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-16T08:00:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une prolongation de la trêve commerciale américano-chinoise pourrait modérer les coûts de sourcing des chaussures Nike ; à confirmer après la rencontre Trump-Xi.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "f3ce6c6de3a8",
@@ -6268,6 +6740,52 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "9c12545ba221",
+   "title": "WTA Finals. Qualifiées, format, une Française en double… Tour savoir sur le Masters féminin",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQeEoweTVzdkxOUHhQdjFRNGtqVVRhRjFtSVB1V19PbTlJTjBya3BuWENOTW5NUTJlN0x5aWFYQmczX3piOW5SR3VVa2hNOHJkaXNXTnRrQ2ZTNTlRbGNqaVhnTS1PRm94Sl8tR0ZFTmZkZmFLYzJpM3hGSlJtN1pfNnpkYWdsNG1adG1HQ0RCWWdLWG9WY0VrNk8tMjZuMnhWM3BqZzJVQWVwalp3TFZYVF9XRUtMMnRjeFd4ak5kYXM4MlVRYzFhN0ZrNWhWeEQ2b1BZMmg5c010YlM2TXNCZ3dOMXBpMW1ob2daOC1DS1p1VGZXbDVlSUl6YUo4UQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-06T08:00:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Événement WTA de fin de saison, sans lien direct avec Nike ; contexte du calendrier tennis féminin à surveiller pour les joueuses équipées.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "0553d5f07815",
+   "title": "Jannik Sinner: Coach Darren Cahill to leave Italian's side at end of 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzNlloM0JuVEt0LWJvWXkyaDRNbjZXTjM2MWlfY2UyOFVPVG9wVlRQR3duRU8wUk10cEE5U3hFOXpMRk9ISWt3M3llSVl6MFBJREtvd0RCQThiaFZVcGZPcmtzTHVkZw?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-06T08:00:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Départ annoncé de l'entraîneur de Sinner, joueur Nike, fin 2026 : possible effet sur l'image des produits vedettes en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "fc828c02f18d",
@@ -8795,6 +9313,32 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "694de872c204",
+   "title": "Here’s How Much You’re Paying for Trump’s Tariffs and Iran War",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDBvaXE2U0Q5QTlPTUJTZnNPUnNZakNvVlB0QWgtbURJSDhJNUZzdzZRSUs0MGN0dmpBY0tnN2NSUDV4ZkV2NkZ2X28xSTVjQ1hiTU9SUEpqQnphUUhXMktXYUhFV2EwMkQwWF8xTHV2NWZDRkw0V1J6UzdWU2NiT2tyN2wyMWYzM0R6SzUzaUVHZHNyQlhjSEFiQ3lrdUp5Wlh3SUtR?oc=5",
+   "source": "Bloomberg",
+   "domain": "bloomberg.com",
+   "date": "2026-10-29T07:00:00Z",
+   "first_seen": "2026-11-25T14:22:30Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Article américain sur le coût des droits de douane de Trump pour les consommateurs ; effet direct sur Tie Break à établir, le lien restant indirect.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "b6c755684ad5",
@@ -22725,5 +23269,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-25T02:35:09Z"
+ "ai_updated": "2026-11-25T14:28:05Z"
 }
