@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:45:14Z",
+ "updated": "2026-11-25T02:29:48Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,382 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 0,
-  "feed_errors_last_run": 46,
-  "rejected_last_run": 4
+  "added_last_run": 28,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 408
  },
  "items": [
+  {
+   "id": "7fd57a0c5ce0",
+   "title": "Dick Chairman Says Nike Made the Right Decision on Jordan Brand",
+   "url": "https://wwd.com/footwear-news/shoe-industry-news/dicks-foot-locker-jordan-brand-nike-earnings-takeaways-q3-1239464926/",
+   "source": "wwd.com",
+   "domain": "wwd.com",
+   "date": "2026-11-25T00:30:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike accepte un coût à court terme pour sa stratégie de distribution sélective, signe que les revendeurs peuvent perdre des lignes. Tie Break doit surveiller son allocation.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "da2dee79c287",
+   "title": "Arthur Rinderknech bientôt suspendu pour un refus de contrôle antidopage ?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0M4bkVWOXR6ZE9mS1BqYllkSDhYdlYyX2V1UzA3V00yU0t0eFowcFQyeGpha010ZlFUX2s3NlUzQWJNQnJBYzlBZUVwUXdTejM3SmJScUMxWktyU2tISGJlN05KdldfY0xLVzBkbkNqLWtHa3JHbmk4bmN5S1VwWEh0bGVhQU92OUk1MjhIdFM5ZExERXFhNWRKVXgxYnpEdm1LOVkzZ1VxNkZxTzVYM2JaTHVFZ3gxRmc?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-24T23:01:32Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "suspendu",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Procédure antidopage visant un joueur français ; effet direct limité pour Tie Break, mais touche à la gouvernance et à l'image du circuit.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "17a656dd3878",
+   "title": "NYダウは続伸し423ドル高 消費関連銘柄に買い 、 ナスダックは反落",
+   "url": "https://www.nikkei.com/article/DGXZQOFL250400V21C26A1000000/",
+   "source": "nikkei.com",
+   "domain": "nikkei.com",
+   "date": "2026-11-24T22:15:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "23b1cb4abc95",
+   "title": "Dick’s Chairman Says Nike ‘Made the Right Decision’ on Jordan Even Though It Will Be ‘Painful’ in the Near-term",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY1FDT0t2NTNoZUFvbGY3bHZEVThDQzNCQ0lOel9BVG9rT0NLQjV2clN0ZEJxTFM3Y3MzenB2QjJmUmV1YTlIU0kwWlJTVmRqMW5kZUlrS1A1Z1NaNlRYUGNWTi1FVW9xU0ZFSkVOejlUWkszcFhXSVFEYnZLdnJSUkxjU1J1VW5IczVHSlg2RHVxMmhQVkQxdzJ6N2hJZmJyLU8yazJ1M2tyU2JfVXJDUFVMREJST19Ua2c?oc=5",
+   "source": "WWD",
+   "domain": "wwd.com",
+   "date": "2026-11-24T21:46:18Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nike accepte un coût à court terme pour sa stratégie de distribution sélective, signe que les revendeurs peuvent perdre des lignes. Tie Break doit surveiller son allocation.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8c5c10b8d4fc",
+   "title": "US Said to Plan New Round of Tariffs on China, EU",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVGczT294YWtfNjUtQUppUFVNMHhmcWRUaHRhWTBCS00yLVhNQjJWXzVMSWZ0ZXl3aGl1Uk1NdFlYMUdmX1RDRUNqWXU2R1BWSFFGd1ltd1BmMUtiVEFoUXQtZno2MEgyOEl1bHYzTmdpNEtibFdKTDdvaUhQNk5rcTlLemplZ0RvQmJITU5pWmdjU2l4LUtsdVpOVS1kYklseWlPaQ?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-11-24T21:39:50Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Projet américain de nouveaux droits de douane sur la Chine et l'UE pourrait renchérir les produits Nike importés et peser sur les prix et marges du magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
+  },
+  {
+   "id": "7a2d6e8bbc50",
+   "title": "Maersk and ONE Eye Landmark Global North-South Shipping Alliance",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbVd3dzFxc2t4QVA2ZW9pYzB6TW9VRTZmNjZaQkN1V0M4U2VlYzREV1NZWTZWLUUyVF9mY2JjbENjMkl1WTk3VmFkTXh3SGJyX0xscnFCODlhZzlCSU82YWlDdGQxQU43SFFEMGl5X21BdjNTbVp4Vml1aGlCRmt1S0E3TjBVcjA3ZXFKR1U5TQ?oc=5",
+   "source": "gCaptain",
+   "domain": "gcaptain.com",
+   "date": "2026-11-24T19:22:39Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Red Sea shipping Suez containers",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Nouvelle alliance maritime Nord-Sud pourrait modifier capacités et délais du fret, sujet sensible pour les livraisons Nike à Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "685cef3a0193",
+   "title": "Après avoir « tout mis en oeuvre pour se soigner sans recourir à la chirurgie », Jannik Sinner confirme avoir été opéré du genou droit",
+   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQSk1YMGo3THlaUzFBV2xJbnJtNlV4cl9pSl9vU0ZKUTRNUFdvVzRCNDY0bW9pWEs0M0tsTWtQWVg2Yl9YdFlpUDZrT0lpNjVtNzBPRkZJeEprV1A2TjZwUDZEMHlQbjZwLVRzNzNpRFlNZDZYcmxVZUpnRlVNQzhlcXRrZEo3MDk3bXlzRGNheG9BYnpYcHlhUUp2ZVphaVRmTmpLc3lySy11ZkdtTW9GbTRiT2o3XzBqTWUtQVRxTW1WRmRpV1k4aFFOcDY5SUQwWERYc1U5RFFmdF9UWG42SDU0cHBrZ3l5T2tLYmJmNW82TGJXTUNydHlOQVoxVXplVG5VblBWelJtUQ?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-24T17:40:49Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Sinner, athlète Nike, est absent après opération du genou : moins de visibilité pour la marque sur les tournois et risque sur les ventes associées.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f0ec0267919f",
+   "title": "Jannik Sinner a été opéré du genou en Finlande, retour espéré… au printemps ?",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelAzT1ZEVnhHc1hsSkVENjhyN0lGaVh5SkJ4ZTRNZlVmdlN3UUlJV0lrenpoLU5LWGZtY0FpNlpQaEcxejJ6NVBkMFZaenRVdDQzM01qRl9uUEpDdnhOMWk5Mld3YWIxVkVJN3NyMTF1N2lHSWJMVTNGdVk3ZmFKSzd3Tmt2YUJHeUV1Nm9VRzlQRmRfb2lveENMal9PR3l5elNqSUtBUEN6NzFEbWRNblBoUFRiNUhYS1psX3psZjJKUFo5UkJmMw?oc=5",
+   "source": "Eurosport",
+   "domain": "eurosport.fr",
+   "date": "2026-11-24T17:39:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Opération de Sinner en Finlande avec retour espéré au printemps : absence prolongée de l'athlète Nike, impact possible sur la visibilité et les ventes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d6a2a194c59b",
+   "title": "ATP - Blessure: Opéré, Jannik Sinner donne des nouvelles : «À bientôt !»",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMkNFTEthSVIwSVRCUzB0eWg4dXA4MXJxYU5IUXdIazZfVWhXbWxqWm5jUV9rd29kS2Fsa0Y1UDYtZERLTllESnhBQ2dTcHlGQ2NnVHN1VTYxR0pNQjIzLVFFVmhPaUE0N3dTdlRTZzNjWm5SVlIwdG1uY1otVW5KODdRbG9vTi1pNk05NEJtYUdwTTF6cWdWM3NLTkJTcGluNFdiTnFWd19YUdIBqgFBVV95cUxPWHZucDZtRFMwUWxkbVFVWTR0UElJNDFKYnZlZnd2bWNVaUNTYUxUbDIydEI5OTl0azQxSUlOWnNPd180eGFfMFVVS2VmdDNhLU5WX1RDWHltbHpiclJ0NFBGUkE3TWhwV1ZhZXZHa0tIcFp3RTBiZko4QmRXUklnY2lkUHNVeVRmS0ZramRlbnUwY1ZjdGdaSzZxWk5panI1TGhDSUtJQ2VVQQ?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-24T17:39:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Sinner opéré et communique sur son retour : confirme une absence prolongée qui peut peser sur la visibilité de la marque Nike en 2027.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f1eae81f29a0",
+   "title": "Donald Trump poised to raise tariffs on EU and China",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZC05OG5YeEtqckpZUmFjVk5yS3V0cC1PT0tvWHpoQzUzUGJHd3NIU2dNWFhUS2NadHB4V1BaY0lPUEQ4dEFGRmhNVmE2VmRlVE1PckIzTXQwZVFLa1BKc2FadFlDWlJmTEpzWmpydGpsZV9GdmJpNC0wUjVBUGVIM05oUU9LOGU2TEstOUgzNmdQRUpzRWc0d1pB?oc=5",
+   "source": "The Telegraph",
+   "domain": "telegraph.co.uk",
+   "date": "2026-11-24T16:47:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Hausse annoncée imminente des droits de douane sur l'UE et la Chine : risque de hausse des coûts Nike répercutés sur les prix en magasin.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "ad97701e9dd8",
+   "title": "Tennis. L’Italien Jannik Sinner a été opéré du genou droit en Finlande",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQazV2cWVwUzFkdEFBaWthZnFWQng4T2xDWnZ3Wk10NnN6XzZfZUF5czNUcTNkeHYxSFFiRjg4YUlfSjd4NS1jdktMV0RwcV90eHFvbExPTmZYWDQyVmxPR0ZHQjN6OXlzUzdZRTRveXBPQ25YdWg0cHZzYTlUOXZGMFNQdld1TGh4NHhDOUs3ZGQ4YXF3UklaMFc1VFliM29oTHBuSkp6VUF3T3ZjZFlTMEFjM1c1a2U2Z2FEYWJXazRsZDBKOEZIaTBocnFQa2hEQVhCbDZUYWx1cjU4WHlQcUgzSU93THJTYmdHcVVXdjJEZw?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-24T12:50:03Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Opération du genou droit de Sinner en Finlande : absence de l'athlète Nike, effet possible sur la visibilité et les ventes du magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2f996535c134",
+   "title": "« La bles­sure de Jannik Sinner a été tota­le­ment sous‐estimée. Quand on en arrive à prendre une déci­sion pareille en novembre après quatre mois, c’est une défaite pour tous : du joueur à l’équipe, aux méde­cins », estime Diego Nargiso",
+   "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQeEhpRkhFYl9qdTR5MkFtc29uR0hyem9tcHRULUtJVlZUdk02d3ZZdElrdmpLVzk0Y0d6bTRQUlZfT1hfTFlQdmEtdjRqVDlGNFN1TjhjUU93M0lCQlJSOWl3QXllblpURGlERi1FM0NfNHp2NkVGVjkyTkg2Ylk1MXBadFJ3cFZ3cHU4eFZORFZVYXZTbWRrN3NHRW5BUGVyY2R0VFJDSmY0Q0RWWGxlQm93YVh2c18zR3RrbTlaRTVEb1hSdmQ5d2JEQ0l3UEJrWVA4ZjBabk0tcDlUc1JYTXhsNVY1Y2pZazY2RlhibjduS25rQWJsaVlBYlJZQnhwMVdVYUM1UFdOeVlRQVdxY2VYeVlIWXAyRHktaHVOOHN4dzJ5ZlU5LWxVd21NTzZMTm54eW16TQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-24T12:22:05Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Critique de la gestion médicale de la blessure de Sinner : sujet d'image pour l'athlète, effet indirect sur la marque Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4dd5d3610b28",
+   "title": "Next Batch of Trump Tariffs Are Coming Soon as G-20 Looms",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlpweFhXRFFWZ0lEaUtJZWRzU0hUM3FpN2ZCLVl1NnRzVDQ0ellQY1h2Nlc2TW1lNGpabzl0SEZSdTZWYVRqbUNlU3A5TktZaWFaanRUUFhQZUw3Tkp4eEsxeXZ4RGlRR3pDbVZOeGJlNkdhWFRfejZGRy1OWk1oM3FqSFQ5U0hBWFRqQ21fVm9UNWtmb1NhWkVB?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-11-24T12:01:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Prochaine vague de droits de douane Trump annoncée avant le G20 : possible hausse des coûts des produits importés et tension sur les prix.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b281f78eb709",
+   "title": "Jannik Sinner's estimated 2026 earnings reached $58 million, according to Forbes; how luxury fashion, wat",
+   "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPQnVNaFZGOGpNSTNMNlY4S3VnZ2ZOUlZ1OHItWEFkZVZaSzV6WUhWb0JLSk5rTnp2ZS05N1NSR0QtUVgtVHZjbWVVNFZnZ3hia0dOd0pIY2dMUGt1MndCTEhsRGdxMkhtUDV5Rmt4bUdJZGZrOTJOU2JJMjMtTXFwNUx1LXJjOW1DZDhJNWNpVzBWQnNjSWJRMzJISGZxOEtJYWpabDVySXk1NHl6YzhNQ3c5V0hvSzhneW9VT0F5UGFFX3ZqaGNvcEVtNUppNHVfdFdCREtSMUtRMVE5Vl9FU1RneElqSGlabTdUNWxIUmZnRjdoYmMtNUt2dGFHRjUxU2VfRXF0TDVXWUh5Y0ZMT3A2bDBIXy1oU3p2LTFzZEc3Um1CZHIxOFY3RnZMbmZaYjE4SEJlM2xDeEwwMTdabUsxQzlXRHI4WHo3ZnloQmZjeWFHSGRXWWlpbDQ4TWE0SWZUTjhFMGFzcHJSdF9ZS2tad9IB-AJBVV95cUxNWmlTNC1kOTVXMXVLM3NiMnhvN0JkN0o4Ql8wamgyOWoyc0NMSmVWQXU1N0VyanNDZkZsczBhVU1rUTB1S0JpVUhBWjdhNzdKX1NaX0NPV3c3UC02NTlaU3dkQVJVVVpEcEtlQ2txSFloQXB0bC15M3pWZUhJSXpFcnhVeERJTjVIb1JUTmxGY2xialZxX3FybzBRU3Jtci04V1RmbGVaRDZVVHJhRFRKdjBXdHpMb0U4YmxDNzd4WTg2TnNERE5fNlNmSlZraGNpN2ZMaE5NMmxReU1kMWhlT0stamhlMG16bk90NVZ5ZDdmTWlxbk9LcXBGM1pXdENfM0hJbmg3UWU1ZWJOVkR3T0ZiYjRDSm1McE1kM3lsVkZ3UnN5enJUVDlSa3JMdVVWZjE2YmtUNVhXazRRQkE1RFpNR0FjWG5nUWU1Q1kzdGtCNWl6LUV0R2habDB4Zk95Qm9KMUc2LXNScHJLVnViOVN0ajR0VkpI?oc=5",
+   "source": "The Times of India",
+   "domain": "timesofindia.indiatimes.com",
+   "date": "2026-11-24T11:45:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Estimation des revenus 2026 de Sinner (Forbes) : indicateur de la valeur commerciale de l'athlète, sans effet direct sur Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "4fa5efd725d8",
+   "title": "ATP > Alex Corretja : \"Alcaraz est au meilleur moment de sa carrière. Il a surmonté ses blessures et a appris à canaliser sa combativité pour mieux gérer ses efforts\"",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOcVg2X042em5MQWdDQ1FMV2l6bnhvbkIyd1ZhU0JHMUoxbDItem1pWEhIbE5kNXdLWVZ1ai1zQWJDeFhhOGR4ZU1UU0JvZWVQczBEZV9tOVZvY1h3M21peS1FRmcwRXpheTZuLXc1ZzFXZXhHTk5EbFN2ckItbWZEeFdPVDNlQ2NCbzFtZkdTSGR2ZTZ2bWE5UzZsNjV6eFN2X2tUZURfbm56b0RWNEE3OThla3JXYmJJV3RlMHZuVEdib2NFbEtfOFh6eTNUTmN4Q2ptd3NVXzl6TmRlVFVjZXZ4VkZCb1FUZG1Qc3FBZnlsUDlSTURSSldSS3ZUWmtPZXYxWTZnQWF0WHFwaVROc2k1alpFdw?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-24T10:40:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, athlète Nike, est jugé au meilleur moment de sa carrière après ses blessures : atout pour la visibilité de la marque en 2027.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "9b36bc113844",
+   "title": "Tennis. « Un déséquilibre au niveau du bassin et de la hanche » : d’où vient la blessure de Jannik Sinner ?",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZHUtZTlIQ0VrcXF0UXJSMlVldVBPdWt1Z2U5Nm52QzJsVzNRbWZldHhzZnF1bXIzcTYwU21nbEt3WVoxMGRsTV9aSHBVa2RhRENaaU54cFp6VlVJYk0xU1dPeGpaNDczY0lMQlRjMFktcDVCWkRndjVvRlg0dmFsOG1nTWY0VWk2YlZkazJUeFBFLUJkUXhzckFHNndJM3hSRXczQlozR2tmNjMzT25rRnhNTzZyYXJqNUp6Qm0ycWFqYjE0dDZudFlyRFNaY3JqMlNCQXJYdDZrd3ZhUmc5NUpsWmtONlZHQTd4THJRTHhTRjEyQnNaUmxlX1dqaEU3TGwtSjQ1N0Uta3hJdmtVejFZb1M3am51?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-24T07:35:36Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Explication médicale de la blessure de Sinner : information de contexte sur la durée de l'absence, sans effet commercial direct.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3726024e7613",
    "title": "Bangladesh: textile unions consider manufacturers’ proposed pay rise to be insufficient",
@@ -32,6 +403,28 @@
     "r": 2,
     "impact": "Des salaires jugés insuffisants au Bangladesh peuvent provoquer grèves ou retards dans les usines textiles, risquant de ralentir les approvisionnements en tenues.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cc8e68234262",
+   "title": "Nike Mind 001 Takes on Leopard Spots for Its First Print",
+   "url": "https://wwd.com/footwear-news/sneaker-news/nike-mind-001-safari-ix5079-001-release-date-1239463171/",
+   "source": "wwd.com",
+   "domain": "wwd.com",
+   "date": "2026-11-24T00:30:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike (shares OR stock OR wholesale OR earnings)",
+   "origin": "GDELT",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Nouveau modèle Nike avec imprimé léopard : produit lifestyle, à vérifier s'il concerne le tennis et l'assortiment de Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -133,6 +526,30 @@
    }
   },
   {
+   "id": "3e34453b20e5",
+   "title": "ATP - Blessure: Lucas Pouille sur Jannik Sinner : «Tu es forcément dans l'inconnu»",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNFZtelo5QldLbGZnN1hBbkJoNnAxbXltdjllZ3VyTklqVjUzX25kV09RR0x3eElDTHg2V28yaHB5WjZjT0Q0S1pjZ1ZNOXRVcmJGQW8wb0h0dXZCdjFBN2x0RlJjREZpbkxwQW16WWNZNDhVWHcybnVHbVBNd3FienpJRm5PTV80T2RKRENZSG51VDRnVkRkVlNmSEEwOTZ0SU5YYU1UdUpsQzBSQkc3dDc0NFVqdVdsU0R30gG7AUFVX3lxTE9zd1FvNUwzQlhfWW5YMk15TFpnTTJORGp2RHBDMzczMEt5MURwSFZnRnFhZE5USlJ4RXB4LWY4RlU4Z19kcDdtV3Rfb3pqWEdDTThoLTdCcUxtbG9XdTdvOXlZVFktX0dfczBVUnlFNlVGTWY4RXNJVWJXLTZKbnpFYzM4dFJZQkpsX2d6NUlTeTVud0UxU3U3NlJnQW8wcDB1LTkxZTRfMXFiRmhxdlNFTXNhSHJsdl9yUUE?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-23T15:46:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Avis d'un ancien joueur sur la blessure de Sinner : contexte d'opinion, sans effet commercial direct pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "33bfdfc67619",
    "title": "Tennis : victime d’une blessure persistante au genou, Jannik Sinner va subir une opération et devrait manquer de longs mois",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZVJLUVo2dE8weThMdUJWYkxISEJwQU0tU1hiTHlRMFVCWF9ZYjNEVjJLeDJjbjNUUVExTVZrY1BFMmVHelRRX2hJNzZpOXh2ZWM4am8tYUd5blBPSjFQUDNIUWowYXMzenVKaFBwOXhvNzEybzFtcGZUcGd6M3huaHhiRXZWOVhQS3pSMlpyc0d3b0RIWll2Y0VUNDVNSC1oVTE1Q3QyS3lyeXBnV2d6M3dXckM2V0NFbEk5Qy0yUi1FYUhYUzAtamVEWGpnQ19BTU1uUGVLdVQ1bl8wZ28zVGdGSWVTM0kxNUtEWGpXUVpwUUpjXzZ4TUgwaw?oc=5",
@@ -221,6 +638,28 @@
     "r": 3,
     "impact": "Absence de Sinner de 3 à 4 mois : moins de visibilité de la marque Nike en tournoi et probable baisse de la demande pour ses produits signés pendant cette période.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "b1704fb26bc8",
+   "title": "Selon des médias italiens, Jannik Sinner va se faire opérer du genou droit dès ce mardi et être absent plusieurs mois",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTzdQeUNNSjRKQzlnWk9fb2JGV0ZQaVpiaHBQNXU4YXlkb0M5ZnliQ3V0LVYtVHRvMFd3RlBUWE5keGpoSlJiSkgxZDZ3ckVZVUx4WUpEWExWd3BVcHRxdTdidEQ4X01tSG5wOUE4Y25lZVNVNTdRaEY4MVhUSEpiUm5ucnZLUVk3T1lRaXhORFJ0Z2NEbkVzRGNTc3E5VUpaNTlER0g5Nmc2SG40aDA2dDRYcmJUMVI0VGxzdTFoNmIwM0o3Yk81eHNRYUZTN0E5V2FvaUl3Qkg?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-23T11:58:18Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Selon des médias italiens, Sinner serait absent plusieurs mois après une opération : premier indice d'une longue absence de l'athlète Nike.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -338,6 +777,54 @@
     "r": 3,
     "impact": "Opération annoncée de Sinner et longue absence : ralentissement de la dynamique médiatique Nike au printemps 2027, avec effet sur les ventes de produits associés.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "09332f2b6cba",
+   "title": "ATP - Blessure: Jannik Sinner opéré avec succès : quand pourra-t-il revenir ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUUVPUUlYQjd2WHVJMXJ2YWZOMnBqNWtWblg5TlN3ZnBELVA3WDEza2dpTVhha3ZudWh5MzQ4cDJXRzlhXzYzWDNyQTdxMVg0bUNXbE1qX2VQalBMbGFFX0dZRUhaNE5XWEw4b0JwX3RPNWtQZ0Zwdnp0Rk80eU9sMVVBVFk5Tl9tR25XSEdJYzdScDY1RDJ0RDdwS3V5VXNwekZmc19LVnJlSXFZNEk3Ujc0SC3SAbQBQVVfeXFMTnJuWnlPei03YndpY21fVGhkNTF6eWFjUnI1VEp0bDJ4QXZ2MVFsSmhtbzBTRzhUeWRXR3FHMUdNdnZwaGxlVkJheWZXTXpMZExlT1FEc1dTZFBfLUVUUmJ4OWppZDFRMUJRVVBtR05mck1uOWhyNm11cHg4NHM3eGxaTEUyM2JZOGJ3LUtlUnNvd2dqSTk2SWZQbWlXN1pSbVJhcHJsWTVvaXpEY212VUhKS2Rs?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-22T16:34:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Opération de Sinner réussie avec question du retour : confirme une absence de plusieurs mois pour l'athlète Nike, à anticiper côté ventes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "e9bc27c916d0",
+   "title": "ATP - Blessure: Jannik Sinner opéré dès ce mardi ? Longue absence en vue",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDY3eFNicnhQUHQxaVctUHh4ZGhzSjMyVWhrN1Z2Z1Nia1o1NjVZUWpnZURSaUpKY1M1M1M0ekhkV2l2aTVGcEI2OTB1VDNWTEhjSFN3Z1FOamVvcmJIR0RrYXFjenc5bzcybDVTUHBPVFE1Z0E5Z2VCWWVuaC0tRGgwYks5WEpyTVNKaWdPQXJ2cVJZTDQ0X2VyTld6LVBXY2NPdFp0d1JHMENFWmlmcNIBsAFBVV95cUxNVzBqRG13My1NSm14dTJsTzEwX2JaTC1HUXAwYWh6NDZ2NF9nQkljczZaN1BYSTRrN19sWlk3S2ZMZlFZNTR4UVJwM0Y3dDZENVd6b3VHQ3l3LWt4OWtuc2dnbktfbW1vS196ZkJ2NEJXcWtlOXdESkpqbTJvNGRVWnBWYjg4dTMzYWNyTjRmQWs5X3BDZjBhX3RaMmhuTEpkeTI1R0lDT3JQRThaVWtOcw?oc=5",
+   "source": "Tennis Actu",
+   "domain": "tennisactu.net",
+   "date": "2026-11-22T16:34:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "blessure"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Une longue absence de Sinner, figure de la visibilité Nike en tennis, réduirait l'effet d'entraînement sur les ventes textile et chaussures en club.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -544,6 +1031,28 @@
     "r": 2,
     "impact": "La hausse du salaire minimum au Cambodge augmente les coûts des sous-traitants, ce qui peut se répercuter sur les prix d'achat et les tarifs des tenues Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6713b5e9c6f3",
+   "title": "ATP Finals 2026 : prize money record, combien gagneront les joueurs à Turin ?",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjYwcWxfZWRaUEE2N2tLODgxNjk4OE9NaU1oVEFKWTVkWkkxNnktYTNWV2xibXA0SGhVVGR1clc0RjJ1b0xNUHpIMF80N1FIek04VUtvX19iMWdDdm9fUUFLNXNMMUl1SzNMSWtrQkFCRm12SlVNdUJmLWFVa2o4eFUxUEJxbFVpd0lrVVVtTDlObXRzMTFZOThOVWlOY0N2ejJ4SHVZTVY4VmZEZTQ1OUJvNEM?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-22T08:00:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Des dotations record au Masters renforcent l'attractivité économique du circuit ATP, sans effet direct immédiat sur l'approvisionnement ou les ventes de Tie Break.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1890,6 +2399,28 @@
    }
   },
   {
+   "id": "fe354b383e7f",
+   "title": "Nike vise 50 % de création de produits locaux en Chine d’ici à l’exercice 2030",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMUplLWUwUFBhOU82cTFTeDJINFNoS0dyUFF4a2lYZnpEUk9reE1WenUyY2NUTkpsb1hFRDlRX05RUmZyV3llV1RqSlBfb2ZTMlByTng0bFRtM3JCY2IzV1c3b0x1bEpPU05zbWFTc0FGOUdXczNUR1Z1Mi1SOFFoRWNmVW1HdU05SnpxV1lrNjd5VnVhRnppYXdySVRPLWJUbmI2VVJrYTR1VFJ2X0JIMl92TjlscmQyWEpFYkpqREZQRmtmd2R5Q2Y3NWR1VVI0V0NwNQ?oc=5",
+   "source": "Zonebourse Suisse",
+   "domain": "ch.zonebourse.com",
+   "date": "2026-11-18T09:34:37Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Si Nike localise davantage la création en Chine, le calendrier et l'origine des collections pourraient évoluer, avec un impact possible sur les délais de livraison.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "766166785448",
    "title": "Nike, Inc. : Jefferies maintient sa recommandation à l'achat",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkNSNlA4NTJ3UGpLZmRKMEVDSGFWUENvUU1GTVFVOXJ6Vmh3amkycXhIb2Q5d2QtcXhzRkcybEoyNFBrSmxjS1NPcWsxM3V0LWQ5Nk1vU3JCeEkzclAyUEF0TGZDV3hGd3Fud2NjU1p0NTlLeXlxcjVQNVJBaDN4c1JxNTJQNmFiSXFZMU8xT0ZCS0lkblFTYTMtenZvcWpTWHAyU21ZZEtYZlctanY2QzFhcjRFVGM?oc=5",
@@ -2022,6 +2553,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "5d777d584507",
+   "title": "Could Bangladesh's ongoing labour protest impact sourcing dynamics?",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnhwTFhSajBlcXg0MVpvelBwVHBwSFJkS2Q3SG9XZGYzSWtsYmNpWXpiX0d2Q1ExcF9qR0RVMWZhd2ZlM2l3TzR3V0ItODFYUThpQnIwMzZHUzVjZDQ2SWFkTVNIRUM0cWszZ0VWSkxYUXM5SzkyT3ZmektaQlJvU1RmRkZSWC1FNWxlQTBEX1FlZ0dLb2hiNFhBdjhXZmltaGIwU2VUVjJqQzU4ck1sRk40NHVvVjdMaFlVNXVCSmgyOG8wSXNMX1F4Z0JzbTB5Y0FFOQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-18T04:14:21Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Une contestation sociale au Bangladesh pourrait perturber la production textile de sous-traitants Nike et aggraver les retards et tenues incomplètes subis par Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "06d11a1f9052",
@@ -3501,6 +4054,28 @@
     "r": 2,
     "impact": "Retrait des Next Gen ATP Finals d'Arabie saoudite avant terme : signal d'un recul possible du sport power saoudien dans le tennis.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "98b698c906b8",
+   "title": "Sinner met en garde les jeunes contre les réseaux sociaux : « Je conseille de rester loin »",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFRYZkdnbVpVMkVLMnJlXy00aFZUU2FJZHdNckVnV3FwVTROUWN1TTVEQ1ZqM29sZkJDODFxaFRoc1VEZHVXWXR2ZjRzbXAydGR0czRKR3hoUnJfNEEwRUJuR3VPZkhSOU1SajhsVnVSdDBuWUtjcTA0UnJaLTFqU1pSUU5WVy1rOGNFMUJQUjY?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-15T08:00:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner Nike",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Prise de position de Sinner sur les réseaux sociaux, utile pour le discours de prescription, sans lien direct avec l'approvisionnement ou les ventes.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6993,6 +7568,52 @@
    }
   },
   {
+   "id": "3c9446ebacf1",
+   "title": "ATP > Learner Tien, interrogé sur la polémique de gros sous avec Jannik Sinner : \"Je ne suis pas du tout surpris. Je m'y attendais\"",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWYxQTloWG5FQ2FQZW1MTDZOUzNfTWNBSFVJOG5GTFJXXzQzQ29LMzZFLXVkQmxEVUdMSllKSXo1ckRyT2xCSEZZUjhSNnpmOHpCM1dyVHRCSmJzRVFDWXFHazVteFlkZHJFUW5iOExVbnVhZ21ETVktdk4yOW1WYVFWRTVteG9ORlpJZmlQb2g1STRxSTlScXNvME44ZEJHMy1RaWFWYVVHWFVwN0FQOGpKSTNpUW1LRjVFaFRNMHJQNFZfMUlKTXdqS1NMSVpnM1BJVjJhZGc0TS1zX0JNXy1NWTE?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-03T08:00:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 3,
+   "signals": [
+    "polémique"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Une polémique financière entre joueurs de premier plan peut peser sur l'image du circuit, mais n'affecte pas directement l'activité de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "f92a942e8892",
+   "title": "US' Nike extends Oregon State University partnership through 2031",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTmZ5VXhlVlM0NjRPa056TXRBeHAxREkxT3JJankwazRxN2daQ1dHNmNZVnZrSlF1Tkt0QWRVNGFHem5pRlk3OVR5SXFzWExrZ1pwdUFETlc2RXgtZzd6V25NS19wTVd5cnFlbFk2OHF6aWs2SDl6SWFIaUZfSkw4a3RJZDVTUWNtRjlxZmVSN2VjYV9laG96U2ZGSXNNSjJ5X2NOZHNqRE5VMW5xd3pBS3R2Vng4TXp0RVd4WC16d2U2M2ZxNjJMdnBfWm5LMmgyaVhTWm5ZaXVTQWZ6N3lUY0hR?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-03T08:00:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le partenariat universitaire américain de Nike illustre sa stratégie de sponsoring nord-américain, sans effet direct sur le magasin niçois.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "8a33d27b0f60",
    "title": "Bangladesh garment factories become second schools for women",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYWxYQWkyREl2UDNEY0w4cWZiakJZQ2R3T2V0aHV6TXFOaHRubjRoS0ZBdmxXZ2g2ZlBPRWQ3WmEyLW9laFNqSUJLRk5VMXA5RmhEbGlRTDE2VjEySGZPc2NXVFR4LUlfTl9hTW55eFR6NGFPbldVbkxSWm15R2NQOEhaRHRkYXl6aW14ejJfamowV1J4ekM1SFN4OEthSVk?oc=5",
@@ -9040,6 +9661,29 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "T4"
+  },
+  {
+   "id": "71f0825227f0",
+   "title": "ATP > Novak Djokovic annonce la couleur pour 2027 : \"Je suis sûr à 100 % que je serai là-bas\"",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5KdGlpV0lRMzFKWENSRU91SDRHUFhKVmU2djZiS0ZQRjhhYndJZmY4cWF2QjhiOWhkTjlMU2I0YlI1NFhtTTJmM0daYkpBUQ?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-10-27T07:00:00Z",
+   "first_seen": "2026-11-25T02:29:48Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Les projets de Djokovic, qui n'est pas athlète Nike, n'ont pas d'effet direct sur l'assortiment ou les ventes de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "f9c5e9975fb2",
@@ -22081,5 +22725,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-24T18:13:44Z"
+ "ai_updated": "2026-11-25T02:35:09Z"
 }
