@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:54:45Z",
+ "updated": "2026-11-26T21:31:54Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,126 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 11,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 450
+  "added_last_run": 9,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 439
  },
  "items": [
+  {
+   "id": "cac21a3df107",
+   "title": "What are tariffs, how do they work and why is Trump using them?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
+   "source": "BBC",
+   "domain": "bbc.com",
+   "date": "2026-11-26T18:54:51Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Explication générale des droits de douane, sans lien direct avec Nike ; contexte de fond pour les coûts d'importation de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6a0fa421c364",
+   "title": "Nike électrise la concurrence pour le Black Friday avec ces offres à -50 %",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMkxzOXN4WXRNLWJQRjY5bnc2VjcyV3JzeS1pMHR2b2NSajhtOU5aYnZpX2ZvR2I2VlZYZEdsZ0pkSmQzSDNLUWpHQ3dUdEVrVXR3Z3NjTm0zUGplQ0lMVWlLSF9Jcm9CVUFFUndVblJVa3hpbWlvUEdteTUwR1M2R3M4UmVxQUhrY0ZmMGlqM3l1NDBUc09XV2dUUDdvMWRiazNxeUI1TFRlOFBXR1k4N2ltVjhZQi1qMnpHd3g0OWNxaWlwZXdv?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-26T18:07:00Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Des remises Nike de -50 % pendant le Black Friday peuvent détourner la clientèle vers le web et compliquer la marge du magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
+   "id": "33f7c4857dfc",
+   "title": "Coupe Davis 2026 : dates, programme, favoris, prize money et diffusion TV du Final 8",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTEpNRjBvNkRBR0NfR2FFUXdtTWNxTUQ3Z0ZfSWpIVlRReG9VZFBIeEFoRHdyQkRxQ2J2TFdjQTlEaVdLV2dxNWVBcjJCMHhTYXVrLWtsNnFzUl9oaG0wWWVKZVlscFFkaEtWb1ZEc2xYNlNTakRGbzBid083SUtudXFOWTdNdUZZVEhWWWZoNUF3LUpzdWlZQno0cU1pcnA2N3hMVkp6VjBJMU9Q?oc=5",
+   "source": "Univers Tennis",
+   "domain": "universtennis.com",
+   "date": "2026-11-26T11:25:31Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Calendrier de fin de saison ; visibilité possible des tenues portées par les joueurs, sans lien direct avec la distribution de Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "ddf2b4e59d9c",
+   "title": "Newcastle and PIF’s plans to sell 25 per cent: Positive for stadium plans or a precursor to full sale? - The Athletic",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXR5RG0wQVRkbjFfMjhrRnI5cHdBZlFRNXZ5Z0dyZUFjMWZORFg0QVpRSUR2VHFMUWFmTXhMQnpXcUphMGRqVkVhZV9DV18wdm01OHp3bmh3eXNfWDN6bC1hS0trTUltVnctUENXU0tZOWtTcHBHaHJkc05fUWZpX3VnN2tZUWNaV1E1U0Nzbw?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-26T08:33:00Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Cession partielle envisagée d'un club de football par le PIF : illustration du sport power saoudien, sans lien direct avec le tennis ni Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d5ea21466d6b",
+   "title": "Louplande. Le championnat de France de marche nordique en avril",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWi02cFFEVXBWY2ItNTFQQWZzRnhuN051akhVM19DX045R2R4N19qLThVRUdyMGJyblJMcTJPUkRHY0xDN1hVdHFMWTdmUl83RWZtNmhQdzNsenY5YmRSa2JleWF0MjI2bTEySVllZkRWTXEwYkR2VVFMMjk1X1FXSGlSNXVMOUtscHZ5dnlkeVhocU9GUUszcW4wVkVmX1hKeXFkZm12NmxFUHpSYmdSMWl2NnU2blUzSEpCMmd4eXVpVFFGWTdMaGM5YjBhMFRsQ2ZpTHJ4UHFYeGRuMERHNUVWa0h5RkR1ckxRcTFVb05VQQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-26T05:33:46Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "3cc97254b2e6",
    "title": "Newcastle and PIF’s plans to sell 25 per cent – positive for stadium plans or precurser to full sale?",
@@ -321,6 +436,32 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "f79dfbe17dba",
+   "title": "US Targets China, EU With New Tariffs Citing Overcapacity",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMTVsLUFTUm94dWUyY25OUlotUjZJY1Rrb3duVE81cEo1QXlnZWN2d21oYWNfbDNycnU0UHRGN05hOFhpdkRCMldHZVlxcWpYVDFTeEhNcmREUElsVmY4eFpVSE9GWkdKWGZEN0VnVmlVeTRzNk5OWU5mSXVRMWZGY2o2UlZzMFJmX1RIU2MtbENBME1neGxFSUhRbFVzRVdNc3l2dzBR?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-25T14:23:16Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Nouveaux droits de douane américains visant Chine et UE : effet indirect sur les flux textiles, les prix de gros et les tensions commerciales transatlantiques.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "15a6412d094e",
@@ -1669,6 +1810,28 @@
     "r": 2,
     "impact": "Débat sur le rôle d'Alcaraz, joueur Nike, dans la popularité du tennis : argument pour la demande et l'image de la marque.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2c647b9f301d",
+   "title": "Victorieux du Masters ATP, Carlos Alcaraz est \"un cadeau pour le tennis masculin\", selon Fabrice Santoro",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVF9GOVhQc01Id2lzbzd6bEtobHdnSW5JakVpOWJkXzFNVURKV283Z2M2WExDOWUzY2I1aExheEdVLUNZTUVwek9lN1JzWXRvalZkQXlvclpPdWt5VkNjZE45Um1OSHhBNEx4d00yOHptejZ0TUk0ek1UVHpuX25melFGOExsdTk3aXVDd0h3STh5UjhLWk5fLXFEQTBBalR3dDhqZVV6S012VkNrNEd4LUMySFhpSDhkWG1LeUpDWWlyZ1E3c0E0QlNUNVMzWmlBYWJQUlh6UWhTYnpXTTZobm5nNG5PM0NCc0tweUh5TQ?oc=5",
+   "source": "Radio France",
+   "domain": "radiofrance.fr",
+   "date": "2026-11-23T06:05:00Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Victoire de Carlos Alcaraz, athlète Nike, au Masters ATP : visibilité accrue de la marque et soutien potentiel à la demande en tenues et chaussures.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -6305,6 +6468,28 @@
    }
   },
   {
+   "id": "83d01024c5f9",
+   "title": "« Après mon premier Roland, je pensais avoir déjà atteint le sommet » : Rafael Nadal se replonge dans ses souvenirs",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQUFjMFFfX0RjdGlWRmZnWEkyQlQ1amNNUk5hb0Zsblo0aWZVUWJvVWwyc3p2MkQ4OXlFVmt0TzdibC00Ym80blg0bl9GdGRPSVdZNEhzWUJQamZqOXYxNjBaR2Q4M0pzMlV0U3E2OWE4a0U3M2xSMHV0U1dXSzVSYVFJT2EzT0FYOFhfWS1qMDh4bERUb3NQUjNMODdpQWRIT21rOEJWeDFqcmhUY3pnOFhSNXMybDRaNDhjT0dkV1k2ZmtRMGZBWWRkQVpVS1pESDlXWkdEQzdWNkdaWkdVdU53RVZxN2R2SHV5Vmh1Y1JPeUV6dW8yTWd0Zw?oc=5",
+   "source": "L'Équipe",
+   "domain": "lequipe.fr",
+   "date": "2026-11-11T08:00:00Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz Nike",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Souvenirs de Rafael Nadal, ancien athlète Nike : contenu d'animation possible en magasin, sans effet commercial direct.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "3373e71f3e78",
    "title": "Le coach de tennis padel vendéen invité à New York lors des matchs du Grand Chelem",
    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZzBPOFRKS0Y1WU1FaTlhMmJYRVRGOUs0UG9TelM4TWRRUWliTmhfa29Qdi02MDJOTjg2OGRSd20taUJJQkxTUmxvSnN4c2dNLUJCNHpRQzd2SFdBdmFSMUczdHdTbV80QVZZb3dZdjU3RHJQWFlQR3dvOEpZeHkyME1ZbjRXYnlsdGNxN3dlWkRtT2VWVzNhbUtWTnZfUmtaN29LUVlHeFRqUFdUdDVORDVLLUp0ZjhHYzJTLWZNN3dYOXNGRmRLTnJPa2ZURzBadHNMb1k2dmJTalhxYVd1MlVVdEdLRlZHc2dUdnRtUWVwVkVBczFDYjZtQXpYY29vclhsZFlqTUxiX0k?oc=5",
@@ -8041,6 +8226,30 @@
     "r": 2,
     "impact": "Tien cède sa place au Six Kings Slam à Sinner : événement saoudien qui concentre les stars Nike, avec un effet possible sur l'image de la marque et l'attention médiatique.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2d67da61c44f",
+   "title": "Officials condemn planned Philadelphia boycott of Jewish-owned businesses as antisemitic",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGdCOHlPUmFrZGdlenhRWFdkMmx4d2Z0ZmxBVTU1RGMzRWw5Tmt2WmlDcFlmdTRZSmZMTFdCTlFHVUh6dEhzaXp6XzJJd1BQS2hqNHhORm96UHpZVWRDM3l0dTI5MVFFVUcxVGdPYjlZY0E1V0Z4RlMzcGZ6MDFHNTJUUQ?oc=5",
+   "source": "CNN",
+   "domain": "cnn.com",
+   "date": "2026-11-05T08:00:00Z",
+   "first_seen": "2026-11-26T21:31:54Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "boycott"
+   ],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -24052,5 +24261,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-26T11:00:09Z"
+ "ai_updated": "2026-11-26T21:37:22Z"
 }
