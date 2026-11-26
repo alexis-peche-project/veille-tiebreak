@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:20:52Z",
+ "updated": "2026-11-26T10:54:45Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,83 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 23,
+  "added_last_run": 11,
   "feed_errors_last_run": 3,
-  "rejected_last_run": 410
+  "rejected_last_run": 450
  },
  "items": [
+  {
+   "id": "3cc97254b2e6",
+   "title": "Newcastle and PIF’s plans to sell 25 per cent – positive for stadium plans or precurser to full sale?",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXR5RG0wQVRkbjFfMjhrRnI5cHdBZlFRNXZ5Z0dyZUFjMWZORFg0QVpRSUR2VHFMUWFmTXhMQnpXcUphMGRqVkVhZV9DV18wdm01OHp3bmh3eXNfWDN6bC1hS0trTUltVnctUENXU0tZOWtTcHBHaHJkc05fUWZpX3VnN2tZUWNaV1E1U0Nzbw?oc=5",
+   "source": "The New York Times",
+   "domain": "nytimes.com",
+   "date": "2026-11-26T05:09:25Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Projet de cession de 25 % de Newcastle par le PIF, lié au football et non au tennis : indice de la stratégie d'investissement sportif saoudien, sans effet direct sur Tie Break.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "6b662b7cd3a8",
+   "title": "US unveils tariffs on EU, China and others over ‘unfair’ trade",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTVEwald3MlVhRTJrTTZYSl9KQ05GSVhtZENxbmI0OTJRZkZ1SGNnRE9NVWtKTDQyekgwVGtPaVhfVm5PY3FsR0lFRHJfa0p4OExnUXg3bHhIOS1xY2Q5OElmdkt2eWhBQ1E4aFhJcHg5b3dSV0pxUXJjZVBTRnpQNTZEWTBFZE13Y0t1OENtWmFYQzVITXlTeC1OVHVQa1E?oc=5",
+   "source": "Arab News",
+   "domain": "arabnews.com",
+   "date": "2026-11-26T03:07:36Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Nouveaux droits de douane américains sur l'UE, la Chine et d'autres pays : hausse possible des coûts et tensions sur les approvisionnements en textile et chaussures Nike.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "92fc5ea3eeef",
+   "title": "Vietnam seeks US trade deal as tariffs threaten clothing, footwear exports",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS0FSUjN0THdiZzJpSzctaWg1Vks2dVhSTlNVWTJuZElHcEQ5WGNUX3BVWUgxVmdESnJ5WHExUFloSUlWQTdtZ0g4UEtLTUwzczE4bHB1V3lEczBpcE9qeE5aZjZJZ1lXeGlGQTh0NDM1WnlFTjlONFRGd3ViTHJzMEQxOGhkMUZpUmxBd1A0WE1TdTFmTDhJdFVBQ05kY2dHNDZkWURzc2s2MXFnRTUyNTgwZllaTFhSdVpFQjl3?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-26T00:30:00Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les droits de douane américains menacent les exportations vietnamiennes de vêtements et chaussures, pays de production important pour Nike : risque de hausse des prix ou de retards.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "d56187ccb66f",
    "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
@@ -222,6 +294,31 @@
     "r": 2,
     "impact": "Nouveaux droits de douane américains touchant la Chine, l'UE et le Japon : risque de hausse des coûts et de tensions sur les prix Nike.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "d7320f38683f",
+   "title": "New House Democrats Threaten Harvard Boycott On Union Strike",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa19sSmdsZ2JFTHM5ZnhnZ3luR1JoaE9iN2pXeU8taU4tdThkXzFBQ1RqMXZ1Zng1OVdXdzhSQUdWUENsaGJUMHVKSm1hbGNBekhBd2wzVEgtR3BNekw1SDJjYWRxT2dDdGowVkJQMVMxT0t1TUZYRGtKU1JtNTdJMHRGM3VkQ3N5ZjZwa3lEWFpnSlVkOXZ6ZEdRRVZqMlBIYzF2bU1GQXlOeGR3YU40MkduYw?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-11-25T14:47:56Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "boycott",
+    "strike"
+   ],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -927,6 +1024,29 @@
    }
   },
   {
+   "id": "fe166840d641",
+   "title": "Sinner announces knee surgery: \"I will now start my recovery\"",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORlp0S1JrWE1kbF9zTkx4SmdadHdmcTI3NE53TnRuQnRVbGNmVkNWWW90azdKNFNwbG8xU2lfbmw1Qm1pWFNVX3JCTFRtX3dnYlN1WmJDWTFUU2VvYlRqMUtFTW94VGRTQml2RjNXR21UTHA2XzY5NjNqeU9ZY1Z5X2VWejUtR3ZqX1E0eFlTMEw?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-24T17:08:52Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Opération du genou de Sinner, figure majeure de Nike : absence prolongée des courts réduit la visibilité de la marque et l'effet vitrine en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "f1eae81f29a0",
    "title": "Donald Trump poised to raise tariffs on EU and China",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZC05OG5YeEtqckpZUmFjVk5yS3V0cC1PT0tvWHpoQzUzUGJHd3NIU2dNWFhUS2NadHB4V1BaY0lPUEQ4dEFGRmhNVmE2VmRlVE1PckIzTXQwZVFLa1BKc2FadFlDWlJmTEpzWmpydGpsZV9GdmJpNC0wUjVBUGVIM05oUU9LOGU2TEstOUgzNmdQRUpzRWc0d1pB?oc=5",
@@ -1483,6 +1603,28 @@
     "r": 2,
     "impact": "Une recommandation négative de Berenberg sur Nike signale des doutes d'analystes sur la croissance, qui peuvent influencer la stratégie de distribution de la marque.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "8a1958afae9f",
+   "title": "Face aux palmiers tués par le charançon rouge, les « excellents résultats » de cette entreprise béarnaise attirent jusqu’en Arabie saoudite",
+   "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa2REX3hVU0RJLU9iUU9FUDdEeUJjajBOLVRrR2JHWUhYdVBoSlFoTW5Mb1dPdHJaa2Z4RVlaVlVMcFJfbEJnSmxJWWk1M2VRTFZQdm9zaHJxd1ZfZUhaTGYxQnAwWlZUZ0pVblBYdmc2R004M25xR29UMFh0TXZmOEZLeW9tekdQN1FHaEp3M0llSnZ5VnZsUDlCNWU2c1lwcFdDTnVkWGVGQnVrb04wdzFSc196MzJ2TjNyRkcwVElPWEt2WlgxOVk0bUt1T2dIcENna20zQ0FMa19yZUloMFFYY3pySzdlR3JOeloxVnZMdVNpNGdxLWYwS1I3X2FpSnlJdjFHNlJjc2hpeTZ1Y3ZuQQ?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-23T08:13:07Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -5773,6 +5915,28 @@
    }
   },
   {
+   "id": "e465da1e76b2",
+   "title": "Taylor Fritz Denies Six Kings Slam Rumors: 'The Numbers Have Been Exaggerated'",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNEloSzV5QklTQjVxYjd4T2R3Vm9wM3VMX1h2TFB0SnFaeDRZYUltUTM5TU5sRnozdTBnd29jcFBJSlFlS3dhZ3A1d0tUVHRucWRKUjMxaUZnOU51U2dPUDMtNjVGNU5Td243SFNhdExDMDh1YTFoMVR0X0QtN3lTWUh0X09pSXI5WF9R?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-12T08:48:30Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Rumeurs de participation de Taylor Fritz au Six Kings Slam, démenties : illustre la pression financière saoudienne sur le calendrier des joueurs, à surveiller.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e415e7d0f13c",
    "title": "Action Wolverine World Wide, Inc. | Cours WWW Bourse NYSE",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50Q3JOOG14ODBGTmRHdW9JT1ctSEhRMlhlVmJLZGxnOG1CTlNOellSZExCWkxUcWxKd1FuQmswdmR6bF9VZ3FpODl4YmpqbHhkMVhUOWxJTE1ldWttdkJRa1h5YTNTendlNW83RWltWU1Hd0stREt0OElnaw?oc=5",
@@ -6870,6 +7034,28 @@
    "axis_original": "E3"
   },
   {
+   "id": "d1791ad9e65c",
+   "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNEVWMUNtTHUyM1RrTThTdGNZckJZTUstU1Y3SmVfTUZUb3pBSTdka2dfYy1iLXcyN09YM1RBY3lGMmxyczRuTnhKY20zbVF0emxFY1JDUXBnd0IzYjJuNkFidjdLX3FUbDIzTU5HQ3dfVmhBbzdxNGYtVTJ3Ymlnam1tbUIzcjBvWFVJOHFDaGdMMzBENHlJVFFTNFI1LXhmdGQxVUlKY1dVZURaQV9UTGcxU2Z3ZlJlLWNGcm9WMzV6TVZMMW5zUHRzR01uZ0c2QXpB?oc=5",
+   "source": "The Guardian",
+   "domain": "theguardian.com",
+   "date": "2026-11-08T08:00:00Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Revendications salariales de producteurs de bananes en Amérique latine : contexte RSE des chaînes d'approvisionnement, sans lien direct avec Nike ni le tennis.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "9b4cea8868df",
    "title": "Nike : les parisiens ne jurent que par ces Air Jordan 1 stars de l'automne",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcXV4UTRtMlJkWUJNQ21NdUEtZW43X0lzS2ExdTV3TkhneHhIOUVNeGthdnd6eVAxSVlvNWZUQmlBLWFkNUVGM29xSUk1WTBxSnhBdHNER0RwOEQxSDNHY3J0Zkx1Rkh2RmJ4MFQ3LWpTVjBSMmF0LURYMDZUMDM5ZU5CRkx2TGJ4VTNuU09lWlE2cHlVYWZBUjVZUDN6X25qWS1aYUoyZ1J1ZDhNU0JYazQxUU9hcUU?oc=5",
@@ -7312,6 +7498,29 @@
     "r": 2,
     "impact": "Départ annoncé de l'entraîneur de Sinner, joueur Nike, fin 2026 : possible effet sur l'image des produits vedettes en magasin.",
     "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "c63f75a8ba51",
+   "title": "Tennis. « Il a toujours eu d’immenses qualités » : qui est Luca Van Assche, le seul Français qualifié en demi-finales du Masters 1000 de Paris cette année ?",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUEQ5MHZwVHJVVjByOXhIZHp1OVF5ZzhfM2hxMG5SM3pQalFaUWMwZk42cjNHWktfQ2xUbkhXV1BTeXhiX0FTcUpONGNKc0o4YXU4TnR6U2xZcWFteG1zaWJFdVJiblNfWmtVLXEzX3Z6VkhMWVIyWC1HUXJPbzdaNHpMaEl1U0dxZFc2OThzckJwT1NTSGp4MlFYS2wtbWpEdWFEREh2WWM2eThQZjlBdmlUY3V4TTFCdm9HUUFVS0c5SUNPOWxQcXdmREktQkpOSzk1aTFRM1cyOWRnNDFXUk1KNFJfR1dqV1ZMUlNraHE?oc=5",
+   "source": "Sud Ouest",
+   "domain": "sudouest.fr",
+   "date": "2026-11-06T08:00:00Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Parcours de Luca Van Assche au Masters 1000 de Paris : performance d'un joueur français, utile pour l'intérêt local du tennis, sans effet direct sur Nike.",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E3"
@@ -7814,6 +8023,28 @@
    }
   },
   {
+   "id": "081cdf7a84a5",
+   "title": "\"I expected it\": Tien graciously gives up his Six Kings Slam spot to Sinner",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV1pjb0RMODA5RmVJRnk5WWxvQzdYbEM5bkdaZkJmc2NaR1QwQWVtUDdoTGxtOE03Nk0zS19TZnVMNHZIaTJ4VzdXT0o5LUkxbVRZazk5RlRod1U5Rm1abHlDQWFpUjRYN1RkY2JlX0lQd00yVVpnem1kVFRsMWwzN2xPbjJXOUxzN1N5NA?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-05T08:00:00Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Tien cède sa place au Six Kings Slam à Sinner : événement saoudien qui concentre les stars Nike, avec un effet possible sur l'image de la marque et l'attention médiatique.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "bdfb4f34a487",
    "title": "Tennis de table. Nationale 1 masculine : Lautaro Sato, la recrue argentine qui enchante Vibraye",
    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTWJOQWlLdlhRdFAwT3p6aWp5akxfamQ0UEVFc3VXQmhaSWVTY291aDFDMUNtOUR6N2V5SzBQcXZtT0V5NzNHSlVkNnlYSWNoeldwNFZWQnBQSmVjZTVjU1M5OEdGVG9IWnNmSHRHSUpuY0IxcXdibnFScGlzd19ObllVVDdlVGJKalB1X3lQWE01TnYyUkYxQ3dZdmtVcVdHNndoVzdYRkIxOGdNV0luYWdKVW11UDVvYUI5WjhERGlrVUgyTXVZbTV3b0lHYy13WE1WN0xVUXZOQmVfeFlza3FNQXhLb0I2Rnl2dWREREd5dHBtcFlqWWtiR01nZG8yNWtEZG1SMWFZUQ?oc=5",
@@ -8162,6 +8393,29 @@
    "ai": {
     "r": 1,
     "impact": "Profil général de Sinner, sans fait nouveau identifiable ; contexte utile pour mesurer le poids de l'athlète dans l'image Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "2aacf43ed660",
+   "title": "Tout ce que vous avez toujours voulu savoir sur Jannik Sinner",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMFZubndaTTEtVHJPNUtZeTkwT0FXOGs2QnBtMU1VejFxOGgzc1NiOXI3Tm05bDFRZGhEUVhXLVdlZk40bTF6S3AtWHc3VURJQTkyYnpDLVpWQ0V0SEwwcmQ4eWZISmRDUFZmU1JGSHZPMVg5ZGJSWnROd1ZqdVM4eEVTam5NOXBtNEdEYzFCaHFFYTdPUm1JZGpKWmVIT3RPNkd1RGJwVVh6dElVZlkyYmR5V3hVU3B0UVhZU1dRdjFXSmlydUZHa1VzRkQteW1uWDBuS2ZLTQ?oc=5",
+   "source": "Tennis Majors",
+   "domain": "tennismajors.com",
+   "date": "2026-11-04T08:00:00Z",
+   "first_seen": "2026-11-26T10:54:45Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article de présentation sur Jannik Sinner, sans information nouvelle : contexte utile pour les discours en magasin sur la figure Nike.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    },
@@ -23798,5 +24052,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-26T00:26:51Z"
+ "ai_updated": "2026-11-26T11:00:09Z"
 }
