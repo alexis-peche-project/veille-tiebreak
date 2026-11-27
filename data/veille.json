@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:57:07Z",
+ "updated": "2026-11-27T22:42:31Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,99 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 6,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 439
+  "added_last_run": 11,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 423
  },
  "items": [
+  {
+   "id": "3b923b7bf7c2",
+   "title": "Beyond Fashion’s Bleak Sustainability Headlines",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV3VxbXJHZ0o3MGlXTmxPdkNsMmdPZDJBQXdXUnNXemw5NTZGWlF3dWlKYkJfLURsd25hZ0dZYU1sWkxUQmJlbVJna0ZXXzB6RDJ1b2FQVlNMMEh6V0QwTEZkSlc2YnF5WDlzZnZrWU9JRlExZ1NmcHBYRG9vYjZmWklVVnBYcEN2WGR0QTlYaF9iVVVXajNHb0FGTTF4RmhaTFNDaTJ3blVMZw?oc=5",
+   "source": "The Business of Fashion",
+   "domain": "businessoffashion.com",
+   "date": "2026-11-27T20:00:00Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike supply chain workers wages",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Article de fond sur les impasses de la durabilité dans la mode : contexte RSE utile, sans lien direct avec Nike ou le tennis dans le titre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7c4afea05613",
+   "title": "Nike décroche en Bourse : le titre a perdu les deux tiers de sa valeur en trois ans, les analystes de Berenberg et HSBC se prononcent",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQYUo0ZG9NX0Z5S3UyQm9JTDRSUjdLbzJSMVc5cW41YXB1SkRHdU5kRHNSTnRaTnNxa1BsS3FscjI3a3RCX1pHU2FBSjcxMEg5QVl0QzdwNy1YNnI5SHk0SjNuSWRTQmRaRjZyc0J0MHVmeWM4VVQ0dWw3QjdXV1d6clQ3MHdVWGp1ald0ZHQ3eThnMTVOQ1NCLV9qcGs5bDI3Qk9wVVZQNl9OOHlVM2tVbV9aQVFqTVhTbWJ6ZkFaS1FmUDFrTlVYeUIxd3FlLUROYVRkSVRLeXcySDFBb1VQaUprSTItWENMV2Rma2xsOGxNV3M2TE5zWlB2Tnd1LTBCYUNCTGdZemROMEYw?oc=5",
+   "source": "Le Figaro Bourse",
+   "domain": "bourse.lefigaro.fr",
+   "date": "2026-11-27T17:36:52Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Chute de deux tiers du cours en trois ans, avis d'analystes : pression possible sur la stratégie de distribution et les conditions accordées aux revendeurs.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7fb18c9124fe",
+   "title": "Fallait pas l'inviter : Nike",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaWFtZm03Q01pWEdEOEExVlQ1MkpZS0xibmNIeV9PMDl3a2ozay1mRndDOU43VDBjd0MzelR4OUhtT0NRRFZKUzVlTjR6SnM2QnBrNEpHMzlUSVVzV3pRZWxQV3ZNYUhGYUpfS3BsUnlmbUxSbDJya2FQZXlzV0V6WG5zSkc1MFZZaTMxdGc3UFU?oc=5",
+   "source": "Zonebourse",
+   "domain": "zonebourse.com",
+   "date": "2026-11-27T16:11:21Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike action bourse",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Titre au ton critique sur Nike en Bourse ; le contenu reste incertain à partir du seul titre, à vérifier avant toute conclusion sur le cours.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "1ee79f1d1069",
+   "title": "| Record Q3 sales, 10% share drop: What's wrong at URBN?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTJKLXpjU2ZSNnJEZ3BWUHhTSW16cUUxTkRsVEJJS1lLTFlWT0ZjUkxFcWwtVXVfSWhQSzQ1b3BPWkdwUnFqeFNoeS1sQkVBbm4tXzhXdm1fT0pzdDhNbnktMmNzU0tUYkptaVZ3SW9sRXg2X3NYYlRpMWZvOUNKa3VZVzlzWTRFTnoxUGtZckhueTRSLTRGZUtxeG1JUTZPVlVaaFFjWF9IVnd3YUFMMGhKWVA2eF9jcllaM0Z6Yw?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-27T11:49:52Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "T5",
+   "lang": "en",
+   "query": "Nike wholesale partners",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
   {
    "id": "cac21a3df107",
    "title": "What are tariffs, how do they work and why is Trump using them?",
@@ -103,6 +191,30 @@
     "r": 1,
     "impact": "Cession partielle envisagée d'un club de football par le PIF : illustration du sport power saoudien, sans lien direct avec le tennis ni Nike.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "44f61b3f9d57",
+   "title": "Nouveaux droits de douane américains : la Chine menace de prendre des « mesures nécessaires",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZnRVUngtdktEYjQ2ZjFJQlhHNWVpY2I4TEd3SkpSS2pqQWYxMGJYQk9IdUxsYkxjTDJtNVM0U0RyRTlpNVJ2d2xnVG9mY0lDVkRaZFVJSnppYlNpUHpDZzJyNUdMS3N6eEFUcWIzQmh6QjFHSG9ocnpLUlFhck56WThHckJBTWNFT3BfeUxKemlRVnF2U2xpOUZGZ3dWWHR2V0V1ZmFEUFM1VlN5SzBoU3ExUl9MMWNFS1ZoQ0xmQV8?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-11-26T08:32:23Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "droits de douane"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Escalade douanière Chine-États-Unis pouvant renchérir les coûts Nike et perturber les flux d'approvisionnement asiatiques, donc les prix et délais en France.",
+    "signal": "fort",
     "model": "claude-haiku-5-5"
    }
   },
@@ -347,6 +459,29 @@
    "axis_original": "E2"
   },
   {
+   "id": "e1efb9af37a9",
+   "title": "Nike frappe fort pour le Black Friday avec ces 3 paires à moins de 100 €",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRGg0WkZFUFoyNUt3THFfM21pTFpoZkxYQmpETDdQdXVYSzhCaHRIemp1bEhLVjJvN0VzRGJ1YlZQTEdrbGFCZWpmeGI3VTNOaXdnT0pVWmFFOExpVFBWUDA1ejJ3emNyelYwZ3VERjZjMWt1TFVOT3JmVHVVYkJOajJjTFFRZU91VHZEbnh1dmc2MDV4eUFyaXFVRjIyNlZHaElIaDE0Y2Y4SHM3aTNDb1JzVmJsUjIyYVp4Rkp6VWpkSWx0RS1kZFkwY1RSeVQyTllhYTMtTQ?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-25T18:22:00Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike polémique",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Remises Nike de Black Friday sous 100 € : pression sur les prix et les marges d'un revendeur indépendant face aux enseignes et au web.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
+  {
    "id": "3b0c44e63e24",
    "title": "ATP > L’aveu de Carlos Alcaraz : \"Je ne vais pas mentir, j’aurais probablement pu faire les choses un peu différemment\"",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWp6Z2VaWWlMdVh1OHU5OF9YckZpaFpPMkwyYTNITHBXZXAyRU1ZeXJFUGJHdTRJalVQa2cyWTl6cGJ2WThVeXU0QW1tMGpTdmxPUWl1cUxtb0stOHFhWlk1QVQydms2ZktrNjlaQ3lLQjZTbEJ3a0JuUWl1UXd0TW8wMlpDWElWRVBEM1F3M1pkczUtSmhJeDBtckgza2VOQVNWQzczYVEzRjNjNHc3Y0VZZHU3UENOTjZSMC04bGtaUzI0a3JFSGh0NDJ1WExYLUJRag?oc=5",
@@ -514,6 +649,31 @@
    "axis_original": "E2"
   },
   {
+   "id": "ed1046b55eff",
+   "title": "Donald Trump announces raft of new tariffs on major economies",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZHc3TDUxWVRLbmRUa1hzMWJseUNEMUQzOUtfajgxMVFlM2NoWDNyRlZYWUVfZEgwbWctWm5FakVubjdZT25mcUtzU3JfcjVQcVFDUXFtWEdISDJuSFdUZGQ3VG1wODYtZzFJT0NpZV8xLUxoMFlLbThuN3VZUGhrNTJXek0?oc=5",
+   "source": "Financial Times",
+   "domain": "ft.com",
+   "date": "2026-11-25T14:00:55Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Nouvelle vague de droits de douane américains sur les grandes économies : renchérissement possible des produits importés et tensions accrues sur les échanges transatlantiques.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "15a6412d094e",
    "title": "Tennis de table, danse… Les animations du Téléthon s’étoffent à Gavray-sur-Sienne",
    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZkRheXNOYV9JMHlfeWFVQjhmZXc3X3F2c2ptSDhoenFWV09VUW5BQ1hSTHVNVkJkcUliUzdoNTctOUo5cXB1dnBER1BRaVRWY2QzMy1mRi1mREt0TktzQXBnWWEyUDN0akpSV052cGVvSHYxUF9MVUJKZjZkeFlRVXkxV3dUMlJmNTRxRnBTT1BJd3REajM4ZXNUYTE2S3MxLV9rbEl3WGhiMzQxVkRjMWlEQW1EbkdEYVJYcllIcmw0Zk4xVXQyQVFUc2dZYS1kLWRLZ2xRcGlEd2VHTGpRdndIN0JNTnlucENId0pnWF96TUxmaXE2cUxEbExtRUFkVFcyNS1JdDU?oc=5",
@@ -578,6 +738,32 @@
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "8fd83fedc77b",
+   "title": "Trump targets China, EU in new round of tariffs",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5maU9qZ1VMR3l0TDI5UlgyQzBBLUF5a2UwYUUyQjFtZDY4QXdyTXg0cjNSajdVSThyS2xuSEIzMkZ4WEdRaHNTcjFnMjFYNXlmWEtvYjFYdWRjcWlUZUN2bXIweHlyaU0?oc=5",
+   "source": "CNN",
+   "domain": "cnn.com",
+   "date": "2026-11-25T13:14:55Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 3,
+    "impact": "Nouveau cycle de droits de douane visant la Chine et l'UE : hausse probable des coûts d'importation et risque de tensions sur les produits vendus en France.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E2"
   },
   {
    "id": "14522acd7ff6",
@@ -1679,6 +1865,28 @@
    "ai": {
     "r": 1,
     "impact": "Avis d'un ancien joueur sur la blessure de Sinner : contexte d'opinion, sans effet commercial direct pour Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "77b6c2f9828d",
+   "title": "À Pontorson, les effectifs du club de tennis augmentent grâce à l’arrivée d’un coach, le nouveau président s’en réjouit",
+   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOQVVGQ3N6ZTFhZHZFSU5NYUFjS3p1amZNUktfTDk4WUxMTU5oTHUwalhqcEJYNm9nMHljT2s0V1ZGeF9xel8xTXZQVUNwMV9tWDVUTGdmdVowTWpxYUhPcFRRSGxqU0lOMXpMZzJHN21Pbks5aHFNYURNak1IT2hIaHF4TVNOTjRYU0ZUZjRKTmRpZXFaQ0VXenFUblI2akpqaGdNbjhMc3FaUE9GU2F1dUVIQTZjVGJWZU00a1d2YnA0VzhHMHRvX0RqZzJCWGRWc2paNE5qbHR2VHllTTF1WkE5eVRRS1dNQmEwcDhNVGVNV2V5NUcwUEptYUJYaGQ0SS1VZkVGUVJUNDczQ2xCLXpNRVljdjVpZmY0RFRDbGdaUjRWd3BHb3g0alBBQQ?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-23T15:21:08Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Hausse des effectifs d'un club normand grâce à un nouveau coach : indice local du dynamisme des clubs, sans lien direct avec Nike.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -3391,6 +3599,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "32cb12cc5d90",
+   "title": "Tennis : Alexander Zverev, un numéro 1 mondial contesté sur son propre trône",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbTl5dVJOZXdjYUVuNmM2a05MbG0tUXNyUHJCM0tJUnhtdWdNZUVjOUhvLTNMMFVuRnAxNkhPVWNhb19YRWU3cFprUW1CQ2F1X0Y2ckNWbHN3UTZXRFhOTEtlUVNJbWF3WGlMNE01dUpCRVFCbGFpUTlacHAwSkg4bm85NzBZOTB6R1BrSFY1eEdfemxlUThpZHd3Tk5JQUt4V1RZUVl4b29PSzlEa0Z5d1dITTMtX2VkRm1NTUVpQlBaQmd1d2Z6TE83N2VVTTc3OW5WN2dYNDU5azdtbGsyNWxZd2s3aE5m?oc=5",
+   "source": "Radio France",
+   "domain": "radiofrance.fr",
+   "date": "2026-11-19T08:00:00Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Débat sur la hiérarchie de Zverev : utile pour Tie Break seulement si ce joueur porte Nike, information absente du titre.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "T5"
   },
   {
    "id": "52a8640b7bf8",
@@ -9328,6 +9559,28 @@
    "ai": {
     "r": 1,
     "impact": "Le partenariat universitaire américain de Nike illustre sa stratégie de sponsoring nord-américain, sans effet direct sur le magasin niçois.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "7feab87bbecc",
+   "title": "Tennis de table. Pro B : pour le Caen TTC, une série d’invincibilité entamée et à prolonger",
+   "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYjZHWVdDSHM3N3drb0tMWFlJVk8wMmJ3cUwta2kweUpHNXBaS2ZOR1hXRGlXS2JKR0wyWHJlYjRCYmxRUGRXV2FWRFg1Q0k4WW0wZ0dnNlhIakMzNGQyaWlIcVVfTlgxU1ZVVXoxaFdyRTJGYnJsNTg0cmhPVG5wQ0VoUG9HLVhVT3BJaDR5Y0E0aTZmUWFlQzNxWWhOWXg2bkpReTZlbkptVHpYdFhfVVpLMTVBWlhfUURjeFdXVkR1djFSLWlsMU03SG03dnNIY3ZEeVZ6NVBfMW40aVdGOUw3REptdjdKdWlIcUVYNGszZGtHUVpZRVFtUllvaHBhbXdDV1lNNzRqUzFYeVEw?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-03T08:00:00Z",
+   "first_seen": "2026-11-27T22:42:31Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -24516,5 +24769,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-27T14:01:39Z"
+ "ai_updated": "2026-11-27T22:47:40Z"
 }
