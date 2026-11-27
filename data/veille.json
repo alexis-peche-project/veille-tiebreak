@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T04:15:29Z",
+ "updated": "2026-11-27T13:57:07Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 5,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 446
+  "added_last_run": 6,
+  "feed_errors_last_run": 2,
+  "rejected_last_run": 439
  },
  "items": [
   {
@@ -102,6 +102,31 @@
    "ai": {
     "r": 1,
     "impact": "Cession partielle envisagée d'un club de football par le PIF : illustration du sport power saoudien, sans lien direct avec le tennis ni Nike.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "856279802670",
+   "title": "Trump's new tariffs aim to prise global trade from China's grip",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-26T07:03:00Z",
+   "first_seen": "2026-11-27T13:57:07Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Les nouveaux droits de douane américains visant la Chine pourraient réorganiser les flux d'approvisionnement textile et chaussures, avec un effet possible sur les prix Nike.",
     "signal": "faible",
     "model": "claude-haiku-5-5"
    }
@@ -340,6 +365,31 @@
     "r": 2,
     "impact": "Déclaration d'Alcaraz, joueur phare de Nike, sur ses choix de jeu ou de carrière : à suivre pour l'image des ambassadeurs de la marque.",
     "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "2fcfb555dbe0",
+   "title": "| US tariff probe: Can India strengthen its apparel export advantage?",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZWIwU3ZLOVB5YXBjYl8xXzRBSExOdjN3RFBQOVdGMFV3NlZIdkowQ29ZYnFYcjVQWmZ6Sy1GUWI5aVlOaXY0V2JjWnRaTWhfMjB1djJlQkpPZHJCb0J6UWtqZW96OGhMU2loTVg4NW96VFZLVTdpZjZlTFhZQi1hbWZLMzBhQkR3bTlEMEtrYzZOUEJDeWJwMEpsR1FVWkJPYzNNN254MlBHRFFfb3hQRGtlSWNLU1ZpTGVCVXJQMlpZblZXSmNBR1QxSEVWRVN2c2M4QmR1TVFhR3ljODZSczFmdGQ?oc=5",
+   "source": "Fibre2Fashion",
+   "domain": "fibre2fashion.com",
+   "date": "2026-11-25T18:03:06Z",
+   "first_seen": "2026-11-27T13:57:07Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Nike tariffs",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "tarif",
+    "tariff"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Enquête tarifaire américaine sur l'habillement indien : indice de tensions possibles sur les coûts du textile sourcé en Asie, impact direct limité pour Tie Break.",
+    "signal": "faible",
     "model": "claude-haiku-5-5"
    }
   },
@@ -1398,6 +1448,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "6ca8d586f142",
+   "title": "Perros-Guirec. Le Tennis-club municipal regarde l’avenir avec sérénité",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ3JWU2xoV0Jwc2RBS1RxY2JuRHVsWWFHZHlvZzRabWtDVkpGbm9DQUpVYk1FbHhYM0o1Y3pPSDVoRDdycXZzOWxVcndQTVRyaEdZcjV5bTQ4OE1ldHdITlRSVGhyWmVHOG50X1lmQW5iWEVocEVXaTBrc1VNbWUzSmt4RHY0WmUtSHVXdlFtbHlnWEQxU0ZuM1o3d3BmZmxzS29tNUQzUkFiMU9PUHY0dEE1SVcwdWtkci1ET1BOblhzSDVXWTVNT3BTalhiS29LbW5pYjdoRFN5cWxfMkhqWWlpa1M5alVOYUdCX0Z5QlJFeWNB?oc=5",
+   "source": "Ouest-France",
+   "domain": "ouest-france.fr",
+   "date": "2026-11-24T05:14:05Z",
+   "first_seen": "2026-11-27T13:57:07Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "marché du tennis France",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "3726024e7613",
@@ -6191,6 +6263,29 @@
    }
   },
   {
+   "id": "0b3bab48f6b8",
+   "title": "« Il y a des jours où je n’arrivais même pas à bouger » : éloigné des courts de tennis depuis juillet, Jannik Sinner se confie sur sa convalescence",
+   "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPa3lqNXVwUXpHbUJDUE5RV2NwdXZBcEdYams2Sks2cW9DZEstcW1PLVM0Ym5wYWZwMDBwTHZndXQwS2VRSWF6a29lZ1Q1OVpFc1cwTjMyQXF4V0ZxWU5OM1p6RmVrZXg0bmo5OE1OLWFjY0ttaTcwcU1rYTU0Rk94OUdoWjdaOEtwb3JWWDhxcWY1OVdmMzd6NzYwWFExdjBCRnFLMmI2X0FxaEcxeFdHZUkyYUQxdGdPcS1HbG9CRmwzUW5HTHIxZU5Ybld5RkhZcjBLQ1oyR1V1cHVWejAxS2hndnM2eEpyT3JDT3JxLWxYTkJ4dURmakV6R1pUbHl2dU1NQ3RXQ0laazdZYXVTMUZuSF9HSk80LVNUc0dlMlIteFl6eGFLQ2tWcjAxR0w1R0Flcmx1WUh4RHV3d1lya2l5MA?oc=5",
+   "source": "Le Parisien",
+   "domain": "leparisien.fr",
+   "date": "2026-11-12T08:00:00Z",
+   "first_seen": "2026-11-27T13:57:07Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Absence prolongée de Sinner depuis juillet réduit la visibilité de la marque Nike tennis pendant la période de commande des collections, avec un risque sur les ventes.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
    "id": "2ad913ba8f93",
    "title": "Burberry grimpe en Bourse, le T2 dépasse les attentes",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEM2UERvRGFmWF94cFl5MzFoQnlVWG9PdHZpQlI1ZUU0a2IwSmRMVEp5QjhJdjAwTWZIYVRDeENCN1l6NnFGc0VmNldNdnVKRk5JTTVEYmRNTHBFOXZiYmk2bkR4VzRIczhJSFR3QmR4bTFuTENyNGw0RlJGN3RGSUl0b2t6amh2OXlXek1sNC1zY3haWnp6ZTVFSVc2dTVFWjNxNWtqaDI1SjFCcFp2QXRiU09NQllaZ3lHVjA5X0RFY2M?oc=5",
@@ -7106,6 +7201,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "96db4a75d22b",
+   "title": "Tennis : Coco Gauff entame le Masters WTA avec une victoire",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUZaRzlhZWxkbmFacUt4RWtRb0JWRHBrT2d6WUJnUkRmWlE4ZEJOTmNNUHdUVy0ybDM3ZnoxX3VQMTJWeWZieEdNc3BYRUxkN0RZOVJFMnZvejZ5Z0kyU0dDLW04UkhxaS0wRVd1X2dtZW15a1NVVjNqbUlDS21EeFVjZ3JpX2dJUFFQb1JmbjNRT3VweWlUOVRhR0o4TTZDOEZmT2hjYjJHMm1WaF9V?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-09T08:00:00Z",
+   "first_seen": "2026-11-27T13:57:07Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Arabie saoudite tennis",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Victoire ponctuelle de Coco Gauff au Masters WTA : visibilité du tennis féminin, effet direct limité sur les ventes Tie Break.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "1ab2e6e4d72a",
@@ -9781,6 +9899,29 @@
     "signal": "fort",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "40eb86ae0e5e",
+   "title": "Carlos Alcaraz Stuns in Vienna and Opens the Door to a Surprise Return",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGhzX1NhXzhEUVVucTR6MkZHdDcySXZlV1owWEQ5WV9vZmgtY2VsMXV1Y3dkWHVmRnV1anBnSDZiMWN2dGxhMzFKYTZxbFpTeHdHQTdLQm8xVzh3ZV8zdm9rUXp2TGhpQlBHUEZqa0Q0NGFDZ0tvNGxyYWR2bkhna0g3MURKZDdxcXQ1b2dfWWI?oc=5",
+   "source": "TennisTemple",
+   "domain": "en.tennistemple.com",
+   "date": "2026-11-01T07:00:00Z",
+   "first_seen": "2026-11-27T13:57:07Z",
+   "axis": "T4",
+   "lang": "en",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Victoire d'Alcaraz à Vienne et retour possible annoncé : moment favorable à la visibilité Nike, à confirmer avant toute action commerciale.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "99275c0b6449",
@@ -24375,5 +24516,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-27T04:20:45Z"
+ "ai_updated": "2026-11-27T14:01:39Z"
 }
