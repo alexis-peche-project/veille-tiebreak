@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T21:31:54Z",
+ "updated": "2026-11-27T04:15:29Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 9,
-  "feed_errors_last_run": 2,
-  "rejected_last_run": 439
+  "added_last_run": 5,
+  "feed_errors_last_run": 3,
+  "rejected_last_run": 446
  },
  "items": [
   {
@@ -2252,6 +2252,28 @@
    }
   },
   {
+   "id": "bbaa8425c7bd",
+   "title": "Masters ATP : Alcaraz retrouve Zverev pour une explication finale",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpGRjFobmdSN2dYSjRoQXljdGVTb3A0ZS03a09FY3pINHljTHBCVHAzS2RQMkhKMkNnbVhmNl93VGdNUTJaLVp0RkxSZHVqTHZfWVFkdGg2aDNESzFLUm4tUDRnZDh2NDV5UHp2OVVLM1FBX3IyYzNiNDE0ZEd4NjVvdnYxSFJnVmRlSGtiaVlyM25uMmZCV1hCeFlVTERMRVV4RWU1aHZWSXdFQ3dNZmpyaDFubmc?oc=5",
+   "source": "France 24",
+   "domain": "france24.com",
+   "date": "2026-11-21T21:24:25Z",
+   "first_seen": "2026-11-27T04:15:29Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Finale Alcaraz-Zverev : visibilité de la marque Nike en fin de saison, effet sur les ventes en magasin à surveiller.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4d36fffc0677",
    "title": "[Podcasts] Désiré Doué gravement blessé ? / Alcaraz en finale des masters ! – 21/11",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0MzT2p2OVd2a1RwdGxlb18wRzBVbDVoT1M4Q0NlODd0MEE1TENPX1Nqb0pnR01Mb1pKWU1UZ0xfenl6YWhQZ2Q3RmFUWi1KQVVqQlVjTWJSaGR2YktuZURuYmRpWEF1Smotb21icF93bW9fdlZXY25wYmFfZk9CY3RESXhuamJLMWt0Vm5KTFN5LThVSzVwRnk2a2FNcWRaV2kwZFBtOE5XX2t3aW9HeGQtUkJyLTlQcmY0emt2VUc5R09yYkVOaUg2dVBuZWU0Sm9aMmJORklpZw?oc=5",
@@ -2615,6 +2637,31 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "2e81dc741711",
+   "title": "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUVVMURmUjNxMHVQNThNQkRiUElQbkhnNVJNdkdVejBqLVVIRU1hUl9DWDhpYlFVWUtFZlo5dGNOSnFqTFU5VE93bXdGY3NaOEVmSERoWlJNOWhQN25NN3E1bGF1MEprczBsWFlkOHBDTUVLM21CSFJydjFzUFFaM2ozQU8wSTdnSENadVQ2UTNmSWhOMFBHNE1ZaDB5MURkMFM0cHZuU1BySDl0ZlQ2aDBEUEdmNUE5MnNzTnl2T2VBaV9sWUQ2Zg?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-21T02:58:19Z",
+   "first_seen": "2026-11-27T04:15:29Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 6,
+   "signals": [
+    "houthi",
+    "strike"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Frappe houthie sur le siège du fonds PIF à Riyad : risque géopolitique accru pour le financement du tennis saoudien ; effet direct limité pour Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "72407e0d6957",
@@ -6122,6 +6169,28 @@
    }
   },
   {
+   "id": "c03f9439c2ec",
+   "title": "Il n'arrivait \"même pas à bouger\" et a \"perdu beaucoup de poids: les révélations de Sinner sur sa difficile convalescence",
+   "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbmVNSmVid2ZWbC1FTnUxSTVIeDRPWFdONjF1Z1VfTlh3cnhoOVdiekNXbmVUMzdNN3JpMGxBLUpudzRfUU5HUGsyVkFHVkZ0Zl9vSzVqSE9uRzdCZXJTRFBGOHFWNVQ2cThfWU9qM2lkNm9IMnJpWjBqbnpoZW8talNGQTJYc3RvYllyRDJ3aDNacktqcUZVRE1GNUcwYXVQelhQRExieWFycnF3Y0ZiNGVlTXdIcG5ZOWZZdEhOcmt0eGJ1d2kwWHdIQUh3NVBxQ1NqX1paYlZSSkNHelI0dF96Z3dZLTdWbzA3aWdnSG80UWtlVTZ6WFE1Yi1Od3B2TEVaT045M28tSTN5ZVE?oc=5",
+   "source": "RMC Sport",
+   "domain": "rmcsport.bfmtv.com",
+   "date": "2026-11-12T08:00:00Z",
+   "first_seen": "2026-11-27T04:15:29Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Sinner blessure",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 3,
+    "impact": "Convalescence difficile révélée par Sinner, figure Nike : calendrier incertain, possible baisse de visibilité et de ventes de textile en magasin.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "2ad913ba8f93",
    "title": "Burberry grimpe en Bourse, le T2 dépasse les attentes",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaEM2UERvRGFmWF94cFl5MzFoQnlVWG9PdHZpQlI1ZUU0a2IwSmRMVEp5QjhJdjAwTWZIYVRDeENCN1l6NnFGc0VmNldNdnVKRk5JTTVEYmRNTHBFOXZiYmk2bkR4VzRIczhJSFR3QmR4bTFuTENyNGw0RlJGN3RGSUl0b2t6amh2OXlXek1sNC1zY3haWnp6ZTVFSVc2dTVFWjNxNWtqaDI1SjFCcFp2QXRiU09NQllaZ3lHVjA5X0RFY2M?oc=5",
@@ -7013,6 +7082,28 @@
     "r": 2,
     "impact": "Le syndicat PTPA dénonce la fatigue des joueuses : tensions sur le calendrier WTA pouvant modifier l'exposition et les retraits de compétitions des athlètes.",
     "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "cbfa3a99b37b",
+   "title": "Lucid expands credit line from top investor by $1.75 billion amid turnaround",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaFc4ZzVMTm8tbFBRX1g0ekd3Y25BV184VC1KWkJYem9SUFcwMzgwdzNkbHgySzNzTDBMcDBfN2tDclN2R0VDQ3A5SmZPa1h6MXJfN0RjOVhaVnVpdVdaUXpHNXdRcjVmZUphaGFDdTlHZkRHSWE4LXBLb3pKR0FPM19GbjB0QlJ3U3JKYVZIRllldXlSZUh4eTBDX0lSNm9pYVFqNEtaVXoyTVlJRm56UVVMLUtUaVNrOEZUeVE5VkV3ZHAwczBLNkhHU0pRaHEw?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-09T08:00:00Z",
+   "first_seen": "2026-11-27T04:15:29Z",
+   "axis": "E3",
+   "lang": "en",
+   "query": "Saudi Arabia tennis PIF",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
   },
@@ -9510,6 +9601,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "859771fd48eb",
+   "title": "Carlos Alcaraz bluffe à Vienne et ouvre la porte à un retour surprise",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUWNLbFZKNGpDWlI3aWZYcEI1QS1OdGpCUEw2aUo3dllyaEUzQ2FGRUctZ0t6ZUlORFd5VzNyLUtrNVdGN1J1SEowNnBBSmxhNnUtaUE4WVM5YXdQUGxxaWJyeHl1a0tkNDNmUzhZc3laQlVHVXNnU3ZjdmVnREF6VGxPbEtqaW9Cb3ctTGUtZjcxZw?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-02T08:00:00Z",
+   "first_seen": "2026-11-27T04:15:29Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, joueur Nike, laisse planer un retour surprise : incertitude sur son calendrier et sur l'attention médiatique portée à la marque.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "fcaeabc9197e",
@@ -24261,5 +24375,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-26T21:37:22Z"
+ "ai_updated": "2026-11-27T04:20:45Z"
 }
