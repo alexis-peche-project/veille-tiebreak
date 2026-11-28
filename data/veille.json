@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:42:31Z",
+ "updated": "2026-11-28T07:48:54Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,9 +8,9 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 11,
-  "feed_errors_last_run": 3,
-  "rejected_last_run": 423
+  "added_last_run": 1,
+  "feed_errors_last_run": 0,
+  "rejected_last_run": 461
  },
  "items": [
   {
@@ -148,6 +148,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E1"
+  },
+  {
+   "id": "5ab934b951e2",
+   "title": "Mexico and Asia Gain Auto Share in Canada as US Trade War Takes a Toll",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFNvdEg3TThhSTFYaVZVZGh1aHJ5Tkg5SnQwRkFXV2NaS1lTNmY4RHlJM0NwVWo5bUc3U0dFT1JrazNDTTVQNkpxMl9WZ09JOTI5SWJmNUEyNG1IdjU0OFFKNGg0WFVBeEQtT3ZnaE1RaGlXQWlWendzTEIxOUVfajE0LVFRYmQtd2ttQy1oaWRYSHVNZnpQUmlFTC01c215aG10RGVMVnpXZkhvQkx2ZHkzaXJJQ3ht?oc=5",
+   "source": "Bloomberg.com",
+   "domain": "bloomberg.com",
+   "date": "2026-11-26T15:01:40Z",
+   "first_seen": "2026-11-28T07:48:54Z",
+   "axis": "E1",
+   "lang": "en",
+   "query": "EU US trade war tariffs apparel",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Le Canada se tourne vers le Mexique et l'Asie face aux droits de douane américains ; lien indirect avec Tie Break, sans impact direct sur Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "33f7c4857dfc",
@@ -24769,5 +24791,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-27T22:47:40Z"
+ "ai_updated": "2026-11-28T07:52:59Z"
 }
