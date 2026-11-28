@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T07:48:54Z",
+ "updated": "2026-11-28T16:53:18Z",
  "axes": {
   "E1": "Guerre commerciale et image americaine de Nike",
   "E2": "Chaine de valeur, RSE et normes europeennes",
@@ -8,11 +8,57 @@
   "T5": "Nike en bourse, distribution et marche du tennis"
  },
  "stats": {
-  "added_last_run": 1,
-  "feed_errors_last_run": 0,
-  "rejected_last_run": 461
+  "added_last_run": 7,
+  "feed_errors_last_run": 1,
+  "rejected_last_run": 434
  },
  "items": [
+  {
+   "id": "2c7eb2c66d4c",
+   "title": "Six Kings Slam : Learner Tien récupère finalement la place de Jannik Sinner",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeGV2RkFIX3dmMHFHVHNBNU5mY3ZFUERvX1FvZGFjSHd2LXFGWVh6dGYtYWpGcllfeTNhNVNRN2xYRS1HUHdCV0dzclU4SVJGdE1UTDJqaVZFSnJjSDMxYnBnVDBBQVFNRUNpdHJZSGZJSF9RbUp2ZnlfT2JIelg4anFueHJ0cjlCZmxSRVVmcFRPQQ?oc=5",
+   "source": "TennisTemple",
+   "domain": "fr.tennistemple.com",
+   "date": "2026-11-28T16:02:46Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Six Kings Slam",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Remplacement d'un joueur vedette dans une exhibition : effet commercial direct limité pour Tie Break, mais rappelle la dépendance aux performances des ambassadeurs.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
+  },
+  {
+   "id": "724bbb5d86b8",
+   "title": "Une folie signée Nike : Pendant le Black Friday ces 3 paires iconiques passent à moins de 80 €",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVHVGSzEya0lRWllNTENlR2p3U21hUTdQYzZjS3hLRGRhUm45LWZ2cjkzSVZfcktnTlNVeVpJVURyNkxGWFFxTm5XUVV3akozaV9XdjFPTmhzQUhzZDNMcUxldE9remEtNk5RdVMwZUFhTVh2TEluMlVWWDdLb1pNa2lVQWRiX3FjNzk1VnRVb05sZEsyTXJrRnJCaHF1OUs5bTRFTm5ZNnY4U1ZITTI2aG9wZ3N5X0RnMVZuVnZWeW1LLWVEcUtwdTRTUmJ3TjZveWQ3MlRBMHhTVXhWbDRqX2tXa01EU2hS?oc=5",
+   "source": "20 Minutes",
+   "domain": "20minutes.fr",
+   "date": "2026-11-28T06:42:00Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "T5",
+   "lang": "fr",
+   "query": "Nike boycott",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Des promotions Nike agressives pendant le Black Friday peuvent concurrencer les prix du magasin sur les paires iconiques et réduire les marges.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E1"
+  },
   {
    "id": "3b923b7bf7c2",
    "title": "Beyond Fashion’s Bleak Sustainability Headlines",
@@ -551,6 +597,30 @@
    }
   },
   {
+   "id": "8d1f2a98f442",
+   "title": "Droits de douane : Donald Trump double la mise",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZjItQ25CZ2Fqb0RraG03Zjg4QnNUZXRYZ2NEQkN3WkJXVkVOX2cxM3RsUl9ycFJMeFpjYzRycGJ0RzlmVkxGSlotS29uR1ZmM19Rak9rLW9QVjhnVnFSZTdlcldhTDhOQkhkNnZ2VU5lQzVlVTRHaFk2RDFZX0Mwa2xFajB4dmlPbjVyeWVsbzNGaFVXTEc4?oc=5",
+   "source": "Le Soir",
+   "domain": "lesoir.be",
+   "date": "2026-11-25T17:05:26Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "E1",
+   "lang": "fr",
+   "query": "guerre commerciale États-Unis Union européenne textile",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 4,
+   "signals": [
+    "droits de douane"
+   ],
+   "ai": {
+    "r": 2,
+    "impact": "Une nouvelle hausse des droits de douane américains peut peser sur les coûts et les prix Nike, avec un effet indirect sur les marges et le prix de vente de Tie Break.",
+    "signal": "fort",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "4aaed817b9c7",
    "title": "Saudi Arabia’s PIF seeks to sell 25% stake in Newcastle United",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSUtZV1lrVzRjMTNwc21YcDk3Z0s2ZjF0a2V5T0RLYUdyTXlkZ2JVeDgtLUo0VXhucmZRaW9xQS0xbl9NeEw4Tk1ieVlmNXNVT3pJcmxTeTlKcmpRTzdaMThfWmg1RFhJek8xaDNWLUZiNGVlbjVJc0tBbEZxcVQwUU1HdXo?oc=5",
@@ -1004,6 +1074,31 @@
    }
   },
   {
+   "id": "eb7449fcfdfb",
+   "title": "Alerte Rinderknech : il risque une sanction de 4 ans pour avoir refusé un contrôle anti-dopage",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQREg5bER3SFpxdmM4UGdIRGV4a1NwempYUDhJTVh4cFdiS1QyZzJiTGVXb3pxQmc0aGJ5eWlXaUhOZFFSeHJGSXpxdWo5UUlPT0FOVkxVem8yd2ViVGpRRmE4Y3l6LTE3azVmemE5OXZ0NDBOYWhGVHdjVzNjY1phSnFqQ25rbjRraFVOdHJsekFTdDhUZ0RXVDd5ZV95bXF5UG5TTjZwV0hIMWlSV3dLb29mc0FfSHZ1dGhsUWNNNGllb2szT3VyWA?oc=5",
+   "source": "Punto de Break",
+   "domain": "puntodebreak.com",
+   "date": "2026-11-25T08:12:00Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "E3",
+   "lang": "fr",
+   "query": "ITIA dopage tennis",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 5,
+   "signals": [
+    "sanction",
+    "dopage"
+   ],
+   "ai": {
+    "r": 1,
+    "impact": "Procédure antidopage visant un joueur français : impact limité pour Tie Break, sauf si ce joueur est sous contrat Nike, à vérifier.",
+    "signal": "faible",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
    "id": "e8f06845be5a",
    "title": "\"Je serai innocenté\": le démenti ferme de Rinderknech, sous la menace d'une suspension de quatre ans",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSVZNbmh4Y3A1WTZybGtJdU9uQlpQTHA1TmVTcDdnaVluX09ma3VxU1hYTEZLbWlYdFpDLUd2czhoYTNtSmFYMTZMNDBnNmU5clNYYUlOTzVnWFZyaGxxeUNMQ1dkeTh0ZlN0SVNCcEpTemlHdEtUVkJLY0NYaERLbmZ5V1NIeDNPRFZ4VlBLMnRoaG5UbmpFVE5iSTVqTzNWQXhhczRZQVVZNVhHWnRvS1ZUNC1ZM19BSU5pa3prYVBwTXRXb1M5d3MxNjhXVU12al9md0hMUWk5RmJWOHY2bms4MTZmUQ?oc=5",
@@ -1285,6 +1380,28 @@
     "model": "claude-haiku-5-5"
    },
    "axis_original": "E2"
+  },
+  {
+   "id": "e552df1b97f8",
+   "title": "Shein to pay $100 million to settle US shipping, customer service claims",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWhsZ000UTV1SjF3ak9ONXpxUy1JWUFjM2wtMWZTQ3dqOVhZNDBKRHFQVkFlYjZaVWRjWXFoSUY3Ry1JN1ozRk9TQTQ3R2ZFV2ZVQUx6MjF5endGeUptTU5OakRMNlVjb01qWi0ySHItb1dEUFJDc3kxNTJ0akJfbXBlSVZMdkdwb2p1b3BHWnh3aW5scllxRVg2M3BFSHc?oc=5",
+   "source": "Reuters",
+   "domain": "reuters.com",
+   "date": "2026-11-24T20:40:00Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "E2",
+   "lang": "en",
+   "query": "Xinjiang cotton brands",
+   "origin": "Google Actualités",
+   "reliability": "B",
+   "score": 2,
+   "signals": [],
+   "ai": {
+    "r": 1,
+    "impact": "Règlement d'un litige sur livraisons et service client dans le e-commerce asiatique : repère lointain sur les exigences de livraison et de service client.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
   },
   {
    "id": "7a2d6e8bbc50",
@@ -1909,6 +2026,28 @@
    "ai": {
     "r": 1,
     "impact": "Hausse des effectifs d'un club normand grâce à un nouveau coach : indice local du dynamisme des clubs, sans lien direct avec Nike.",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   }
+  },
+  {
+   "id": "803aea85b7b7",
+   "title": "« Alcaraz va devenir le plus grand joueur de l’his­toire du tennis. À son âge, il est plus complet que Federer, Nadal et Djokovic »",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSGVzMElQN1ZqRlRvNTFsT3FpQW5KeklvQnVhd0ZhamhmX3BsY1E3VDEwa19SOVAwVEVfczZBZzhBckJFNEtJM29XT0NfS3ZoZUJqRzRuY0YzTkVtWk1DN0t1c3NENkFVejAxaUpCa3NNdnFfQlJmUUlGd3lfcDEwWEZhRzVTaEZYOGJxeDMteWZxdlFYZFNkZjBtbkJMZ2ZCMUlzdTZSX0JPRmd5V1BWRTRxSzhCN3diaXp0Vk12UTVVbmZpTjdQVE5zcXVtdU1BaHpXQkVJcTdkS0tsaGFvZkdfZGFVek90Ync?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-23T14:56:45Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "Alcaraz blessure",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 2,
+    "impact": "Alcaraz, athlète Nike, est présenté comme référence absolue : argument de vente potentiel pour les modèles Nike, sans effet commercial mesurable à ce stade.",
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
@@ -9606,6 +9745,29 @@
     "signal": "aucun",
     "model": "claude-haiku-5-5"
    }
+  },
+  {
+   "id": "e15b48e3e7ad",
+   "title": "ATP > La réaction de Rafael Nadal sur la place de numéro 1 mondial d'Alexander Zverev",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmtEdDNSUDlmeGNmT2lyOHdKOEtuTC1uOG1ibGNfcmdSN0tvTkVhbW1QNHd5RzAwX1BZZUp3bjYyZWxobGdqLUtlOHphbkJPUTl4dUpvQTNmMGZRdGhJRmtTaE9ERUJtN1FpaVZoQTFxdm0xNDM3RzVQcE1QdmJ5NWFMeWhhbzRqTm1TdVNZVHhBX1hOSWEyUjBtclNqYWR4RGhOSmFaMmotQnlHNXc4?oc=5",
+   "source": "We Love Tennis",
+   "domain": "welovetennis.fr",
+   "date": "2026-11-03T08:00:00Z",
+   "first_seen": "2026-11-28T16:53:18Z",
+   "axis": "T4",
+   "lang": "fr",
+   "query": "PIF ATP WTA",
+   "origin": "Google Actualités",
+   "reliability": "C",
+   "score": 1,
+   "signals": [],
+   "ai": {
+    "r": 0,
+    "impact": "",
+    "signal": "aucun",
+    "model": "claude-haiku-5-5"
+   },
+   "axis_original": "E3"
   },
   {
    "id": "8a33d27b0f60",
@@ -24791,5 +24953,5 @@
    }
   }
  ],
- "ai_updated": "2026-11-28T07:52:59Z"
+ "ai_updated": "2026-11-28T16:57:38Z"
 }
